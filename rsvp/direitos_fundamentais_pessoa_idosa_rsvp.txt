@@ -223,7 +223,7 @@ Fornecimento: entrega gratuita de remédio e prótese
 Teste: é cuidado geral ou item entregue?
 [/resumo]
 [pausa 3s]
-[tom firme e sério]A banca limita a gratuidade a idosos em extrema vulnerabilidade, o que a lei não faz.[/tom]
+[tom firme e sério]A banca limita a gratuidade a idosos miseráveis; a lei não limita.[/tom]
 [resumo Macetes]
 💊 Remédio contínuo: grátis
 🦾 Prótese e órtese: grátis
@@ -687,7 +687,7 @@ Instituição de saúde: capacita e orienta
 Teste: há família apta a atender?
 [/resumo]
 [pausa 3s]
-[tom firme e sério]Quem não tem família ou carece de meios de sustento pode ser atendido em instituição.[/tom]
+[tom firme e sério]Sem família ou sem meios de sustento, cabe atendimento em instituição.[/tom]
 [tom firme e sério]A banca iguala a prioridade do asilo e da família.[/tom]
 [resumo Macetes]
 🏠 Casa vem primeiro
