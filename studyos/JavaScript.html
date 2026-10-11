@@ -17463,14 +17463,30 @@ function _tlConstruirModelo() {
         var disc = { nome: d, idx: indexFila, ativa: (indexFila === ponteiro), pesoRaw: item.peso_raw || 0,
                      volMeta: volumeMetaDisc, qtdBloco: item.qtd_bloco, temas: [] };
 
-        var ordemTemas = [];
-        if (arvore[d] && arvore[d].temas) {
+        // V104 — mesma fonte do motor e do mapa (obterMapaCicloV104): ordem DIDÁTICA,
+        // só subtemas do edital (as variantes do banco ficavam aqui e davam 1307 em vez
+        // de 1265), meta, gate e "concluído" iguais aos do ciclo, e o 📍 Atual de CADA
+        // disciplina. Antes a ordem era alfabética (.sort()) apesar do rótulo "ordem edital".
+        var MC = (window._mcV104 && window._mcV104.dados && window._mcV104.dados.disciplinas) ? window._mcV104.dados.disciplinas[d] : null;
+        var mcLinha = {};
+        var ordemTemas = [], subsPorTema = {};
+        if (MC && MC.subtemas && MC.subtemas.length) {
+            MC.subtemas.forEach(function (r, i) {
+                if (!subsPorTema[r[0]]) { subsPorTema[r[0]] = []; ordemTemas.push(r[0]); }
+                subsPorTema[r[0]].push(r[1]);
+                mcLinha[r[0] + '||' + r[1]] = { r: r, i: i };
+            });
+            var _Dm = window._mcV104.dados, _pc = (_Dm.sequencia || [])[(_Dm.ponteiro || {}).peca_idx || 0];
+            disc.ativa = !!(_pc && _pc.disciplina === d);   // disciplina da peça atual da fila
+        } else if (arvore[d] && arvore[d].temas) {
             ordemTemas = Object.keys(arvore[d].temas).sort(function (a, b) { return a.localeCompare(b, undefined, { numeric: true }); });
         }
 
         ordemTemas.forEach(function (tema) {
             var ordemSubtemas = [];
-            if (arvore[d] && arvore[d].temas[tema] && arvore[d].temas[tema].subtemas) {
+            if (subsPorTema[tema]) {
+                ordemSubtemas = subsPorTema[tema];
+            } else if (arvore[d] && arvore[d].temas[tema] && arvore[d].temas[tema].subtemas) {
                 ordemSubtemas = Object.keys(arvore[d].temas[tema].subtemas).filter(function (s) {
                     var obj = arvore[d].temas[tema].subtemas[s];
                     return obj && obj.importancia !== 'EXCLUIR';
@@ -17481,8 +17497,10 @@ function _tlConstruirModelo() {
             var T = { nome: tema, linhas: [], somaPct: 0, somaMeta: 0, somaFatia: 0, somaFeitas: 0 };
 
             ordemSubtemas.forEach(function (sub) {
-                var objSub = arvore[d].temas[tema].subtemas[sub];
-                var dbCount = (typeof objSub === 'number') ? objSub : (objSub.qtd || 0);
+                var objSub = (arvore[d] && arvore[d].temas && arvore[d].temas[tema] && arvore[d].temas[tema].subtemas)
+                    ? arvore[d].temas[tema].subtemas[sub] : null;
+                var dbCount = !objSub ? 0 : ((typeof objSub === 'number') ? objSub : (objSub.qtd || 0));
+                var ML = mcLinha[tema + '||' + sub] || null;
 
                 var resp = 0, acertos = 0;
                 if (userStats[d] && userStats[d][tema] && userStats[d][tema][sub]) {
@@ -17510,7 +17528,13 @@ function _tlConstruirModelo() {
                 var concluido = gateAprovado && metaAtingida;
 
                 var status = 'PENDENTE';
-                if (concluido) status = 'CONCLUIDO';
+                if (ML) {   // V104 — valores do motor
+                    var R = ML.r;
+                    imp = R[2]; metaQtd = R[3]; resp = R[4]; acertos = R[5]; taxa = R[6]; gateMin = R[7]; dbCount = R[10];
+                    gateAprovado = !!R[8]; concluido = !!R[9];
+                    if (concluido) status = 'CONCLUIDO';
+                    else if (ML.i === MC.pos) status = 'ATUAL';
+                } else if (concluido) status = 'CONCLUIDO';
                 else if (disc.ativa && !pinoColocado) { status = 'ATUAL'; pinoColocado = true; }
 
                 var blocoShow = fatiaBloco < 1 ? Math.round(fatiaBloco * 10) / 10 : Math.round(fatiaBloco);
@@ -17518,7 +17542,7 @@ function _tlConstruirModelo() {
                                         : (dbCount > 0 ? Math.min(100, Math.round((resp / dbCount) * 100)) : 0);
 
                 T.linhas.push({
-                    disc: d, tema: tema, sub: sub, status: status, gate: gateMin, gateOk: (taxa >= gateMin),
+                    disc: d, tema: tema, sub: sub, status: status, gate: gateMin, gateOk: ML ? gateAprovado : (taxa >= gateMin),
                     peso: Math.round(pesoEdital * 10) / 10, meta: metaQtd, bloco: blocoShow, blocoRaw: fatiaBloco,
                     bnc: dbCount, feitas: resp, acr: acertos, taxa: taxa, wProg: wProg
                 });
@@ -17684,6 +17708,8 @@ function _tlRenderCorpo() {
 
             var linhasHtml = '';
             vis.forEach(function (r) {
+                if (!tot._tm) tot._tm = {};
+                if (!tot._tm[r.disc + '||' + r.tema]) { tot._tm[r.disc + '||' + r.tema] = 1; tot.temas = (tot.temas || 0) + 1; }
                 tot.n++; tot.peso += r.peso; tot.meta += r.meta; tot.bloco += r.blocoRaw; tot.bnc += r.bnc;
                 tot.feitas += r.feitas; tot.acr += r.acr;
                 if (r.status === 'CONCLUIDO') tot.conc++; else if (r.status === 'ATUAL') tot.atual++; else tot.pend++;
@@ -17770,7 +17796,8 @@ function _tlRenderCorpo() {
     function set(id, v) { var e = document.getElementById(id); if (e) e.textContent = v; }
     var taxaTot = tot.feitas > 0 ? Math.round((tot.acr / tot.feitas) * 100) + '%' : '-';
     set('tl-t-n', 'Σ ' + (filtrando ? 'Filtrado' : 'Total') + ' · ' + tot.n + ' subtema' + (tot.n === 1 ? '' : 's'));
-    set('tl-t-peso', tot.peso.toFixed(1) + '%');
+    // V104 — o peso % é relativo ao tema (cada tema soma 100%); somar temas dava 14200%.
+    set('tl-t-peso', (tot.temas === 1 ? tot.peso.toFixed(1) + '%' : '—'));
     set('tl-t-meta', tot.meta.toLocaleString('pt-BR'));
     set('tl-t-bloco', tot.bloco.toFixed(1) + 'q');
     set('tl-t-bnc', tot.bnc.toLocaleString('pt-BR'));
@@ -17803,6 +17830,22 @@ function renderizarTimelineCiclo(expandirTudo = false) {
     if (!window._editalFront && !window._edFrontTentou) {   // V99 — precisa do espelho canônico; recarrega a tela quando chegar
         window._edFrontTentou = true;
         try { _carregarTemasEdital(function () { if (window._editalFront) renderizarTimelineCiclo(expandirTudo); }); } catch (eEd) {}
+    }
+
+    // V104 — a tabela usa os dados do motor (ordem didática, metas, gate, posição).
+    if (!(window._mcV104 && window._mcV104.dados) && !window._tlBuscandoMotor) {
+        window._tlBuscandoMotor = true;
+        google.script.run
+            .withSuccessHandler(function (res) {
+                window._tlBuscandoMotor = false;
+                if (res && res.sucesso !== false && !res.vazio) {
+                    window._mcV104 = window._mcV104 || {};
+                    window._mcV104.dados = res; window._mcV104.proj = null;
+                    renderizarTimelineCiclo(expandirTudo);
+                }
+            })
+            .withFailureHandler(function () { window._tlBuscandoMotor = false; })
+            .obterMapaCicloV104();
     }
 
     // Os botões "Expandir Tudo" / "Recolher Tudo" chamam esta função com true/false.
