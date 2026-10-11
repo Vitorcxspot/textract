@@ -16988,9 +16988,10 @@ function _mcProjetar(D) {
 
   // volta atual: peças anteriores ao ponteiro (passado)
   var vAtual = { n: volta, itens: [] };
+  var diaDoPonteiro = seq[idx] ? seq[idx].dia : null;
   for (var k = 0; k < idx && k < seq.length; k++) {
     var pc0 = seq[k], h0 = hist[k] || null;
-    vAtual.itens.push({ tipo: 'peca', pc: pc0, passado: true, hist: h0,
+    vAtual.itens.push({ tipo: 'peca', pc: pc0, passado: true, hist: h0, data: pc0.dia === diaDoPonteiro ? dataDoOffset(0) : null,
       status: h0 ? (h0.status === 'feita' || h0.status === 'avulsas' || h0.status === 'cumprida_por_avulsas' ? 'feita'
                     : h0.status === 'aguardando_questoes' ? 'aguardando'
                     : h0.status === 'disciplina_concluida' ? 'livre' : 'nao_exec') : 'nao_exec' });
@@ -17165,7 +17166,8 @@ function _mcRender() {
         fechaDia();
         diaAtual = dia;
         var dt = it.data ? ' · ' + _mcData(it.data) : '';
-        blocoDia = '<div class="mc-dia"><div class="mc-dia-cab">Dia ' + ((dia || 0) + 1) + '/' + diasPorVolta + dt + '</div><div class="mc-dia-corpo">';
+        blocoDia = '<div class="mc-dia"><div class="mc-dia-cab" title="A data é só previsão: o ciclo anda quando você conclui as peças, não pelo calendário.">Etapa ' +
+          ((dia || 0) + 1) + '/' + diasPorVolta + (dt ? ' · prev.' + dt.slice(2) : '') + '</div><div class="mc-dia-corpo">';
       }
       if (it.tipo === 'revisao') {
         revMostradas++;
@@ -17180,16 +17182,22 @@ function _mcRender() {
       var err = Math.max(0, feitas - ac), tx = feitas ? Math.round(ac / feitas * 100) : null;
       var segsHtml = '';
       var segs = it.segs || ((it.hist && it.hist.subtemas) || []).map(function (x) { return { tema: x.t, subtema: x.s, q: x.n, imp: '' }; });
-      segs.forEach(function (sg) {
+      var MC_SEGS_VISIVEIS = 4;
+      segs.forEach(function (sg, si) {
+        if (si === MC_SEGS_VISIVEIS && segs.length > MC_SEGS_VISIVEIS + 1) {
+          segsHtml += '<li class="mc-seg-mais"><details><summary>+ ' + (segs.length - MC_SEGS_VISIVEIS) + ' subtemas nesta peça</summary><ul class="mc-segs">';
+        }
         segsHtml += '<li><span class="mc-seg-sub">' + (sg.ordem ? '<span class="mc-ord">' + sg.ordem + '/' + sg.total + '</span> ' : '') + _mcEsc(sg.subtema) +
           (sg.reforco ? ' <span class="mc-tag">reforço do gate</span>' : '') + '</span>' +
           '<span class="mc-seg-meta">' + (sg.imp ? '<span class="mc-imp mc-imp--' + _mcEsc(String(sg.imp).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()) + '">' + _mcEsc(MC_IMP_ROTULO[sg.imp] || sg.imp) + '</span>' : '') +
           (sg.q ? sg.q + 'q' : '') +
           '</span><div class="mc-seg-tema">' + _mcEsc(sg.tema) +
           (sg.falta > 0 ? ' · <span class="mc-falta" title="Questões no banco hoje: ' + sg.banco + '">banco: faltam ' + sg.falta + '</span>' : '') + '</div></li>';
+        if (si === segs.length - 1 && segs.length > MC_SEGS_VISIVEIS + 1) segsHtml += '</ul></details></li>';
       });
       if (!segs.length) segsHtml = '<li class="mc-seg-vazio">' + (st === 'livre' ? 'Todos os subtemas desta disciplina concluídos — a peça fica livre.' :
-                                     st === 'aguardando' ? 'Subtema atual sem questões no banco: peça pulada.' : 'Sem registro de subtemas.') + '</li>';
+                                     st === 'aguardando' ? 'Subtema atual sem questões no banco: peça pulada.' :
+                                     st === 'nao_exec' ? 'Peça pulada nesta volta (nenhuma questão respondida).' : 'Sem registro de subtemas.') + '</li>';
       blocoDia += '<div class="mc-card mc-card--' + st + '">' +
         '<div class="mc-card-cab"><span class="mc-card-disc">' + _mcEsc(pc.disciplina) + '</span>' +
         '<span class="mc-card-st">' + ROT[st] + '</span></div>' +
@@ -17202,7 +17210,7 @@ function _mcRender() {
     fechaDia();
     if (!corpo) return;
     h += '<section class="mc-volta"><div class="mc-volta-cab">Volta ' + String(v.n).padStart(2, '0') +
-         (v.n === (D.ponteiro.volta || 1) ? ' <span class="mc-tag">atual</span>' : '') + '</div>' + corpo + '</section>';
+         (v.n === (D.ponteiro.volta || 1) ? ' <span class="mc-tag">atual</span>' : '') + '</div><div class="mc-dias">' + corpo + '</div></section>';
   });
   if (!mostrados && !revMostradas) h += '<div class="mc-vazio">Nada nesta página com os filtros atuais.</div>';
   container.innerHTML = h;

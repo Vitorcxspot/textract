@@ -10234,14 +10234,11 @@ function _lerPonteiroV104(config, seq) {
   var hash = _hashSequenciaV104(seq);
   var valido = typeof p.peca_idx === 'number' && p.peca_idx >= 0 && p.peca_idx < seq.length && p.seq_hash === hash;
   if (!valido) {
-    var alvo = p.disciplina;
-    if (!alvo && config && config.fila && config.fila.length) {
-      var f0 = config.fila[config.ponteiro_fila || 0] || config.fila[0];
-      alvo = f0 ? f0.disciplina : null;
-    }
-    var i = -1;
-    for (var k = 0; k < seq.length; k++) { if (seq[k].disciplina === alvo) { i = k; break; } }
-    p.peca_idx = i >= 0 ? i : 0;
+    // Fila nova (ciclo gerado/regerado ou 1ª execução da V104): começa na 1ª peça.
+    // Antes apontava para a disciplina do ponteiro antigo, e as peças anteriores a
+    // ela apareciam no mapa como "Não executada" sem nunca terem sido puladas.
+    // Nada se perde: a posição de cada disciplina vem do histórico de respostas.
+    p.peca_idx = 0;
     p.peca_feitas = 0;
     p.seq_hash = hash;
     p.historico_pecas = {};

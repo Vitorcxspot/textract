@@ -13852,9 +13852,10 @@ body::before {
 .mc-cont{font-size:11px;color:var(--text-3);width:100%;text-align:right}
 .mc-volta{display:flex;flex-direction:column;gap:10px}
 .mc-volta-cab{font-size:15px;font-weight:800;color:var(--text);letter-spacing:-.2px}
-.mc-dia{border-left:2px solid var(--border);padding-left:12px}
+.mc-dias{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;align-items:start}
+.mc-dia{border-left:2px solid var(--border);padding-left:10px;min-width:0}
 .mc-dia-cab{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--text-3);margin-bottom:6px}
-.mc-dia-corpo{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:8px}
+.mc-dia-corpo{display:flex;flex-direction:column;gap:8px}
 .mc-card{position:relative;background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--border);border-radius:9px;
   padding:9px 11px 11px;overflow:hidden;display:flex;flex-direction:column;gap:6px}
 .mc-card--hoje{border-left-color:var(--accent);background:#f5faff}
@@ -13875,6 +13876,9 @@ body::before {
 .mc-seg-meta{font-family:var(--mono);font-size:10.5px;color:var(--text-2);white-space:nowrap;text-align:right}
 .mc-seg-tema{grid-column:1/-1;font-size:10.5px;color:var(--text-3)}
 .mc-seg-vazio{font-size:11px;color:var(--text-3)}
+.mc-seg-mais{display:block!important}
+.mc-seg-mais>details>summary{cursor:pointer;font-size:11px;font-weight:700;color:var(--accent);list-style:none}
+.mc-seg-mais>details>ul{margin-top:5px}
 .mc-ord{font-family:var(--mono);font-size:10px;color:var(--text-3);font-weight:700}
 .mc-imp{display:inline-block;font-family:inherit;font-size:9px;font-weight:800;border-radius:4px;padding:0 4px;margin-right:4px;background:var(--border-light);color:var(--text-2)}
 .mc-imp--critico{background:var(--red-bg);color:var(--red)}
@@ -13887,13 +13891,13 @@ body::before {
 .mc-card-num span:not(.mc-ok):not(.mc-falta) b{color:var(--text)}
 .mc-card-barra{position:absolute;left:0;bottom:0;height:2px;background:var(--accent)}
 .mc-card--feita .mc-card-barra{background:var(--green)}
-.mc-rev{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:11.5px;color:var(--text-2);
+.mc-rev{display:flex;flex-wrap:wrap;align-items:center;gap:6px;font-size:11px;color:var(--text-2);
   border:1px dashed rgba(124,58,237,.45);background:rgba(124,58,237,.04);border-radius:9px;padding:7px 10px}
 .mc-rev-tag{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#7c3aed}
 @media (max-width:768px){
   .mc-in[type=search]{width:100%;max-width:none}
   .mc-in{flex:1 1 140px;max-width:none}
   .mc-pag{margin-left:0}
-  .mc-dia-corpo{grid-template-columns:1fr}
+  .mc-dias{grid-template-columns:1fr}
 }
 </style>

@@ -12756,7 +12756,37 @@ const ORDEM_DIDATICA = {
     }
   },
   "Direito Administrativo": {
-    temas: ["02", "03", "06", "07", "08", "09", "10", "11", "01", "15", "16", "18", "17", "19", "21", "24", "26", "27"]
+    temas: ["02", "03", "06", "07", "08", "09", "10", "11", "01", "15", "16", "18", "17", "19", "21", "24", "26", "27"],
+    subtemas: {
+      "02": ["Conceito de Estado e seus Elementos", "Estado e Nação", "Conceito de Povo e População", "Soberania Interna e Externa",
+             "Funções Estatais", "Funções do Estado e Tripartição de Poderes", "Poderes do Estado e Funções", "Conceito de Governo",
+             "Administração Pública e Governo", "Administração Pública", "Sentidos da Administração Pública (Formal vs Material)",
+             "Administração Pública em Sentido Amplo e Estrito", "Administração Pública em Sentido Objetivo", "Direito Administrativo",
+             "Conceito e Natureza Jurídica", "Codificação e Autonomia", "Critérios de Definição do Direito Administrativo",
+             "Escola do Serviço Público", "Critério da Excludência (Residual)", "Sistemas Administrativos",
+             "Fontes do Direito Administrativo", "Doutrina como Fonte", "Costumes como Fonte",
+             "Princípios Gerais do Direito como Fonte", "Súmulas Vinculantes como Fonte", "Regime Jurídico Administrativo",
+             "Princípios Administrativos", "Princípios da Administração Pública"],
+      "03": ["Princípios Administrativos", "Classificação Princípios", "Regime Jurídico Administrativo",
+             "Princípios da Administração Pública", "Legalidade", "Princípio da Impessoalidade", "Princípio da Moralidade",
+             "Publicidade", "Princípio da Eficiência", "Publicidade e Promoção Pessoal", "Nepotismo",
+             "Princípio da Segurança Jurídica", "Princípio da Autotutela", "Motivação", "Contraditório", "Republicano"],
+      "06": ["Entidades Paraestatais", "Terceiro Setor", "Serviços Sociais Autônomos", "Terceiro Setor - Sistema S",
+             "Organizações Sociais (OS)", "Terceiro Setor - Organizações Sociais", "Conselho de Administração das OS",
+             "Desqualificação de OS", "OSCIP", "Terceiro Setor - OSCIP", "Remuneração nas OSCIPs",
+             "Marco Regulatório (Lei 13.019/14)", "Chamamento Público", "MROSC - Acordo de Cooperação", "Fundações de Apoio",
+             "Poder de Polícia no Terceiro Setor", "Administração Indireta", "Agências Reguladoras"],
+      "07": ["Poderes e deveres do administrador público", "Poderes Administrativos", "Poder Vinculado vs Discricionário",
+             "Poder Hierárquico", "Poder Hierárquico - Ordens", "Poder Hierárquico - Supervisão", "Poder Hierárquico - Delegação",
+             "Poder Hierárquico - Avocação", "Poder Disciplinar", "Poder Disciplinar - Relação com Hierárquico",
+             "Poder Disciplinar - Discrecionariedade", "Poder Disciplinar - Devido Processo", "Poder Regulamentar",
+             "Poder Regulamentar - Limites", "Poder de Polícia", "Poder de Polícia - Conceito", "Poder de Polícia vs Judiciária",
+             "Poder de Polícia - Prescritivo vs Concreto", "Ciclo do Poder de Polícia", "Atributos do Poder de Polícia",
+             "Atributos - Autoexecutoriedade", "Poder de Polícia - Coercibilidade", "Poder de Polícia - Limites",
+             "Poder de Polícia - Sanção", "Poder de Polícia e Delegação", "Poder de Polícia - Delegação a Particulares",
+             "Poder de Polícia - Taxas", "Poder de Polícia - Prescrição", "Abuso de Poder", "Abuso de Poder: Excesso de Poder",
+             "Abuso de Poder: Desvio de Finalidade", "Abuso de Poder - Omissão"]
+    }
   },
   "Direito Penal": {
     temas: ["01", "02", "34", "03", "04", "05", "06", "09", "10", "11", "32", "12"],
