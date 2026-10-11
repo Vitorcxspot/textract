@@ -11635,7 +11635,37 @@ function foiLido(disc,tema){
 
 
 
-async function iniciarWizard(disc, tema) {
+/* V104 — AULA LIGADA AO SUBTEMA. A aula sempre abria no tópico 1 (ou num índice
+   herdado), mesmo quando o bloco do ciclo era de um subtema do meio do tema.
+   Agora, sabendo o subtema, abre no tópico correspondente: primeiro pelo título
+   (o título dos tópicos traz o nome do subtema); sem isso, pela maior
+   sobreposição de termos do título (mínimo 50%). Sem correspondência: tópico 1. */
+function _wizNormV104(s) {
+  return String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+    .replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+}
+var _WIZ_STOP_V104 = { de: 1, da: 1, do: 1, das: 1, dos: 1, e: 1, a: 1, o: 1, as: 1, os: 1, em: 1, no: 1, na: 1, nos: 1, nas: 1,
+  com: 1, por: 1, para: 1, etc: 1, lei: 1, art: 1, arts: 1, entre: 1, sobre: 1 };
+function _wizIndiceDoSubtemaV104(topicos, subtema) {
+  if (!subtema || !Array.isArray(topicos) || !topicos.length) return -1;
+  var alvo = _wizNormV104(subtema);
+  if (!alvo || alvo === 'geral') return -1;
+  var toks = alvo.split(' ').filter(function (w) { return w.length >= 4 && !_WIZ_STOP_V104[w]; });
+  var melhor = -1, nota = 0;
+  topicos.forEach(function (t, i) {
+    var tit = _wizNormV104((t.titulo || '') + ' ' + (t.subtitulo || ''));
+    var n = 0;
+    if (tit.indexOf(alvo) >= 0) n = 1000;
+    else if (toks.length) {
+      var set = {}; tit.split(' ').forEach(function (w) { set[w] = 1; });
+      n = toks.filter(function (w) { return set[w]; }).length / toks.length * 100;
+    }
+    if (n > nota) { nota = n; melhor = i; }
+  });
+  return nota >= 50 ? melhor : -1;
+}
+
+async function iniciarWizard(disc, tema, subtemaAlvo) {
   console.log(`%c[WIZ-INIT] ▶ iniciarWizard("${disc}", "${tema}")`, 'color:#facc15;font-weight:bold');
   debugLog(`[WIZ-INIT] iniciarWizard("${disc}", "${tema}")`, 'info');
   if (telaAtual !== 'wizard') {
@@ -11789,6 +11819,19 @@ async function iniciarWizard(disc, tema) {
 
   console.log(`%c[WIZ-INIT] ✅ ${wizTopicos.length} tópicos prontos`, 'color:#4ade80;font-weight:bold');
   debugLog(`[WIZ-INIT] ✅ ${wizTopicos.length} tópicos prontos`, 'success');
+
+  // V104 — posiciona no tópico do subtema (parâmetro, questão em tela ou bloco do ciclo).
+  try {
+    var _qWiz = (typeof questoesAtuais !== 'undefined' && questoesAtuais && questoesAtuais[questaoIndex]) ? questoesAtuais[questaoIndex] : null;
+    var _subWiz = subtemaAlvo ||
+      (_qWiz && _qWiz.disciplina === disc && _qWiz.tema === tema ? _qWiz.subtema : null) ||
+      (typeof dadosCiclo !== 'undefined' && dadosCiclo && dadosCiclo.disciplina === disc && dadosCiclo.tema === tema ? dadosCiclo.subtema : null);
+    var _idxWiz = _wizIndiceDoSubtemaV104(wizTopicos, _subWiz);
+    if (_idxWiz >= 0) {
+      wizIndex = _idxWiz;
+      debugLog('[WIZ-INIT] tópico do subtema "' + _subWiz + '" → ' + (_idxWiz + 1) + '/' + wizTopicos.length, 'info');
+    }
+  } catch (eWiz) { console.warn('[WIZ-INIT] posição por subtema:', eWiz); }
 
   mostrarTela('wizard');
   renderWizTopico();
@@ -12851,6 +12894,11 @@ function responder(letra) {
   };
   console.log('%c[RESPONDER] ⏱ Tempo de resposta: ' + tSeg + 's | subtema: ' + dadosTempo.subtema, 'color:#818cf8');
 
+  // V104 — marca se a questão JÁ tinha resposta antes desta (revisão) — lido no
+  // registrarFimBloco. Precisa ser medido ANTES de sobrescrever o estado: o
+  // auto-save grava a resposta na hora e, no fim do bloco, tudo parecia revisão.
+  dadosTempo.era_revisao = !!(estadoUsuario.respostas && estadoUsuario.respostas[_qid]);
+
   // ── Registra no estadoUsuario ─────────────────────────────────────────────
   estadoUsuario.respostas[_qid] = { resposta_usuario: letra, correta: correta };
   questoesRespondidasNaSessao.add(_qid);
@@ -12894,7 +12942,9 @@ function responder(letra) {
       acertosConsecutivos++;
       // V86 - usa a tabela configurada no motor didatico quando ela existe; sem
       // configuracao, mantem exatamente os intervalos que ja vigoravam aqui.
-      const _tabelaSrs = _motorFrontLista('srs_intervalos', [3, 7, 21, 60]);
+      // V104 — mesmo padrão do servidor (_motorCfg): [1,3,7,14,30]. O fallback
+      // daqui era [3,7,21,60] e o 1º acerto pulava a revisão de 1 dia.
+      const _tabelaSrs = _motorFrontLista('srs_intervalos', [1, 3, 7, 14, 30]);
       const _idxSrs = Math.min(Math.max(acertosConsecutivos - 1, 0), _tabelaSrs.length - 1);
       let dias = _tabelaSrs[_idxSrs];
 
@@ -12918,12 +12968,13 @@ function responder(letra) {
       );
     } else {
       const amanha = new Date();
-      amanha.setDate(amanha.getDate() + 1);
+      amanha.setDate(amanha.getDate() + (_motorFrontLista('srs_intervalos', [1, 3, 7, 14, 30])[0] || 1));
       dadosTempo.proxima_revisao       = amanha.toISOString().split('T')[0];
       dadosTempo.acertos_consecutivos  = 0;
       console.log('%c[RESPONDER] 🗓 Erro → revisão amanhã: ' + dadosTempo.proxima_revisao, 'color:#f87171');
     }
 
+    dadosTempo.respondida_em = new Date().toISOString().split('T')[0];   // V104 — janela de recência do gate
     estadoUsuario.tempo_por_questao[_qid] = dadosTempo;
 
     resSpacedRepetition = {
@@ -15819,7 +15870,7 @@ function _pdClicarTopicos() {
     const t = (questoesAtuais[questaoIndex] && questoesAtuais[questaoIndex].tema) || wizTema || temaSelecionado;
     if (d && t) {
       wizVoltarParaQuestoes = true;
-      iniciarWizard(d, t);
+      iniciarWizard(d, t, (questoesAtuais[questaoIndex] && questoesAtuais[questaoIndex].subtema) || null);   // V104 — abre no tópico do subtema
     } else {
       mostrarToast('Selecione uma aula primeiro', 'warning');
     }
@@ -16780,11 +16831,10 @@ function abrirPlanoMobile() {
                     renderizarMapaCiclo();
                     if (configCiclo.ajustes_ia) renderizarDiagnosticoAurora(configCiclo.ajustes_ia);
                     renderizarRankingUrgencia([]);
-                    google.script.run.withSuccessHandler(function(res) {
-                        if (res && !res.erro) {
-                            renderizarRankingUrgencia(res.adaptativo ? res.adaptativo.ranking_disciplinas : []);
-                        }
-                    }).obterProximoBlocoCiclo();
+                    // V104 — removida a chamada a obterProximoBlocoCiclo() que existia aqui só
+                    // para ler `adaptativo` (campo que o motor não devolve). Ela NÃO era leitura:
+                    // ao abrir o Plano, consumia o gatilho da revisão espaçada, abatia crédito de
+                    // avulsas e podia mover o ponteiro da fila sem o aluno estudar nada.
                 }
             })
             .withFailureHandler(function(err) {
@@ -16804,326 +16854,390 @@ function abrirPlanoMobile() {
 
 
 
-window._paginaMapaCiclo = window._paginaMapaCiclo || 1;
+/* ══════════════════════════════════════════════════════════════════════════
+   V104 — MAPA DO CICLO
+   O mapa antigo projetava sozinho, com ordem ALFABÉTICA de subtemas
+   (getSubtemasFront fazia .sort(): "Colisão…" vinha antes de "Conceito…"),
+   começava toda disciplina no 1º subtema, supunha 1 bloco = 1 subtema, não
+   mostrava revisões e lia um carregarEstadoUsuario() que não existe no front
+   (as colunas Feitas/Certas ficavam sempre em 0).
+   Agora os dados vêm de obterMapaCicloV104() — a mesma fonte do motor:
+   ordem didática, metas por subtema, posição real de cada disciplina, peças da
+   fila, histórico da volta e agenda da revisão espaçada. Aqui só se projeta e
+   se desenha. Filtros ficam presos no topo e são lembrados no navegador.
+   ══════════════════════════════════════════════════════════════════════════ */
+window._mcV104 = window._mcV104 || { dados: null, carregando: false, pagina: 1, erro: null };
+var MC_VOLTAS_POR_PAGINA = 5;
+var MC_FILTROS_PADRAO = { busca: '', disciplina: '', situacao: '', importancia: '', revisoes: true, banco: '' };
 
-function mudarPaginaMapaCiclo(dir) {
-    window._paginaMapaCiclo += dir;
-    if (window._paginaMapaCiclo < 1) window._paginaMapaCiclo = 1;
-    renderizarMapaCiclo();
+function _mcFiltros() {
+  if (!window._mcV104.filtros) {
+    var f = Object.assign({}, MC_FILTROS_PADRAO);
+    try { var raw = localStorage.getItem('mcV104_filtros'); if (raw) Object.assign(f, JSON.parse(raw)); } catch (e) {}
+    window._mcV104.filtros = f;
+  }
+  return window._mcV104.filtros;
 }
+function _mcSalvarFiltros() {
+  try { localStorage.setItem('mcV104_filtros', JSON.stringify(window._mcV104.filtros)); } catch (e) {}
+}
+function _mcEsc(s) {
+  return String(s === null || s === undefined ? '' : s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+function _mcNum(n) { return (Number(n) || 0).toLocaleString('pt-BR'); }
+function _mcData(d) {
+  try { return d.toLocaleDateString('pt-BR', { weekday: 'short', day: '2-digit', month: 'short' }).replace('.', ''); }
+  catch (e) { return ''; }
+}
+function _mcISO(d) { return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); }
+var MC_IMP_ROTULO = { 'CRÍTICO': 'Crítico', 'ALTO': 'Alto', 'MÉDIO': 'Médio', 'BAIXO': 'Baixo', 'NOVO': 'Novo' };
+
+// Compatibilidade: botões antigos chamavam mudarPaginaMapaCiclo(±1).
+function mudarPaginaMapaCiclo(dir) {
+  window._mcV104.pagina = Math.max(1, (window._mcV104.pagina || 1) + dir);
+  _mcRender();
+}
+window._paginaMapaCiclo = 1;
 
 function renderizarMapaCiclo() {
-    const container = document.getElementById('plano-mapa-content');
-    if (!container) return;
-
-    if (!configCiclo || !configCiclo.fila || configCiclo.fila.length === 0) {
-        container.innerHTML = '<div class="empty-state" style="background:var(--surface); border:1px solid var(--border); padding:40px 20px; border-radius:12px;"><div class="ico" style="font-size:32px; margin-bottom:16px;">🗺️</div><p style="font-size:14px; font-weight:600; color:var(--text);">Seu mapa está em branco.</p><p style="font-size:12px; color:var(--text-3); margin-top:8px;">Gere um ciclo na aba de Configuração para começar.</p></div>';
-        return;
-    }
-
-    const estado = typeof carregarEstadoUsuario === 'function' ? carregarEstadoUsuario() : { respostas: {}, tempo_por_questao: {} };
-    const fila = configCiclo.fila;
-    const ponteiroReal = configCiclo.ponteiro_fila || 0;
-    const metaDia = configCiclo.planejamento ? configCiclo.planejamento.meta_qtd_dia : 0;
-
-    // Paginação Limite de Projeção
-    const ciclosPorPagina = 5;
-    const cicloInicial = (window._paginaMapaCiclo - 1) * ciclosPorPagina + 1;
-    const cicloFinal = cicloInicial + ciclosPorPagina - 1;
-
-    // Agrupar a fila por dias (grupo_ciclo) ANTES de calcular totais baseados nela
-    const dias = {};
-    fila.forEach((item, idx) => {
-        const dia = item.grupo_ciclo !== undefined ? item.grupo_ciclo : 0;
-        if (!dias[dia]) dias[dia] = [];
-        dias[dia].push({ ...item, qtd_bloco: (Array.isArray(item.pecas_ciclo) && item.pecas_ciclo.length ? item.pecas_ciclo[0] : item.qtd_bloco), originalIndex: idx });
-        if (Array.isArray(item.grupos_ciclo) && Array.isArray(item.pecas_ciclo)) {
-            item.grupos_ciclo.slice(1).forEach((g, k) => {
-                if (!dias[g]) dias[g] = [];
-                dias[g].push({ ...item, qtd_bloco: item.pecas_ciclo[k + 1], originalIndex: idx });
-            });
-        }
-    });
-    const totalDias = Object.keys(dias).length;
-
-    // --- LÓGICA DE ESTATÍSTICAS GLOBAIS DO ROTEIRO ---
-    const plan = configCiclo.planejamento || {};
-    const totalDisc = fila.length;
-    const discDia = plan.disciplinas_dia || 3;
-    const diasPorCiclo = totalDias > 0 ? totalDias : 1; 
-    const horasDia = plan.horas_dia || 4;
-    const diasSemana = plan.dias_semana || 5;
-    const metaTotal = plan.volume_total_meta || 30000;
-    
-    let totalFeitas = 0;
-    if (typeof estado !== 'undefined' && estado.respostas) {
-        totalFeitas = Object.keys(estado.respostas).length;
-    }
-    
-    const pctGeral = metaTotal > 0 ? ((totalFeitas / metaTotal) * 100).toFixed(1) : 0;
-    const questoesPorVolta = diasPorCiclo * metaDia;
-    const cicloRealAtual = questoesPorVolta > 0 ? Math.floor(totalFeitas / questoesPorVolta) + 1 : 1;
-    
-    const volumeRestante = Math.max(0, metaTotal - totalFeitas);
-    const diasDeEstudoRestantes = metaDia > 0 ? Math.ceil(volumeRestante / metaDia) : 0;
-    const semanasRestantes = Math.ceil(diasDeEstudoRestantes / diasSemana);
-    const mesesRestantes = (semanasRestantes / _SEMANAS_POR_MES).toFixed(1);
-    
-    let dataPrevista = new Date();
-    dataPrevista.setDate(dataPrevista.getDate() + (semanasRestantes * 7));
-    const strDataPrevista = dataPrevista.toLocaleDateString('pt-BR', { month: 'short', year: 'numeric' });
-
-    let html = `
-    <div style="background:var(--surface); border:1px solid var(--border); padding:20px; border-radius:12px; margin-bottom:24px; box-shadow:var(--shadow-sm);">
-        
-        <!-- HEADER: PAGINAÇÃO -->
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px; padding-bottom:16px; border-bottom:1px dashed var(--border-light); flex-wrap:wrap; gap:12px;">
-            <div>
-                <div style="font-size:10px; color:var(--text-3); text-transform:uppercase; font-weight:800; letter-spacing:1px;">Mapa Dinâmico do Edital</div>
-                <div style="font-size:16px; color:var(--text-900); font-weight:900; margin-top:2px;">Projeção: Ciclos ${cicloInicial} a ${cicloFinal}</div>
-            </div>
-            <div style="display:flex; gap:8px;">
-                <button onclick="mudarPaginaMapaCiclo(-1);vibrarToque()" style="padding:6px 14px; background:var(--bg); border:1px solid var(--border); border-radius:6px; cursor:pointer; color:var(--text-2); font-weight:800; text-transform:uppercase; font-size:10px; letter-spacing:0.5px;" ${window._paginaMapaCiclo === 1 ? 'disabled style="opacity:0.5;cursor:not-allowed;"' : ''}>← Anterior</button>
-                <button onclick="mudarPaginaMapaCiclo(1);vibrarToque()" style="padding:6px 14px; background:var(--accent); border:none; border-radius:6px; cursor:pointer; color:#fff; font-weight:800; text-transform:uppercase; font-size:10px; letter-spacing:0.5px;">Próximos 5 →</button>
-            </div>
-        </div>
-
-        <!-- GRID DE ESTATÍSTICAS DO EDITAL -->
-        <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap:12px;">
-            
-            <div style="background:var(--bg); border:1px solid var(--border-light); padding:12px; border-radius:8px;">
-                <div style="font-size:9px; font-weight:800; color:var(--text-3); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px;">Estrutura da Fila</div>
-                <div style="font-size:14px; font-family:var(--mono); font-weight:900; color:var(--text-900);">${totalDisc} <span style="font-size:10px; font-weight:700; font-family:'DM Sans'; color:var(--text-2);">Disciplinas</span></div>
-                <div style="font-size:11px; font-weight:600; color:var(--text-2); margin-top:4px;">${discDia} por dia</div>
-                <div style="font-size:11px; font-weight:600; color:var(--accent); margin-top:2px;">1 Volta = ${diasPorCiclo} dias</div>
-            </div>
-
-            <div style="background:var(--bg); border:1px solid var(--border-light); padding:12px; border-radius:8px;">
-                <div style="font-size:9px; font-weight:800; color:var(--text-3); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px;">Carga Diária</div>
-                <div style="font-size:14px; font-family:var(--mono); font-weight:900; color:var(--text-900);">${metaDia} <span style="font-size:10px; font-weight:700; font-family:'DM Sans'; color:var(--text-2);">Questões</span></div>
-                <div style="font-size:11px; font-weight:600; color:var(--text-2); margin-top:4px;">${horasDia} horas estimadas</div>
-                <div style="font-size:11px; font-weight:600; color:var(--text-3); margin-top:2px;">${diasSemana} dias / semana</div>
-            </div>
-
-            <div style="background:var(--bg); border:1px solid var(--border-light); padding:12px; border-radius:8px;">
-                <div style="font-size:9px; font-weight:800; color:var(--text-3); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px;">Onde estamos?</div>
-                <div style="font-size:14px; font-family:var(--mono); font-weight:900; color:var(--accent);">${pctGeral}% <span style="font-size:10px; font-weight:700; font-family:'DM Sans'; color:var(--text-2);">Concluído</span></div>
-                <div style="font-size:11px; font-weight:600; color:var(--text-2); margin-top:4px;">Volta Real: Ciclo ${cicloRealAtual}</div>
-                <div style="font-size:11px; font-weight:600; color:var(--text-2); margin-top:2px;">Item Atual: ${ponteiroReal + 1} de ${totalDisc}</div>
-            </div>
-
-            <div style="background:#f0fdf4; border:1px solid #bbf7d0; padding:12px; border-radius:8px;">
-                <div style="font-size:9px; font-weight:800; color:#166534; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px;">Previsão de Término</div>
-                <div style="font-size:14px; font-family:var(--mono); font-weight:900; color:#15803d;">+${semanasRestantes} <span style="font-size:10px; font-weight:700; font-family:'DM Sans'; color:#166534;">Semanas</span></div>
-                <div style="font-size:11px; font-weight:700; color:#166534; margin-top:4px;">~ ${mesesRestantes} meses</div>
-                <div style="font-size:11px; font-weight:700; color:#15803d; margin-top:2px; text-transform:capitalize;">Alvo: ${strDataPrevista}</div>
-            </div>
-
-        </div>
-    </div>`;
-
-    // HELPERS FRONTEND PARA PROJEÇÃO FANTASMA COM FALLBACK DE SEGURANÇA
-    const getTemasFront = (disc) => {
-        if (window._cacheRaioXLocal && window._cacheRaioXLocal.arvore && window._cacheRaioXLocal.arvore[disc]) {
-            return Object.keys(window._cacheRaioXLocal.arvore[disc].temas).sort((a, b) => a.localeCompare(b, undefined, {numeric: true}));
-        }
-        if (typeof window.mapaArquivos !== 'undefined' && window.mapaArquivos[disc] && window.mapaArquivos[disc].questoes) {
-            return [...new Set(window.mapaArquivos[disc].questoes.map(q => q.tema).filter(Boolean))].sort((a,b) => a.localeCompare(b, undefined, {numeric:true}));
-        }
-        return [];
-    };
-    const getSubtemasFront = (disc, tema) => {
-        if (window._cacheRaioXLocal && window._cacheRaioXLocal.arvore && window._cacheRaioXLocal.arvore[disc] && window._cacheRaioXLocal.arvore[disc].temas[tema]) {
-            return Object.keys(window._cacheRaioXLocal.arvore[disc].temas[tema].subtemas).sort();
-        }
-        if (typeof window.mapaArquivos !== 'undefined' && window.mapaArquivos[disc] && window.mapaArquivos[disc].questoes) {
-            return [...new Set(window.mapaArquivos[disc].questoes.filter(q => q.tema === tema).map(q => q.subtema || 'Geral'))].sort();
-        }
-        return ['Geral'];
-    };
-    const advancePosFront = (disc, t, s) => {
-        const temas = getTemasFront(disc);
-        let tIdx = temas.indexOf(t);
-        if (tIdx === -1) tIdx = 0;
-        for (let i = tIdx; i < temas.length; i++) {
-            const subs = getSubtemasFront(disc, temas[i]);
-            let sIdx = (i === tIdx) ? subs.indexOf(s) + 1 : 0;
-            if (sIdx < subs.length) return { tema: temas[i], subtema: subs[sIdx] };
-        }
-        return { tema: temas[0] || 'Revisão', subtema: 'Ciclo Concluído' };
-    };
-
-    // INICIALIZAR PONTEIROS FANTASMAS DAS DISCIPLINAS
-    let fantasmas = {};
-    fila.forEach((f, idx) => {
-        let t = 'Sincronize o Raio-X', s = 'Para ver os temas';
-        const temas = getTemasFront(f.disciplina);
-        if (temas.length > 0) {
-            t = temas[0];
-            const subs = getSubtemasFront(f.disciplina, t);
-            if (subs.length > 0) s = subs[0];
-        }
-        
-        // Se for o ciclo presente e a disciplina for a ativa, tenta pegar da sessão viva
-        const isAtivoReal = (idx === ponteiroReal && f.status_ciclo !== 'STANDBY');
-        if (isAtivoReal && typeof modoCiclo !== 'undefined' && modoCiclo && typeof dadosCiclo !== 'undefined' && dadosCiclo && dadosCiclo.disciplina === f.disciplina && typeof questoesAtuais !== 'undefined' && questoesAtuais.length > 0 && typeof questaoIndex !== 'undefined' && questaoIndex >= 0) {
-            t = questoesAtuais[questaoIndex].tema || t;
-            s = questoesAtuais[questaoIndex].subtema || s;
-        }
-
-        fantasmas[f.disciplina] = { tema: t, subtema: s };
-    });
-
-    // SIMULAR AVANÇO SE A PÁGINA NÃO FOR A PRIMEIRA
-    if (cicloInicial > 1) {
-        let saltos = (cicloInicial - 1) * fila.length;
-        for (let i = 0; i < saltos; i++) {
-            let disc = fila[i % fila.length].disciplina;
-            let fant = fantasmas[disc];
-            let prox = advancePosFront(disc, fant.tema, fant.subtema);
-            fant.tema = prox.tema; fant.subtema = prox.subtema;
-        }
-    }
-
-    // RENDERIZAR OS CICLOS DA PÁGINA ATUAL
-    for (let cicloAtual = cicloInicial; cicloAtual <= cicloFinal; cicloAtual++) {
-        let isCicloPresente = (cicloAtual === 1); 
-
-        html += `<div style="margin-bottom: 32px;">`; 
-        html += `<div style="font-size:18px; font-weight:900; color:var(--text-900); margin-bottom:16px; letter-spacing:-0.5px; display:flex; align-items:center; gap:8px;"><i class="fa-solid fa-arrows-spin" style="color:var(--text-3);font-size:14px;"></i> CICLO ${cicloAtual.toString().padStart(2, '0')}</div>`;
-
-        Object.keys(dias).sort((a,b) => a - b).forEach(diaKey => {
-            const diaNum = parseInt(diaKey) + 1;
-            const divisaoTxt = `${diaNum}/${totalDias}`;
-            const itensDia = dias[diaKey];
-            
-            let corBordaParte = isCicloPresente ? 'var(--accent)' : 'var(--border)';
-
-            html += `<div style="margin-bottom: 24px; border-left: 3px solid ${corBordaParte}; padding-left: 16px;">
-                        <div style="font-size:11px; font-weight:800; color:var(--text-400); text-transform:uppercase; letter-spacing:1px; margin-bottom:10px; border-bottom:1px solid var(--border-light); padding-bottom:6px; display:flex; justify-content:space-between;">
-                            <span>PARTE ${divisaoTxt}</span>
-                            ${isCicloPresente && itensDia.some(i => i.originalIndex === ponteiroReal && i.status_ciclo !== 'STANDBY') ? '<span style="color:var(--accent);">📍 HOJE</span>' : ''}
-                        </div>
-                        <div style="display:flex; flex-direction:column; gap:12px;">`;
-
-            itensDia.forEach(item => {
-                const idx = item.originalIndex;
-                const fant = fantasmas[item.disciplina];
-                
-                let isConcluido = false, isAtivo = false, isFuturo = false;
-
-                const qtdTotal = item.qtd_bloco || 0;
-                let qtdFeita = 0, acertos = 0, erros = 0, tempoTotal = 0;
-
-                if (typeof estado !== 'undefined' && estado.respostas) {
-                    Object.keys(estado.respostas).forEach(idQ => {
-                        const tq = estado.tempo_por_questao && estado.tempo_por_questao[idQ];
-                        if (tq && tq.disciplina === item.disciplina && tq.tema === fant.tema && (tq.subtema || 'Geral') === fant.subtema) {
-                            qtdFeita++;
-                            if (estado.respostas[idQ].correta) acertos++;
-                            else erros++;
-                            tempoTotal += (tq.tempo_segundos || 0);
-                        }
-                    });
-                }
-
-                if (isCicloPresente && idx === ponteiroReal && item.status_ciclo !== 'STANDBY' && typeof modoCiclo !== 'undefined' && modoCiclo && typeof dadosCiclo !== 'undefined' && dadosCiclo && dadosCiclo.disciplina === item.disciplina) {
-                    qtdFeita = dadosCiclo.respondidas || 0;
-                    acertos = dadosCiclo.acertos || 0;
-                    erros = qtdFeita - acertos;
-                }
-
-                /* V100 — "CONCLUÍDO" SÓ POR EXECUÇÃO REAL. Antes, qualquer item antes do ponteiro
-                   (ou em STANDBY) aparecia como concluído mesmo com 0 questões feitas. Agora o
-                   estado vem do que foi de fato respondido no alvo do bloco. */
-                const execucaoCompleta = qtdTotal > 0 && qtdFeita >= qtdTotal;
-                isConcluido = execucaoCompleta || (isCicloPresente && item.status_ciclo === 'STANDBY' && qtdFeita > 0);
-                isAtivo = isCicloPresente && !isConcluido && idx === ponteiroReal;
-                isFuturo = !isConcluido && !isAtivo;
-
-                let corBorda = 'var(--border-light)';
-                let corFundo = 'var(--surface)';
-                let textoStatus = 'Projetado 🔮';
-                let corTextoStatus = 'var(--text-3)';
-                
-                if (isCicloPresente && !isConcluido && !isAtivo && idx < ponteiroReal) {
-                    textoStatus = 'Não executado ⏳'; corTextoStatus = 'var(--warning)';
-                }
-                if (isConcluido) {
-                    corBorda = 'rgba(45, 106, 79, 0.3)'; corFundo = 'var(--green-bg)';
-                    textoStatus = 'Concluído ✓'; corTextoStatus = 'var(--green)';
-                } else if (isAtivo) {
-                    corBorda = 'rgba(56, 189, 248, 0.5)'; corFundo = '#f4faff'; 
-                    textoStatus = 'Hoje 📍'; corTextoStatus = 'var(--accent)';
-                }
-
-
-                const taxa = qtdFeita > 0 ? Math.round((acertos / qtdFeita) * 100) : 0;
-                const progressoBloco = isConcluido ? 100 : (qtdTotal > 0 ? Math.min(100, Math.round((qtdFeita / qtdTotal) * 100)) : 0);
-                
-                let corTaxa = 'var(--text-900)';
-                if (qtdFeita > 0) {
-                    if (taxa >= 80) corTaxa = 'var(--green)';
-                    else if (taxa >= 60) corTaxa = 'var(--warning)';
-                    else corTaxa = 'var(--red)';
-                }
-
-                html += `<div style="background:${corFundo}; border:1px solid ${corBorda}; border-radius:10px; overflow:hidden; position:relative; box-shadow:0 2px 4px rgba(0,0,0,0.02);">
-                            
-                            <div style="padding:10px 14px; border-bottom:1px dashed var(--border-light); display:flex; justify-content:space-between; align-items:center;">
-                                <div style="display:flex; align-items:center; gap:8px;">
-                                    <span style="font-family:var(--mono); color:${corTextoStatus}; font-size:10px; font-weight:800; background:rgba(0,0,0,0.04); padding:2px 6px; border-radius:4px;">${progressoBloco}%</span>
-                                    <span style="font-size:13px; font-weight:800; color:var(--text-900);">${item.disciplina}</span>
-                                </div>
-                                <span style="font-size:10px; font-weight:800; color:${corTextoStatus}; text-transform:uppercase; letter-spacing:0.5px;">${textoStatus}</span>
-                            </div>
-
-                            <div style="padding:12px 14px; border-bottom:1px dashed var(--border-light);">
-                                <div style="font-size:9px; color:var(--text-3); font-weight:800; text-transform:uppercase; letter-spacing:1px; margin-bottom:4px; display:flex; align-items:center; gap:4px;">
-                                    <svg viewBox="0 0 24 24" width="10" height="10" style="stroke:currentColor;fill:none;stroke-width:2.5;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg> ALVO DO BLOCO
-                                </div>
-                                <div style="font-size:13px; color:var(--text-900); font-weight:700; margin-bottom:2px;">${fant.tema}</div>
-                                <div style="font-size:11.5px; color:var(--text-2); font-weight:500; display:flex; align-items:center; gap:4px;">
-                                    <span style="color:var(--text-400);">↳</span> ${fant.subtema}
-                                </div>
-                            </div>
-
-                            <div style="display:grid; grid-template-columns: repeat(5, 1fr); background:rgba(0,0,0,0.015); padding:10px 14px; gap:8px; text-align:center;">
-                                <div>
-                                    <div style="font-size:9px; color:var(--text-400); font-weight:700; text-transform:uppercase;">Meta</div>
-                                    <div style="font-size:13px; font-family:var(--mono); font-weight:800; color:var(--text-900); margin-top:2px;">${qtdTotal}q</div>
-                                </div>
-                                <div>
-                                    <div style="font-size:9px; color:var(--text-400); font-weight:700; text-transform:uppercase;">Feitas</div>
-                                    <div style="font-size:13px; font-family:var(--mono); font-weight:800; color:var(--text-900); margin-top:2px;">${qtdFeita}</div>
-                                </div>
-                                <div>
-                                    <div style="font-size:9px; color:var(--text-400); font-weight:700; text-transform:uppercase;">Certas</div>
-                                    <div style="font-size:13px; font-family:var(--mono); font-weight:800; color:var(--green); margin-top:2px;">${acertos}</div>
-                                </div>
-                                <div>
-                                    <div style="font-size:9px; color:var(--text-400); font-weight:700; text-transform:uppercase;">Erros</div>
-                                    <div style="font-size:13px; font-family:var(--mono); font-weight:800; color:var(--red); margin-top:2px;">${erros}</div>
-                                </div>
-                                <div style="border-left:1px solid var(--border-light); padding-left:4px;">
-                                    <div style="font-size:9px; color:var(--text-400); font-weight:700; text-transform:uppercase;">Aprov.</div>
-                                    <div style="font-size:13px; font-family:var(--mono); font-weight:900; color:${corTaxa}; margin-top:2px;">${qtdFeita > 0 ? taxa + '%' : '--'}</div>
-                                </div>
-                            </div>
-                            
-                            <div style="position:absolute; bottom:0; left:0; height:3px; background:${isConcluido ? 'var(--green)' : (isAtivo ? 'var(--accent)' : 'transparent')}; width:${progressoBloco}%; transition:width 0.3s ease;"></div>
-                         </div>`;
-
-                let prox = advancePosFront(item.disciplina, fant.tema, fant.subtema);
-                fant.tema = prox.tema; fant.subtema = prox.subtema;
-            });
-            html += `</div></div>`; 
-        });
-        html += `</div>`; 
-    }
-
-    container.innerHTML = html;
+  var container = document.getElementById('plano-mapa-content');
+  if (!container) return;
+  if (!configCiclo || !configCiclo.fila || configCiclo.fila.length === 0) {
+    container.innerHTML = '<div class="mc-vazio"><div class="mc-vazio-ico">🗺️</div><p>Seu mapa está em branco.</p>' +
+      '<span>Gere um ciclo na aba <b>Assistente do Ciclo</b> para começar.</span></div>';
+    return;
+  }
+  if (window._mcV104.dados) _mcRender();
+  else container.innerHTML = '<div class="mc-vazio"><div class="spinner" style="margin:0 auto;"></div><p style="margin-top:12px;">Desenhando mapa…</p></div>';
+  if (window._mcV104.carregando) return;
+  window._mcV104.carregando = true;
+  google.script.run
+    .withSuccessHandler(function (res) {
+      window._mcV104.carregando = false;
+      if (!res || res.sucesso === false) { window._mcV104.erro = (res && res.erro) || 'sem resposta'; _mcRender(); return; }
+      window._mcV104.erro = null;
+      window._mcV104.dados = res;
+      window._mcV104.proj = null;
+      _mcRender();
+    })
+    .withFailureHandler(function (err) {
+      window._mcV104.carregando = false;
+      window._mcV104.erro = (err && err.message) ? err.message : String(err);
+      _mcRender();
+    })
+    .obterMapaCicloV104();
 }
+
+/* ── Projeção ─────────────────────────────────────────────────────────────
+   Percorre a fila peça a peça a partir do ponteiro real. Cada peça consome as
+   metas restantes dos subtemas da disciplina, NA ORDEM DIDÁTICA, e só passa
+   ao subtema seguinte quando o anterior fecha a meta (como o motor).
+   Supõe 100% do banco disponível e gate aprovado na meta; subtema com meta
+   cumprida e gate pendente recebe um reforço estimado (30% da meta, mín. 3).
+   A revisão espaçada entra antes da peça quando o contador de peças chega
+   ao intervalo do motor (srs_blocos_entre). */
+function _mcProjetar(D) {
+  var seq = D.sequencia || [], P = D.ponteiro || {}, mot = D.motor || {}, pl = D.planejamento || {};
+  var entreRev = Math.max(1, Number(mot.srs_blocos_entre) || 2), minVenc = Number(mot.srs_min_vencidas) || 3;
+  var diasSemana = Math.min(7, Math.max(1, Number(pl.dias_semana) || 7));
+  var hoje = new Date(); hoje.setHours(12, 0, 0, 0);
+  var dataDoOffset = function (off) { var d = new Date(hoje); d.setDate(d.getDate() + Math.round(off * 7 / diasSemana)); return d; };
+
+  var est = {};
+  Object.keys(D.disciplinas || {}).forEach(function (d) {
+    var X = D.disciplinas[d], rows = X.subtemas || [];
+    var i = X.pos >= 0 ? X.pos : rows.length;
+    var rem = 0, reforco = false;
+    if (i < rows.length) {
+      var r = rows[i];
+      rem = r[3] - r[4];
+      if (rem <= 0) { rem = Math.max(3, Math.ceil(r[3] * 0.3)); reforco = true; }
+    }
+    est[d] = { rows: rows, i: i, rem: rem, reforco: reforco, fimOffset: null, fimVolta: null };
+  });
+  var avancar = function (s) {
+    s.i++; s.reforco = false;
+    s.rem = s.i < s.rows.length ? Math.max(1, s.rows[s.i][3] - s.rows[s.i][4]) : 0;
+  };
+  var consumir = function (d, qtd) {
+    var s = est[d], segs = [];
+    if (!s) return segs;
+    while (qtd > 0 && s.i < s.rows.length) {
+      var r = s.rows[s.i], q = Math.min(qtd, s.rem);
+      var falta = Math.max(0, (r[4] + q) - r[10]);   // questões além do banco atual
+      segs.push({ tema: r[0], subtema: r[1], imp: r[2], q: q, meta: r[3], ordem: s.i + 1, total: s.rows.length,
+                  banco: r[10], falta: falta, reforco: s.reforco });
+      s.rem -= q; qtd -= q;
+      if (s.rem <= 0) avancar(s);
+    }
+    return segs;
+  };
+  var pendentes = function () { return Object.keys(est).some(function (d) { return est[d].i < est[d].rows.length; }); };
+
+  var hist = P.historico_pecas || {}, voltas = [], volta = P.volta || 1, idx = P.peca_idx || 0;
+  var contRev = P.blocos_desde_revisao || 0, offset = 0, diaAnterior = null;
+  var agendaDatas = Object.keys((D.revisao || {}).agenda || {}).sort();
+  var respondidasProj = 0, respHoje = 0, revMarcadas = 0;   // o que se estuda hoje só vence a partir de amanhã
+  var dueAte = function (iso) {
+    var n = (D.revisao || {}).vencidas || 0;
+    agendaDatas.forEach(function (k) { if (k <= iso) n += D.revisao.agenda[k]; });
+    return n;
+  };
+
+  // volta atual: peças anteriores ao ponteiro (passado)
+  var vAtual = { n: volta, itens: [] };
+  for (var k = 0; k < idx && k < seq.length; k++) {
+    var pc0 = seq[k], h0 = hist[k] || null;
+    vAtual.itens.push({ tipo: 'peca', pc: pc0, passado: true, hist: h0,
+      status: h0 ? (h0.status === 'feita' || h0.status === 'avulsas' || h0.status === 'cumprida_por_avulsas' ? 'feita'
+                    : h0.status === 'aguardando_questoes' ? 'aguardando'
+                    : h0.status === 'disciplina_concluida' ? 'livre' : 'nao_exec') : 'nao_exec' });
+  }
+  var cur = vAtual, guard = 0, fimOffset = null, ultimoOffset = 0;
+  while (guard++ < 400 * Math.max(1, seq.length)) {
+    if (idx >= seq.length) { voltas.push(cur); idx = 0; volta++; cur = { n: volta, itens: [] }; }
+    var pc = seq[idx], ehAtual = (cur === vAtual && idx === (P.peca_idx || 0));
+    if (diaAnterior !== null && pc.dia !== diaAnterior) { offset++; respondidasProj += respHoje; respHoje = 0; }
+    if (diaAnterior !== null && pc.dia < diaAnterior) { /* virada de volta já conta como dia novo */ }
+    diaAnterior = pc.dia;
+    var data = dataDoOffset(offset);
+    if (!pendentes()) { fimOffset = ultimoOffset; break; }
+    // revisão antes da peça (só no início dela)
+    if (D.revisao && contRev >= entreRev && !(ehAtual && (P.peca_feitas || 0) > 0)) {
+      var due = dueAte(_mcISO(data)) + respondidasProj;
+      if (due >= minVenc) {
+        cur.itens.push({ tipo: 'revisao', data: data, tam: pc.qtd, agendadas: revMarcadas ? 0 : dueAte(_mcISO(data)), atual: ehAtual });
+        revMarcadas++; contRev = 0;
+      }
+    }
+    var qtd = pc.qtd - (ehAtual ? (P.peca_feitas || 0) : 0);
+    var s = est[pc.disciplina];
+    var livre = !s || s.i >= s.rows.length;
+    var segs = livre ? [] : consumir(pc.disciplina, qtd);
+    if (s && !livre && s.i >= s.rows.length && s.fimOffset === null) { s.fimOffset = offset; s.fimVolta = volta; s.fimData = data; }
+    if (segs.length) ultimoOffset = offset;
+    cur.itens.push({ tipo: 'peca', pc: pc, data: data, segs: segs, atual: ehAtual,
+                     hist: ehAtual ? (hist[idx] || null) : null, feitasPeca: ehAtual ? (P.peca_feitas || 0) : 0,
+                     status: livre ? 'livre' : (ehAtual ? 'hoje' : 'projetada') });
+    if (!livre) { contRev++; respHoje += qtd; }
+    idx++;
+  }
+  if (cur.itens.length) voltas.push(cur);
+  var fim = fimOffset !== null ? dataDoOffset(fimOffset) : null;
+  return { voltas: voltas, est: est, fim: fim, diasRestantes: fimOffset };
+}
+
+/* ── Desenho ───────────────────────────────────────────────────────────── */
+function _mcRender() {
+  var container = document.getElementById('plano-mapa-content');
+  if (!container) return;
+  var M = window._mcV104, D = M.dados;
+  if (!D) {
+    container.innerHTML = '<div class="mc-vazio" style="color:var(--red);">Não foi possível carregar o mapa: ' + _mcEsc(M.erro || '') + '</div>';
+    return;
+  }
+  if (D.vazio) { M.dados = null; renderizarMapaCiclo(); return; }
+  if (!M.proj) M.proj = _mcProjetar(D);
+  var PR = M.proj, F = _mcFiltros(), pl = D.planejamento || {}, T = D.totais || {}, R = D.revisao || {};
+  var totalVoltas = PR.voltas.length ? PR.voltas[PR.voltas.length - 1].n : 1;
+  var voltaIni = PR.voltas.length ? PR.voltas[0].n : 1;
+  var paginas = Math.max(1, Math.ceil((totalVoltas - voltaIni + 1) / MC_VOLTAS_POR_PAGINA));
+  if (M.pagina > paginas) M.pagina = paginas;
+  var vDe = voltaIni + (M.pagina - 1) * MC_VOLTAS_POR_PAGINA, vAte = Math.min(totalVoltas, vDe + MC_VOLTAS_POR_PAGINA - 1);
+  var discs = Object.keys(D.disciplinas || {});
+
+  // ── KPIs ──
+  var pctSub = T.subtemas ? Math.round(T.subtemas_concluidos / T.subtemas * 1000) / 10 : 0;
+  var pctMeta = T.meta_subtemas ? Math.round(T.feitas_na_meta / T.meta_subtemas * 1000) / 10 : 0;
+  var acerto = T.respondidas ? Math.round(T.acertos / T.respondidas * 100) : null;
+  var prox7 = 0, hojeISO = _mcISO(new Date()), lim7 = new Date(); lim7.setDate(lim7.getDate() + 7);
+  Object.keys(R.agenda || {}).forEach(function (k) { if (k <= _mcISO(lim7)) prox7 += R.agenda[k]; });
+  var prazo = null;
+  if (pl.data_criacao && pl.periodo_meses) { prazo = new Date(pl.data_criacao); prazo.setDate(prazo.getDate() + Math.round(pl.periodo_meses * 365.25 / 12)); }
+  var folga = (PR.fim && prazo) ? Math.round((prazo - PR.fim) / 86400000) : null;
+  var esperando = discs.filter(function (d) {
+    var X = D.disciplinas[d]; if (X.pos < 0) return false; var r = X.subtemas[X.pos]; return r && r[10] <= r[4];
+  });
+  var atual = null;
+  PR.voltas.some(function (v) { return v.itens.some(function (it) { if (it.tipo === 'peca' && it.atual) { atual = it; return true; } return false; }); });
+
+  var h = '';
+  h += '<div class="mc-topo">';
+  h += '<div class="mc-titulo"><div><div class="mc-eyebrow">Mapa do ciclo · ' + _mcEsc(D.nome_edital || '') + '</div>' +
+       '<div class="mc-sub">' + _mcNum(pl.volume_total_meta) + ' questões · ' + _mcNum(pl.periodo_meses) + ' meses · ' +
+       _mcNum(pl.horas_dia) + ' h/dia · ' + _mcNum(pl.min_por_questao) + ' min/questão · ' + _mcNum(pl.meta_qtd_dia) + ' q/dia · ' +
+       _mcNum(pl.dias_semana) + ' dias/sem.</div></div>' +
+       '<button class="mc-btn" onclick="window._mcV104.dados=null;renderizarMapaCiclo();if(typeof vibrarToque===\'function\')vibrarToque()" title="Atualizar">↻</button></div>';
+  h += '<div class="mc-kpis">';
+  var kpi = function (rot, val, det, extra) {
+    return '<div class="mc-kpi' + (extra || '') + '"><div class="mc-kpi-rot">' + rot + '</div><div class="mc-kpi-val">' + val +
+           '</div><div class="mc-kpi-det">' + det + '</div></div>';
+  };
+  h += kpi('Edital coberto', pctSub + '%', _mcNum(T.subtemas_concluidos) + ' de ' + _mcNum(T.subtemas) + ' subtemas concluídos');
+  h += kpi('Meta de questões', pctMeta + '%', _mcNum(T.feitas_na_meta) + ' de ' + _mcNum(T.meta_subtemas) + ' (conteúdo novo)');
+  h += kpi('Agora', atual ? _mcEsc(atual.pc.disciplina) : '—',
+           atual && atual.segs && atual.segs[0] ? _mcEsc(atual.segs[0].subtema) + ' · volta ' + (D.ponteiro.volta || 1) + ' de ' + totalVoltas : 'volta ' + (D.ponteiro.volta || 1));
+  h += kpi('Revisões', _mcNum(R.vencidas), 'vencidas hoje · ' + _mcNum(prox7) + ' nos próximos 7 dias', R.vencidas ? ' mc-kpi--rev' : '');
+  h += kpi('Término previsto', PR.fim ? PR.fim.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: '2-digit' }) : '—',
+           PR.fim ? (_mcNum(PR.diasRestantes) + ' dias de estudo' + (folga !== null ? (folga >= 0 ? ' · folga de ' + folga + ' d' : ' · atraso de ' + (-folga) + ' d') : '')) : 'sem projeção',
+           folga !== null && folga < 0 ? ' mc-kpi--alerta' : '');
+  h += kpi('Acerto geral', acerto === null ? '—' : acerto + '%', _mcNum(T.acertos) + ' de ' + _mcNum(T.respondidas) + ' respostas');
+  h += kpi('Aguardando questões', String(esperando.length),
+           esperando.length ? 'disciplina(s) com o subtema atual sem banco' : 'todas as disciplinas com banco no subtema atual',
+           esperando.length ? ' mc-kpi--alerta mc-kpi--clic" onclick="_mcFiltrar(\'banco\',\'falta\')' : '');
+  h += '</div>';
+
+  // ── Estatísticas por disciplina ──
+  h += '<details class="mc-det"' + (M.detAberto ? ' open' : '') + ' ontoggle="window._mcV104.detAberto=this.open"><summary>Estatísticas por disciplina</summary>';
+  h += '<div class="mc-tab-wrap"><table class="mc-tab"><thead><tr><th>Disciplina</th><th>Subtema atual</th><th class="n">Concluídos</th>' +
+       '<th class="n">Meta feita</th><th class="n">Acerto</th><th class="n">Rev. vencidas</th><th class="n">Banco no atual</th><th class="n">Termina</th></tr></thead><tbody>';
+  discs.forEach(function (d) {
+    var X = D.disciplinas[d], rows = X.subtemas || [];
+    var conc = rows.filter(function (r) { return r[9]; }).length, meta = 0, feitas = 0, ok = 0, resp = 0;
+    rows.forEach(function (r) { meta += r[3]; feitas += Math.min(r[4], r[3]); ok += r[5]; resp += r[4]; });
+    var r0 = X.pos >= 0 ? rows[X.pos] : null, e = PR.est[d] || {};
+    var fimD = e.fimData || null;
+    h += '<tr data-disc="' + _mcEsc(d) + '" onclick="_mcFiltrar(\'disciplina\',this.dataset.disc)" title="Filtrar o mapa por esta disciplina"><td>' + _mcEsc(d) + '</td>' +
+         '<td>' + (r0 ? '<span class="mc-ord">' + (X.pos + 1) + '/' + rows.length + '</span> ' + _mcEsc(r0[1]) : '<span class="mc-ok">concluída</span>') + '</td>' +
+         '<td class="n">' + conc + '/' + rows.length + '</td><td class="n">' + _mcNum(feitas) + '/' + _mcNum(meta) + '</td>' +
+         '<td class="n">' + (resp ? Math.round(ok / resp * 100) + '%' : '—') + '</td>' +
+         '<td class="n">' + _mcNum((R.por_disciplina || {})[d] || 0) + '</td>' +
+         '<td class="n">' + (r0 ? (r0[10] > r0[4] ? '<span class="mc-ok">' + r0[10] + '</span>' : '<span class="mc-falta">' + r0[10] + '</span>') : '—') + '</td>' +
+         '<td class="n">' + (fimD ? fimD.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: '2-digit' }) : (X.pos < 0 ? '✓' : '—')) + '</td></tr>';
+  });
+  h += '</tbody></table></div></details>';
+  h += '</div>';
+
+  // ── Barra de filtros (fixa) ──
+  var opt = function (v, rot, sel) { return '<option value="' + _mcEsc(v) + '"' + (sel ? ' selected' : '') + '>' + _mcEsc(rot) + '</option>'; };
+  h += '<div class="mc-filtros" id="mc-filtros">';
+  h += '<input class="mc-in" type="search" placeholder="Buscar tema ou subtema" value="' + _mcEsc(F.busca) + '" oninput="_mcFiltrar(\'busca\',this.value,true)">';
+  h += '<select class="mc-in" onchange="_mcFiltrar(\'disciplina\',this.value)">' + opt('', 'Todas as disciplinas', !F.disciplina) +
+       discs.map(function (d) { return opt(d, d, F.disciplina === d); }).join('') + '</select>';
+  h += '<select class="mc-in" onchange="_mcFiltrar(\'situacao\',this.value)">' + opt('', 'Todas as situações', !F.situacao) +
+       [['hoje', 'Hoje'], ['projetada', 'Projetadas'], ['feita', 'Concluídas'], ['nao_exec', 'Não executadas'], ['aguardando', 'Aguardando questões'], ['revisao', 'Só revisões'], ['livre', 'Disciplina concluída']]
+       .map(function (x) { return opt(x[0], x[1], F.situacao === x[0]); }).join('') + '</select>';
+  h += '<select class="mc-in" onchange="_mcFiltrar(\'importancia\',this.value)">' + opt('', 'Toda importância', !F.importancia) +
+       ['CRÍTICO', 'ALTO', 'MÉDIO', 'BAIXO'].map(function (x) { return opt(x, MC_IMP_ROTULO[x], F.importancia === x); }).join('') + '</select>';
+  h += '<select class="mc-in" onchange="_mcFiltrar(\'banco\',this.value)">' + opt('', 'Banco: todos', !F.banco) +
+       opt('falta', 'Banco insuficiente', F.banco === 'falta') + opt('ok', 'Banco suficiente', F.banco === 'ok') + '</select>';
+  h += '<label class="mc-chk"><input type="checkbox"' + (F.revisoes ? ' checked' : '') + ' onchange="_mcFiltrar(\'revisoes\',this.checked)"> Revisões</label>';
+  h += '<span class="mc-pag"><button class="mc-btn" ' + (M.pagina <= 1 ? 'disabled' : '') + ' onclick="mudarPaginaMapaCiclo(-1)">‹</button>' +
+       '<span>Voltas ' + vDe + '–' + vAte + ' de ' + totalVoltas + '</span>' +
+       '<button class="mc-btn" ' + (M.pagina >= paginas ? 'disabled' : '') + ' onclick="mudarPaginaMapaCiclo(1)">›</button></span>';
+  h += '<button class="mc-btn mc-btn--txt" onclick="_mcLimparFiltros()">Limpar</button>';
+  h += '<span class="mc-cont" id="mc-cont"></span>';
+  h += '</div>';
+
+  // ── Voltas da página ──
+  var busca = (F.busca || '').trim().toLowerCase();
+  var mostrados = 0, revMostradas = 0;
+  var passa = function (it) {
+    if (it.tipo === 'revisao') {
+      if (!F.revisoes || F.disciplina || F.importancia || busca || F.banco) return false;
+      return !F.situacao || F.situacao === 'revisao';
+    }
+    if (F.situacao === 'revisao') return false;
+    if (F.disciplina && it.pc.disciplina !== F.disciplina) return false;
+    if (F.situacao && it.status !== F.situacao) return false;
+    var segs = it.segs || ((it.hist && it.hist.subtemas) || []).map(function (x) { return { tema: x.t, subtema: x.s, imp: '' }; });
+    if (F.importancia && !segs.some(function (sg) { return sg.imp === F.importancia; })) return false;
+    if (F.banco === 'falta' && !segs.some(function (sg) { return sg.falta > 0; })) return false;
+    if (F.banco === 'ok' && segs.some(function (sg) { return sg.falta > 0; })) return false;
+    if (busca && !(it.pc.disciplina.toLowerCase().indexOf(busca) >= 0 ||
+        segs.some(function (sg) { return (sg.tema + ' ' + sg.subtema).toLowerCase().indexOf(busca) >= 0; }))) return false;
+    return true;
+  };
+  var ROT = { hoje: 'Hoje 📍', projetada: 'Projetada', feita: 'Concluída ✓', nao_exec: 'Não executada', aguardando: 'Aguardando questões', livre: 'Disciplina concluída' };
+  var seqLen = (D.sequencia || []).length, diasPorVolta = 0;
+  (D.sequencia || []).forEach(function (p) { diasPorVolta = Math.max(diasPorVolta, p.dia + 1); });
+
+  PR.voltas.forEach(function (v) {
+    if (v.n < vDe || v.n > vAte) return;
+    var corpo = '', diaAtual = null, blocoDia = '';
+    var fechaDia = function () { if (blocoDia) corpo += blocoDia + '</div></div>'; blocoDia = ''; };
+    v.itens.forEach(function (it) {
+      if (!passa(it)) return;
+      var dia = it.tipo === 'peca' ? it.pc.dia : diaAtual;
+      if (dia !== diaAtual || !blocoDia) {
+        fechaDia();
+        diaAtual = dia;
+        var dt = it.data ? ' · ' + _mcData(it.data) : '';
+        blocoDia = '<div class="mc-dia"><div class="mc-dia-cab">Dia ' + ((dia || 0) + 1) + '/' + diasPorVolta + dt + '</div><div class="mc-dia-corpo">';
+      }
+      if (it.tipo === 'revisao') {
+        revMostradas++;
+        blocoDia += '<div class="mc-rev"><span class="mc-rev-tag">🔁 Revisão espaçada</span><span>até ' + _mcNum(it.tam) +
+          ' questões já estudadas e vencidas, de todas as disciplinas' +
+          (it.agendadas ? ' · ' + _mcNum(it.agendadas) + ' vencidas até ' + _mcData(it.data) : '') + '</span></div>';
+        return;
+      }
+      mostrados++;
+      var st = it.status, pc = it.pc;
+      var feitas = it.hist ? it.hist.feitas : (it.feitasPeca || 0), ac = it.hist ? it.hist.acertos : 0;
+      var err = Math.max(0, feitas - ac), tx = feitas ? Math.round(ac / feitas * 100) : null;
+      var segsHtml = '';
+      var segs = it.segs || ((it.hist && it.hist.subtemas) || []).map(function (x) { return { tema: x.t, subtema: x.s, q: x.n, imp: '' }; });
+      segs.forEach(function (sg) {
+        segsHtml += '<li><span class="mc-seg-sub">' + (sg.ordem ? '<span class="mc-ord">' + sg.ordem + '/' + sg.total + '</span> ' : '') + _mcEsc(sg.subtema) +
+          (sg.reforco ? ' <span class="mc-tag">reforço do gate</span>' : '') + '</span>' +
+          '<span class="mc-seg-meta">' + (sg.imp ? '<span class="mc-imp mc-imp--' + _mcEsc(String(sg.imp).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()) + '">' + _mcEsc(MC_IMP_ROTULO[sg.imp] || sg.imp) + '</span>' : '') +
+          (sg.q ? sg.q + 'q' : '') +
+          '</span><div class="mc-seg-tema">' + _mcEsc(sg.tema) +
+          (sg.falta > 0 ? ' · <span class="mc-falta" title="Questões no banco hoje: ' + sg.banco + '">banco: faltam ' + sg.falta + '</span>' : '') + '</div></li>';
+      });
+      if (!segs.length) segsHtml = '<li class="mc-seg-vazio">' + (st === 'livre' ? 'Todos os subtemas desta disciplina concluídos — a peça fica livre.' :
+                                     st === 'aguardando' ? 'Subtema atual sem questões no banco: peça pulada.' : 'Sem registro de subtemas.') + '</li>';
+      blocoDia += '<div class="mc-card mc-card--' + st + '">' +
+        '<div class="mc-card-cab"><span class="mc-card-disc">' + _mcEsc(pc.disciplina) + '</span>' +
+        '<span class="mc-card-st">' + ROT[st] + '</span></div>' +
+        '<ul class="mc-segs">' + segsHtml + '</ul>' +
+        '<div class="mc-card-num"><span><b>' + pc.qtd + '</b> meta</span><span><b>' + feitas + '</b> feitas</span>' +
+        '<span class="mc-ok"><b>' + ac + '</b> certas</span><span class="mc-falta"><b>' + err + '</b> erros</span>' +
+        '<span><b>' + (tx === null ? '—' : tx + '%') + '</b> aprov.</span></div>' +
+        '<div class="mc-card-barra" style="width:' + Math.min(100, Math.round(feitas / Math.max(1, pc.qtd) * 100)) + '%"></div></div>';
+    });
+    fechaDia();
+    if (!corpo) return;
+    h += '<section class="mc-volta"><div class="mc-volta-cab">Volta ' + String(v.n).padStart(2, '0') +
+         (v.n === (D.ponteiro.volta || 1) ? ' <span class="mc-tag">atual</span>' : '') + '</div>' + corpo + '</section>';
+  });
+  if (!mostrados && !revMostradas) h += '<div class="mc-vazio">Nada nesta página com os filtros atuais.</div>';
+  container.innerHTML = h;
+  var cont = document.getElementById('mc-cont');
+  if (cont) cont.textContent = mostrados + ' peça(s)' + (revMostradas ? ' · ' + revMostradas + ' revisão(ões)' : '');
+  _mcAjustarTopo();
+}
+
+function _mcFiltrar(chave, valor, adiar) {
+  var F = _mcFiltros();
+  F[chave] = valor;
+  _mcSalvarFiltros();
+  if (adiar) {
+    clearTimeout(window._mcV104.tBusca);
+    window._mcV104.tBusca = setTimeout(function () {
+      var foco = document.activeElement && document.activeElement.type === 'search';
+      _mcRender();
+      if (foco) { var el = document.querySelector('#mc-filtros input[type=search]'); if (el) { el.focus(); el.setSelectionRange(el.value.length, el.value.length); } }
+    }, 220);
+    return;
+  }
+  _mcRender();
+}
+function _mcLimparFiltros() {
+  window._mcV104.filtros = Object.assign({}, MC_FILTROS_PADRAO);
+  _mcSalvarFiltros();
+  _mcRender();
+}
+// A barra de filtros gruda logo abaixo do cabeçalho da tela (que também é fixo).
+function _mcAjustarTopo() {
+  var hdr = document.querySelector('#screen-plano .temas-header');
+  var bar = document.getElementById('mc-filtros');
+  if (bar) bar.style.top = (hdr ? hdr.offsetHeight : 0) + 'px';
+}
+window.addEventListener('resize', function () { try { _mcAjustarTopo(); } catch (e) {} });
 
 
 
@@ -17875,7 +17989,10 @@ function novoBloco(){
       loading(false); 
       
       if (res.erro_banco) {
-          let msg = `⚠️ BANCO ESGOTADO!\n\nVocê avançou no edital e chegou no seguinte tópico:\n📍 ${res.subtema}\n\nNo entanto, não há questões suficientes para atingir a meta/gate de aprovação.\n\nDeseja abrir a Fábrica da IA agora para gerar questões e continuar de onde parou?`;
+          // V104 — cada disciplina só avança depois de concluir o subtema atual; aqui
+          // TODAS as disciplinas da fila estão paradas num subtema sem questões.
+          const _lista = (res.pendentes || []).slice(0, 6).map(p => `• ${p.disciplina} › ${p.subtema} (faltam ${p.faltam || '?'})`).join('\n');
+          let msg = `⚠️ AGUARDANDO QUESTÕES\n\n${res.msg_status || ''}\n\n${_lista}\n\n${res.instrucao || ''}\n\nAbrir a Fábrica da IA agora para o primeiro subtema (${res.subtema})?`;
           resetUI();
           if(confirm(msg)) {
               // V91 — leva o subtema que travou e o mínimo para destravar.
@@ -17935,6 +18052,13 @@ function novoBloco(){
           dadosCiclo.bloco_revisao = !!res.bloco_revisao;
           dadosCiclo.devidas_total = res.devidas_total || 0;
           atualizarStatsCycleBar();
+          // V104 — peças puladas porque a disciplina está parada num subtema sem questões
+          dadosCiclo.peca = res.peca || null;
+          const _esperaV104 = (res.pecas_puladas || []).filter(p => p.motivo === 'aguardando_questoes');
+          if (_esperaV104.length && typeof mostrarToast === 'function') {
+            mostrarToast('⏭ ' + _esperaV104.length + ' peça(s) pulada(s) — aguardando questões: ' +
+              _esperaV104.map(p => p.disciplina + ' › ' + p.subtema).slice(0, 2).join('; '), 'warning');
+          }
           // V102 — avisa quando questões avulsas já feitas reduziram o bloco de hoje
           if (res.abatido_avulsas > 0 && typeof mostrarToast === 'function') {
             mostrarToast('✅ ' + res.abatido_avulsas + ' questão(ões) avulsa(s) já abatida(s): bloco de ' +
@@ -18382,7 +18506,7 @@ function _executarFinalizacaoBloco() {
     _sincronizarTudoEmBackground(); loading(false);
     if(res.ciclo_concluido){alert("🎉 Ciclo Completo!");resetUI();return;}
     _liveReconectarAposNav=_liveAtivo; novoBloco();
-  }).registrarFimBloco({disciplina:dadosCiclo.disciplina, acertos:dadosCiclo.acertos, total:dadosCiclo.respondidas, novas_respostas:novas, tempos_questoes:tempos});
+  }).registrarFimBloco({disciplina:dadosCiclo.disciplina, acertos:dadosCiclo.acertos, total:dadosCiclo.respondidas, novas_respostas:novas, tempos_questoes:tempos, bloco_revisao:!!dadosCiclo.bloco_revisao});
 }
 
 // Edição de Ciclo (UI)
@@ -27267,6 +27391,7 @@ var CVX_EDITOR_ANTIGO_ATIVO = false;
    data) e tabela de distribuição do esforço no painel de dimensionamento.
    ══════════════════════════════════════════════════════════════════════════ */
 window.DATA_ALVO_PLANO_V100 = '2027-01-10';
+window.PLANO_PADRAO_V104 = { volume: 10000, meses: 6, dias_semana: 7, horas: 7, min_questao: 7, disciplinas_dia: 3 };
 window.estadoTemplateNiveis = (typeof window.estadoTemplateNiveis !== 'undefined') ? window.estadoTemplateNiveis : ({});
 
 // Nível → acerto estimado: 0 = 0%; 1 = 10%; 10 = 90%; linear entre 1 e 10.
@@ -27309,17 +27434,17 @@ function _wzAplicarPadroesV100() {
   if (window._wzPadroesV100Aplicados) return;
   window._wzPadroesV100Aplicados = true;
   var set = function (id, v) { var e = document.getElementById(id); if (e) e.value = v; };
-  var dias = 6, horas = 6, minQ = 6;
-  var corridos = _wzCorridosAteAlvoV100();
-  set('quick-dias-semana', dias);
-  set('quick-horas', horas);
-  set('quick-min', minQ);
-  set('quick-disc-dia', 3);
-  if (corridos > 0) {
-    var mesesPadrao = Math.round(corridos / (365.25 / 12) * 10) / 10; // 1 casa, igual ao que aparece no campo
-    set('quick-meses', mesesPadrao.toFixed(1));
-    set('quick-volume', Math.floor(horas * 60 / minQ) * _diasEstudoPlano(mesesPadrao, dias));
-  }
+  // V104 — plano pré-configurado do edital "Agente de Polícia Judicial 2027":
+  // 6 meses, 10.000 questões, 7 h/dia, 7 min/questão (60 questões/dia).
+  // 7 dias/semana: com 6 dias cabem 157 dias × 60 = 9.420 questões (< 10.000);
+  // com 7 dias cabem 183 dias × 60 = 10.980 (≥ 10.000).
+  var P = window.PLANO_PADRAO_V104;
+  set('quick-volume', P.volume);
+  set('quick-meses', P.meses);
+  set('quick-dias-semana', P.dias_semana);
+  set('quick-horas', P.horas);
+  set('quick-min', P.min_questao);
+  set('quick-disc-dia', P.disciplinas_dia);
   if (typeof atualizarPreviewPlanejamento === 'function') { try { atualizarPreviewPlanejamento(); } catch (e1) {} }
   if (typeof atualizarDimensionamentoV27 === 'function') { try { atualizarDimensionamentoV27(true); } catch (e2) {} }
 }

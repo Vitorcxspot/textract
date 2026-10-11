@@ -12680,6 +12680,189 @@ const MAPA_EDITAL_CONFLITOS_V99 = [
   }
 })();
 
+// ═════════════════════════════════════════════════════════════════════════════
+// V104 — ORDEM DIDÁTICA (pré-requisitos)
+// Só define a ORDEM de estudo. Nenhuma chave do MAPA_DISTRIBUICAO_EDITAL é
+// renomeada: os nomes continuam idênticos aos do Raio-X e das questões.
+//   • temas:    números dos temas, na ordem de estudo (os não listados vêm depois,
+//               em ordem numérica);
+//   • subtemas: por número de tema, os subtemas na ordem de estudo (os não
+//               listados vêm depois, na ordem em que estão no mapa).
+// Disciplina ausente daqui = ordem do mapa (número do tema / ordem do Config).
+// Critério: o assunto só vem depois dos assuntos de que depende.
+// ═════════════════════════════════════════════════════════════════════════════
+const ORDEM_DIDATICA = {
+  "Língua Portuguesa": {
+    temas: ["02", "03", "01", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13"],
+    subtemas: {
+      "02": ["Classes de Palavras", "Formação de Palavras", "Substantivos - Gênero", "Substantivos - Plural de Compostos",
+             "Adjetivos - Flexão de Grau", "Pronomes", "Pronomes Pessoais", "Pronomes de Tratamento", "Pronomes Possessivos",
+             "Pronomes Demonstrativos", "Pronomes Indefinidos", "Pronomes Relativos", "Colocação Pronominal",
+             "Preposições (Valor Semântico)", "Conjunções - Valor Semântico"],
+      "03": ["Verbos - Tempos e Modos", "Verbos Irregulares", "Verbos Abundantes", "Locuções Verbais", "Gerúndio",
+             "Vozes Verbais", "Correlação Verbal"],
+      "01": ["Sujeito", "Sujeito Indeterminado", "Sujeito Oracional", "Predicado", "Transitividade Verbal", "Objeto Direto",
+             "Objeto Indireto", "Predicativo do Sujeito", "Predicativo do Objeto", "Adjunto Adnominal vs Complemento Nominal",
+             "Adjunto Adverbial", "Agente da Passiva", "Aposto", "Vocativo", "Partícula SE"],
+      "04": ["Orações Coordenadas Aditivas", "Orações Coordenadas Adversativas", "Orações Coordenadas Alternativas",
+             "Orações Coordenadas Conclusivas", "Orações Coordenadas Explicativas", "Orações Subordinadas Substantivas",
+             "Orações Subordinadas Adjetivas", "Orações Subordinadas Adverbiais Causais",
+             "Orações Subordinadas Adverbiais Comparativas", "Orações Subordinadas Adverbiais Concessivas",
+             "Orações Subordinadas Adverbiais Condicionais", "Orações Subordinadas Adverbiais Conformativas",
+             "Orações Subordinadas Adverbiais Consecutivas", "Orações Subordinadas Adverbiais Finais",
+             "Orações Subordinadas Adverbiais Proporcionais", "Orações Subordinadas Adverbiais Temporais"],
+      "06": ["Regência Verbal", "Regência Nominal", "Regência e Crase", "Crase", "Crase Facultativa e Proibida",
+             "Crase em Locuções e Pronomes"],
+      "07": ["Pontuação", "Vírgula no período simples (sujeito, adjuntos deslocados, vocativo e aposto)",
+             "Vírgula em Orações Subordinadas", "Ponto e Vírgula", "Dois-pontos, travessão, parênteses, aspas e reticências"],
+      "08": ["Fonologia", "Ortografia", "Acordo Ortográfico", "Acentuação", "Hífen", "Emprego do Porquê"],
+      "10": ["Significado Palavras", "Denotação e Conotação", "Sinonímia e Antonímia", "Figuras Linguagem",
+             "Tipologia Textual", "Gêneros Textuais", "Discurso", "Intertextualidade"],
+      "12": ["Reescrita", "Norma Culta", "Emprego de Tempos e Modos", "Conectivos", "Sintaxe",
+             "Organização e reorganização de orações e períodos", "Equivalência e transformação de estruturas"]
+    }
+  },
+  "RLM": {
+    temas: ["02", "04", "03", "05", "06", "07", "08", "13"],
+    subtemas: {
+      "04": ["Conceito de Proposição", "Conectivos Lógicos", "Tabela-Verdade", "Bicondicional", "Tautologia",
+             "Equivalência Lógica", "Equivalência da Condicional", "Equivalência da Bicondicional", "Negação de Conjunção",
+             "Negação de Disjunção", "Negação de Condicional", "Negação de Bicondicional", "Negação de Proposições Compostas",
+             "Negação de Quantificadores", "Condições Necessárias e Suficientes"],
+      "03": ["Validade de Argumentos", "Diagramas Lógicos", "Silogismos", "Silogismo Hipotético", "Silogismo Disjuntivo",
+             "Falácias Lógicas"],
+      "07": ["Razão e Proporção", "Grandezas Proporcionais", "Regra de Três Simples", "Regra de Três Composta",
+             "Divisão Proporcional", "Divisão Proporcional Inversa", "Divisão Proporcional Composta"]
+    }
+  },
+  "Direito Constitucional": {
+    temas: ["08", "09", "12", "11", "13", "03", "04", "05", "06", "07", "01", "02", "14", "15", "16", "17", "18", "19",
+            "20", "21", "22", "23", "24", "25"],
+    subtemas: {
+      "08": ["Conceito", "Constitucionalismo", "História Constitucional", "Classificação", "Estrutura", "Preâmbulo",
+             "Supremacia", "Poder Constituinte", "Vigência das normas constitucionais", "Eficácia", "Interpretação"],
+      "13": ["Teoria Geral", "Fundamentos", "Objetivos", "Princípios Gerais", "Relações Internacionais", "Soberania",
+             "Cidadania", "Dignidade Humana", "Democracia", "Formas Estado", "Forma Governo", "Sistemas", "Federalismo",
+             "Separação Poderes", "Relações Interpoderes"],
+      "03": ["Teoria Geral", "Direitos Fundamentais", "Garantias Fundamentais", "Dignidade Humana", "Aplicabilidade",
+             "Eficácia", "Efetividade Direitos", "Restrições", "Colisão Direitos", "Cláusulas Pétreas",
+             "Tratados Internacionais", "Inviolabilidades", "Direitos Políticos", "Judicialização"],
+      "24": ["Controle de Constitucionalidade", "Inconstitucionalidade", "Sistemas", "Momentos", "Controle Difuso",
+             "Reserva Plenário", "Controle Concentrado", "Competência", "Legitimidade", "Capacidade Postulatória",
+             "Amicus Curiae"],
+      "25": ["Controle de Constitucionalidade", "Controle Geral", "Inconstitucionalidade", "Controle Difuso",
+             "Controle Concentrado", "Arguição de Descumprimento de Preceito Fundamental (ADPF)", "Processo Decisório",
+             "Efeitos", "Amicus Curiae", "Advocacia Pública"]
+    }
+  },
+  "Direito Administrativo": {
+    temas: ["02", "03", "06", "07", "08", "09", "10", "11", "01", "15", "16", "18", "17", "19", "21", "24", "26", "27"]
+  },
+  "Direito Penal": {
+    temas: ["01", "02", "34", "03", "04", "05", "06", "09", "10", "11", "32", "12"],
+    subtemas: {
+      "01": ["Princípios do Direito Penal", "Princípio da Legalidade", "Princípio da Insignificância",
+             "Princípio da Intranscendência", "Aplicação da Lei Penal (regras gerais e interpretação)",
+             "Conflito Aparente de Normas", "Aplicação da Lei Penal no Tempo", "Lei Penal no Tempo", "Lei no Tempo",
+             "Lei Penal no Espaço (Territorialidade e Extraterritorialidade)", "Lei no Espaço", "Tempo e Lugar",
+             "Tempo e Lugar do Crime", "Penas"],
+      "02": ["Conceito de Crime", "Conceito Analítico de Crime", "Teoria do Crime", "Conduta (ação e omissão)", "Nexo Causal",
+             "Dolo e Culpa", "Teoria do Erro (de tipo e de proibição)",
+             "Iter Criminis (Consumação, Tentativa, Desistência, Arrependimento)", "Ilicitude (Antijuridicidade e Excludentes)",
+             "Culpabilidade", "Concurso de Pessoas", "Concurso de Crimes"],
+      "03": ["Ação Penal (disposições gerais, decadência, renúncia, perdão)", "Ação Pública",
+             "Ação Penal Pública (incondicionada e condicionada)", "Ação Privada",
+             "Ação Penal Privada (exclusiva, personalíssima, subsidiária)"],
+      "04": ["Crimes contra a Pessoa", "Homicídio (simples, privilegiado, qualificado, culposo)", "Homicídio Qualificado",
+             "Homicídio Qualificado e Feminicídio", "Crimes Contra a Vida (induzimento, infanticídio, aborto)", "Suicídio",
+             "🆕 Lei 14.811/2024 – Crime de Bullying e induzimento ao suicídio em redes (Lei 14811, 2024)", "🆕 Lei 14.811/2024 – Bullying como crime e induzimento ao suicídio em redes sociais (Lei 14.811, jan/2024)",
+             "Infanticídio", "Aborto", "Lesão Corporal (leve, grave, gravíssima, seguida de morte)",
+             "Periclitação da Vida e da Saúde (omissão de socorro e correlatos)", "Omissão de Socorro", "Rixa"]
+    }
+  },
+  "Processo Penal": {
+    temas: ["02", "03", "04", "05", "06", "07", "08", "01"]
+  },
+  "Informática": {
+    temas: ["07", "06", "01", "02", "08", "03", "04", "05", "10", "11", "09"],
+    subtemas: {
+      "06": ["Organização de arquivos, pastas e programas", "Windows: área de trabalho, Explorador de Arquivos e Configurações",
+             "Windows: atalhos e gerenciamento de arquivos e pastas", "Sistemas operacionais mobile (iOS e Android)"],
+      "01": ["Conceitos de redes e topologias", "Equipamentos e meios de transmissão",
+             "Protocolos de rede (TCP/IP, HTTP, DNS, FTP, e-mail)", "Internet, Intranet e Extranet", "Internet das Coisas (IoT)"],
+      "08": ["Conceitos básicos (confidencialidade, integridade, disponibilidade, autenticidade)", "Riscos, incidentes e problemas",
+             "Vírus, worms e outras pragas virtuais", "Antivírus, firewall e antispyware",
+             "Autenticação de dois fatores e gestão de senhas", "Segurança em redes (firewall, VPN, criptografia)",
+             "Backup (tipos e estratégias)"]
+    }
+  },
+  "Segurança de Dignitários": {
+    temas: ["01", "02", "06", "03", "04", "05", "07", "09", "10", "11", "12", "13", "14"],
+    subtemas: {
+      "01": ["Confidencialidade, integridade e disponibilidade", "Ameaças, vulnerabilidades e atributos básicos da informação",
+             "Graus de sigilo e credenciamento", "Política Nacional de Segurança da Informação",
+             "Engenharia social e comportamento do agente"],
+      "02": ["SISBIN, ABIN e conceitos de inteligência", "Política Nacional de Inteligência (PNI): finalidade e utilização",
+             "Metodologia, documentos e estados mentais", "Inteligência x Investigação / Fontes de coleta",
+             "Controle da atividade de inteligência (controle parlamentar e democrático)"],
+      "11": ["Princípios, bloqueios e uso progressivo da força", "Uso da força: Lei 13.060/2014 e Decreto 12.341/2024",
+             "Princípios Básicos de Havana sobre Uso da Força e Armas de Fogo (PBUFAF, 1990)",
+             "Código de Conduta da ONU (Res. 34/169) e Manual UNODC 2021",
+             "Portaria MJSP 855/2025 (Comitê Nacional de Monitoramento do Uso da Força)"],
+      "13": ["Sistema Nacional de Trânsito e disposições preliminares (CTB, Caps. I e II)", "Anexo I do CTB (conceitos e definições)",
+             "Normas de circulação e conduta (CTB)", "Pedestres, cidadão e educação para o trânsito (CTB, Caps. IV a VI)",
+             "Sinalização, engenharia e fiscalização (CTB, Caps. VII e VIII)", "Veículos, registro e licenciamento (CTB, Caps. IX a XIII)",
+             "Habilitação (CTB, Cap. XIV)", "Infrações de trânsito", "Penalidades e medidas administrativas",
+             "Processo administrativo de trânsito (CTB, Cap. XVIII)", "Crimes de trânsito (CTB, Cap. XIX)",
+             "Disposições finais e transitórias (CTB, Cap. XX)", "Resoluções do CONTRAN"]
+    }
+  },
+  "Direito da Pessoa Idosa e da Pessoa com Deficiência": {
+    subtemas: {
+      "01": ["Direitos fundamentais da pessoa idosa (Lei 10.741/2003, Título II)",
+             "Medidas de proteção e política de atendimento (Lei 10.741/2003)", "Prioridade especial (80+) e acesso à justiça",
+             "Crimes do Estatuto da Pessoa Idosa", "Conceitos de acessibilidade e prioridade PCD"]
+    }
+  },
+  "Segurança Orgânica": {
+    subtemas: {
+      "01": ["Elementos do fogo, propagação e classes", "Extintores, hidrantes e métodos de extinção",
+             "NR-23 (Portaria MTP 2.769/2022): texto atual e saídas de emergência", "Plano de evacuação e EPIs"],
+      "02": ["Conceitos, sinalização do local e acionamento de recursos", "Avaliação primária e RCP/DEA",
+             "Estado de choque, sinais vitais e avaliação secundária", "Hemorragias, fraturas e manobra de Heimlich",
+             "Queimaduras, desmaios e transporte de vítima", "Primeiros socorros no trânsito: motociclista e remoção do capacete"]
+    }
+  },
+  "Legislação Penal Especial": {
+    subtemas: {
+      "01": ["Disposições gerais, sujeitos e procedimento (arts. 1º a 8º e 39 a 45)",
+             "Condutas: invasão de domicílio, prova ilícita, prisão ilegal", "Violência institucional (art. 15-A, Lei 14.321/2022)",
+             "Ação penal, efeitos da condenação e dolo específico"],
+      "04": ["Sinarm, registro e posse (arts. 1º a 5º)", "Porte de arma de fogo (arts. 6º a 11) e porte funcional em tribunais",
+             "Porte de arma institucional (Regras gerais e exceções)", "Crimes: posse, porte, disparo e comércio ilegal"],
+      "05": ["Prevenção, tratamento e disposições gerais", "Crimes e penas (arts. 28 a 40)", "Procedimento penal e investigação"],
+      "06": ["Rol de crimes hediondos e equiparados", "Efeitos e regime de execução"]
+    }
+  },
+  "Direitos Humanos": {
+    subtemas: {
+      "09": ["Direitos e garantias constitucionais da pessoa com deficiência",
+             "Lei Brasileira de Inclusão (Lei 13.146/2015): conceito e avaliação biopsicossocial",
+             "Lei Brasileira de Inclusão: direitos fundamentais, acessibilidade e discriminação",
+             "Acessibilidade e prioridade de atendimento (Leis 10.098/2000 e 10.048/2000)",
+             "Acessibilidade e atendimento prioritário (Decreto 5.296/2004)",
+             "Apoio e integração social (Lei 7.853/1989 e Decreto 3.298/1999)", "Cão-guia (Lei 11.126/2005)",
+             "Símbolo de identificação da pessoa com deficiência auditiva (Lei 8.160/1991)"]
+    }
+  },
+  "Noções de Legislação": {
+    subtemas: {
+      "03": ["Res. CNJ 351/2020", "Conceitos: assédio moral, assédio sexual e discriminação",
+             "Princípios, diretrizes e objetivos da política", "Recebimento e apuração de denúncias"]
+    }
+  }
+};
+
 if (typeof module !== "undefined" && module.exports) {
-  module.exports = { MAPA_DISTRIBUICAO_EDITAL, PESO_DISCIPLINA, PESO_TEMA, ORDEM_DE_ESTUDO, MARCOS_DE_COBERTURA, MAPA_ALIASES_EDITAL, MAPA_EDITAL_RESOLVIDO, MAPA_EDITAL_CONFLITOS_V99 };
+  module.exports = { MAPA_DISTRIBUICAO_EDITAL, PESO_DISCIPLINA, PESO_TEMA, ORDEM_DE_ESTUDO, MARCOS_DE_COBERTURA, MAPA_ALIASES_EDITAL, MAPA_EDITAL_RESOLVIDO, MAPA_EDITAL_CONFLITOS_V99, ORDEM_DIDATICA };
 }

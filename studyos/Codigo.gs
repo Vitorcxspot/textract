@@ -1189,7 +1189,7 @@ try {
     }
     return {
       id:           t.id,
-      nome:         t.nome,
+      nome:         (t.id === ID_TEMPLATE_TRT8_V100) ? NOME_TEMPLATE_TRT8_V100 : t.nome,   // V104 — cópia salva no Drive exibe o nome atual
       distribuicao: _filtrarDistribuicaoPeloEdital(dist),
       builtin:      false,
       atualizado_em: t.atualizado_em
@@ -1231,7 +1231,7 @@ try {
     var entradas = Object.keys(_distPadrao2).map(function(k) {
       return { disciplina: k, peso: _distPadrao2[k], minimo: 1, nivel: _nivelPadraoV100(k) };
     });
-    return { id: nomeId, nome: nomeId, distribuicao: entradas, builtin: true };
+    return { id: nomeId, nome: (nomeId === ID_TEMPLATE_TRT8_V100 ? NOME_TEMPLATE_TRT8_V100 : nomeId), distribuicao: entradas, builtin: true };
   }
   var dados = _readJsonFromDrive(ARQUIVO_TEMPLATES) || { templates: {} };
   var tpl = dados.templates[nomeId];
@@ -5130,6 +5130,22 @@ try { CacheService.getUserCache().remove(KEY); } catch(e) {}
 
 
 
+// V104 — plano padrão do edital "Agente de Polícia Judicial 2027": 6 meses,
+// 10.000 questões, 7 h/dia, 7 min/questão (60 questões/dia), 7 dias/semana
+// (com 6 dias cabem 157 dias × 60 = 9.420 < 10.000), 3 disciplinas/dia.
+var PLANO_PADRAO_V104 = { volume: 10000, meses: 6, dias_semana: 7, horas: 7, min_questao: 7, disciplinas_dia: 3 };
+function _planejamentoPadraoV104() {
+  var P = PLANO_PADRAO_V104;
+  return {
+    volume_total_meta: P.volume, periodo_meses: P.meses, dias_semana: P.dias_semana,
+    horas_dia: P.horas, min_por_questao: P.min_questao, disciplinas_dia: P.disciplinas_dia,
+    template_usado: ID_TEMPLATE_TRT8_V100,
+    meta_qtd_dia: Math.floor(P.horas * 60 / P.min_questao),
+    dias_uteis: _diasUteisPlanoV100(P.meses, P.dias_semana),
+    data_criacao: new Date().toISOString()
+  };
+}
+
 function carregarConfiguracaoCiclo() {
 var config = _readJsonComCache(ARQUIVO_CONFIG_CICLO, 300, 'CFG_CICLO');
 if (!config) {
@@ -5139,30 +5155,15 @@ if (!config) {
     ponteiro_fila: 0, 
     fila: [],
     templates: [],
-    planejamento: {
-        volume_total_meta: 30000,
-        periodo_meses: 18,
-        dias_semana: 5, 
-        horas_dia: 4,
-        min_por_questao: 3,
-        disciplinas_dia: 3,
-        template_usado: 'AGENTE_PJ',
-        meta_qtd_dia: 80,
-        dias_uteis: 389,
-        data_criacao: new Date().toISOString()
-    }
+    planejamento: _planejamentoPadraoV104()
   };
   _saveJsonComInvalidacao(ARQUIVO_CONFIG_CICLO, config, 'CFG_CICLO');
 }
 
 if (!config.planejamento) {
-    config.planejamento = {
-        volume_total_meta: 30000, periodo_meses: 18, dias_semana: 5,
-        horas_dia: 4, min_por_questao: 3, disciplinas_dia: 3,
-        template_usado: 'AGENTE_PJ', meta_qtd_dia: 80, dias_uteis: 389
-    };
+    config.planejamento = _planejamentoPadraoV104();
 }
-if (!config.planejamento.dias_semana) config.planejamento.dias_semana = 5;
+if (!config.planejamento.dias_semana) config.planejamento.dias_semana = 7;
 if (!config.templates) config.templates = [];
 
 var houveMudanca = false;
@@ -5915,11 +5916,7 @@ function resetFase1_JSONs(tipo) {
 
     var cfgVazia = {
       meta_acerto_minimo: 80, tamanho_bloco_padrao: 10, ponteiro_fila: 0, fila: [], templates: [],
-      planejamento: {
-        volume_total_meta: 30000, periodo_meses: 18, dias_semana: 5,
-        horas_dia: 4, min_por_questao: 3, disciplinas_dia: 3,
-        template_usado: 'AGENTE_PJ', meta_qtd_dia: 80, dias_uteis: 389
-      }
+      planejamento: _planejamentoPadraoV104()   // V104
     };
 
     if (tipo === 'HARD' || tipo === 'DADOS') {
@@ -7559,13 +7556,14 @@ if (parametros.pular_trava !== true && typeof calcularPlanoIdealV27 === 'functio
   }
 }
 
-var volumeTotal = Number(String(parametros.volumeTotal).replace(',', '.')) || 30000;
+// V104 — campos vazios caem no plano padrão (6 meses, 10.000 q, 7 h, 7 min, 7 dias, 3 disc./dia)
+var volumeTotal = Number(String(parametros.volumeTotal).replace(',', '.')) || PLANO_PADRAO_V104.volume;
 var template = _idTemplateCanonico(parametros.template);
-var periodoMeses = Number(String(parametros.periodoMeses).replace(',', '.')) || 18;
-var diasSemana = Number(String(parametros.diasSemana).replace(',', '.')) || 5;
-var horasDia = Number(String(parametros.horasDia).replace(',', '.')) || 4;
-var minPorQuestao = Number(String(parametros.minPorQuestao).replace(',', '.')) || 6; // Parâmetro resgatado
-var disciplinasDia = Number(String(parametros.disciplinasDia).replace(',', '.')) || 3;
+var periodoMeses = Number(String(parametros.periodoMeses).replace(',', '.')) || PLANO_PADRAO_V104.meses;
+var diasSemana = Number(String(parametros.diasSemana).replace(',', '.')) || PLANO_PADRAO_V104.dias_semana;
+var horasDia = Number(String(parametros.horasDia).replace(',', '.')) || PLANO_PADRAO_V104.horas;
+var minPorQuestao = Number(String(parametros.minPorQuestao).replace(',', '.')) || PLANO_PADRAO_V104.min_questao; // Parâmetro resgatado
+var disciplinasDia = Number(String(parametros.disciplinasDia).replace(',', '.')) || PLANO_PADRAO_V104.disciplinas_dia;
 var pesosBase = {};
 var niveisBase = {};
 var templateSalvo = carregarTemplate(template);
@@ -8428,7 +8426,7 @@ var metricas   = analytics.metricas || {};
 var projecao   = analytics.projecao || {};
 var geralTempo = (estado.tempo_agregado && estado.tempo_agregado.geral) || {};
 
-var concurso     = (plan.template_usado || 'N/D').replace(/_/g, ' ');
+var concurso     = _nomeEditalV104(plan.template_usado);   // V104 — nome do edital, não o id
 var metaVolume   = metas.volume_total  || plan.volume_total_meta || 30000;
 var metaDiaria   = metas.meta_diaria   || plan.meta_qtd_dia      || 80;
 var periodoMeses = metas.periodo_meses || plan.periodo_meses     || 18;
@@ -9653,9 +9651,19 @@ function _getSubtemasOrdem(disciplina, tema) {
     !MAPA_DISTRIBUICAO_EDITAL[disciplina][tema]
   ) return [];
   var mapa = MAPA_DISTRIBUICAO_EDITAL[disciplina][tema];
-  return Object.keys(mapa).filter(function(s) {
+  var ativos = Object.keys(mapa).filter(function(s) {
     return mapa[s].importancia !== 'EXCLUIR';
   });
+  // V104 — ordem didática dos subtemas (Config.gs: ORDEM_DIDATICA[disc].subtemas[nº do tema]).
+  var od = _ordemDidaticaV104(disciplina);
+  var nT = _numTemaV23(tema);
+  var lista = (od && od.subtemas && nT !== null) ? (od.subtemas[nT] || od.subtemas[('0' + nT).slice(-2)]) : null;
+  if (!Array.isArray(lista) || !lista.length) return ativos;
+  var pos = {};
+  lista.forEach(function(sub, i) { pos[sub] = i; });
+  return ativos.map(function(sub, i) {
+    return { s: sub, k: pos[sub] !== undefined ? pos[sub] : lista.length + i };
+  }).sort(function(a, b) { return a.k - b.k; }).map(function(x) { return x.s; });
 }
 
 // ── VALIDAÇÃO DO BANCO ANTES DE INICIAR ──────────────────────────────────────
@@ -10086,7 +10094,7 @@ function obterTimelineCicloCompleta() {
       var temas = [];
 
       if (usaEdital) {
-        temas = Object.keys(MAPA_DISTRIBUICAO_EDITAL[d]);
+        temas = _getTemasOrdem(d);   // V104 — ordem didática (era a ordem crua das chaves)
       } else if (arvore[d] && arvore[d].temas) {
         temas = Object.keys(arvore[d].temas).sort(function(a, b) { return a.localeCompare(b, undefined, {numeric: true}); });
       }
@@ -10094,9 +10102,7 @@ function obterTimelineCicloCompleta() {
       temas.forEach(function(t) {
         var subtemas = [];
         if (usaEdital && MAPA_DISTRIBUICAO_EDITAL[d][t]) {
-          subtemas = Object.keys(MAPA_DISTRIBUICAO_EDITAL[d][t]).filter(function(s) {
-            return MAPA_DISTRIBUICAO_EDITAL[d][t][s].importancia !== 'EXCLUIR';
-          });
+          subtemas = _getSubtemasOrdem(d, t);   // V104 — ordem didática
         } else if (!usaEdital && arvore[d] && arvore[d].temas && arvore[d].temas[t] && arvore[d].temas[t].subtemas) {
           subtemas = Object.keys(arvore[d].temas[t].subtemas).sort();
         }
@@ -10172,6 +10178,567 @@ function obterTimelineCicloCompleta() {
 
 
 
+// ══════════════════════════════════════════════════════════════════════════════
+// V104 — MOTOR DO CICLO: FILA POR PEÇAS + POSIÇÃO POR DISCIPLINA + REVISÃO GLOBAL
+//
+// Defeitos corrigidos:
+//   • O motor ficava na MESMA disciplina até ela inteira acabar: a fila do mapa
+//     (dias × disciplinas) nunca era seguida. Agora a fila é a sequência de
+//     PEÇAS do mapa (dia 1: peças das disciplinas do dia 1, dia 2 …) e o ponteiro
+//     anda peça a peça, dando a volta no fim (circular).
+//   • Havia UM ponteiro só (disciplina, tema, subtema): ao trocar de disciplina a
+//     posição se perdia. Agora a posição de cada disciplina é DERIVADA do
+//     histórico: é o 1º subtema, na ordem didática, que ainda não cumpriu
+//     meta + gate. Só passa ao próximo subtema quando o anterior termina.
+//   • Subtema sem questões era PULADO de vez (e o pré-requisito se perdia). Agora
+//     a disciplina ESPERA nesse subtema; a peça dela é registrada como "aguardando
+//     questões" e a fila segue para a próxima peça.
+//   • A revisão espaçada só olhava a disciplina atual e o contador zerava e
+//     somava +1 no mesmo bloco (revisão a cada 1 bloco, não 2). Agora a revisão
+//     reúne as questões vencidas de TODAS as disciplinas da fila e o contador só
+//     anda quando um bloco de conteúdo termina (registrarFimBloco).
+// ══════════════════════════════════════════════════════════════════════════════
+
+// Sequência de peças do ciclo, na ordem do mapa: dias em ordem; dentro do dia, ordem da fila.
+function _sequenciaPecasV104(config) {
+  var fila = (config && config.fila) || [];
+  var porDia = {};
+  fila.forEach(function (f, fi) {
+    if (Array.isArray(f.grupos_ciclo) && Array.isArray(f.pecas_ciclo) && f.grupos_ciclo.length) {
+      f.grupos_ciclo.forEach(function (g, k) {
+        var q = Number(f.pecas_ciclo[k]) || 0;
+        if (q > 0) (porDia[g] = porDia[g] || []).push({ fi: fi, qtd: q });
+      });
+    } else {
+      var g0 = (f.grupo_ciclo !== undefined && f.grupo_ciclo !== null) ? f.grupo_ciclo : 0;
+      var q0 = Number(f.qtd_bloco) || 10;
+      (porDia[g0] = porDia[g0] || []).push({ fi: fi, qtd: q0 });
+    }
+  });
+  var seq = [];
+  Object.keys(porDia).map(Number).sort(function (a, b) { return a - b; }).forEach(function (g) {
+    porDia[g].sort(function (a, b) { return a.fi - b.fi; }).forEach(function (p) {
+      seq.push({ idx: seq.length, dia: g, fi: p.fi, disciplina: fila[p.fi].disciplina, qtd: p.qtd });
+    });
+  });
+  return seq;
+}
+
+function _hashSequenciaV104(seq) {
+  return seq.map(function (p) { return p.dia + ':' + p.disciplina + ':' + p.qtd; }).join('|');
+}
+
+// Lê o ponteiro e migra o formato antigo (só disciplina/tema/subtema) para o de peças.
+function _lerPonteiroV104(config, seq) {
+  var p = _lerPonteiro() || {};
+  var hash = _hashSequenciaV104(seq);
+  var valido = typeof p.peca_idx === 'number' && p.peca_idx >= 0 && p.peca_idx < seq.length && p.seq_hash === hash;
+  if (!valido) {
+    var alvo = p.disciplina;
+    if (!alvo && config && config.fila && config.fila.length) {
+      var f0 = config.fila[config.ponteiro_fila || 0] || config.fila[0];
+      alvo = f0 ? f0.disciplina : null;
+    }
+    var i = -1;
+    for (var k = 0; k < seq.length; k++) { if (seq[k].disciplina === alvo) { i = k; break; } }
+    p.peca_idx = i >= 0 ? i : 0;
+    p.peca_feitas = 0;
+    p.seq_hash = hash;
+    p.historico_pecas = {};
+  }
+  if (!p.volta || p.volta < 1) p.volta = 1;
+  if (typeof p.blocos_desde_revisao !== 'number') p.blocos_desde_revisao = 0;
+  if (!p.historico_pecas || typeof p.historico_pecas !== 'object') p.historico_pecas = {};
+  return p;
+}
+
+// Avança para a peça seguinte (circular). Na virada, conta uma volta nova e zera o histórico da volta.
+function _avancarPecaV104(p, seq) {
+  var prox = p.peca_idx + 1;
+  if (prox >= seq.length) { prox = 0; p.volta = (p.volta || 1) + 1; p.historico_pecas = {}; }
+  p.peca_idx = prox;
+  p.peca_feitas = 0;
+}
+
+// Índice das respostas por subtema CANÔNICO (uma passada no estado; antes era uma
+// passada inteira por subtema consultado). Guarda feitas, acertos e a janela recente.
+function _indiceRespostasV104(estado) {
+  var mc = _motorCfg();
+  var limite = new Date();
+  limite.setDate(limite.getDate() - mc.taxa_janela_dias);
+  var limiteISO = limite.toISOString().split('T')[0];
+  var tpq = (estado && estado.tempo_por_questao) || {};
+  var resp = (estado && estado.respostas) || {};
+  var memo = {}, idx = {};
+  Object.keys(resp).forEach(function (id) {
+    var t = tpq[id];
+    if (!t) return;
+    var sub = t.subtema || 'Geral';
+    var raw = t.disciplina + '\u0001' + t.tema + '\u0001' + sub;
+    var k = memo[raw];
+    if (k === undefined) {
+      var c = _chaveCanonicaEdital(t.disciplina, t.tema, sub);
+      k = c ? (c.disciplina + '||' + c.tema + '||' + c.subtema) : (t.disciplina + '||' + t.tema + '||' + sub);
+      memo[raw] = k;
+    }
+    var e = idx[k] || (idx[k] = { feitas: 0, ok: 0, totRec: 0, okRec: 0 });
+    var acertou = !!resp[id].correta;
+    e.feitas++; if (acertou) e.ok++;
+    var quando = t.respondida_em || (t.data_resposta ? String(t.data_resposta).split('T')[0] : null);
+    if (quando && quando >= limiteISO) { e.totRec++; if (acertou) e.okRec++; }
+  });
+  return idx;
+}
+
+// Gate a partir do índice — mesma regra de _gateAprovado/_taxaSubtemaDetalhe.
+function _gateDoIndiceV104(disciplina, tema, subtema, ent) {
+  var dados = MAPA_DISTRIBUICAO_EDITAL[disciplina] && MAPA_DISTRIBUICAO_EDITAL[disciplina][tema] &&
+              MAPA_DISTRIBUICAO_EDITAL[disciplina][tema][subtema];
+  var imp = dados ? dados.importancia : 'MÉDIO';
+  var minimo = GATE_IMPORTANCIA[imp] !== undefined ? GATE_IMPORTANCIA[imp] : 50;
+  var mc = _motorCfg();
+  var taxa = -1, total = 0;
+  if (ent && ent.feitas > 0) {
+    if (ent.totRec >= mc.taxa_min_recentes) { taxa = Math.round(ent.okRec / ent.totRec * 100); total = ent.totRec; }
+    else { taxa = Math.round(ent.ok / ent.feitas * 100); total = ent.feitas; }
+  }
+  var ok;
+  if (!dados || minimo === 0) ok = true;
+  else if (total === 0 || total < mc.gate_amostra_min) ok = false;
+  else ok = taxa >= minimo;
+  return { importancia: imp, minimo: minimo, taxa: taxa, ok: ok };
+}
+
+// Marco de conclusão por disciplina (ponteiro.marcos[d] = { n, ultimo }): os n
+// primeiros subtemas da ordem já foram concluídos e o ciclo seguiu adiante.
+// Conclusão é DEFINITIVA: se uma revisão errada depois baixar a taxa, quem cuida
+// é a revisão espaçada; a sequência não volta para trás.
+function _nFixoV104(marco, lista) {
+  if (!marco || !marco.n) return 0;
+  var n = Math.min(marco.n, lista.length);
+  var chave = function (x) { return x.tema + '||' + x.subtema; };
+  if (n > 0 && chave(lista[n - 1]) === marco.ultimo) return n;
+  for (var i = 0; i < lista.length; i++) if (chave(lista[i]) === marco.ultimo) return i + 1;   // ordem mudou
+  return 0;
+}
+
+// Situação de todos os subtemas da disciplina, na ordem didática.
+function _situacaoDisciplinaV104(disciplina, itemFila, indice, marco) {
+  var volume = itemFila ? (itemFila.volume_total_meta || 1000) : 1000;
+  var lista = [];
+  _getTemasOrdem(disciplina).forEach(function (tema) {
+    _getSubtemasOrdem(disciplina, tema).forEach(function (sub) {
+      var ent = indice[disciplina + '||' + tema + '||' + sub];
+      var meta = _metaSubtemaV23(disciplina, tema, sub, volume);
+      var g = _gateDoIndiceV104(disciplina, tema, sub, ent);
+      var feitas = ent ? ent.feitas : 0;
+      lista.push({
+        tema: tema, subtema: sub, importancia: g.importancia, meta: meta, feitas: feitas,
+        acertos: ent ? ent.ok : 0, taxa: g.taxa, gate_min: g.minimo, gate_ok: g.ok,
+        concluido: g.ok && feitas >= meta
+      });
+    });
+  });
+  var nFixo = _nFixoV104(marco, lista);
+  for (var i = 0; i < nFixo; i++) { lista[i].concluido = true; lista[i].fixo = true; }
+  return lista;
+}
+
+// 1º subtema não concluído (posição da disciplina) ou null se a disciplina terminou.
+function _posicaoDisciplinaV104(disciplina, itemFila, indice, marco) {
+  var lista = _situacaoDisciplinaV104(disciplina, itemFila, indice, marco);
+  for (var i = 0; i < lista.length; i++) {
+    if (!lista[i].concluido) {
+      lista[i].ordem = i; lista[i].total = lista.length;
+      lista[i].marco = i > 0 ? { n: i, ultimo: lista[i - 1].tema + '||' + lista[i - 1].subtema } : null;
+      return lista[i];
+    }
+  }
+  return null;
+}
+
+// Questões do subtema dentro do banco já carregado da disciplina (mesmo critério de
+// _questoesSubtemaDisponiveis, sem recarregar o Drive a cada subtema).
+function _filtrarSubtemaV104(todas, tema, subtema, blacklist) {
+  var kTema = _normChaveV23(tema), kSub = _normChaveV23(subtema), chTema = _chaveTemaEdital(tema);
+  return todas.filter(function (q) {
+    if (blacklist.has(q.idOriginal)) return false;
+    if (_normChaveV23(q.subtema || 'Geral') !== kSub) return false;
+    if (_normChaveV23(q.tema || '') === kTema) return true;
+    return _chaveTemaEdital(q.tema || '') === chTema;
+  });
+}
+
+// Revisão espaçada de TODAS as disciplinas da fila: vencidas primeiro (mais atrasadas,
+// depois as mais erradas). Só carrega do Drive as disciplinas necessárias para `limite`.
+function _revisoesDevidasGlobalV104(config, mapa, estado, blacklist, limite) {
+  var hoje = new Date().toISOString().split('T')[0];
+  var naFila = {};
+  (config.fila || []).forEach(function (f) { naFila[f.disciplina] = true; });
+  var tpq = estado.tempo_por_questao || {}, erros = estado.contadores_erro || {};
+  var lista = [];
+  Object.keys(tpq).forEach(function (id) {
+    var t = tpq[id];
+    if (!t || !t.proxima_revisao || t.proxima_revisao > hoje) return;
+    if (!estado.respostas || !estado.respostas[id]) return;
+    if (blacklist.has(id)) return;
+    var d = _disciplinaDoEdital(t.disciplina) || t.disciplina;
+    if (!naFila[d]) return;
+    lista.push({ id: id, d: d, data: t.proxima_revisao, erros: erros[id] || 0 });
+  });
+  lista.sort(function (a, b) { return a.data !== b.data ? (a.data < b.data ? -1 : 1) : b.erros - a.erros; });
+  var total = lista.length, sel = [];
+  if (!total || !limite) return { total: total, questoes: sel };
+  var porDisc = {};
+  for (var i = 0; i < lista.length && sel.length < limite; i++) {
+    var it = lista[i];
+    if (!porDisc[it.d]) {
+      porDisc[it.d] = {};
+      try {
+        if (mapa[it.d] && mapa[it.d].questoes) {
+          carregarMultiplosJsons(mapa[it.d].questoes.map(function (f) { return f.id; }))
+            .forEach(function (q) { porDisc[it.d][q.idOriginal] = q; });
+        }
+      } catch (e) { Logger.log('[REVISAO-V104] ' + it.d + ': ' + e.message); }
+    }
+    var q = porDisc[it.d][it.id];
+    if (q) sel.push(q);
+  }
+  return { total: total, questoes: sel };
+}
+
+// Motor principal (chamado por obterProximoBlocoCiclo depois da sessão suspensa).
+function _obterProximoBlocoV104(config, estado, mapa, blacklist) {
+  var seq = _sequenciaPecasV104(config);
+  if (!seq.length) return { erro: 'Fila vazia. Configure o ciclo de estudos.' };
+  var p = _lerPonteiroV104(config, seq);
+  var mc = _motorCfg();
+  var minQ = Number(String((config.planejamento || {}).min_por_questao || 3).replace(',', '.')) || 3;
+  var metaDoDia = function (dia) {
+    return seq.reduce(function (s, x) { return s + (x.dia === dia ? x.qtd : 0); }, 0);
+  };
+
+  // 1) REVISÃO ESPAÇADA intercalada: a cada N peças de conteúdo concluídas
+  //    (motor.srs_blocos_entre; padrão 2), só no começo de uma peça.
+  if (p.blocos_desde_revisao >= mc.srs_blocos_entre && !(p.peca_feitas > 0)) {
+    var tamRev = (seq[p.peca_idx] || seq[0]).qtd || 10;
+    var rev = _revisoesDevidasGlobalV104(config, mapa, estado, blacklist, tamRev);
+    if (rev.total >= mc.srs_min_vencidas && rev.questoes.length) {
+      p.blocos_desde_revisao = 0;
+      _salvarPonteiro(p);
+      var discsRev = {};
+      rev.questoes.forEach(function (q) { discsRev[q.disciplina] = (discsRev[q.disciplina] || 0) + 1; });
+      Logger.log('[REVISAO-V104] ' + rev.questoes.length + ' questão(ões) servidas | ' + rev.total + ' vencida(s) na fila');
+      return {
+        sucesso: true,
+        questoes: rev.questoes,
+        disciplina: 'Revisão espaçada',
+        tema: null, subtema: null,
+        importancia_subtema: 'REVISÃO',
+        gate: { minimo: 0, atual: -1, aprovado: true },
+        meta_sessao: metaDoDia((seq[p.peca_idx] || seq[0]).dia),
+        tempo_bloco: Math.round(rev.questoes.length * minQ),
+        bloco_revisao: true,
+        devidas_total: rev.total,
+        revisao_por_disciplina: discsRev,
+        peca: { idx: p.peca_idx, total: seq.length, volta: p.volta },
+        msg_status: '🔁 REVISÃO — ' + rev.questoes.length + ' questão(ões) no ponto de revisar (' +
+                    rev.total + ' vencida(s) em ' + Object.keys(discsRev).length + ' disciplina(s))'
+      };
+    }
+  }
+
+  // 2) CONTEÚDO NOVO: segue a fila a partir da peça atual.
+  var indice = _indiceRespostasV104(estado);
+  var bancos = {};
+  var pulos = [];
+  var inicio = p.peca_idx;
+  for (var k = 0; k < seq.length; k++) {
+    var i = (inicio + k) % seq.length;
+    var pc = seq[i];
+    var d = pc.disciplina;
+    var item = config.fila[pc.fi];
+    var registrarPulo = function (motivo, extra) {
+      var r = { idx: i, dia: pc.dia, disciplina: d, motivo: motivo };
+      Object.keys(extra || {}).forEach(function (x) { r[x] = extra[x]; });
+      pulos.push(r);
+    };
+
+    if (!item) { registrarPulo('fora_da_fila'); continue; }
+    if (!MAPA_DISTRIBUICAO_EDITAL || !MAPA_DISTRIBUICAO_EDITAL[d]) {
+      // disciplina sem mapa de edital: comportamento legado
+      if (i !== p.peca_idx) { if (i < p.peca_idx) { p.volta++; p.historico_pecas = {}; } p.peca_idx = i; p.peca_feitas = 0; }
+      p.disciplina = d; p.tema = null; p.subtema = null;
+      _salvarPonteiro(p);
+      return _obterBlocoLegado(d, item, config, estado, mapa, blacklist);
+    }
+
+    if (!p.marcos) p.marcos = {};
+    var pos = _posicaoDisciplinaV104(d, item, indice, p.marcos[d]);
+    if (!pos) { registrarPulo('disciplina_concluida'); continue; }
+    if (pos.marco && (!p.marcos[d] || p.marcos[d].n !== pos.marco.n)) p.marcos[d] = pos.marco;
+
+    var restante = pc.qtd - (i === p.peca_idx ? (p.peca_feitas || 0) : 0);
+    if (restante <= 0) restante = pc.qtd;
+
+    if (!bancos[d]) {
+      bancos[d] = [];
+      try {
+        if (mapa[d] && mapa[d].questoes && mapa[d].questoes.length) {
+          bancos[d] = carregarMultiplosJsons(mapa[d].questoes.map(function (f) { return f.id; }));
+        }
+      } catch (eB) { Logger.log('[CICLO-V104] banco ' + d + ': ' + eB.message); }
+    }
+    var doSub = _filtrarSubtemaV104(bancos[d], pos.tema, pos.subtema, blacklist);
+    var ineditas = doSub.filter(function (q) { return !estado.respostas[q.idOriginal]; });
+    var erradas = doSub.filter(function (q) {
+      var r = estado.respostas[q.idOriginal];
+      if (!r) return false;
+      if (!r.correta) return true;
+      if (!((estado.contadores_erro || {})[q.idOriginal] || 0)) return false;
+      var t = estado.tempo_por_questao && estado.tempo_por_questao[q.idOriginal];
+      return ((t && t.acertos_consecutivos) || 0) < mc.srs_acertos_erro;
+    });
+
+    // Antes da meta: só o que falta para a meta (não estoura o subtema).
+    // Meta cumprida e gate pendente: reforço (erradas primeiro, depois inéditas).
+    var faltamMeta = pos.meta - pos.feitas;
+    var sel = [];
+    if (faltamMeta > 0) {
+      var tam = Math.min(restante, faltamMeta);
+      sel = embaralharArray(ineditas).slice(0, tam);
+      if (sel.length < tam) sel = sel.concat(embaralharArray(erradas).slice(0, tam - sel.length));
+    } else {
+      sel = embaralharArray(erradas).slice(0, restante);
+      if (sel.length < restante) sel = sel.concat(embaralharArray(ineditas).slice(0, restante - sel.length));
+    }
+    if (!sel.length) {
+      var bloqueadasHoje = _filtrarSubtemaV104(bancos[d], pos.tema, pos.subtema, new Set()).length - doSub.length;
+      registrarPulo(bloqueadasHoje > 0 ? 'reforco_amanha' : 'aguardando_questoes', {
+        tema: pos.tema, subtema: pos.subtema,
+        faltam: Math.max(1, faltamMeta), gate_ok: pos.gate_ok, taxa: pos.taxa, gate_min: pos.gate_min
+      });
+      continue;
+    }
+
+    // V102 — avulsas já feitas abatem a peça
+    var ab = _abaterAvulsasDoBlocoV102(item, config, restante);
+    if (ab.cumprido) {
+      registrarPulo('cumprida_por_avulsas', { abatido: ab.abatido });
+      p.historico_pecas[i] = { feitas: pc.qtd, acertos: 0, status: 'avulsas' };
+      if (i === p.peca_idx) { _avancarPecaV104(p, seq); inicio = p.peca_idx; k = -1; }
+      continue;
+    }
+    if (ab.abatido > 0) sel = sel.slice(0, Math.max(1, ab.tamanho));
+
+    // Peças puladas no caminho ficam registradas na volta como "não executadas".
+    pulos.forEach(function (r) {
+      if (!p.historico_pecas[r.idx]) p.historico_pecas[r.idx] = { feitas: 0, acertos: 0, status: r.motivo };
+    });
+    if (i !== p.peca_idx) {
+      if (i < p.peca_idx) { p.volta = (p.volta || 1) + 1; p.historico_pecas = {}; }
+      p.peca_idx = i; p.peca_feitas = 0;
+    }
+    p.disciplina = d; p.tema = pos.tema; p.subtema = pos.subtema;
+    p.aguardando = pulos.filter(function (r) { return r.motivo === 'aguardando_questoes'; });
+    _salvarPonteiro(p);
+
+    var ret = _montarRetornoCiclo(sel, d, pos.tema, pos.subtema, pos.importancia, pos.gate_min,
+                                  pos.taxa, pos.gate_ok, item, config);
+    ret.tempo_bloco = Math.round(sel.length * minQ);
+    ret.meta_sessao = metaDoDia(pc.dia);
+    ret.peca = { idx: i, total: seq.length, dia: pc.dia, qtd: pc.qtd, feitas: p.peca_feitas, volta: p.volta };
+    ret.subtema_progresso = { ordem: pos.ordem + 1, total: pos.total, meta: pos.meta, feitas: pos.feitas };
+    if (ab.abatido > 0) { ret.abatido_avulsas = ab.abatido; ret.bloco_base = restante; }
+    if (pulos.length) ret.pecas_puladas = pulos;
+    return ret;
+  }
+
+  // 3) Nenhuma peça servível na volta inteira.
+  var esperando = pulos.filter(function (r) { return r.motivo === 'aguardando_questoes'; });
+  if (esperando.length) {
+    var pr = esperando[0];
+    p.aguardando = esperando;
+    _salvarPonteiro(p);
+    return {
+      erro_banco: true,
+      disciplina: pr.disciplina, tema: pr.tema, subtema: pr.subtema,
+      minimo_para_liberar: pr.faltam || 10,
+      subtemas_sem_banco: esperando.length,
+      pendentes: esperando.slice(0, 20),
+      msg_status: 'Aguardando questões em ' + esperando.length + ' disciplina(s). Primeira: ' + pr.disciplina + ' › ' + pr.subtema,
+      instrucao: 'Cada disciplina só avança depois de concluir o subtema atual. Gere questões para estes subtemas.'
+    };
+  }
+  if (pulos.some(function (r) { return r.motivo === 'reforco_amanha'; })) {
+    return {
+      ciclo_concluido: true,
+      msg_status: 'Por hoje não há mais blocos: os subtemas atuais aguardam reforço com questões que você já fez hoje.',
+      instrucao: 'Amanhã essas questões voltam para o reforço do gate. Se quiser seguir hoje, gere questões novas para esses subtemas.'
+    };
+  }
+  return {
+    fim_ciclo: true,
+    msg_status: '🎉 Edital concluído: todos os subtemas de todas as disciplinas cumpriram meta e gate.',
+    instrucao: 'A revisão espaçada continua disponível. Reinicie o ciclo para uma nova passada.'
+  };
+}
+
+// Registra o fim de um bloco no ponteiro de peças (chamado por registrarFimBloco).
+function _registrarPecaV104(config, dados) {
+  var seq = _sequenciaPecasV104(config);
+  if (!seq.length) return null;
+  var p = _lerPonteiroV104(config, seq);
+  if (dados.bloco_revisao) { p.blocos_desde_revisao = 0; _salvarPonteiro(p); return p; }
+  var pc = seq[p.peca_idx];
+  if (!pc || pc.disciplina !== dados.disciplina) { _salvarPonteiro(p); return p; }
+  var respondidas = Number(dados.total) || 0;
+  p.peca_feitas = (p.peca_feitas || 0) + respondidas;
+  var h = p.historico_pecas[p.peca_idx] || { feitas: 0, acertos: 0 };
+  h.feitas += respondidas; h.acertos += Number(dados.acertos) || 0; h.status = 'em_andamento';
+  if (p.tema && p.subtema && respondidas > 0) {   // subtemas que a peça realmente cobriu (para o mapa)
+    h.subtemas = h.subtemas || [];
+    var ult = h.subtemas[h.subtemas.length - 1];
+    if (ult && ult.t === p.tema && ult.s === p.subtema) ult.n += respondidas;
+    else if (h.subtemas.length < 8) h.subtemas.push({ t: p.tema, s: p.subtema, n: respondidas });
+  }
+  p.historico_pecas[p.peca_idx] = h;
+  if (p.peca_feitas >= pc.qtd) {
+    h.status = 'feita';
+    // A revisão intercala por PEÇA concluída (a peça pode ter vários blocos curtos,
+    // um por subtema; contar blocos faria a revisão interromper a mesma peça).
+    p.blocos_desde_revisao = (p.blocos_desde_revisao || 0) + 1;
+    Logger.log('[CICLO-V104] peça ' + (p.peca_idx + 1) + '/' + seq.length + ' (' + pc.disciplina + ') concluída');
+    _avancarPecaV104(p, seq);
+  }
+  _salvarPonteiro(p);
+  return p;
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// V104 — DADOS DO MAPA DO CICLO (uma chamada, mesma fonte de verdade do motor)
+// O mapa antigo montava a ordem no front com .sort() ALFABÉTICO e o banco do
+// Raio-X ("Colisão…" vinha antes de "Conceito…"), começava toda disciplina no
+// 1º subtema e supunha 1 bloco = 1 subtema. Agora o front recebe daqui:
+//   • a sequência de peças da fila e o ponteiro real (peça, volta, histórico);
+//   • por disciplina, os subtemas NA ORDEM DIDÁTICA com meta, feitas, acerto,
+//     gate e banco — o front só projeta;
+//   • a agenda da revisão espaçada (vencidas e próximos dias).
+// Linhas de subtema vão como arrays para encurtar o payload:
+//   [tema, subtema, importância, meta, feitas, acertos, taxa, gate_min, gate_ok, concluído, banco]
+// ══════════════════════════════════════════════════════════════════════════════
+function obterMapaCicloV104() {
+  try {
+    var config = carregarConfiguracaoCiclo();
+    if (!config || !config.fila || !config.fila.length) return { sucesso: true, vazio: true };
+    var estado = carregarEstadoUsuario() || { respostas: {}, contadores_erro: {}, tempo_por_questao: {} };
+    var seq = _sequenciaPecasV104(config);
+    var p = _lerPonteiroV104(config, seq);
+    var indice = _indiceRespostasV104(estado);
+    var mc = _motorCfg();
+
+    var arvore = {};
+    try {
+      var rx = _readJsonFromDrive('raiox_banco_v1.json');
+      arvore = (rx && rx.arvore) ? rx.arvore : {};
+    } catch (eRx) { arvore = {}; }
+    var banco = function (d, t, s) {
+      var n = arvore[d] && arvore[d].temas && arvore[d].temas[t] && arvore[d].temas[t].subtemas && arvore[d].temas[t].subtemas[s];
+      return n ? (typeof n === 'number' ? n : (n.qtd || 0)) : 0;
+    };
+
+    var disciplinas = {};
+    var totSub = 0, totConc = 0, totMeta = 0, totFeitasMeta = 0;
+    config.fila.forEach(function (item) {
+      var d = item.disciplina;
+      if (disciplinas[d]) return;
+      var linhas = [], pos = -1;
+      if (MAPA_DISTRIBUICAO_EDITAL && MAPA_DISTRIBUICAO_EDITAL[d]) {
+        _situacaoDisciplinaV104(d, item, indice, (p.marcos || {})[d]).forEach(function (x, i) {
+          if (pos < 0 && !x.concluido) pos = i;
+          totSub++; if (x.concluido) totConc++;
+          totMeta += x.meta; totFeitasMeta += Math.min(x.feitas, x.meta);
+          linhas.push([x.tema, x.subtema, x.importancia, x.meta, x.feitas, x.acertos, x.taxa, x.gate_min,
+                       x.gate_ok ? 1 : 0, x.concluido ? 1 : 0, banco(d, x.tema, x.subtema)]);
+        });
+      }
+      disciplinas[d] = {
+        status_ciclo: item.status_ciclo || 'PENDENTE',
+        volume_total_meta: item.volume_total_meta || 0,
+        volume_realizado: item.volume_realizado || 0,
+        volume_revisao: item.volume_revisao || 0,
+        peso_prova: item.peso_prova || 0,
+        nivel: item.nivel_proficiencia || 0,
+        pos: pos,
+        subtemas: linhas
+      };
+    });
+
+    // Revisão espaçada: vencidas hoje e agenda dos próximos 60 dias, por disciplina.
+    var hoje = new Date().toISOString().split('T')[0];
+    var limite = new Date(); limite.setDate(limite.getDate() + 60);
+    var limiteISO = limite.toISOString().split('T')[0];
+    var agenda = {}, vencidasPorDisc = {}, vencidas = 0;
+    var tpq = estado.tempo_por_questao || {};
+    Object.keys(tpq).forEach(function (id) {
+      var t = tpq[id];
+      if (!t || !t.proxima_revisao || !estado.respostas || !estado.respostas[id]) return;
+      var d = _disciplinaDoEdital(t.disciplina) || t.disciplina;
+      if (!disciplinas[d]) return;
+      if (t.proxima_revisao <= hoje) { vencidas++; vencidasPorDisc[d] = (vencidasPorDisc[d] || 0) + 1; }
+      else if (t.proxima_revisao <= limiteISO) agenda[t.proxima_revisao] = (agenda[t.proxima_revisao] || 0) + 1;
+    });
+
+    var respondidas = Object.keys(estado.respostas || {}).length, acertos = 0;
+    Object.keys(estado.respostas || {}).forEach(function (id) { if (estado.respostas[id].correta) acertos++; });
+
+    var pl = config.planejamento || {};
+    return {
+      sucesso: true,
+      gerado_em: new Date().toISOString(),
+      hoje: hoje,
+      nome_edital: _nomeEditalV104(pl.template_usado),
+      planejamento: {
+        volume_total_meta: pl.volume_total_meta || 0, periodo_meses: pl.periodo_meses || 0,
+        dias_semana: pl.dias_semana || 0, horas_dia: pl.horas_dia || 0, min_por_questao: pl.min_por_questao || 0,
+        disciplinas_dia: pl.disciplinas_dia || 0, meta_qtd_dia: pl.meta_qtd_dia || 0,
+        dias_uteis: pl.dias_uteis || 0, dias_por_ciclo: pl.dias_por_ciclo || 0, data_criacao: pl.data_criacao || null
+      },
+      motor: {
+        srs_intervalos: mc.srs_intervalos, srs_blocos_entre: mc.srs_blocos_entre,
+        srs_min_vencidas: mc.srs_min_vencidas, gate_amostra_min: mc.gate_amostra_min
+      },
+      sequencia: seq,
+      ponteiro: {
+        peca_idx: p.peca_idx, peca_feitas: p.peca_feitas || 0, volta: p.volta || 1,
+        blocos_desde_revisao: p.blocos_desde_revisao || 0,
+        historico_pecas: p.historico_pecas || {}, aguardando: p.aguardando || []
+      },
+      disciplinas: disciplinas,
+      revisao: { vencidas: vencidas, por_disciplina: vencidasPorDisc, agenda: agenda },
+      totais: {
+        subtemas: totSub, subtemas_concluidos: totConc, meta_subtemas: totMeta, feitas_na_meta: totFeitasMeta,
+        respondidas: respondidas, acertos: acertos
+      }
+    };
+  } catch (e) {
+    Logger.log('[MAPA-V104] ' + e.message + ' | ' + (e.stack || ''));
+    return { sucesso: false, erro: e.message };
+  }
+}
+
+// Nome de exibição do edital do plano (o id do template não muda; só o nome).
+function _nomeEditalV104(templateId) {
+  var id = _idTemplateCanonico(templateId || ID_TEMPLATE_PADRAO);
+  if (id === ID_TEMPLATE_TRT8_V100) return NOME_TEMPLATE_TRT8_V100;
+  try {
+    var dados = _readJsonFromDrive(ARQUIVO_TEMPLATES) || {};
+    var t = dados.templates && dados.templates[id];
+    if (t && t.nome) return t.nome;
+  } catch (e) {}
+  return String(templateId || 'N/D').replace(/_/g, ' ');
+}
+
 function obterProximoBlocoCiclo() {
   try {
     var scriptCache = CacheService.getScriptCache();
@@ -10209,275 +10776,8 @@ function obterProximoBlocoCiclo() {
     });
     if (disciplinasValidas.length === 0) return { erro: 'Nenhuma disciplina com questões no banco.' };
 
-    var ponteiro = _lerPonteiro();
-    var discValida = disciplinasValidas.find(function(f) { return f.disciplina === ponteiro.disciplina; });
-    if (!discValida) {
-      ponteiro.disciplina = disciplinasValidas[0].disciplina;
-      ponteiro.tema       = null;
-      ponteiro.subtema    = null;
-      _salvarPonteiro(ponteiro);
-    }
-
-    var MAX_ITER = 200;
-    var iter     = 0;
-    var _puladasAvulsasV102 = 0;   // V102 — disciplinas puladas nesta chamada por já terem cota feita
-    // V23 — subtemas pulados por falta de material nesta chamada.
-    var _pendentesSemBanco = [];
-
-    while (iter < MAX_ITER) {
-      iter++;
-
-      var disciplinaAtual = ponteiro.disciplina;
-      var itemFila = config.fila.find(function(f) { return f.disciplina === disciplinaAtual; });
-      var temMapa = !!(MAPA_DISTRIBUICAO_EDITAL && MAPA_DISTRIBUICAO_EDITAL[disciplinaAtual]);
-
-      if (!temMapa) {
-        return _obterBlocoLegado(disciplinaAtual, itemFila, config, estado, mapa, blacklist);
-      }
-
-      var temas = _getTemasOrdem(disciplinaAtual);
-      if (temas.length === 0) {
-        var proxDisc = _proximaDisciplina(disciplinaAtual, config);
-        if (!proxDisc) break;
-        ponteiro = { disciplina: proxDisc, tema: null, subtema: null, questoes_sessao: 0 };
-        _salvarPonteiro(ponteiro);
-        continue;
-      }
-
-      var temaAtual = ponteiro.tema;
-      if (!temaAtual || temas.indexOf(temaAtual) === -1) {
-        temaAtual = temas[0];
-        ponteiro.tema    = temaAtual;
-        ponteiro.subtema = null;
-        _salvarPonteiro(ponteiro);
-      }
-
-      var subtemasDoTema = _getSubtemasOrdem(disciplinaAtual, temaAtual);
-      var subtemaAtual   = ponteiro.subtema;
-      if (!subtemaAtual || subtemasDoTema.indexOf(subtemaAtual) === -1) {
-        subtemaAtual     = subtemasDoTema[0];
-        ponteiro.subtema = subtemaAtual;
-        _salvarPonteiro(ponteiro);
-      }
-
-      if (!subtemaAtual) {
-        var prox = _proximaPosicao(disciplinaAtual, temaAtual, '');
-        if (!prox) {
-          var proxD = _proximaDisciplina(disciplinaAtual, config);
-          if (!proxD) break;
-          ponteiro = { disciplina: proxD, tema: null, subtema: null, questoes_sessao: 0 };
-        } else {
-          ponteiro.tema    = prox.tema;
-          ponteiro.subtema = prox.subtema;
-        }
-        _salvarPonteiro(ponteiro);
-        continue;
-      }
-
-      // V86 — BUG: o bloco de revisão abaixo chamava _montarRetornoCiclo() com
-      // imp/gateMin/taxaAtual/gateOk ANTES de eles existirem. Por hoisting de
-      // `var` não dava erro: passava `undefined`, e todo bloco de revisão chegava
-      // à tela com importancia_subtema e gate zerados (barra do ciclo quebrada).
-      // O cálculo não depende de nada do bloco de revisão, então sobe para cá.
-      var dadosSub  = MAPA_DISTRIBUICAO_EDITAL[disciplinaAtual][temaAtual][subtemaAtual];
-      var imp       = dadosSub ? dadosSub.importancia : 'MÉDIO';
-      var gateMin   = GATE_IMPORTANCIA[imp] !== undefined ? GATE_IMPORTANCIA[imp] : 50;
-      var taxaAtual = _taxaSubtema(disciplinaAtual, temaAtual, subtemaAtual, estado);
-      var gateOk    = _gateAprovado(disciplinaAtual, temaAtual, subtemaAtual, estado);
-
-      // ══════════════════════════════════════════════════════════════
-      // V20.3 — BLOCO DE REVISÃO ESPAÇADA (intercalado)
-      // A cada 2 blocos de conteúdo novo, se houver questões vencidas nesta
-      // disciplina, serve um bloco de revisão ANTES de seguir em frente.
-      // É isto que transforma o percurso linear em ciclo de aprendizagem:
-      // o que o aluno já viu volta no intervalo certo, e o que ele errou
-      // volta antes (a ordenação prioriza atraso e depois nº de erros).
-      // ══════════════════════════════════════════════════════════════
-      var _mcRev = _motorCfg();                  // V22 — ambos configuráveis
-      var blocosDesdeRev = ponteiro.blocos_desde_revisao || 0;
-      if (blocosDesdeRev >= _mcRev.srs_blocos_entre) {
-        var devidas = _questoesDevidasRevisao(disciplinaAtual, mapa, estado, blacklist);
-        if (devidas.length >= _mcRev.srs_min_vencidas) {
-          var tamRev = itemFila ? (itemFila.qtd_bloco || 10) : 10;
-          var selRev = devidas.slice(0, tamRev);
-          ponteiro.blocos_desde_revisao = 0;
-          _salvarPonteiro(ponteiro);
-          Logger.log('[REVISAO] ' + selRev.length + ' questao(oes) vencida(s) servidas em ' + disciplinaAtual +
-                     ' (' + devidas.length + ' devidas no total)');
-          var retRev = _montarRetornoCiclo(selRev, disciplinaAtual, temaAtual, subtemaAtual,
-                                           imp, gateMin, taxaAtual, gateOk, itemFila, config);
-          retRev.bloco_revisao   = true;
-          retRev.devidas_total   = devidas.length;
-          retRev.msg_status      = '🔁 REVISÃO — ' + selRev.length + ' questão(ões) no ponto de revisar (' +
-                                   devidas.length + ' pendente(s) em ' + disciplinaAtual + ')';
-          return retRev;
-        }
-      }
-
-      var questoesSub = _questoesSubtemaDisponiveis(
-        disciplinaAtual, temaAtual, subtemaAtual, mapa, estado, blacklist
-      );
-
-      var ineditas = questoesSub.filter(function(q) { return !estado.respostas[q.idOriginal]; });
-      // V20.3 — antes, UM acerto tirava a questão do reforço na hora: bastava
-      // acertar por eliminação uma vez para o sistema considerar o erro superado.
-      // Agora, questão que já foi errada só sai do reforço com 2 acertos
-      // consecutivos — mesma lógica de "relearning" que o SRS já usava.
-      var erradas  = questoesSub.filter(function(q) {
-        var r = estado.respostas[q.idOriginal];
-        if (!r) return false;
-        if (!r.correta) return true;                                  // errou na última: reforça
-        var jaErrou = (estado.contadores_erro || {})[q.idOriginal] || 0;
-        if (jaErrou === 0) return false;                              // nunca errou: não é reforço
-        var t = estado.tempo_por_questao && estado.tempo_por_questao[q.idOriginal];
-        var consec = (t && t.acertos_consecutivos) ? t.acertos_consecutivos : 0;
-        return consec < _motorCfg().srs_acertos_erro;                 // V22 — configurável
-      });
-
-      // V86 — gateOk/dadosSub/imp/gateMin/taxaAtual já foram calculados acima,
-      // antes do bloco de revisão. Aqui fica só o tamanho do bloco.
-      var tamanhoBloco = itemFila ? (itemFila.qtd_bloco || 10) : 10;
-
-      // V102 — questões avulsas já feitas (e abrangidas pelo ciclo) abatem o bloco do dia.
-      var _tamBaseAvulsa = tamanhoBloco;
-      var _abAvulsa = _abaterAvulsasDoBlocoV102(itemFila, config, tamanhoBloco);
-      if (_abAvulsa.cumprido) {
-        // a peça inteira desta disciplina já foi feita por fora: segue para a próxima do dia
-        var _altAvulsa = (_puladasAvulsasV102 < config.fila.length)
-          ? _proximaPendenteDoDiaV102(config, itemFila, disciplinasValidas.map(function (f) { return f.disciplina; }))
-          : null;
-        if (_altAvulsa) {
-          _puladasAvulsasV102++;
-          Logger.log('[AVULSA-V102] ' + disciplinaAtual + ' já cumprida por avulsas → ' + _altAvulsa);
-          ponteiro = { disciplina: _altAvulsa, tema: null, subtema: null, questoes_sessao: 0 };
-          _salvarPonteiro(ponteiro);
-          continue;
-        }
-        tamanhoBloco = _tamBaseAvulsa;   // sem outra pendente no dia: serve o bloco normal
-      } else {
-        tamanhoBloco = _abAvulsa.tamanho;
-      }
-      var _abatidoRet = _abAvulsa.abatido;
-
-      var pesoEdital = 0;
-      if (dadosSub && dadosSub.distribuicao && dadosSub.distribuicao !== '-') {
-          pesoEdital = parseFloat(String(dadosSub.distribuicao).replace('%', '').replace(',', '.')) || 0;
-      }
-      var volumeMetaDisc = itemFila ? (itemFila.volume_total_meta || 1000) : 1000;
-      // V23 — era volume_total_meta × distribuicao%, inflando a meta pelo nº de
-      // temas da disciplina (9x a 34x na sua fila). Agora entra o peso do tema.
-      var metaQtd = _metaSubtemaV23(disciplinaAtual, temaAtual, subtemaAtual, volumeMetaDisc);
-
-      var feitasNoSubtema = 0;
-      var _tpqCiclo = estado.tempo_por_questao || {};   // V86 — estado antigo sem o mapa quebrava aqui
-      Object.keys(estado.respostas || {}).forEach(function(idQ) {
-         var tq = _tpqCiclo[idQ];
-         if (tq && tq.disciplina === disciplinaAtual && tq.tema === temaAtual && (tq.subtema || 'Geral') === subtemaAtual) {
-             feitasNoSubtema++;
-         }
-      });
-
-      var metaAtingida = (metaQtd > 0 && feitasNoSubtema >= metaQtd) || (ineditas.length === 0);
-
-      if (!gateOk && (erradas.length > 0 || ineditas.length > 0)) {
-        var selecionadas = [];
-        if (erradas.length > 0) {
-          selecionadas = embaralharArray(erradas).slice(0, tamanhoBloco);
-        }
-        if (selecionadas.length < tamanhoBloco && ineditas.length > 0) {
-          var faltam = tamanhoBloco - selecionadas.length;
-          selecionadas = selecionadas.concat(embaralharArray(ineditas).slice(0, faltam));
-        }
-        return _anexarAbatimentoV102(_montarRetornoCiclo(selecionadas, disciplinaAtual, temaAtual, subtemaAtual, imp, gateMin, taxaAtual, gateOk, itemFila, config), _abatidoRet, _tamBaseAvulsa);
-      }
-
-      if (!gateOk && erradas.length === 0 && ineditas.length === 0) {
-        // ════════════════════════════════════════════════════════════════════
-        // V23 — o ciclo PARAVA aqui e mandava o aluno para a Fábrica. Com 314
-        // subtemas de banco zero no edital carregado (a maioria CRÍTICO/ALTO/
-        // NOVO), cada um era uma parada obrigatória: na simulação o ciclo morria
-        // no 15º subtema de 2.051, mesmo com 57.174 questões no banco. Agora
-        // anota a pendência e SEGUE; só devolve erro_banco se a fila inteira
-        // não tiver material nenhum (ver a cauda do laço).
-        // ════════════════════════════════════════════════════════════════════
-        _pendentesSemBanco.push({
-          disciplina: disciplinaAtual,
-          tema:       temaAtual,
-          subtema:    subtemaAtual,
-          minimo:     tamanhoBloco
-        });
-        Logger.log('[CICLO-V23] sem material em ' + disciplinaAtual + ' / ' + subtemaAtual +
-                   ' — pulando (' + _pendentesSemBanco.length + ' pendente(s))');
-
-        var proxVazio = _proximaPosicao(disciplinaAtual, temaAtual, subtemaAtual);
-        if (!proxVazio) {
-          var proxDiscVazio = _proximaDisciplina(disciplinaAtual, config);
-          if (!proxDiscVazio) break;
-          ponteiro = { disciplina: proxDiscVazio, tema: null, subtema: null, questoes_sessao: 0 };
-        } else {
-          ponteiro.tema    = proxVazio.tema;
-          ponteiro.subtema = proxVazio.subtema;
-        }
-        _salvarPonteiro(ponteiro);
-        continue;
-      }
-
-      if (gateOk && !metaAtingida && ineditas.length > 0) {
-        var sel = embaralharArray(ineditas).slice(0, tamanhoBloco);
-        return _anexarAbatimentoV102(_montarRetornoCiclo(sel, disciplinaAtual, temaAtual, subtemaAtual, imp, gateMin, taxaAtual, gateOk, itemFila, config), _abatidoRet, _tamBaseAvulsa);
-      }
-
-      if (gateOk && metaAtingida) {
-        var proxPos = _proximaPosicao(disciplinaAtual, temaAtual, subtemaAtual);
-
-        if (!proxPos) {
-          var proxDiscNome = _proximaDisciplina(disciplinaAtual, config);
-          if (!proxDiscNome) {
-            _salvarPonteiro({ disciplina: disciplinasValidas[0].disciplina, tema: null, subtema: null, questoes_sessao: 0 });
-            _saveJsonToDrive(ARQUIVO_BLACKLIST_SESSAO, { ids: [], dia: new Date().toISOString().split('T')[0] });
-            return { fim_ciclo: true, msg_status: '🎉 Ciclo completo! Todos os subtemas concluídos. Reiniciando.' };
-          }
-          ponteiro = { disciplina: proxDiscNome, tema: null, subtema: null, questoes_sessao: 0 };
-          _salvarPonteiro(ponteiro);
-          continue; 
-        }
-
-        ponteiro.tema    = proxPos.tema;
-        ponteiro.subtema = proxPos.subtema;
-        _salvarPonteiro(ponteiro);
-        continue;
-      }
-    }
-
-    // V20.2 — a mensagem antiga culpava o banco de questoes mesmo quando o laco
-    // saia por `break` (fim da fila), o que confundia o diagnostico.
-    if (iter < MAX_ITER) {
-      // V23 — se o laço acabou e o que ele encontrou foram só posições sem
-      // banco, aí sim é caso de Fábrica — e apontando o PRIMEIRO subtema que
-      // travou, com o total de pendências, em vez de um subtema qualquer.
-      if (_pendentesSemBanco.length > 0) {
-        var _pr = _pendentesSemBanco[0];
-        return {
-          erro_banco:          true,
-          disciplina:          _pr.disciplina,
-          tema:                _pr.tema,
-          subtema:             _pr.subtema,
-          minimo_para_liberar: _pr.minimo || 10,
-          subtemas_sem_banco:  _pendentesSemBanco.length,
-          pendentes:           _pendentesSemBanco.slice(0, 20),
-          msg_status:   'Banco esgotado em ' + _pendentesSemBanco.length +
-                        ' subtema(s). Primeiro: ' + _pr.subtema,
-          instrucao:    'O ciclo já percorreu todo o resto do edital disponível. ' +
-                        'Gere questões inéditas para estes subtemas.'
-        };
-      }
-      return {
-        ciclo_concluido: true,
-        msg_status: 'Você percorreu todo o conteúdo disponível do ciclo.',
-        instrucao:  'Gere mais questões para as disciplinas da fila ou reinicie o ciclo para revisar.'
-      };
-    }
-    return { erro: 'O ciclo não convergiu após ' + MAX_ITER + ' passos — provavelmente não há questões disponíveis em nenhuma disciplina da fila.' };
+    // V104 — fila por peças, posição por disciplina e revisão global (ver _obterProximoBlocoV104).
+    return _obterProximoBlocoV104(config, estado, mapa, blacklist);
 
   } catch(e) {
     throw new Error(e.message);
@@ -10492,15 +10792,9 @@ function _montarRetornoCiclo(selecionadas, disciplina, tema, subtema, imp, gateM
   // ponteiros passam a andar juntos.
   if (typeof _sincronizarPonteiroFila === 'function') _sincronizarPonteiroFila(config, disciplina);
 
-  // V20.3 — conta os blocos de conteudo servidos desde a ultima revisao.
-  // Quem serve revisao zera esse contador antes de chamar esta funcao.
-  try {
-    var _pt = _lerPonteiro();
-    if (_pt && _pt.disciplina === disciplina) {
-      _pt.blocos_desde_revisao = (_pt.blocos_desde_revisao || 0) + 1;
-      _salvarPonteiro(_pt);
-    }
-  } catch (e) {}
+  // V104 — o contador de blocos desde a revisão NÃO anda mais aqui: servir não é
+  // concluir. Ele zerava (revisão) e somava +1 no mesmo bloco, e a revisão voltava
+  // a cada 1 bloco em vez de 2. Agora só _registrarPecaV104 (fim de bloco) conta.
 
   // Meta da sessão = soma dos blocos do grupo do dia
   var metaSessao = 0;
@@ -10574,37 +10868,61 @@ function _obterBlocoLegado(disciplina, itemFila, config, estado, mapa, blacklist
 function registrarFimBloco(dados) {
   try {
     var estado   = carregarEstadoUsuario() || { respostas: {}, contadores_erro: {}, tempo_por_questao: {} };
+    if (!estado.respostas)         estado.respostas         = {};
+    if (!estado.contadores_erro)   estado.contadores_erro   = {};
+    if (!estado.tempo_por_questao) estado.tempo_por_questao = {};
     var precisaSalvarEstado = false;
 
-    if (dados.novas_respostas && Object.keys(dados.novas_respostas).length > 0) {
-      if (!estado.respostas)       estado.respostas       = {};
-      if (!estado.contadores_erro) estado.contadores_erro = {};
+    // ══════════════════════════════════════════════════════════════
+    // V104 — CONTEÚDO NOVO ≠ REVISÃO (o critério da V20.8 nunca funcionava)
+    // A V20.8 classificava como "revisão" toda questão que já estava em
+    // estado.respostas. Mas o ciclo grava CADA resposta na hora (auto-save via
+    // pausarESalvarCiclo), então no fim do bloco TODAS já estavam lá: o bloco
+    // inteiro virava "revisão", volume_realizado nunca subia e o erro de cada
+    // questão errada era contado DUAS vezes (auto-save + fim de bloco).
+    // Agora:
+    //   • a resposta traz `era_revisao` (gravado pelo front no momento da
+    //     resposta, ANTES de sobrescrever o estado); sem a marca, vale o
+    //     critério antigo;
+    //   • resposta já persistida pelo auto-save (mesma data_resposta) não
+    //     conta erro de novo;
+    //   • cada questão é atribuída à SUA disciplina (bloco de revisão mistura
+    //     disciplinas).
+    // ══════════════════════════════════════════════════════════════
+    var temposPorId = {};
+    (dados.tempos_questoes || []).forEach(function(t) { if (t && t.id) temposPorId[t.id] = t.dados || {}; });
 
-      var idsRecentes = Object.keys(dados.novas_respostas);
+    var porDisc = {};   // disciplina -> { total, acertos, novas, revisao, ids: [] }
+    var discDaQuestao = function(id) {
+      var t = temposPorId[id] || estado.tempo_por_questao[id] || {};
+      var d = t.disciplina ? (_disciplinaDoEdital(t.disciplina) || t.disciplina) : null;
+      return d || dados.disciplina;
+    };
 
-      // ══════════════════════════════════════════════════════════════
-      // V20.8 — CONTEÚDO NOVO ≠ REVISÃO
-      // `volume_realizado` é comparado com `volume_total_meta`, que foi calculado
-      // na criação como a fatia de CONTEÚDO A COBRIR daquela disciplina. Mas era
-      // incrementado por `dados.total`, que conta TODA resposta do bloco.
-      // Antes da revisão espaçada (V20.3) o aluno quase não repetia e a distorção
-      // era pequena; agora ele repete muito, e a disciplina bateria a meta e iria
-      // para STANDBY sem ter coberto o conteúdo. Contamos separado.
-      // ══════════════════════════════════════════════════════════════
-      var _qtdNovas = 0, _qtdRevisao = 0;
+    var idsRecentes = Object.keys(dados.novas_respostas || {});
+    if (idsRecentes.length > 0) {
       idsRecentes.forEach(function(id) {
-        if (estado.respostas[id] !== undefined) _qtdRevisao++; else _qtdNovas++;
-        estado.respostas[id] = dados.novas_respostas[id];
-        if (!dados.novas_respostas[id].correta) {
+        var nova = dados.novas_respostas[id];
+        var tNovo = temposPorId[id] || {};
+        var tSalvo = estado.tempo_por_questao[id];
+        var jaPersistida = !!(tSalvo && tNovo.data_resposta && tSalvo.data_resposta === tNovo.data_resposta &&
+                              estado.respostas[id]);
+        var ehRevisao = (typeof tNovo.era_revisao === 'boolean')
+          ? tNovo.era_revisao
+          : (!jaPersistida && estado.respostas[id] !== undefined);
+        if (dados.bloco_revisao) ehRevisao = true;
+
+        var d = discDaQuestao(id);
+        var g = porDisc[d] || (porDisc[d] = { total: 0, acertos: 0, novas: 0, revisao: 0, ids: [] });
+        g.total++; if (nova && nova.correta) g.acertos++;
+        if (ehRevisao) g.revisao++; else g.novas++;
+        g.ids.push(id);
+
+        if (!jaPersistida && nova && !nova.correta) {
           estado.contadores_erro[id] = (estado.contadores_erro[id] || 0) + 1;
         }
+        estado.respostas[id] = nova;
       });
-      dados._qtd_novas   = _qtdNovas;
-      dados._qtd_revisao = _qtdRevisao;
-      if (_qtdRevisao > 0) {
-        Logger.log('[FIM-BLOCO] ' + _qtdNovas + ' nova(s) + ' + _qtdRevisao +
-                   ' de revisão (só as novas contam para a meta da disciplina).');
-      }
 
       var blObj  = _blacklistDoDia();
       blObj.ids  = blObj.ids.concat(idsRecentes);
@@ -10613,7 +10931,6 @@ function registrarFimBloco(dados) {
     }
 
     if (dados.tempos_questoes && Array.isArray(dados.tempos_questoes)) {
-      if (!estado.tempo_por_questao) estado.tempo_por_questao = {};
       dados.tempos_questoes.forEach(function(t) {
         estado.tempo_por_questao[t.id] = t.dados;
       });
@@ -10625,134 +10942,100 @@ function registrarFimBloco(dados) {
       salvarEstadoUsuario(estado);
     }
 
-    var hist = carregarHistoricoDesempenho();
-    hist.historico_diario.push({
-      data:                  new Date().toISOString(),
-      disciplina:            dados.disciplina,
-      acertos:               dados.acertos,
-      questoes_respondidas:  dados.total
-    });
+    // Bloco sem respostas detalhadas (chamada antiga): tudo na disciplina do bloco.
+    if (!Object.keys(porDisc).length && (Number(dados.total) || 0) > 0) {
+      porDisc[dados.disciplina] = { total: Number(dados.total) || 0, acertos: Number(dados.acertos) || 0,
+                                    novas: dados.bloco_revisao ? 0 : (Number(dados.total) || 0),
+                                    revisao: dados.bloco_revisao ? (Number(dados.total) || 0) : 0, ids: [] };
+    }
+    var totNovas = 0, totRev = 0;
+    Object.keys(porDisc).forEach(function(d) { totNovas += porDisc[d].novas; totRev += porDisc[d].revisao; });
+    dados._qtd_novas = totNovas;
+    dados._qtd_revisao = totRev;
+    if (totRev > 0) Logger.log('[FIM-BLOCO] ' + totNovas + ' nova(s) + ' + totRev + ' de revisão.');
 
+    var hist = carregarHistoricoDesempenho();
+    if (!hist.historico_diario)                hist.historico_diario = [];
+    if (!hist.acumulado_por_disciplina)        hist.acumulado_por_disciplina = {};
     if (!hist.modo_ciclo)                      hist.modo_ciclo = { total_questoes: 0, total_acertos: 0, por_disciplina: {} };
+    if (!hist.modo_ciclo.por_disciplina)       hist.modo_ciclo.por_disciplina = {};
     if (!hist.questoes_unicas_contabilizadas)  hist.questoes_unicas_contabilizadas = {};
 
-    var novasUnicasIds = Object.keys(dados.novas_respostas || {}).filter(function(id) {
-      return !hist.questoes_unicas_contabilizadas[id];
+    var agora = new Date().toISOString();
+    Object.keys(porDisc).forEach(function(d) {
+      var g = porDisc[d];
+      hist.historico_diario.push({
+        data:                  agora,
+        disciplina:            d,
+        acertos:               g.acertos,
+        questoes_respondidas:  g.total,
+        erros:                 g.total - g.acertos,
+        revisoes:              g.revisao
+      });
+
+      var unicas = g.ids.filter(function(id) { return !hist.questoes_unicas_contabilizadas[id]; });
+      var unicasAcertos = unicas.filter(function(id) {
+        return dados.novas_respostas[id] && dados.novas_respostas[id].correta;
+      }).length;
+      g.ids.forEach(function(id) { hist.questoes_unicas_contabilizadas[id] = true; });
+
+      if (!hist.acumulado_por_disciplina[d])  hist.acumulado_por_disciplina[d]  = { total: 0, acertos: 0, percentual: 0 };
+      if (!hist.modo_ciclo.por_disciplina[d]) hist.modo_ciclo.por_disciplina[d] = { total: 0, acertos: 0, percentual: 0 };
+      var acc = hist.acumulado_por_disciplina[d];
+      acc.total   += unicas.length;
+      acc.acertos += unicasAcertos;
+      if (acc.total > 0) acc.percentual = Math.round((acc.acertos / acc.total) * 100);
+
+      var mc = hist.modo_ciclo.por_disciplina[d];
+      hist.modo_ciclo.total_questoes += g.total;
+      hist.modo_ciclo.total_acertos  += g.acertos;
+      mc.total   += g.total;
+      mc.acertos += g.acertos;
+      if (mc.total > 0) mc.percentual = Math.round((mc.acertos / mc.total) * 100);
     });
-    var novasUnicasAcertos = novasUnicasIds.filter(function(id) {
-      return dados.novas_respostas[id] && dados.novas_respostas[id].correta;
-    }).length;
-
-    Object.keys(dados.novas_respostas || {}).forEach(function(id) {
-      hist.questoes_unicas_contabilizadas[id] = true;
-    });
-
-    var d = dados.disciplina;
-    if (!hist.acumulado_por_disciplina[d])       hist.acumulado_por_disciplina[d]       = { total: 0, acertos: 0, percentual: 0 };
-    if (!hist.modo_ciclo.por_disciplina[d])      hist.modo_ciclo.por_disciplina[d]      = { total: 0, acertos: 0, percentual: 0 };
-
-    var acc = hist.acumulado_por_disciplina[d];
-    acc.total   += novasUnicasIds.length;
-    acc.acertos += novasUnicasAcertos;
-    if (acc.total > 0) acc.percentual = Math.round((acc.acertos / acc.total) * 100);
-
-    hist.modo_ciclo.total_questoes += dados.total;
-    hist.modo_ciclo.total_acertos  += dados.acertos;
-    hist.modo_ciclo.por_disciplina[d].total   += dados.total;
-    hist.modo_ciclo.por_disciplina[d].acertos += dados.acertos;
-    if (hist.modo_ciclo.por_disciplina[d].total > 0) {
-      hist.modo_ciclo.por_disciplina[d].percentual = Math.round(
-        (hist.modo_ciclo.por_disciplina[d].acertos / hist.modo_ciclo.por_disciplina[d].total) * 100
-      );
-    }
 
     _saveJsonComInvalidacao(ARQUIVO_HISTORICO, hist, 'HIST_DESEMP');
     descartarSessaoSuspensa();
 
-    var config3  = carregarConfiguracaoCiclo();
-    var itemFila = config3.fila ? config3.fila.find(function(f) { return f.disciplina === d; }) : null;
-    var ponteiro = _lerPonteiro();
+    var config3 = carregarConfiguracaoCiclo();
 
-    if (
-      ponteiro.disciplina === d &&
-      ponteiro.tema       &&
-      ponteiro.subtema    &&
-      MAPA_DISTRIBUICAO_EDITAL &&
-      MAPA_DISTRIBUICAO_EDITAL[d]
-    ) {
-      var gateOk = _gateAprovado(ponteiro.disciplina, ponteiro.tema, ponteiro.subtema, estado);
+    // Volume por disciplina: só o conteúdo NOVO cobre a meta; revisão fica à parte.
+    var indiceFim = null;
+    Object.keys(porDisc).forEach(function(d) {
+      var itemFila = config3.fila ? config3.fila.find(function(f) { return f.disciplina === d; }) : null;
+      if (!itemFila) return;
+      var g = porDisc[d];
+      itemFila.volume_realizado   = (itemFila.volume_realizado   || 0) + g.novas;
+      itemFila.volume_revisao     = (itemFila.volume_revisao     || 0) + g.revisao;
+      itemFila.volume_respostas   = (itemFila.volume_respostas   || 0) + g.total;
+      itemFila.ultima_data_estudo = agora;
 
-      var pesoEdital = 0;
-      var dadosSub = MAPA_DISTRIBUICAO_EDITAL[ponteiro.disciplina][ponteiro.tema][ponteiro.subtema];
-      if (dadosSub && dadosSub.distribuicao && dadosSub.distribuicao !== '-') {
-          pesoEdital = parseFloat(String(dadosSub.distribuicao).replace('%', '').replace(',', '.')) || 0;
-      }
-      var volumeMetaDisc = itemFila ? (itemFila.volume_total_meta || 1000) : 1000;
-      // V23 — mesma correção do obterProximoBlocoCiclo: é aqui que o ponteiro
-      // decide avançar de subtema, então a meta precisa ser a mesma dos dois lados.
-      var metaQtd = _metaSubtemaV23(ponteiro.disciplina, ponteiro.tema, ponteiro.subtema, volumeMetaDisc);
-
-      var feitasNoSubtema = 0;
-      var _tpqFim = estado.tempo_por_questao || {};     // V86 — mesma guarda do obterProximoBlocoCiclo
-      Object.keys(estado.respostas || {}).forEach(function(idQ) {
-         var tq = _tpqFim[idQ];
-         if (tq && tq.disciplina === ponteiro.disciplina && tq.tema === ponteiro.tema && (tq.subtema || 'Geral') === ponteiro.subtema) {
-             feitasNoSubtema++;
-         }
-      });
-
-      var mapa      = listarArquivosRapido();
-      var blObj2    = _blacklistDoDia();
-      var blacklist2 = new Set(blObj2.ids);
-      var questoesSub = _questoesSubtemaDisponiveis(ponteiro.disciplina, ponteiro.tema, ponteiro.subtema, mapa, estado, blacklist2);
-      var ineditas = questoesSub.filter(function(q) { return !estado.respostas[q.idOriginal]; });
-
-      var metaAtingida = (metaQtd > 0 && feitasNoSubtema >= metaQtd) || (ineditas.length === 0);
-
-      if (gateOk && metaAtingida) {
-        var proxPos = _proximaPosicao(ponteiro.disciplina, ponteiro.tema, ponteiro.subtema);
-        if (proxPos) {
-          Logger.log('[FIM-BLOCO] Gate + Meta atingidos. Avançando: ' + ponteiro.subtema + ' → ' + proxPos.subtema);
-          ponteiro.tema    = proxPos.tema;
-          ponteiro.subtema = proxPos.subtema;
-        } else {
-          var proxDisc = _proximaDisciplina(ponteiro.disciplina, config3);
-          if (proxDisc) {
-            Logger.log('[FIM-BLOCO] Disciplina concluída. Avançando para: ' + proxDisc);
-            ponteiro.disciplina = proxDisc;
-            ponteiro.tema       = null;
-            ponteiro.subtema    = null;
-          }
+      // V104 — STANDBY = disciplina com TODOS os subtemas concluídos (meta + gate).
+      // Antes era volume_realizado >= volume_total_meta: questões extras de reforço
+      // do gate faziam a disciplina "acabar" com subtemas ainda pendentes.
+      if (MAPA_DISTRIBUICAO_EDITAL && MAPA_DISTRIBUICAO_EDITAL[d]) {
+        if (!indiceFim) indiceFim = _indiceRespostasV104(estado);
+        var marcos = (_lerPonteiro() || {}).marcos || {};
+        var aindaTem = _posicaoDisciplinaV104(d, itemFila, indiceFim, marcos[d]);
+        var novoStatus = aindaTem ? 'PENDENTE' : 'STANDBY';
+        if (itemFila.status_ciclo !== novoStatus) {
+          Logger.log('[FIM-BLOCO] ' + d + ' → ' + novoStatus);
+          itemFila.status_ciclo = novoStatus;
         }
-        _salvarPonteiro(ponteiro);
-      }
-    }
-
-    if (itemFila) {
-      // V20.8 — só o conteúdo NOVO avança a meta de cobertura da disciplina.
-      // A revisão é registrada à parte: é esforço real do aluno e precisa
-      // aparecer nas estatísticas, mas não é conteúdo novo coberto.
-      var _novas = (typeof dados._qtd_novas === 'number') ? dados._qtd_novas : (dados.total || 0);
-      var _rev   = (typeof dados._qtd_revisao === 'number') ? dados._qtd_revisao : 0;
-
-      itemFila.volume_realizado   = (itemFila.volume_realizado   || 0) + _novas;
-      itemFila.volume_revisao     = (itemFila.volume_revisao     || 0) + _rev;
-      itemFila.volume_respostas   = (itemFila.volume_respostas   || 0) + (dados.total || 0);
-      itemFila.ultima_data_estudo = new Date().toISOString();
-
-      if (itemFila.volume_realizado >= itemFila.volume_total_meta) {
+      } else if (itemFila.volume_realizado >= itemFila.volume_total_meta) {
         itemFila.status_ciclo = 'STANDBY';
-        Logger.log('[FIM-BLOCO] ' + itemFila.disciplina + ' atingiu a meta de cobertura (' +
-                   itemFila.volume_realizado + '/' + itemFila.volume_total_meta + ') → STANDBY.');
       }
-      salvarConfiguracaoCiclo(config3);
-    }
+    });
+    salvarConfiguracaoCiclo(config3);
+
+    // V104 — a peça da fila anda aqui (fim de bloco), não ao servir.
+    try { _registrarPecaV104(config3, dados); } catch (eP) { Logger.log('[FIM-BLOCO] ponteiro: ' + eP.message); }
 
     _agendarReconstrucaoCache();
     _invalidarCacheEstrutura();
     invalidarCacheDossie();
 
-    return { sucesso: true, ciclo_concluido: false };
+    return { sucesso: true, ciclo_concluido: false, novas: totNovas, revisao: totRev };
 
   } catch(e) {
     throw new Error(e.message);
@@ -10953,11 +11236,9 @@ function _contabilizarAvulsaNoCicloV102(p) {
       item.volume_realizado = (item.volume_realizado || 0) + 1;
       if (item.status_ciclo !== 'STANDBY') item.credito_avulso = (item.credito_avulso || 0) + 1;
       tipo = 'nova';
-      if (item.volume_total_meta > 0 && item.volume_realizado >= item.volume_total_meta && item.status_ciclo !== 'STANDBY') {
-        item.status_ciclo = 'STANDBY';
-        item.credito_avulso = 0;   // V103 — disciplina inteira cumprida: não sobra bloco a abater
-        Logger.log('[AVULSA-V102] ' + item.disciplina + ' atingiu a meta de cobertura → STANDBY.');
-      }
+      // V104 — STANDBY não é mais decidido por volume (questões extras de reforço do
+      // gate "fechavam" a disciplina com subtemas pendentes). Quem decide é
+      // registrarFimBloco, pela posição didática (todos os subtemas concluídos).
     } else {
       item.volume_revisao = (item.volume_revisao || 0) + 1;
       tipo = 'revisao';
@@ -11113,7 +11394,10 @@ try {
   }
   var INTERVALOS_REVISAO = (function(){ try { return _motorCfg().srs_intervalos; }
                                         catch(e) { return [1, 3, 7, 14, 30]; } })();   // V22
-  var idxIntervalo = Math.min(acertosConsecutivos, INTERVALOS_REVISAO.length - 1);
+  // V104 — mesma tabela e mesmo índice do ciclo (JavaScript.html, responder()):
+  // erro → 1º intervalo; n-ésimo acerto seguido → intervalo n. Antes o 1º acerto
+  // aqui caía no 2º intervalo (3 dias) e no ciclo no 1º: duas regras para a mesma questão.
+  var idxIntervalo = Math.min(Math.max(acertosConsecutivos - 1, 0), INTERVALOS_REVISAO.length - 1);
   var diasAteRevisao = INTERVALOS_REVISAO[idxIntervalo];
   var dataRevisao = new Date();
   dataRevisao.setDate(dataRevisao.getDate() + diasAteRevisao);
@@ -12371,11 +12655,29 @@ try {
 
 function _getTemasOrdem(disciplina) {
   if (!MAPA_DISTRIBUICAO_EDITAL || !MAPA_DISTRIBUICAO_EDITAL[disciplina]) return [];
-  return Object.keys(MAPA_DISTRIBUICAO_EDITAL[disciplina]).sort(function(a, b) {
+  var base = Object.keys(MAPA_DISTRIBUICAO_EDITAL[disciplina]).sort(function(a, b) {
     var numA = parseInt((a.match(/^\d+/) || ['0'])[0], 10);
     var numB = parseInt((b.match(/^\d+/) || ['0'])[0], 10);
     return numA - numB;
   });
+  // V104 — ordem didática (Config.gs: ORDEM_DIDATICA). Só reordena; nomes intactos.
+  var od = _ordemDidaticaV104(disciplina);
+  if (!od || !Array.isArray(od.temas) || !od.temas.length) return base;
+  var pos = {};
+  od.temas.forEach(function(n, i) { pos[String(parseInt(n, 10))] = i; });
+  return base.map(function(t, i) {
+    var n = _numTemaV23(t);
+    return { t: t, k: (n !== null && pos[n] !== undefined) ? pos[n] : od.temas.length + i };
+  }).sort(function(a, b) { return a.k - b.k; }).map(function(x) { return x.t; });
+}
+
+// V104 — leitor da ORDEM_DIDATICA (Config.gs). Sem a constante, devolve null e
+// tudo segue na ordem do mapa.
+function _ordemDidaticaV104(disciplina) {
+  try {
+    if (typeof ORDEM_DIDATICA === 'undefined' || !ORDEM_DIDATICA) return null;
+    return ORDEM_DIDATICA[disciplina] || null;
+  } catch (e) { return null; }
 }
 
 function obterFilaFabricaQuestoes(disciplina, modoGeracao, filtroAulaNum) {
@@ -15525,7 +15827,7 @@ function aplicarAdequacaoEdital() {
 
 var DATA_ALVO_PLANO_V100 = '2027-01-10';   // último dia do plano (a prova é em 17/01/2027)
 var ID_TEMPLATE_TRT8_V100 = 'AGENTE_PJ_TRT8';
-var NOME_TEMPLATE_TRT8_V100 = 'Agente da Polícia Judicial — TRT-8 (Edital 01/2026)';
+var NOME_TEMPLATE_TRT8_V100 = 'Agente de Polícia Judicial 2027';   // V104 — nome do edital (o id do template não muda)
 
 // Nível de proficiência inicial por disciplina (0 = nunca estudou … 10 = acerta 90%).
 var NIVEIS_PADRAO_TRT8_V100 = {
