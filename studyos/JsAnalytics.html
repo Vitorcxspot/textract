@@ -1,0 +1,1935 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     StudyOS — JsAnalytics.html
+     Estatísticas, gráficos, KPIs, insights, tempo de estudo e dashboards.
+
+     Este arquivo SÓ DECLARA funções. Nada aqui executa sozinho.
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<script>
+
+
+
+
+function renderizarRankingUrgencia(rankingDados) {
+  var container = document.getElementById('container-ranking-urgencia');
+  if (!container) return;
+  
+  if (!rankingDados || rankingDados.length === 0) {
+    container.innerHTML = '<div class="empty-state"><div class="ico">📊</div><h3>Sem Dados</h3><p>Inicie o ciclo ou gere um novo planejamento para calcular o ranking.</p></div>';
+    return;
+  }
+  
+  var html = `
+    <div style="background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px; box-shadow:var(--shadow-sm);">
+      <div style="margin-bottom:20px;">
+        <h3 style="margin:0; font-size:16px; font-weight:800; color:var(--text); letter-spacing:-0.3px;">Fila de Urgência Dinâmica</h3>
+        <p style="margin:4px 0 0 0; font-size:12px; color:var(--text-2);">Ordem de prioridade baseada em peso, acertos, revisões e tempo inativo.</p>
+      </div>
+      <div style="display:flex; flex-direction:column; gap:12px;">
+  `;
+  
+  var maxScore = Math.max.apply(null, rankingDados.map(function(r){return r.score;}));
+  if (maxScore <= 0) maxScore = 1;
+  
+  rankingDados.forEach(function(item, idx) {
+    var pct = Math.min(100, Math.max(2, Math.round((item.score / maxScore) * 100)));
+    var corPrimaria = item.taxa < 60 ? "#ef4444" : (item.taxa > 80 ? "#10b981" : "#f59e0b");
+    var corFundo = item.taxa < 60 ? "#fee2e2" : (item.taxa > 80 ? "#d1fae5" : "#fef3c7");
+    
+    html += `
+      <div style="display:flex; align-items:center; gap:16px; padding:12px; background:var(--bg); border-radius:12px; border:1px solid var(--border-light); transition:transform 0.2s;">
+        <div style="width:32px; height:32px; border-radius:8px; background:${corFundo}; color:${corPrimaria}; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:13px; flex-shrink:0;">
+          ${idx + 1}º
+        </div>
+        <div style="flex:1; min-width:0;">
+          <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:6px;">
+            <span style="font-size:13px; font-weight:700; color:var(--text); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; padding-right:8px;">
+              ${item.disciplina}
+            </span>
+            <span style="font-size:11px; font-weight:800; font-family:var(--mono); color:var(--text-3);">
+              Pts: ${item.score}
+            </span>
+          </div>
+          <div style="width:100%; height:6px; background:var(--border); border-radius:4px; overflow:hidden; margin-bottom:6px;">
+            <div style="height:100%; width:${pct}%; background:${corPrimaria}; border-radius:4px;"></div>
+          </div>
+          <div style="display:flex; gap:12px; font-size:10px; font-weight:600; color:var(--text-3); text-transform:uppercase; letter-spacing:0.5px;">
+            <span>Taxa: <span style="color:${corPrimaria};">${item.taxa}%</span></span>
+            <span>Inativo: <span style="color:var(--text-2);">${item.dias_sem_estudar}d</span></span>
+            ${item.revisoes_vencidas > 0 ? `<span style="color:#8b5cf6;">Rev. Pends: ${item.revisoes_vencidas}</span>` : ''}
+          </div>
+        </div>
+      </div>
+    `;
+  });
+  
+  html += `
+      </div>
+    </div>
+  `;
+  
+  container.innerHTML = html;
+} 
+
+function carregarDashboardFinanceiro() {
+  const containerDash = document.getElementById('fin-dashboard-container');
+  const containerGrid = document.getElementById('fin-modelos-grid');
+  
+  if (!containerDash || !containerGrid) {
+    console.error("[FINANCEIRO] Elementos HTML não encontrados. Verifique se colou o HTML corretamente.");
+    return;
+  }
+  
+  containerDash.innerHTML = '<div class="empty-state"><div class="spinner"></div> Calculando matriz de custos...</div>';
+  console.log('%c[FINANCEIRO] Solicitando relatório e matriz de tokens...', 'color:#22d3ee;font-weight:bold');
+
+  google.script.run
+    .withSuccessHandler(function(res) {
+      if (!res.sucesso) {
+        containerDash.innerHTML = `<div class="empty-state">Nenhum dado de uso registrado ainda. Realize uma requisição à IA primeiro.</div>`;
+        containerGrid.innerHTML = `<div class="empty-state" style="padding:10px;">Aguardando primeira chamada de API...</div>`;
+        return;
+      }
+      
+      const dados = res.dados;
+      const cfg = dados.config || {};
+      const cotacao = cfg.cotacao_dolar || 5.50;
+      
+      document.getElementById('fin-cotacao').value = cotacao;
+
+      // 1. Tabela de Preços Atualizada (Baseada nos Prints do AI Studio)
+      const modelosPadrao = {
+        "gemini-3.6-flash": { in: 1.50, out: 7.50 },
+        "gemini-3.5-flash": { in: 1.50, out: 9.00 },
+        "gemini-3.5-flash-lite": { in: 0.30, out: 2.50 },
+        "gemini-3.1-pro-preview": { in: 2.00, out: 12.00 },
+        "gemini-3.1-flash-live-preview": { in: 3.00, out: 12.00 }, // Preço do Áudio Live
+        "gemini-2.5-flash-native-audio": { in: 0.075, out: 0.30 },
+        "gemini-3-flash-preview": { in: 0.075, out: 0.30 }
+      };
+
+      cachePrecosModelos = cfg.precos_modelos || modelosPadrao;
+      
+      Object.keys(dados.uso_por_modelo || {}).forEach(mdl => {
+        if (!cachePrecosModelos[mdl]) {
+          cachePrecosModelos[mdl] = { in: 0, out: 0 };
+        }
+      });
+
+      // 2. Renderizar Tabela de Inputs
+      let htmlGrid = `
+        <div style="display:grid; grid-template-columns: 2fr 1fr 1fr; gap:12px; padding:0 10px 8px 10px; border-bottom:1px solid var(--border); font-size:9px; font-weight:800; color:var(--text-3); text-transform:uppercase;">
+          <div>Nome do Modelo API</div>
+          <div style="text-align:center;">Input (U$)</div>
+          <div style="text-align:center;">Output (U$)</div>
+        </div>
+      `;
+
+      Object.keys(cachePrecosModelos).sort().forEach(mdl => {
+        const preco = cachePrecosModelos[mdl];
+        const isPremium = mdl.includes('3.1');
+        const color = isPremium ? 'color:var(--accent); font-weight:700;' : 'color:var(--text);';
+        
+        htmlGrid += `
+          <div style="display:grid; grid-template-columns: 2fr 1fr 1fr; gap:12px; align-items:center; background:var(--bg); padding:8px 12px; border-radius:8px; border:1px solid var(--border-light);">
+            <div style="font-size:12px; font-family:var(--mono); ${color} word-break:break-all;">${mdl}</div>
+            <div>
+              <input type="number" class="fin-input-in" data-modelo="${mdl}" value="${preco.in}" step="0.001" style="width:100%; text-align:center; padding:6px; border:1px solid var(--border); border-radius:6px; font-family:var(--mono); font-size:12px; outline:none; background:var(--surface); color:var(--text);">
+            </div>
+            <div>
+              <input type="number" class="fin-input-out" data-modelo="${mdl}" value="${preco.out}" step="0.001" style="width:100%; text-align:center; padding:6px; border:1px solid var(--border); border-radius:6px; font-family:var(--mono); font-size:12px; outline:none; background:var(--surface); color:var(--text);">
+            </div>
+          </div>
+        `;
+      });
+      containerGrid.innerHTML = htmlGrid;
+
+      // 3. Calcular Gastos Exatos
+      let totalInUsd = 0;
+      let totalOutUsd = 0;
+
+      Object.keys(dados.uso_por_modelo || {}).forEach(mdl => {
+        const uso = dados.uso_por_modelo[mdl];
+        const precos = cachePrecosModelos[mdl] || { in: 0, out: 0 };
+        
+        totalInUsd += (uso.prompt / 1000000) * precos.in;
+        totalOutUsd += (uso.output / 1000000) * precos.out;
+      });
+
+      const totalUsd = totalInUsd + totalOutUsd;
+      const totalBrl = totalUsd * cotacao;
+
+      // 4. Renderizar o Dashboard Final
+      let htmlDash = `
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
+          <div style="background:var(--bg); border:1px solid var(--border); padding:16px; border-radius:12px; text-align:center; position:relative; overflow:hidden;">
+            <div style="font-size:11px; font-weight:700; color:var(--text-3); text-transform:uppercase;">Custo Total (USD)</div>
+            <div style="font-size:26px; font-weight:900; color:var(--text); font-family:var(--mono); margin:4px 0;">$${totalUsd.toFixed(4)}</div>
+            <div style="font-size:11px; color:var(--text-2); font-family:var(--mono);">In: $${totalInUsd.toFixed(4)} | Out: $${totalOutUsd.toFixed(4)}</div>
+          </div>
+          <div style="background:linear-gradient(135deg, var(--accent-light), #e0f2fe); border:1px solid rgba(44,62,80,.2); padding:16px; border-radius:12px; text-align:center; box-shadow:var(--shadow-sm);">
+            <div style="font-size:11px; font-weight:800; color:var(--accent); text-transform:uppercase;">Gasto Real Estimado</div>
+            <div style="font-size:26px; font-weight:900; color:#0369a1; font-family:var(--mono); margin:4px 0;">R$ ${totalBrl.toFixed(2)}</div>
+            <div style="font-size:10px; font-weight:600; color:var(--text-2); opacity:0.8;">Cotação ativa: R$ ${cotacao.toFixed(2)}</div>
+          </div>
+        </div>
+
+        <div style="margin-top:16px;">
+          <h4 style="font-size:12px; font-weight:800; text-transform:uppercase; color:var(--text-3); margin-bottom:10px; display:flex; align-items:center; gap:6px;">
+            <svg viewBox="0 0 24 24" width="14" height="14" style="stroke:currentColor;fill:none;stroke-width:2;"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            Detalhamento por Funcionalidade
+          </h4>
+          <div style="display:flex; flex-direction:column; gap:8px;">
+      `;
+
+      const custoMedioPorToken = (dados.total_acumulado.prompt + dados.total_acumulado.output) > 0 
+        ? totalUsd / (dados.total_acumulado.prompt + dados.total_acumulado.output) 
+        : 0;
+
+      const contextos = Object.keys(dados.uso_por_contexto || {}).sort((a,b) => {
+        return (dados.uso_por_contexto[b].prompt + dados.uso_por_contexto[b].output) - 
+               (dados.uso_por_contexto[a].prompt + dados.uso_por_contexto[a].output);
+      });
+
+      contextos.forEach(ctx => {
+        const c = dados.uso_por_contexto[ctx];
+        const tokensTotaisCtx = c.prompt + c.output;
+        const cTotalUsd = tokensTotaisCtx * custoMedioPorToken;
+        const cTotalBrl = cTotalUsd * cotacao;
+
+        htmlDash += `
+          <div style="background:var(--surface); border:1px solid var(--border-light); padding:12px 14px; border-radius:8px; display:flex; justify-content:space-between; align-items:center; transition:transform 0.2s;">
+            <div>
+              <div style="font-size:13px; font-weight:800; color:var(--text); letter-spacing:-0.2px;">${ctx}</div>
+              <div style="font-size:10px; font-weight:600; color:var(--text-3); margin-top:2px;">
+                ${c.chamadas} requisições feitas
+              </div>
+            </div>
+            <div style="text-align:right;">
+              <div style="font-size:13px; font-weight:900; color:var(--text); font-family:var(--mono);">R$ ${cTotalBrl.toFixed(2)}</div>
+              <div style="font-size:10px; font-weight:500; color:var(--text-2); font-family:var(--mono); margin-top:2px;">
+                ${(tokensTotaisCtx / 1000).toFixed(1)}k tokens
+              </div>
+            </div>
+          </div>
+        `;
+      });
+
+      if (contextos.length === 0) {
+        htmlDash += `<div style="text-align:center;padding:24px;color:var(--text-3);font-size:12px;background:var(--surface);border:1px solid var(--border);border-radius:10px;">
+          Nenhuma chamada de API registrada ainda. Os gastos aparecerão aqui após o primeiro uso da IA.
+        </div>`;
+      }
+
+      htmlDash += `</div></div>`;
+      containerDash.innerHTML = htmlDash;
+      containerDash.style.minHeight = 'auto';
+    })
+    .withFailureHandler(function(e) {
+      containerDash.innerHTML = `<div class="empty-state" style="color:var(--red)">Erro ao ler BD financeiro: ${((e && e.message) ? e.message : String(e))}</div>`;
+      console.log('%c[FINANCEIRO] ❌ Erro: ' + ((e && e.message) ? e.message : String(e)), 'color:#f87171');
+    })
+    .obterRelatorioFinanceiro();
+}
+
+
+
+function _salvarAnalyticsCache(dados) {
+  try {
+    const json = JSON.stringify(dados);
+    const tamanhoKB = Math.round((json.length * 2) / 1024);
+    console.log('%c[ANALYTICS-CACHE] 📦 Tamanho: ' + tamanhoKB + 'KB', 'color:#818cf8;font-weight:bold');
+    debugLog('[ANALYTICS-CACHE] Tamanho: ' + tamanhoKB + 'KB', 'info');
+
+    if (tamanhoKB > 1400) {
+      console.log('%c[ANALYTICS-CACHE] ❌ Muito grande (' + tamanhoKB + 'KB) — RAM only', 'color:#f87171;font-weight:bold');
+      debugLog('[ANALYTICS-CACHE] ❌ ' + tamanhoKB + 'KB — não salvo', 'error');
+      return false;
+    }
+
+    let dadosParaSalvar = dados;
+
+    if (tamanhoKB > 900) {
+      dadosParaSalvar = {
+        stats:     dados.stats    ? { disciplinas: dados.stats.disciplinas } : null,
+        insights:  dados.insights ? dados.insights.slice(0, 5) : [],
+        analytics: dados.analytics ? { score: dados.analytics.score, status: dados.analytics.status, projecao: dados.analytics.projecao } : null,
+        timestamp: dados.timestamp
+      };
+      const reducaoKB = Math.round((JSON.stringify(dadosParaSalvar).length * 2) / 1024);
+      console.log('%c[ANALYTICS-CACHE] ⚠️ Versão reduzida | ' + tamanhoKB + 'KB → ' + reducaoKB + 'KB', 'color:#fb923c;font-weight:bold');
+      debugLog('[ANALYTICS-CACHE] ⚠️ Reduzido: ' + tamanhoKB + 'KB → ' + reducaoKB + 'KB', 'warn');
+    }
+
+    safeSetLocalStorage('analytics_cache', JSON.stringify(dadosParaSalvar));
+    console.log('%c[ANALYTICS-CACHE] ✅ Salvo | ' + tamanhoKB + 'KB | ts=' + dados.timestamp, 'color:#4ade80;font-weight:bold');
+    debugLog('[ANALYTICS-CACHE] ✅ Salvo | ' + tamanhoKB + 'KB', 'success');
+    return true;
+  } catch(e) {
+    console.log('%c[ANALYTICS-CACHE] ❌ Erro ao salvar: ' + e.message, 'color:#f87171;font-weight:bold');
+    debugLog('[ANALYTICS-CACHE] ❌ Erro: ' + e.message, 'error');
+    return false;
+  }
+}
+
+
+function _carregarAnalyticsCache() {
+  const TTL_MS = 1800000;
+  try {
+    const raw = localStorage.getItem('analytics_cache');
+    if (!raw) {
+      console.log('%c[ANALYTICS-CACHE] MISS — sem cache no localStorage', 'color:#fb923c');
+      debugLog('[ANALYTICS-CACHE] MISS — sem cache', 'warn');
+      return null;
+    }
+    const dados = JSON.parse(raw);
+    const idadeMs  = Date.now() - (dados.timestamp || 0);
+    const idadeMin = Math.round(idadeMs / 60000);
+
+    if (idadeMs > TTL_MS) {
+      console.log('%c[ANALYTICS-CACHE] EXPIRADO | idade=' + idadeMin + 'min (TTL=30min)', 'color:#fb923c;font-weight:bold');
+      debugLog('[ANALYTICS-CACHE] EXPIRADO | ' + idadeMin + 'min', 'warn');
+      return null;
+    }
+
+    console.log('%c[ANALYTICS-CACHE] ✅ HIT | idade=' + idadeMin + 'min | restante=' + (30 - idadeMin) + 'min', 'color:#4ade80;font-weight:bold');
+    debugLog('[ANALYTICS-CACHE] ✅ HIT | ' + idadeMin + 'min de idade', 'success');
+    return dados;
+  } catch(e) {
+    console.log('%c[ANALYTICS-CACHE] ❌ Erro ao ler: ' + e.message, 'color:#f87171;font-weight:bold');
+    debugLog('[ANALYTICS-CACHE] ❌ Erro leitura: ' + e.message, 'error');
+    return null;
+  }
+}
+
+
+
+
+
+
+
+
+
+function _recalcularAnalyticsBackground(forcarUI = false) {
+  console.log('%c[ANALYTICS-LAZY] ▶ Iniciando carregamento de Analytics Completo...', 'color:#22d3ee;font-weight:bold');
+  if (forcarUI) loading(true, 'Extraindo Relatórios de Desempenho...');
+
+  google.script.run
+    .withSuccessHandler(res => {
+      if(forcarUI) loading(false);
+
+      if (!res || !res.sucesso) {
+         console.log('%c[ANALYTICS-LAZY] ❌ Erro retornado pelo servidor: ' + (res ? res.erros.join(', ') : 'Nulo'), 'color:#f87171;font-weight:bold');
+         if(forcarUI) mostrarToast('Falha ao processar Analytics.', 'error');
+         return;
+      }
+
+      // Distribui os dados do pacote unificado
+      window._dadosStatsPrecached = res.estatisticas_ciclo || null;
+      window._insightsPrecached   = res.insights || [];
+      window._analyticsPrecached  = res.desempenho_geral || null;
+
+      // Salva no cache local para navegação futura
+      _salvarAnalyticsCache({
+        stats: window._dadosStatsPrecached,
+        insights: window._insightsPrecached,
+        analytics: window._analyticsPrecached,
+        timestamp: Date.now()
+      });
+
+      window.analyticsReady = true;
+      window.estatisticasReady = true;
+      window.cicloDirty = false;
+
+      _atualizarDossieCoachBackground();
+
+      // Atualiza a UI se o usuário já estiver na aba aguardando
+      if (telaAtual === 'analytics') renderizarAnaliseGeral(window._analyticsPrecached);
+      if (telaAtual === 'estatisticas') renderizarAbaEstatisticas();
+      if (telaAtual === 'plano') { renderizarFilaCiclo(); renderizarMapaCiclo(); renderizarTabelaAtual(); }
+
+      console.log('%c[ANALYTICS-LAZY] ✅ Concluído e UI atualizada!', 'color:#4ade80;font-weight:bold');
+    })
+    .withFailureHandler(err => {
+      if(forcarUI) loading(false);
+      console.log('%c[ANALYTICS-LAZY] ❌ Erro de rede: ' + (err.message || err), 'color:#f87171;font-weight:bold');
+      if(forcarUI) mostrarToast('Erro de rede ao buscar Analytics.', 'error');
+    })
+    .carregarAnalyticsCompleto();
+}
+
+
+
+function abrirAnalyticsMobile() {
+    fecharMenu();
+    mostrarTela('analytics');
+    
+    if (window.analyticsReady && window._analyticsPrecached) {
+        carregarDashboardAnalytics(); // Renderiza instantâneo do cache
+    } else {
+        // Se ainda não carregou, dispara a requisição forçando a tela de loading
+        _recalcularAnalyticsBackground(true);
+    }
+}
+
+
+
+
+
+
+function abrirEstatisticasMobile() {
+    fecharMenu();
+    mostrarTela('estatisticas');
+    
+    if (window.estatisticasReady && window._dadosStatsPrecached) {
+        if (typeof carregarDadosTempo === 'function') carregarDadosTempo();
+        switchStatsTab('tempo');
+    } else {
+        _recalcularAnalyticsBackground(true);
+        switchStatsTab('tempo');
+    }
+}
+
+
+function renderizarInsights(insights) {
+        const container = document.getElementById('insights-container');
+        if (!container) return;
+        if (!insights || insights.length === 0) {
+            container.innerHTML = '<div style="text-align:center;color:var(--text-3);font-size:12px;padding:20px;">Nenhum insight disponível.</div>';
+            return;
+        }
+        container.innerHTML = '';
+        insights.slice(0, 6).forEach(ins => {
+            container.innerHTML += `<div class="insight-card ${ins.urgencia}"><div class="insight-header"><div class="insight-titulo">${ins.titulo}</div><span class="insight-badge ${ins.urgencia}">${ins.urgencia}</span></div><div class="insight-desc">${ins.descricao}</div><div class="insight-acao">${ins.acao}</div></div>`;
+        });
+    }
+
+function popularDropdownDisciplinasAnalytics() {
+        const select = document.getElementById('select-disc-analise');
+        if (!select) return;
+        select.innerHTML = '<option value="GERAL" selected>VISÃO GERAL COMPLETA</option>';
+        if (mapaArquivos && Object.keys(mapaArquivos).length > 0) {
+            Object.keys(mapaArquivos).sort().forEach(disc => {
+                select.innerHTML += `<option value="${disc}">${disc}</option>`;
+            });
+        }
+        carregarAnaliseDisciplina();
+    }
+
+    function carregarDadosTempo() {
+        const tbody = document.getElementById('tbody-tempo-consolidado');
+        
+        // Força os KPIs a voltarem para 0 para que a animação seja visível a cada clique
+        ['kpi-tempo-total','kpi-tempo-medio','kpi-total-questoes','kpi-acertos-tempo','kpi-erros-tempo','kpi-taxa-tempo','kpi-eficiencia'].forEach(function(id) {
+            var el = document.getElementById(id);
+            if (el) { el.style.opacity = '0.3'; el.innerText = '0'; }
+        });
+
+        if (window._dadosTempoPreCached && estatisticasReady) {
+            const resultado = window._dadosTempoPreCached;
+            const desempenho = window._desempenhoPreCached;
+            dadosTempoConsolidados = resultado.dados;
+            atualizarKPIsTempo(estadoUsuario?.tempo_agregado?.geral, desempenho);
+            popularFiltroTempoDisciplinas(dadosTempoConsolidados);
+            renderizarTabelaTempoConsolidada();
+            gerarInsightsTempo(estadoUsuario);
+            if (resultado.orfas > 0) {
+                const c = document.getElementById('insights-tempo-container');
+                if (c) {
+                    c.innerHTML = '<div class="insight-tempo-card tipo-alerta">'
+                        + '<div class="insight-tempo-titulo">Registros Incompletos</div>'
+                        + '<div class="insight-tempo-desc">Você tem <strong>' + resultado.orfas
+                        + '</strong> respostas antigas sem dados de tempo.</div></div>'
+                        + c.innerHTML;
+                }
+            }
+            return;
+        }
+        if (tbody) tbody.innerHTML = '<tr><td colspan="10" class="td-loading"><div class="spinner" style="margin:0 auto;"></div><br>Carregando...</td></tr>';
+        google.script.run
+            .withSuccessHandler(function(estado) {
+                estadoUsuario = estado;
+                if (!estado || !estado.tempo_agregado) {
+                    if (tbody) tbody.innerHTML = '<tr><td colspan="10" class="td-loading">Nenhum dado temporal disponível.</td></tr>';
+                    estatisticasReady = true;
+                    return;
+                }
+                const desempenho = calcularDesempenhoGeral(estado);
+                atualizarKPIsTempo(estado.tempo_agregado.geral, desempenho);
+                const resultado = consolidarDadosTempo(estado);
+                dadosTempoConsolidados = resultado.dados;
+                window._dadosTempoPreCached = resultado;
+                window._desempenhoPreCached = desempenho;
+                popularFiltroTempoDisciplinas(dadosTempoConsolidados);
+                renderizarTabelaTempoConsolidada();
+                gerarInsightsTempo(estado);
+                if (resultado.orfas > 0) {
+                    const c = document.getElementById('insights-tempo-container');
+                    if (c) {
+                        c.innerHTML = '<div class="insight-tempo-card tipo-alerta">'
+                            + '<div class="insight-tempo-titulo">Registros Incompletos</div>'
+                            + '<div class="insight-tempo-desc">Você tem <strong>' + resultado.orfas
+                            + '</strong> respostas antigas sem dados de tempo.</div></div>'
+                            + c.innerHTML;
+                    }
+                }
+                estatisticasReady = true;
+            })
+            .withFailureHandler(function(err) {
+                if (tbody) tbody.innerHTML = '<tr><td colspan="10" class="td-loading" style="color:var(--red);">Erro ao carregar dados.</td></tr>';
+            })
+            .carregarEstadoUsuario();
+    }
+
+    function renderizarAbaEstatisticas() {
+        const modoSelect = document.getElementById('stats-mode-selector');
+        const modo = modoSelect ? modoSelect.value : 'acumulado';
+        const tbody = document.getElementById('tabela-estatisticas');
+        if (!tbody) return;
+        if (window._dadosStatsPrecached && estatisticasReady && modo === 'acumulado') {
+            processarDadosEstatisticas(window._dadosStatsPrecached, modo);
+            return;
+        }
+        iniciarAnimacaoProcessando('tabela-estatisticas', true);
+        google.script.run
+            .withSuccessHandler(function(dados) {
+                pararAnimacaoProcessando();
+                if (!dados || dados.erro) {
+                    mostrarErroEstatisticas(tbody, dados ? dados.erro : 'Dados não disponíveis');
+                    return;
+                }
+                if (modo === 'acumulado') {
+                    window._dadosStatsPrecached = dados;
+                }
+                processarDadosEstatisticas(dados, modo);
+            })
+            .withFailureHandler(function(err) {
+                pararAnimacaoProcessando();
+                mostrarErroEstatisticas(tbody, err.message || 'Erro desconhecido');
+            })
+            .obterEstatisticasCiclo();
+    }
+
+    function processarDadosEstatisticas(dados, modo) {
+        if (!dados || !dados.disciplinas || dados.disciplinas.length === 0) {
+            mostrarErroEstatisticas(document.getElementById('tabela-estatisticas'), 'Nenhuma disciplina disponível');
+            return;
+        }
+        var disciplinasData = dados.disciplinas;
+        var totalQuestoesPrevistas = 0, totalRespondidas = 0, totalAcertos = 0;
+        var disciplinasProcessadas = [];
+        for (var i = 0; i < disciplinasData.length; i++) {
+            var d = disciplinasData[i];
+            totalQuestoesPrevistas += d.qtd_bloco || 0;
+            var ext = _extrairDadosDisciplina(d, dados, modo);
+            totalRespondidas += ext.respondidas;
+            totalAcertos += ext.acertos;
+            disciplinasProcessadas.push({
+                disciplina: d.disciplina,
+                qtd_bloco: d.qtd_bloco || 0,
+                respondidas: ext.respondidas,
+                acertos: ext.acertos,
+                taxa: ext.taxa,
+                fonteValida: ext.fonteValida,
+                inconsistente: ext.inconsistente
+            });
+        }
+        var taxaGeral = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
+        var totalErros = totalRespondidas - totalAcertos;
+        animarKPIComContagem('stat-total-ciclo', totalQuestoesPrevistas > 0 ? totalQuestoesPrevistas : null, 0);
+        animarKPIComContagem('stat-respondidas-geral', totalRespondidas > 0 ? totalRespondidas : null, 100);
+        animarKPIComContagem('stat-media-ciclo', totalRespondidas > 0 ? taxaGeral + '%' : null, 200);
+        animarKPIComContagem('stat-disciplinas', disciplinasProcessadas.length > 0 ? disciplinasProcessadas.length : null, 300);
+        animarKPIComContagem('stat-acertos-abs', totalRespondidas > 0 ? totalAcertos : null, 400);
+        animarKPIComContagem('stat-erros-abs', totalRespondidas > 0 ? totalErros : null, 500);
+        setTimeout(function() { renderizarTabelaEstatisticas(disciplinasProcessadas, modo); }, 300);
+    }
+
+    function renderizarTabelaEstatisticas(disciplinas, modo) {
+        var tbody = document.getElementById('tabela-estatisticas');
+        if (!tbody) return;
+        tbody.innerHTML = '';
+        if (disciplinas.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="6" class="td-loading">Nenhuma disciplina configurada.</td></tr>';
+            return;
+        }
+        var disciplinasOrdenadas = disciplinas.slice().sort(function(a, b) { return a.taxa - b.taxa; });
+        for (var i = 0; i < disciplinasOrdenadas.length; i++) {
+            var d = disciplinasOrdenadas[i];
+            var corTaxa = '#666';
+            var statusHtml = '<span class="tempo-status-badge">Pendente</span>';
+            if (d.respondidas > 0) {
+                if (d.taxa >= 80) {
+                    corTaxa = 'var(--green)';
+                    statusHtml = '<span class="tempo-status-badge rapido">✓ Ótimo</span>';
+                } else if (d.taxa >= 60) {
+                    corTaxa = 'var(--warning)';
+                    statusHtml = '<span class="tempo-status-badge normal">Regular</span>';
+                } else {
+                    corTaxa = 'var(--red)';
+                    statusHtml = '<span class="tempo-status-badge lento">⚠ Crítico</span>';
+                }
+            }
+            var row = document.createElement('tr');
+            row.className = 'linha-animada';
+            row.innerHTML = `
+                <td>
+                    ${d.disciplina}
+                </td>
+                <td data-label="Previsto">${d.qtd_bloco}</td>
+                <td data-label="Realizado">${d.respondidas.toLocaleString('pt-BR')}</td>
+                <td data-label="Acertos" style="color:var(--green)">${d.acertos.toLocaleString('pt-BR')}</td>
+                <td data-label="Taxa" style="color:${corTaxa}">${d.taxa}%</td>
+                <td data-label="Status">${statusHtml}</td>
+            `;
+            tbody.appendChild(row);
+            (function(rowEl, index) { setTimeout(function() { rowEl.classList.add('visivel'); }, 80 * index); })(row, i);
+        }
+    }
+
+    function renderizarTabelaTempoConsolidada() {
+        const tbody = document.getElementById('tbody-tempo-consolidado');
+        if (!tbody) return;
+        tbody.innerHTML = '';
+        let dadosFiltrados = dadosTempoConsolidados;
+        if (filtroTempoAtual !== 'TODOS') dadosFiltrados = dadosTempoConsolidados.filter(d => d.disciplina === filtroTempoAtual);
+        dadosFiltrados.sort((a, b) => {
+            let valA = a[ordenacaoTempoAtual.coluna];
+            let valB = b[ordenacaoTempoAtual.coluna];
+            if (typeof valA === 'string') valA = valA.toLowerCase();
+            if (typeof valB === 'string') valB = valB.toLowerCase();
+            if (valA < valB) return ordenacaoTempoAtual.direcao === 'asc' ? -1 : 1;
+            if (valA > valB) return ordenacaoTempoAtual.direcao === 'asc' ? 1 : -1;
+            return 0;
+        });
+        dadosFiltrados.forEach(linha => {
+            const tr = document.createElement('tr');
+            tr.className = 'tabela-tempo-row linha-animada';
+            const corTaxa = linha.taxa >= 80 ? 'var(--green)' : (linha.taxa >= 60 ? 'var(--warning)' : 'var(--red)');
+            tr.innerHTML = `
+                <td>
+                    ${linha.disciplina}
+                    <div style="font-size:11px;font-weight:500;color:var(--text-3);margin-top:2px;">${linha.tema}</div>
+                </td>
+                <td data-label="QTD">${linha.questoes}</td>
+                <td data-label="Acertos" style="color:var(--green)">${linha.acertos}</td>
+                <td data-label="Erros" style="color:var(--red)">${linha.erros}</td>
+                <td data-label="Taxa" style="color:${corTaxa}">${linha.taxa}%</td>
+                <td data-label="Média">${formatarSegundosSimples(linha.tempoMedio)}</td>
+                <td data-label="Total">${linha.tempoTotal}</td>
+                <td data-label="Status"><span class="tempo-status-badge ${linha.statusTempo.classe}">${linha.statusTempo.texto}</span></td>
+                <td data-label="Eficiência">
+                    <div class="efficiency-bar-container">
+                        <div class="efficiency-bar-fill" style="width:${linha.eficiencia}%;background:${getCorEficiencia(linha.eficiencia)};"></div>
+                        <span class="efficiency-bar-text">${linha.eficiencia}%</span>
+                    </div>
+                </td>
+            `;
+            tbody.appendChild(tr);
+            setTimeout(() => tr.classList.add('visivel'), 80);
+        });
+    }
+
+    function atualizarVisualizacaoEstatisticas(valor) {
+        var viewTable = document.getElementById('view-table');
+        var viewChart = document.getElementById('view-chart');
+        if (!viewTable || !viewChart) return;
+        
+        if (valor === 'tabela') {
+            viewTable.style.display = 'block';
+            viewChart.style.display = 'none';
+        } else if (valor === 'progresso') {
+            viewTable.style.display = 'none';
+            viewChart.style.display = 'block';
+            renderizarGraficoProgresso();
+        }
+    }
+
+    function renderizarGraficoProgresso() {
+        var modoSelect = document.getElementById('stats-mode-selector');
+        var modo = modoSelect ? modoSelect.value : 'acumulado';
+        google.script.run
+            .withSuccessHandler(function(dados) {
+                var viewChart = document.getElementById('view-chart');
+                if (!viewChart) return;
+                
+                // Injeta a área de rolagem para forçar o modo paisagem (sem girar a tela)
+                viewChart.innerHTML = '<div class="chart-scroll-area"><canvas id="chart-estatisticas"></canvas></div>';
+                var canvas = document.getElementById('chart-estatisticas');
+                
+                if (!dados || !dados.disciplinas || dados.disciplinas.length === 0) {
+                    viewChart.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--text-3);font-size:12px;">Sem dados para exibir.</div>';
+                    return;
+                }
+                if (typeof Chart === 'undefined') {
+                    viewChart.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--red);font-size:12px;">Biblioteca Chart.js não carregada.</div>';
+                    return;
+                }
+                var ctx = canvas.getContext('2d');
+                if (chartEstatisticas) chartEstatisticas.destroy();
+                var labels = [], dataRespondidas = [], dataTaxa = [], coresBarra = [];
+                for (var i = 0; i < dados.disciplinas.length; i++) {
+                    var d = dados.disciplinas[i];
+                    var ext = _extrairDadosDisciplina(d, dados, modo);
+                    var nome = d.disciplina;
+                    labels.push(nome.length > 18 ? nome.substring(0, 16) + '...' : nome);
+                    dataRespondidas.push(ext.respondidas);
+                    dataTaxa.push(ext.taxa);
+                    coresBarra.push(
+                        ext.respondidas === 0 ? 'rgba(108,117,125,.5)' :
+                        ext.taxa >= 80 ? 'rgba(45,106,79,.8)' :
+                        ext.taxa >= 60 ? 'rgba(183,98,26,.8)' :
+                        'rgba(192,57,43,.8)'
+                    );
+                }
+                chartEstatisticas = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [
+                            { label: 'Questões Respondidas', data: dataRespondidas, backgroundColor: coresBarra, borderRadius: 4, yAxisID: 'y' },
+                            { label: 'Taxa de Acerto (%)', data: dataTaxa, type: 'line', borderColor: 'rgba(44,62,80,1)', backgroundColor: 'rgba(44,62,80,.1)', borderWidth: 3, fill: true, tension: 0.4, pointRadius: 5, yAxisID: 'y1' }
+                        ]
+                    },
+                    options: {
+                        responsive: true, maintainAspectRatio: false,
+                        scales: {
+                            x: { grid: { display: false }, ticks: { maxRotation: 45, font: { family: "'DM Sans', sans-serif", size: 10 } } },
+                            y: { type: 'linear', position: 'left', beginAtZero: true, ticks: { font: { family: "'DM Sans', sans-serif" } } },
+                            y1: { type: 'linear', position: 'right', min: 0, max: 100, grid: { drawOnChartArea: false }, ticks: { font: { family: "'DM Sans', sans-serif" } } }
+                        },
+                        plugins: {
+                            legend: { labels: { font: { family: "'DM Sans', sans-serif" } } }
+                        }
+                    }
+                });
+            })
+            .withFailureHandler(function(err) {
+                var viewChart = document.getElementById('view-chart');
+                if (viewChart) viewChart.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--red);font-size:12px;">Erro ao gerar gráfico</div>';
+            })
+            .obterEstatisticasCiclo();
+    }
+
+    function atualizarKPIsTempo(geral, desempenho) {
+        var ids_todos = ['kpi-tempo-total','kpi-tempo-medio','kpi-total-questoes','kpi-acertos-tempo','kpi-erros-tempo','kpi-taxa-tempo','kpi-eficiencia'];
+        var ids_desemp = ['kpi-total-questoes','kpi-acertos-tempo','kpi-erros-tempo','kpi-taxa-tempo','kpi-eficiencia'];
+        function _set(id, val, delay) {
+            animarKPIComContagem(id, val, delay || 0);
+        }
+        if (!geral) {
+            ids_todos.forEach(function(id) { _set(id, '—'); });
+            return;
+        }
+        if (!desempenho || !desempenho.valido) {
+            ids_desemp.forEach(function(id) { _set(id, '—'); });
+            _set('kpi-tempo-total', geral.total_horas_formatado || '—', 0);
+            _set('kpi-tempo-medio', geral.media_segundos > 0 ? formatarSegundosSimples(geral.media_segundos) : '—', 100);
+            return;
+        }
+        _set('kpi-tempo-total', geral.total_horas_formatado || '—', 0);
+        _set('kpi-tempo-medio', geral.media_segundos > 0 ? formatarSegundosSimples(geral.media_segundos) : '—', 100);
+        var totalQuestoes = desempenho.total;
+        var acertos = desempenho.acertos;
+        var erros = totalQuestoes - acertos;
+        var taxaAcerto = Math.round((acertos / totalQuestoes) * 100);
+        _set('kpi-total-questoes', totalQuestoes, 200);
+        _set('kpi-acertos-tempo', acertos, 300);
+        _set('kpi-erros-tempo', erros, 400);
+        _set('kpi-taxa-tempo', taxaAcerto + '%', 500);
+        _set('kpi-eficiencia', calcularIndiceEficiencia(geral, desempenho), 600);
+    }
+
+
+function gerarInsightsTempo(dados) {
+        var container = document.getElementById('insights-tempo-container');
+        if (!container) return;
+        container.innerHTML = '';
+        if (!dados || !dados.tempo_agregado || !dados.tempo_agregado.geral) {
+            container.innerHTML = '<div style="text-align:center;color:var(--text-3);font-size:12px;padding:20px;">Sem dados temporais disponíveis.</div>';
+            return;
+        }
+        var geral = dados.tempo_agregado.geral;
+        if (!geral.media_segundos || geral.media_segundos <= 0) {
+            container.innerHTML = '<div style="text-align:center;color:var(--text-3);font-size:12px;padding:20px;">Sem tempo médio registrado.</div>';
+            return;
+        }
+        var metaSegundos = _getMetaTempo();
+        if (!metaSegundos) {
+            container.innerHTML = '<div style="text-align:center;color:var(--text-3);font-size:12px;padding:20px;">Configure a meta de tempo em Comportamento para ver insights.</div>';
+            return;
+        }
+        var razao = geral.media_segundos / metaSegundos;
+        if (razao > 1.3) {
+            var excesso = Math.round((razao - 1) * 100);
+            container.innerHTML += '<div class="insight-tempo-card tipo-alerta"><div class="insight-tempo-titulo">Tempo acima da meta</div><div class="insight-tempo-desc">Sua média (' + formatarSegundosSimples(Math.round(geral.media_segundos)) + ') está ' + excesso + '% acima da meta de ' + formatarSegundosSimples(metaSegundos) + '.</div></div>';
+        } else if (razao < 0.7) {
+            var ganho = Math.round((1 - razao) * 100);
+            container.innerHTML += '<div class="insight-tempo-card tipo-sucesso"><div class="insight-tempo-titulo">Excelente eficiência</div><div class="insight-tempo-desc">Você está ' + ganho + '% mais rápido que a meta de ' + formatarSegundosSimples(metaSegundos) + '.</div></div>';
+        } else {
+            var pct = Math.round(razao * 100);
+            container.innerHTML += '<div class="insight-tempo-card tipo-neutro"><div class="insight-tempo-titulo">Tempo dentro da faixa</div><div class="insight-tempo-desc">Média: ' + formatarSegundosSimples(Math.round(geral.media_segundos)) + ' (' + pct + '% da meta de ' + formatarSegundosSimples(metaSegundos) + ').</div></div>';
+        }
+    }
+
+
+    function popularFiltroTempoDisciplinas(dados) {
+        const select = document.getElementById('filtro-tempo-disciplina');
+        if (!select) return;
+        const disciplinas = [...new Set(dados.map(d => d.disciplina))].sort();
+        select.innerHTML = '<option value="TODOS">Todas as Disciplinas</option>';
+        disciplinas.forEach(disc => { select.innerHTML += `<option value="${disc}">${disc}</option>`; });
+    }
+
+    function filtrarTabelaTempo(disciplina) {
+        filtroTempoAtual = disciplina;
+        renderizarTabelaTempoConsolidada();
+    }
+
+    function ordenarTabelaTempo(coluna) {
+        if (ordenacaoTempoAtual.coluna === coluna) {
+            ordenacaoTempoAtual.direcao = ordenacaoTempoAtual.direcao === 'asc' ? 'desc' : 'asc';
+        } else {
+            ordenacaoTempoAtual.coluna = coluna;
+            ordenacaoTempoAtual.direcao = 'asc';
+        }
+        document.querySelectorAll('.tempo-th-sortable').forEach(th => th.classList.remove('sorted-asc','sorted-desc'));
+        const thAtivo = document.querySelector(`.tempo-th-sortable[data-coluna="${coluna}"]`);
+        if (thAtivo) thAtivo.classList.add(ordenacaoTempoAtual.direcao === 'asc' ? 'sorted-asc' : 'sorted-desc');
+        renderizarTabelaTempoConsolidada();
+    }
+
+    function consolidarDadosTempo(dados) {
+        var consolidado = [];
+        if (!dados) {
+            return { dados: consolidado, orfas: 0 };
+        }
+        var respostas = dados.respostas || {};
+        var temposPorQuestao = dados.tempo_por_questao || {};
+        var indice = {};
+        var respostasComTempo = {};
+        Object.entries(temposPorQuestao).forEach(function(entry) {
+            var idQuestao = entry[0];
+            var dadosTempo = entry[1];
+            var resposta = respostas[idQuestao];
+            if (!resposta) {
+                return;
+            }
+            if (typeof resposta.correta !== 'boolean') {
+                return;
+            }
+            if (!dadosTempo.tempo_segundos || dadosTempo.tempo_segundos <= 0) {
+                return;
+            }
+            var disciplina = dadosTempo.disciplina || null;
+            var tema = dadosTempo.tema || null;
+            if (!disciplina || !tema) {
+                return;
+            }
+            respostasComTempo[idQuestao] = true;
+            var chave = disciplina + '|||' + tema;
+            if (!indice[chave]) indice[chave] = { disciplina: disciplina, tema: tema, questoes: 0, acertos: 0, erros: 0, tempoTotalSegundos: 0 };
+            var entrada = indice[chave];
+            entrada.questoes++;
+            entrada.tempoTotalSegundos += dadosTempo.tempo_segundos;
+            if (resposta.correta) entrada.acertos++;
+            else entrada.erros++;
+        });
+        var orfas = 0;
+        Object.keys(respostas).forEach(function(id) {
+            if (!respostasComTempo[id]) orfas++;
+        });
+        Object.values(indice).forEach(function(item) {
+            var taxa = item.questoes > 0 ? Math.round((item.acertos / item.questoes) * 100) : 0;
+            var tempoMedio = item.questoes > 0 ? Math.round(item.tempoTotalSegundos / item.questoes) : 0;
+            var eficiencia = calcularEficienciaLinha(taxa, tempoMedio);
+            consolidado.push({
+                disciplina: item.disciplina,
+                tema: item.tema,
+                questoes: item.questoes,
+                acertos: item.acertos,
+                erros: item.erros,
+                taxa: taxa,
+                tempoTotal: formatarSegundosParaHora(item.tempoTotalSegundos),
+                tempoTotalSegundos: item.tempoTotalSegundos,
+                tempoMedio: tempoMedio,
+                statusTempo: getStatusTempoValor(tempoMedio),
+                eficiencia: eficiencia
+            });
+        });
+        return { dados: consolidado, orfas: orfas };
+    }
+
+    function calcularDesempenhoGeral(dados) {
+        if (!dados || !dados.respostas || Object.keys(dados.respostas).length === 0) {
+            return { total: 0, acertos: 0, valido: false };
+        }
+        let total = 0, acertos = 0;
+        Object.entries(dados.respostas).forEach(([id, resp]) => {
+            if (typeof resp.correta !== 'boolean') {
+                return;
+            }
+            total++;
+            if (resp.correta) acertos++;
+        });
+        return { total, acertos, valido: total > 0 };
+    }
+
+    function calcularIndiceEficiencia(geral, desempenho) {
+        if (!geral || !desempenho) {
+            return '—';
+        }
+        if (!desempenho.total || desempenho.total === 0) {
+            return '—';
+        }
+        if (!geral.media_segundos || geral.media_segundos <= 0) {
+            return '—';
+        }
+        var metaTempo = _getMetaTempo();
+        if (!metaTempo) {
+            return '—';
+        }
+        var taxaAcerto = desempenho.acertos / desempenho.total;
+        var fatorTempo = Math.min(metaTempo / geral.media_segundos, 1.5);
+        var eficiencia = Math.min(Math.round(taxaAcerto * fatorTempo * 100), 100);
+        return eficiencia;
+    }
+
+    function calcularEficienciaLinha(taxa, tempoMedio) {
+        if (typeof taxa !== 'number' || taxa < 0) return 0;
+        if (!tempoMedio || tempoMedio <= 0) {
+            return 0;
+        }
+        var metaTempo = _getMetaTempo();
+        if (!metaTempo) return 0;
+        var fatorTempo = Math.min(metaTempo / tempoMedio, 1.5);
+        return Math.min(Math.round((taxa / 100) * fatorTempo * 100), 100);
+    }
+
+    function _getMetaTempo() {
+        var p = preferenciasUsuarioMobile;
+        if (!p) return 180;
+        var v = (p.config && p.config.tempo_estimado_fallback) || (p.comportamento && p.comportamento.tempo_estimado_fallback) || 180;
+        v = Number(v);
+        if (isNaN(v) || v <= 0) {
+            return 180;
+        }
+        return v;
+    }
+
+    function getStatusTempoValor(tempoSegundos) {
+        if (!tempoSegundos || tempoSegundos <= 0) {
+            return { classe: '', texto: '—' };
+        }
+        var meta = _getMetaTempo();
+        if (!meta) {
+            return { classe: '', texto: '—' };
+        }
+        var p = (tempoSegundos / meta) * 100;
+        if (p <= 80) return { classe: 'rapido', texto: 'Rápido' };
+        if (p <= 120) return { classe: 'normal', texto: 'Normal' };
+        return { classe: 'lento', texto: 'Lento' };
+    }
+
+    function getCorEficiencia(valor) {
+        if (valor >= 70) return 'var(--green)';
+        if (valor >= 40) return 'var(--warning)';
+        return 'var(--red)';
+    }
+
+    function formatarSegundosSimples(seg) {
+        if (!seg || seg <= 0) return '—';
+        seg = Math.round(seg);
+        var m = Math.floor(seg / 60);
+        var s = seg % 60;
+        return m > 0 ? m + 'min ' + s + 's' : s + 's';
+    }
+
+    function formatarSegundosParaHora(seg) {
+        if (!seg || seg === 0) return '0h';
+        const h = Math.floor(seg / 3600);
+        const m = Math.floor((seg % 3600) / 60);
+        if (h > 0) return `${h}h ${m}min`;
+        return `${m}min`;
+    }
+
+    function animarKPIComContagem(id, valorFinal, delay) {
+        if (delay === undefined) delay = 0;
+        var el = document.getElementById(id);
+        if (!el) return;
+        if (valorFinal === null || valorFinal === undefined) {
+            setTimeout(function() {
+                el.style.opacity = '1';
+                el.innerText = '—';
+            }, delay);
+            return;
+        }
+        setTimeout(function() {
+            el.style.opacity = '1';
+            el.classList.add('kpi-animando');
+            var valorStr = String(valorFinal);
+            var valorNumerico = parseInt(valorStr.replace(/[^0-9]/g, ''));
+            if (!isNaN(valorNumerico) && valorNumerico > 0 && valorNumerico < 100000) {
+                var atual = 0;
+                var passos = 15;
+                var incremento = Math.ceil(valorNumerico / passos);
+                var intervalo = setInterval(function() {
+                    atual += incremento;
+                    if (atual >= valorNumerico) {
+                        atual = valorNumerico;
+                        clearInterval(intervalo);
+                        el.innerText = valorFinal;
+                        el.classList.remove('kpi-animando');
+                    } else {
+                        el.innerText = valorStr.indexOf('%') > -1 ? atual + '%' : atual.toLocaleString('pt-BR');
+                    }
+                }, 30);
+            } else {
+                el.innerText = valorFinal;
+                setTimeout(function() { el.classList.remove('kpi-animando'); }, 500);
+            }
+        }, delay);
+    }
+
+    function mostrarErroEstatisticas(tbody, mensagem) {
+        tbody.innerHTML = `<tr><td colspan="6" class="td-loading" style="color:var(--red);">Erro: ${mensagem}</td></tr>`;
+        ['stat-total-ciclo','stat-respondidas-geral','stat-media-ciclo','stat-disciplinas','stat-acertos-abs','stat-erros-abs'].forEach(function(k) {
+            var el = document.getElementById(k);
+            if (el) { el.style.opacity = '1'; el.innerText = '-'; }
+        });
+    }
+
+
+function _getMetaTempo() {
+  var p = preferenciasUsuario;
+  if (!p) return 180;
+  var v = (p.config && p.config.tempo_estimado_fallback) ||
+          (p.comportamento && p.comportamento.tempo_estimado_fallback) ||
+          180; // Se não houver configuração salva, força 3 minutos
+  v = Number(v);
+  if (isNaN(v) || v <= 0) {
+    return 180;
+  }
+  return v;
+}
+
+
+function getStatusTempoValor(tempoSegundos) {
+  if (!tempoSegundos || tempoSegundos <= 0) {
+    return { classe: '', texto: '—' };
+  }
+  var meta = _getMetaTempo();
+  if (!meta) {
+    return { classe: '', texto: '—' };
+  }
+  var p = (tempoSegundos / meta) * 100;
+  if (p <= 80) return { classe: 'rapido', texto: '🟢 Rápido' };
+  if (p <= 120) return { classe: 'normal', texto: '🟡 Normal' };
+  return { classe: 'lento', texto: '🔴 Lento' };
+}
+
+
+
+
+
+function calcularDesempenhoGeral(dados) {
+  if (!dados || !dados.respostas || Object.keys(dados.respostas).length === 0) {
+    console.warn('[STATS] calcularDesempenhoGeral: sem respostas disponíveis');
+    return { total: 0, acertos: 0, valido: false };
+  }
+  let total = 0, acertos = 0;
+  Object.entries(dados.respostas).forEach(([id, resp]) => {
+    if (typeof resp.correta !== 'boolean') {
+      console.error('[STATS] Resposta sem campo "correta" válido:', id);
+      return;
+    }
+    total++;
+    if (resp.correta) acertos++;
+  });
+  console.log(`[STATS] Desempenho geral: ${acertos}/${total} (${total > 0 ? Math.round((acertos/total)*100) : 0}%)`);
+  return { total, acertos, valido: total > 0 };
+}
+
+
+function calcularIndiceEficiencia(geral, desempenho) {
+  if (!geral || !desempenho) {
+    console.warn('[STATS] calcularIndiceEficiencia: dados ausentes');
+    return '—';
+  }
+  if (!desempenho.total || desempenho.total === 0) {
+    console.warn('[STATS] calcularIndiceEficiencia: sem questões respondidas');
+    return '—';
+  }
+  if (!geral.media_segundos || geral.media_segundos <= 0) {
+    console.warn('[STATS] calcularIndiceEficiencia: sem tempo médio real registrado');
+    return '—';
+  }
+  var metaTempo = _getMetaTempo();
+  if (!metaTempo) {
+    console.warn('[STATS] calcularIndiceEficiencia: meta de tempo não configurada');
+    return '—';
+  }
+  var taxaAcerto = desempenho.acertos / desempenho.total;
+  var fatorTempo = Math.min(metaTempo / geral.media_segundos, 1.5);
+  var eficiencia = Math.min(Math.round(taxaAcerto * fatorTempo * 100), 100);
+  var icone = eficiencia >= 80 ? '🟢' : eficiencia >= 50 ? '🟡' : '🔴';
+  console.log('[STATS] Eficiência: ' + eficiencia + '% (taxa=' + (taxaAcerto * 100).toFixed(1) + '%, fator=' + fatorTempo.toFixed(2) + ', meta=' + metaTempo + 's, real=' + geral.media_segundos + 's)');
+  return icone + ' ' + eficiencia;
+}
+
+
+function calcularEficienciaLinha(taxa, tempoMedio) {
+  if (typeof taxa !== 'number' || taxa < 0) return 0;
+  if (!tempoMedio || tempoMedio <= 0) {
+    console.warn('[STATS] calcularEficienciaLinha: sem tempo médio real');
+    return 0;
+  }
+  var metaTempo = _getMetaTempo();
+  if (!metaTempo) return 0;
+  var fatorTempo = Math.min(metaTempo / tempoMedio, 1.5);
+  return Math.min(Math.round((taxa / 100) * fatorTempo * 100), 100);
+}
+
+
+function consolidarDadosTempo(dados) {
+    console.log('[TEMPO-CONS] Iniciando consolidação de dados temporais');
+
+    var consolidado = [];
+    if (!dados) {
+        console.error('[TEMPO-CONS] Dados nulos recebidos');
+        return { dados: consolidado, orfas: 0 };
+    }
+
+    var respostas = dados.respostas || {};
+    var temposPorQuestao = dados.tempo_por_questao || {};
+    var totalRespostas = Object.keys(respostas).length;
+    var totalTempos = Object.keys(temposPorQuestao).length;
+    var descartados = 0;
+    var indice = {};
+
+    console.log('[TEMPO-CONS] Total respostas:', totalRespostas, '| Total registros de tempo:', totalTempos);
+
+    var respostasComTempo = {};
+
+    Object.entries(temposPorQuestao).forEach(function(entry) {
+        var idQuestao = entry[0];
+        var dadosTempo = entry[1];
+        var resposta = respostas[idQuestao];
+
+        if (!resposta) {
+            console.warn('[TEMPO-CONS] Tempo sem resposta associada, descartando:', idQuestao);
+            descartados++;
+            return;
+        }
+        if (typeof resposta.correta !== 'boolean') {
+            console.error('[TEMPO-CONS] Resposta sem campo "correta" válido:', idQuestao);
+            descartados++;
+            return;
+        }
+        if (!dadosTempo.tempo_segundos || dadosTempo.tempo_segundos <= 0) {
+            console.error('[TEMPO-CONS] Tempo inválido para questão:', idQuestao, '| Valor:', dadosTempo.tempo_segundos);
+            descartados++;
+            return;
+        }
+
+        var disciplina = dadosTempo.disciplina || null;
+        var tema = dadosTempo.tema || null;
+        if (!disciplina || !tema) {
+            console.error('[TEMPO-CONS] Questão sem disciplina/tema:', idQuestao);
+            descartados++;
+            return;
+        }
+
+        respostasComTempo[idQuestao] = true;
+
+        var chave = disciplina + '|||' + tema;
+        if (!indice[chave]) indice[chave] = { disciplina: disciplina, tema: tema, questoes: 0, acertos: 0, erros: 0, tempoTotalSegundos: 0 };
+        var entrada = indice[chave];
+        entrada.questoes++;
+        entrada.tempoTotalSegundos += dadosTempo.tempo_segundos;
+        if (resposta.correta) entrada.acertos++;
+        else entrada.erros++;
+    });
+
+    var orfas = 0;
+    Object.keys(respostas).forEach(function(id) {
+        if (!respostasComTempo[id]) orfas++;
+    });
+
+    console.log('[TEMPO-CONS] Resultado: ' + totalTempos + ' tempos | ' + totalRespostas + ' respostas | ' + descartados + ' descartados | ' + orfas + ' órfãs');
+
+    if (orfas > 0) {
+        console.warn('[TEMPO-CONS] ⚠️ ' + orfas + ' respostas sem registro de tempo — excluídas da análise temporal');
+    }
+
+    Object.values(indice).forEach(function(item) {
+        var taxa = item.questoes > 0 ? Math.round((item.acertos / item.questoes) * 100) : 0;
+        var tempoMedio = item.questoes > 0 ? Math.round(item.tempoTotalSegundos / item.questoes) : 0;
+        var eficiencia = calcularEficienciaLinha(taxa, tempoMedio);
+        consolidado.push({
+            disciplina:        item.disciplina,
+            tema:              item.tema,
+            questoes:          item.questoes,
+            acertos:           item.acertos,
+            erros:             item.erros,
+            taxa:              taxa,
+            tempoTotal:        formatarSegundosParaHora(item.tempoTotalSegundos),
+            tempoTotalSegundos: item.tempoTotalSegundos,
+            tempoMedio:        tempoMedio,
+            statusTempo:       getStatusTempoValor(tempoMedio),
+            eficiencia:        eficiencia
+        });
+    });
+
+    console.log('[TEMPO-CONS] Consolidação finalizada:', consolidado.length, 'entradas | órfãs:', orfas);
+
+    return { dados: consolidado, orfas: orfas };
+}
+
+
+function processarDadosEstatisticas(dados, modo) {
+  if (!dados || !dados.disciplinas || dados.disciplinas.length === 0) {
+    console.error('[STATS] processarDadosEstatisticas: sem disciplinas');
+    mostrarErroEstatisticas(document.getElementById('tabela-estatisticas'), 'Nenhuma disciplina disponível');
+    return;
+  }
+
+  var disciplinasData = dados.disciplinas;
+  var totalQuestoesPrevistas = 0, totalRespondidas = 0, totalAcertos = 0;
+  var disciplinasProcessadas = [];
+  var errosValidacao = 0;
+
+  for (var i = 0; i < disciplinasData.length; i++) {
+    var d = disciplinasData[i];
+    totalQuestoesPrevistas += d.qtd_bloco || 0;
+
+    var ext = _extrairDadosDisciplina(d, dados, modo);
+    if (ext.inconsistente) errosValidacao++;
+
+    totalRespondidas += ext.respondidas;
+    totalAcertos += ext.acertos;
+    disciplinasProcessadas.push({
+      disciplina: d.disciplina,
+      qtd_bloco: d.qtd_bloco || 0,
+      respondidas: ext.respondidas,
+      acertos: ext.acertos,
+      taxa: ext.taxa,
+      fonteValida: ext.fonteValida,
+      inconsistente: ext.inconsistente
+    });
+  }
+
+  if (errosValidacao > 0) {
+    console.error('[STATS] ' + errosValidacao + ' disciplinas com inconsistência acertos>respondidas (corrigido para exibição, verificar backend)');
+  }
+
+  var taxaGeral = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
+  var totalErros = totalRespondidas - totalAcertos;
+
+  console.log('[STATS] Processado modo=' + modo + ': ' + disciplinasProcessadas.length + ' disc, ' + totalRespondidas + ' resp, taxa=' + taxaGeral + '%');
+
+  animarKPIComContagem('stat-total-ciclo', totalQuestoesPrevistas > 0 ? totalQuestoesPrevistas : null, 0);
+  animarKPIComContagem('stat-respondidas-geral', totalRespondidas > 0 ? totalRespondidas : null, 100);
+  animarKPIComContagem('stat-media-ciclo', totalRespondidas > 0 ? taxaGeral + '%' : null, 200);
+  animarKPIComContagem('stat-disciplinas', disciplinasProcessadas.length > 0 ? disciplinasProcessadas.length : null, 300);
+  animarKPIComContagem('stat-acertos-abs', totalRespondidas > 0 ? totalAcertos : null, 400);
+  animarKPIComContagem('stat-erros-abs', totalRespondidas > 0 ? totalErros : null, 500);
+
+  setTimeout(function() { renderizarTabelaEstatisticas(disciplinasProcessadas, modo); }, 300);
+}
+
+
+
+
+
+
+
+function atualizarKPIsTempo(geral, desempenho) {
+  var ids_todos = ['kpi-tempo-total','kpi-tempo-medio','kpi-total-questoes','kpi-acertos-tempo','kpi-erros-tempo','kpi-taxa-tempo','kpi-eficiencia'];
+  var ids_desemp = ['kpi-total-questoes','kpi-acertos-tempo','kpi-erros-tempo','kpi-taxa-tempo','kpi-eficiencia'];
+
+  function _set(id, val, delay) {
+    animarKPIComContagem(id, val, delay || 0);
+  }
+
+  if (!geral) {
+    console.warn('[KPI] atualizarKPIsTempo: sem dados de tempo agregado');
+    ids_todos.forEach(function(id) { _set(id, '—'); });
+    return;
+  }
+  
+  if (!desempenho || !desempenho.valido) {
+    console.warn('[KPI] atualizarKPIsTempo: desempenho não validado');
+    ids_desemp.forEach(function(id) { _set(id, '—'); });
+    _set('kpi-tempo-total', geral.total_horas_formatado || '—', 0);
+    _set('kpi-tempo-medio', geral.media_segundos > 0 ? formatarSegundosSimples(geral.media_segundos) : '—', 100);
+    return;
+  }
+
+  _set('kpi-tempo-total', geral.total_horas_formatado || '—', 0);
+  _set('kpi-tempo-medio', geral.media_segundos > 0 ? formatarSegundosSimples(geral.media_segundos) : '—', 100);
+
+  var totalQuestoes = desempenho.total;
+  var acertos = desempenho.acertos;
+  var erros = totalQuestoes - acertos;
+  var taxaAcerto = Math.round((acertos / totalQuestoes) * 100);
+
+  _set('kpi-total-questoes', totalQuestoes, 200);
+  _set('kpi-acertos-tempo', acertos, 300);
+  _set('kpi-erros-tempo', erros, 400);
+  _set('kpi-taxa-tempo', taxaAcerto + '%', 500);
+  _set('kpi-eficiencia', calcularIndiceEficiencia(geral, desempenho), 600);
+
+  console.log('[KPI] Tempo atualizado (com animação): total=' + totalQuestoes + ', acertos=' + acertos + ', taxa=' + taxaAcerto + '%');
+}
+
+
+
+/* V90 — DUPLICATA REMOVIDA: gerarInsightsTempo() estava definida DUAS vezes no mesmo escopo
+   (uma cópia vinha do Mobile.html, a outra deste arquivo). Por hoisting só a
+   ÚLTIMA valia — e em vários casos era a versão mais curta/antiga, daí botões
+   que não respondiam e telas que não desenhavam. Mantida a versão completa de
+   2303 bytes; esta cópia tinha 2265 bytes. */
+
+
+
+
+function renderizarGraficoProgresso() {
+  var modoSelect = document.getElementById('stats-mode-selector');
+  var modo = modoSelect ? modoSelect.value : 'acumulado';
+
+  google.script.run
+    .withSuccessHandler(function(dados) {
+      var canvas = document.getElementById('chart-estatisticas');
+      if (!canvas) return;
+      if (!dados || !dados.disciplinas || dados.disciplinas.length === 0) {
+        console.warn('[CHART] Sem disciplinas para renderizar gráfico');
+        var viewChart = document.getElementById('view-chart');
+        if (viewChart) viewChart.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#999;">Sem dados para exibir.</div>';
+        return;
+      }
+
+      if (typeof Chart === 'undefined') {
+        console.error('[CHART] Chart.js não carregado');
+        return;
+      }
+
+      var ctx = canvas.getContext('2d');
+      if (chartEstatisticas) chartEstatisticas.destroy();
+
+      var labels = [], dataRespondidas = [], dataTaxa = [], coresBarra = [];
+
+      for (var i = 0; i < dados.disciplinas.length; i++) {
+        var d = dados.disciplinas[i];
+        var ext = _extrairDadosDisciplina(d, dados, modo);
+
+        var nome = d.disciplina;
+        labels.push(nome.length > 18 ? nome.substring(0, 16) + '...' : nome);
+        dataRespondidas.push(ext.respondidas);
+        dataTaxa.push(ext.taxa);
+        coresBarra.push(
+          ext.respondidas === 0 ? 'rgba(108,117,125,.5)' :
+          ext.taxa >= 80 ? 'rgba(39,174,96,.8)' :
+          ext.taxa >= 60 ? 'rgba(243,156,18,.8)' :
+          'rgba(231,76,60,.8)'
+        );
+      }
+
+      console.log('[CHART] Renderizando gráfico modo=' + modo + ', ' + labels.length + ' disciplinas');
+
+      chartEstatisticas = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [
+            { label: 'Questões Respondidas', data: dataRespondidas, backgroundColor: coresBarra, borderRadius: 4, yAxisID: 'y' },
+            { label: 'Taxa de Acerto (%)', data: dataTaxa, type: 'line', borderColor: 'rgba(0,86,179,1)', backgroundColor: 'rgba(0,86,179,.1)', borderWidth: 3, fill: true, tension: 0.4, pointRadius: 5, yAxisID: 'y1' }
+          ]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          scales: {
+            x: { grid: { display: false }, ticks: { maxRotation: 45 } },
+            y: { type: 'linear', position: 'left', beginAtZero: true },
+            y1: { type: 'linear', position: 'right', min: 0, max: 100, grid: { drawOnChartArea: false } }
+          }
+        }
+      });
+    })
+    .withFailureHandler(function(err) {
+      console.error('[CHART] Falha ao carregar dados:', err);
+      var viewChart = document.getElementById('view-chart');
+      if (viewChart) viewChart.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--error-color);">⚠️ Erro ao gerar gráfico</div>';
+    })
+    .obterEstatisticasCiclo();
+}
+
+
+
+function animarKPIComContagem(id, valorFinal, delay) {
+  if (delay === undefined) delay = 0;
+  var el = document.getElementById(id);
+  if (!el) return;
+
+  if (valorFinal === null || valorFinal === undefined) {
+    setTimeout(function() {
+      el.style.opacity = '1';
+      el.innerText = '—';
+    }, delay);
+    return;
+  }
+
+  setTimeout(function() {
+    el.style.opacity = '1';
+    el.classList.add('kpi-animando');
+    var valorStr = String(valorFinal);
+    var valorNumerico = parseInt(valorStr.replace(/[^0-9]/g, ''));
+
+    if (!isNaN(valorNumerico) && valorNumerico > 0 && valorNumerico < 100000) {
+      var atual = 0;
+      var passos = 15;
+      var incremento = Math.ceil(valorNumerico / passos);
+      var intervalo = setInterval(function() {
+        atual += incremento;
+        if (atual >= valorNumerico) {
+          atual = valorNumerico;
+          clearInterval(intervalo);
+          el.innerText = valorFinal;
+          el.classList.remove('kpi-animando');
+        } else {
+          el.innerText = valorStr.indexOf('%') > -1 ? atual + '%' : atual.toLocaleString('pt-BR');
+        }
+      }, 30);
+    } else {
+      el.innerText = valorFinal;
+      setTimeout(function() { el.classList.remove('kpi-animando'); }, 500);
+    }
+  }, delay);
+}
+
+
+function formatarSegundosSimples(seg) {
+  if (!seg || seg <= 0) return '—';
+  seg = Math.round(seg);
+  var m = Math.floor(seg / 60);
+  var s = seg % 60;
+  return m > 0 ? m + 'min ' + s + 's' : s + 's';
+}
+
+// ─── TABS ────────────────────────────────────────────────────
+
+
+/* ==========================================================
+   WIZARD DE CONFIGURAÇÕES (6 PASSOS)
+========================================================== */
+
+
+
+
+// ✅ salvarTudoWizard — manter como está, sem mudança
+
+/* V90 — DUPLICATA REMOVIDA: salvarTudoWizard() estava definida DUAS vezes no mesmo escopo
+   (uma cópia vinha do Mobile.html, a outra deste arquivo). Por hoisting só a
+   ÚLTIMA valia — e em vários casos era a versão mais curta/antiga, daí botões
+   que não respondiam e telas que não desenhavam. Mantida a versão completa de
+   7117 bytes; esta cópia tinha 578 bytes. */
+
+
+
+
+
+
+/* V90 — DUPLICATA REMOVIDA: switchStatsTab() estava definida DUAS vezes no mesmo escopo
+   (uma cópia vinha do Mobile.html, a outra deste arquivo). Por hoisting só a
+   ÚLTIMA valia — e em vários casos era a versão mais curta/antiga, daí botões
+   que não respondiam e telas que não desenhavam. Mantida a versão completa de
+   1344 bytes; esta cópia tinha 1242 bytes. */
+
+
+function alternarVisaoEstatistica(visao) {
+    switchStatsTab(visao); 
+}
+
+
+function carregarDadosTempo() {
+    const tbody = document.getElementById('tbody-tempo-consolidado');
+
+    // Usa cache pré-carregado no boot
+    if (window._dadosTempoPreCached && estatisticasReady) {
+        console.log('[TEMPO] Usando cache pré-carregado');
+
+        const resultado   = window._dadosTempoPreCached;
+        const desempenho  = window._desempenhoPreCached;
+
+        dadosTempoConsolidados = resultado.dados;
+
+        atualizarKPIsTempo(estadoUsuario?.tempo_agregado?.geral, desempenho);
+        popularFiltroTempoDisciplinas(dadosTempoConsolidados);
+        renderizarTabelaTempoConsolidada();
+        gerarInsightsTempo(estadoUsuario);
+
+        if (resultado.orfas > 0) {
+            const c = document.getElementById('insights-tempo-container');
+            if (c) {
+                c.innerHTML = '<div class="insight-tempo-card tipo-alerta">'
+                    + '<div class="insight-tempo-titulo">⚠️ Registros Incompletos</div>'
+                    + '<div class="insight-tempo-desc">Você tem <strong>' + resultado.orfas
+                    + '</strong> respostas antigas sem dados de tempo.</div></div>'
+                    + c.innerHTML;
+            }
+        }
+        return;
+    }
+
+    // Fallback: busca do backend normalmente
+    console.log('[TEMPO] Cache ausente, buscando do backend...');
+
+    if (tbody) tbody.innerHTML = '<tr><td colspan="10" style="text-align:center;padding:40px;">'
+        + '<div class="spinner" style="margin:0 auto;"></div><br>Carregando...</td></tr>';
+
+    google.script.run
+        .withSuccessHandler(function(estado) {
+            estadoUsuario = estado;
+
+            if (!estado || !estado.tempo_agregado) {
+                if (tbody) tbody.innerHTML = '<tr><td colspan="10" style="text-align:center;'
+                    + 'color:#999;padding:40px;">Nenhum dado temporal disponível.</td></tr>';
+                estatisticasReady = true;
+                return;
+            }
+
+            const desempenho = calcularDesempenhoGeral(estado);
+            atualizarKPIsTempo(estado.tempo_agregado.geral, desempenho);
+
+            const resultado = consolidarDadosTempo(estado);
+            dadosTempoConsolidados = resultado.dados;
+
+            // Salva no cache para próxima vez
+            window._dadosTempoPreCached  = resultado;
+            window._desempenhoPreCached  = desempenho;
+
+            popularFiltroTempoDisciplinas(dadosTempoConsolidados);
+            renderizarTabelaTempoConsolidada();
+            gerarInsightsTempo(estado);
+
+            if (resultado.orfas > 0) {
+                const c = document.getElementById('insights-tempo-container');
+                if (c) {
+                    c.innerHTML = '<div class="insight-tempo-card tipo-alerta">'
+                        + '<div class="insight-tempo-titulo">⚠️ Registros Incompletos</div>'
+                        + '<div class="insight-tempo-desc">Você tem <strong>' + resultado.orfas
+                        + '</strong> respostas antigas sem dados de tempo.</div></div>'
+                        + c.innerHTML;
+                }
+            }
+
+            estatisticasReady = true;
+        })
+        .withFailureHandler(function(err) {
+            console.error('[TEMPO] Erro:', err);
+            if (tbody) tbody.innerHTML = '<tr><td colspan="10" style="text-align:center;'
+                + 'color:var(--red);padding:40px;">Erro ao carregar dados.</td></tr>';
+        })
+        .carregarEstadoUsuario();
+}
+
+
+
+
+function exportarRelatorioTempo() {
+    google.script.run.withSuccessHandler(json => {
+        const blob = new Blob([json], { type: 'application/json' });
+        const url  = URL.createObjectURL(blob);
+        const a    = document.createElement('a');
+        a.href     = url;
+        a.download = `relatorio_tempo_${new Date().toISOString().split('T')[0]}.json`;
+        a.click();
+    }).exportarRelatorioTempoCompleto();
+}
+
+
+function carregarDashboardAnalytics() {
+    // Usa cache pré-carregado no boot
+    if (analyticsReady) {
+        console.log('[ANALYTICS] Usando cache pré-carregado.');
+        if (window._analyticsPrecached) renderizarAnaliseGeral(window._analyticsPrecached);
+        if (window._insightsPrecached)  renderizarInsights(window._insightsPrecached);
+        popularDropdownDisciplinasAnalytics();
+        return;
+    }
+
+    mostrarLoading();
+
+    google.script.run
+        .withSuccessHandler(function(hist) {
+            historicoGeral = hist;
+            google.script.run
+                .withSuccessHandler(function(dados) {
+                    ocultarLoading();
+                    window._analyticsPrecached = dados;
+                    renderizarAnaliseGeral(dados);
+                    analyticsReady = true;
+                    console.log('[ANALYTICS] ✅ Dashboard carregado e cacheado.');
+                })
+                .withFailureHandler(function(err) {
+                    ocultarLoading();
+                    console.error('[ANALYTICS] Erro:', err);
+                    var el = document.getElementById('score-global');
+                    if (el) el.innerText = 'N/A';
+                })
+                .analisarDesempenhoGeral();
+        })
+        .withFailureHandler(function(err) {
+            ocultarLoading();
+            console.error('[ANALYTICS] Erro ao carregar histórico:', err);
+        })
+        .carregarHistoricoDesempenho();
+
+    google.script.run
+        .withSuccessHandler(function(insights) {
+            window._insightsPrecached = insights;
+            renderizarInsights(insights);
+        })
+        .withFailureHandler(function(err) {
+            console.error('[ANALYTICS] Erro ao carregar insights:', err);
+        })
+        .gerarInsightsAutomaticos();
+
+    popularDropdownDisciplinasAnalytics();
+}
+
+
+function renderizarAbaEstatisticas() {
+    const modoSelect = document.getElementById('stats-mode-selector');
+    const modo       = modoSelect ? modoSelect.value : 'acumulado';
+    const tbody      = document.getElementById('tabela-estatisticas');
+    if (!tbody) return;
+
+    // Usa cache pré-carregado no boot (apenas modo acumulado)
+    if (window._dadosStatsPrecached && estatisticasReady && modo === 'acumulado') {
+        console.log('[STATS] Usando cache pré-carregado');
+        processarDadosEstatisticas(window._dadosStatsPrecached, modo);
+        return;
+    }
+
+    // Busca do backend para modos ciclo/manual ou se cache ausente
+    console.log('[STATS] Buscando do backend, modo:', modo);
+    iniciarAnimacaoProcessando('tabela-estatisticas', true);
+
+    google.script.run
+        .withSuccessHandler(function(dados) {
+            pararAnimacaoProcessando();
+
+            if (!dados || dados.erro) {
+                mostrarErroEstatisticas(tbody, dados ? dados.erro : 'Dados não disponíveis');
+                return;
+            }
+
+            // Atualiza cache se modo acumulado
+            if (modo === 'acumulado') {
+                window._dadosStatsPrecached = dados;
+            }
+
+            processarDadosEstatisticas(dados, modo);
+        })
+        .withFailureHandler(function(err) {
+            pararAnimacaoProcessando();
+            mostrarErroEstatisticas(tbody, err.message || 'Erro desconhecido');
+        })
+        .obterEstatisticasCiclo();
+}
+
+
+
+function mostrarErroEstatisticas(tbody, mensagem) {
+    tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:40px;"><div style="color:var(--error-color);"><span style="font-size:40px;">⚠️</span><div style="margin-top:10px;font-weight:500;">Erro ao carregar estatísticas</div><div style="margin-top:5px;font-size:13px;color:#666;">${mensagem}</div></div></td></tr>`;
+    ['stat-total-ciclo','stat-respondidas-geral','stat-media-ciclo','stat-disciplinas','stat-acertos-abs','stat-erros-abs'].forEach(function(k) {
+        var el = document.getElementById(k);
+        if (el) { el.style.opacity = '1'; el.innerText = '-'; }
+    });
+}
+
+
+
+function renderizarTabelaEstatisticas(disciplinas, modo) {
+    var tbody = document.getElementById('tabela-estatisticas');
+    if (!tbody) return;
+    tbody.innerHTML = '';
+    if (disciplinas.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:#999;">Nenhuma disciplina configurada.</td></tr>';
+        return;
+    }
+    var disciplinasOrdenadas = disciplinas.slice().sort(function(a, b) { return a.taxa - b.taxa; });
+    for (var i = 0; i < disciplinasOrdenadas.length; i++) {
+        var d = disciplinasOrdenadas[i];
+        var corTaxa = '#666';
+        var statusHtml = '<span style="background:#e9ecef;color:#666;padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600;">Pendente</span>';
+        if (d.respondidas > 0) {
+            if (d.taxa >= 80) {
+                corTaxa = 'var(--green)';
+                statusHtml = '<span style="background:var(--green-bg);color:var(--green);padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600;">✓ Ótimo</span>';
+            } else if (d.taxa >= 60) {
+                corTaxa = 'var(--warning)';
+                statusHtml = '<span style="background:var(--warning-bg);color:var(--warning);padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600;">Regular</span>';
+            } else {
+                corTaxa = 'var(--red)';
+                statusHtml = '<span style="background:var(--red-bg);color:var(--red);padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600;">⚠ Crítico</span>';
+            }
+        }
+        var row = document.createElement('tr');
+        row.className = 'linha-animada';
+        row.innerHTML = `
+            <td style="grid-column:span 2;font-weight:800;font-size:14px;color:var(--text);
+                border-bottom:1px solid var(--border-light);padding-bottom:8px;margin-bottom:4px;">
+                ${d.disciplina}
+            </td>
+            <td data-label="Previsto">${d.qtd_bloco}</td>
+            <td data-label="Realizado">${d.respondidas.toLocaleString('pt-BR')}</td>
+            <td data-label="Acertos" style="color:var(--green)">${d.acertos.toLocaleString('pt-BR')}</td>
+            <td data-label="Taxa" style="color:${corTaxa}">${d.taxa}%</td>
+            <td data-label="Status" style="grid-column:span 2">${statusHtml}</td>
+        `;
+        tbody.appendChild(row);
+        (function(rowEl, index) { setTimeout(function() { rowEl.classList.add('visivel'); }, 80 * index); })(row, i);
+    }
+}
+
+
+
+
+function atualizarVisualizacaoEstatisticas(tipo) {
+    var viewTable = document.getElementById('view-table');
+    var viewChart = document.getElementById('view-chart');
+    if (!viewTable || !viewChart) return;
+    if (tipo === 'tabela') {
+        viewChart.style.display = 'none';
+        viewTable.style.display = 'block';
+        viewTable.style.opacity = '0';
+        setTimeout(function() { viewTable.style.transition = 'opacity 0.4s ease'; viewTable.style.opacity = '1'; }, 50);
+    } else {
+        viewTable.style.display = 'none';
+        viewChart.style.display = 'block';
+        viewChart.innerHTML     = '<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;"><div class="loading-spinner-stats"></div></div>';
+        setTimeout(function() {
+            viewChart.innerHTML = '<canvas id="chart-estatisticas" style="max-height:350px;"></canvas>';
+            renderizarGraficoProgresso();
+        }, 800);
+    }
+}
+
+function switchAnalyticsSubTab(tabName) {
+    document.querySelectorAll('.analytics-subtab-btn').forEach(btn => btn.classList.remove('active'));
+    const btnAtivo = document.querySelector(`.analytics-subtab-btn[data-tab="${tabName}"]`);
+    if (btnAtivo) btnAtivo.classList.add('active');
+    document.querySelectorAll('.analytics-subpanel').forEach(panel => { panel.style.display = 'none'; panel.style.opacity = '0'; });
+    const painelAtivo = document.getElementById(`analytics-panel-${tabName}`);
+    if (painelAtivo) { painelAtivo.style.display = 'block'; setTimeout(() => { painelAtivo.style.opacity = '1'; }, 50); }
+    analyticsSubTabAtual = tabName;
+}
+
+
+
+
+
+function formatarSegundosParaHora(seg) {
+    if (!seg || seg === 0) return '0h';
+    const h = Math.floor(seg / 3600);
+    const m = Math.floor((seg % 3600) / 60);
+    if (h > 0) return `${h}h ${m}min`;
+    return `${m}min`;
+}
+
+
+function renderizarTabelaTempoConsolidada() {
+    const tbody = document.getElementById('tbody-tempo-consolidado');
+    tbody.innerHTML = '';
+    let dadosFiltrados = dadosTempoConsolidados;
+    if (filtroTempoAtual !== 'TODOS') dadosFiltrados = dadosTempoConsolidados.filter(d => d.disciplina === filtroTempoAtual);
+
+    dadosFiltrados.forEach(linha => {
+        const tr = document.createElement('tr');
+        tr.className = 'tabela-tempo-row linha-animada';
+        const corTaxa = linha.taxa >= 80 ? 'var(--green)' : (linha.taxa >= 60 ? 'var(--warning)' : 'var(--red)');
+
+        tr.innerHTML = `
+            <td style="grid-column:span 2;font-weight:800;font-size:14px;color:var(--text);
+                border-bottom:1px solid var(--border-light);padding-bottom:8px;margin-bottom:4px;">
+                ${linha.disciplina}
+                <div style="font-size:11px;font-weight:500;color:var(--text-3);margin-top:2px;">${linha.tema}</div>
+            </td>
+            <td data-label="QTD">${linha.questoes}</td>
+            <td data-label="Acertos" style="color:var(--green)">${linha.acertos}</td>
+            <td data-label="Erros" style="color:var(--red)">${linha.erros}</td>
+            <td data-label="Taxa" style="color:${corTaxa}">${linha.taxa}%</td>
+            <td data-label="Média">${formatarSegundosSimples(linha.tempoMedio)}</td>
+            <td data-label="Total" style="grid-column:span 2">${linha.tempoTotal}</td>
+            <td data-label="Status" style="grid-column:span 2">${linha.statusTempo.texto}</td>
+            <td data-label="Eficiência" style="grid-column:span 2">
+                <div class="efficiency-bar-container">
+                    <div class="efficiency-bar-fill" style="width:${linha.eficiencia}%;background:${getCorEficiencia(linha.eficiencia)};"></div>
+                    <span class="efficiency-bar-text">${linha.eficiencia}%</span>
+                </div>
+            </td>
+        `;
+        tbody.appendChild(tr);
+        setTimeout(() => tr.classList.add('visivel'), 80);
+    });
+}
+
+
+
+
+function getCorEficiencia(valor) {
+    if (valor >= 70) return 'var(--success-color)';
+    if (valor >= 40) return 'var(--warning-color)';
+    return 'var(--error-color)';
+}
+
+function filtrarTabelaTempo(disciplina) {
+    filtroTempoAtual = disciplina;
+    renderizarTabelaTempoConsolidada();
+}
+
+function popularFiltroTempoDisciplinas(dados) {
+    const select = document.getElementById('filtro-tempo-disciplina');
+    if (!select) return;
+    const disciplinas = [...new Set(dados.map(d => d.disciplina))].sort();
+    select.innerHTML = '<option value="TODOS">Todas as Disciplinas</option>';
+    disciplinas.forEach(disc => { select.innerHTML += `<option value="${disc}">${disc}</option>`; });
+}
+
+function ordenarTabelaTempo(coluna) {
+    if (ordenacaoTempoAtual.coluna === coluna) {
+        ordenacaoTempoAtual.direcao = ordenacaoTempoAtual.direcao === 'asc' ? 'desc' : 'asc';
+    } else {
+        ordenacaoTempoAtual.coluna  = coluna;
+        ordenacaoTempoAtual.direcao = 'asc';
+    }
+    document.querySelectorAll('.tempo-th-sortable').forEach(th => th.classList.remove('sorted-asc','sorted-desc'));
+    const thAtivo = document.querySelector(`.tempo-th-sortable[data-coluna="${coluna}"]`);
+    if (thAtivo) thAtivo.classList.add(ordenacaoTempoAtual.direcao === 'asc' ? 'sorted-asc' : 'sorted-desc');
+    renderizarTabelaTempoConsolidada();
+}
+
+// ─── 1. TOMOGRAFIA DE ESTATÍSTICAS ─────────────────────────────
+async function gerarTomografiaEstatisticas() {
+    addLog('Iniciando varredura de Estatísticas e Tempos...', 'processing');
+    atualizarProgresso(10, 100, 'Carregando Estado do Usuário...');
+    
+    let relatorio = {
+        data_geracao: new Date().toISOString(),
+        diagnostico_erros: [],
+        dados_processados: { disciplinas: {} },
+        dados_brutos: { estadoUsuario: null, historicoGeral: null }
+    };
+
+    try {
+        // Puxa do backend para garantir 100% de atualização
+        const estado = await new Promise((res, rej) => google.script.run.withSuccessHandler(res).withFailureHandler(rej).carregarEstadoUsuario());
+        const hist = await new Promise((res, rej) => google.script.run.withSuccessHandler(res).withFailureHandler(rej).carregarHistoricoDesempenho());
+        
+        relatorio.dados_brutos.estadoUsuario = estado;
+        relatorio.dados_brutos.historicoGeral = hist;
+        addLog('Dados brutos capturados com sucesso.', 'ok');
+
+        atualizarProgresso(40, 100, 'Analisando integridade matemática...');
+        
+        // Validação Matemática (Órfãs, Acertos > Total, Tempos Nulos)
+        let totalOrfas = 0;
+        let totalErrosMatematicos = 0;
+        let totalTemposInvalidos = 0;
+
+        const respostas = estado.respostas || {};
+        const tempos = estado.tempo_por_questao || {};
+
+        Object.keys(respostas).forEach(id => {
+            if (!tempos[id]) {
+                totalOrfas++;
+                relatorio.diagnostico_erros.push(`[AVISO] Questão ${id} possui resposta mas não possui registro de tempo (Órfã).`);
+            }
+        });
+
+        Object.keys(tempos).forEach(id => {
+            if (!respostas[id]) relatorio.diagnostico_erros.push(`[ERRO] Questão ${id} possui tempo registrado mas não possui resposta associada.`);
+            if (tempos[id].tempo_segundos <= 0) {
+                totalTemposInvalidos++;
+                relatorio.diagnostico_erros.push(`[ERRO] Questão ${id} com tempo registrado igual ou menor que zero (${tempos[id].tempo_segundos}s).`);
+            }
+        });
+
+        if (hist.acumulado_por_disciplina) {
+            Object.entries(hist.acumulado_por_disciplina).forEach(([disc, data]) => {
+                if (data.acertos_total > data.respondidas_total) {
+                    totalErrosMatematicos++;
+                    relatorio.diagnostico_erros.push(`[CRÍTICO] ${disc}: Acertos (${data.acertos_total}) maiores que Respondidas (${data.respondidas_total}).`);
+                }
+                relatorio.dados_processados.disciplinas[disc] = data;
+            });
+        }
+
+        addLog(`Validação concluída: ${totalOrfas} órfãs, ${totalErrosMatematicos} erros matemáticos, ${totalTemposInvalidos} tempos inválidos.`, totalErrosMatematicos > 0 ? 'error' : 'ok');
+        atualizarProgresso(100, 100, 'Consolidando JSON de Estatísticas...');
+
+        prepararDownload(relatorio, 'Tomografia_Estatisticas', 'Estatísticas');
+    } catch (e) {
+        addLog(`Falha ao extrair estatísticas: ${e.message}`, 'error');
+        throw e;
+    }
+}
+
+// ─── 2. TOMOGRAFIA ANALYTICS PROFUNDO ──────────────────────────
+async function gerarTomografiaAnalytics() {
+    addLog('Iniciando extração do Analytics Profundo...', 'processing');
+    atualizarProgresso(0, 100, 'Calculando Score Global e Insights...');
+    
+    let relatorio = {
+        data_geracao: new Date().toISOString(),
+        diagnostico_erros: [],
+        score_global: null,
+        insights_automaticos: null,
+        disciplinas_detalhadas: {}
+    };
+
+    try {
+        const score = await new Promise((res, rej) => google.script.run.withSuccessHandler(res).withFailureHandler(rej).analisarDesempenhoGeral());
+        relatorio.score_global = score;
+        addLog('Score Global e Projeções extraídos.', 'ok');
+
+        const insights = await new Promise((res, rej) => google.script.run.withSuccessHandler(res).withFailureHandler(rej).gerarInsightsAutomaticos());
+        relatorio.insights_automaticos = insights;
+        addLog('Insights automáticos extraídos.', 'ok');
+
+        const disciplinas = Object.keys(mapaArquivos || {}).sort();
+        if (disciplinas.length === 0) {
+            relatorio.diagnostico_erros.push("[ERRO] Nenhuma disciplina encontrada no mapa de arquivos.");
+            addLog('Nenhuma disciplina no mapa. Abortando loop de analytics.', 'error');
+        } else {
+            addLog(`Iniciando varredura detalhada de ${disciplinas.length} disciplinas...`, 'processing');
+            
+            for (let i = 0; i < disciplinas.length; i++) {
+                let disc = disciplinas[i];
+                atualizarProgresso(i + 1, disciplinas.length, `Analisando: ${disc}`);
+                
+                try {
+                    const analise = await new Promise((res, rej) => google.script.run.withSuccessHandler(res).withFailureHandler(rej).analisarDisciplinaIndividual(disc));
+                    relatorio.disciplinas_detalhadas[disc] = analise;
+                    
+                    if (analise.erro) {
+                        relatorio.diagnostico_erros.push(`[AVISO] ${disc}: ${analise.erro}`);
+                    }
+                } catch (errDisc) {
+                    relatorio.diagnostico_erros.push(`[ERRO] Falha ao analisar ${disc}: ${errDisc.message}`);
+                    addLog(`Erro ao baixar analytics de ${disc}`, 'error');
+                }
+            }
+        }
+
+        atualizarProgresso(100, 100, 'Consolidando JSON do Analytics...');
+        prepararDownload(relatorio, 'Tomografia_Analytics', 'Analytics');
+        addLog('Varredura do Analytics Profundo concluída.', 'ok');
+
+    } catch (e) {
+        addLog(`Falha ao extrair Analytics: ${e.message}`, 'error');
+        throw e;
+    }
+}
+</script>
