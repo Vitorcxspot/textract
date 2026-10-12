@@ -1,5 +1,864 @@
 {
   "disciplina": "Informática",
   "tema": "09 - Gestão de documentos eletrônicos",
-  "questoes": []
+  "questoes": [
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Um documento digital que já foi produzido originalmente em meio eletrônico, sem existir versão em papel, é chamado de</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "documento nato digital.",
+        "B": "documento digitalizado.",
+        "C": "documento microfilmado.",
+        "D": "documento analógico.",
+        "E": "documento híbrido."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>documento nato digital</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> documento nato digital</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: documento nato digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento nato digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento nato digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento nato digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento nato digital.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Documento nato digital.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "034e9600-3452-415b-9397-389bf9dd5af1",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O documento digitalizado é aquele que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "foi gerado por sistema sem versão em papel.",
+        "B": "foi assinado digitalmente na origem.",
+        "C": "foi gerado por planilha eletrônica.",
+        "D": "foi obtido a partir da conversão de um documento originalmente em papel para formato digital, por meio de escaneamento.",
+        "E": "foi criado diretamente em editor de texto."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>documento digitalizado</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> documento digitalizado</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento digitalizado.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento digitalizado.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento digitalizado.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: documento digitalizado.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: documento digitalizado.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Documento digitalizado.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "4489ab2b-68cd-4116-affd-548c26256a3a",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A sigla GED significa, em gestão de documentos eletrônicos,</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Grupo de Estudos Documentais.",
+        "B": "Gerenciamento Eletrônico de Documentos.",
+        "C": "Gerenciador de Estruturas de Dados.",
+        "D": "Gerador Estatístico de Dados.",
+        "E": "Gestão Estratégica Digital."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>sigla GED</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> sigla GED</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sigla GED.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: sigla GED.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sigla GED.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sigla GED.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sigla GED.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Sigla GED.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "56db9eca-eda6-4d76-80f3-c5321b43a1f7",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Os metadados, em um sistema de gestão de documentos eletrônicos, são</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "extensões de arquivos executáveis.",
+        "B": "cópias de segurança dos documentos.",
+        "C": "programas de edição de texto.",
+        "D": "senhas de acesso dos usuários.",
+        "E": "dados que descrevem e contextualizam os documentos, como autor, data, assunto e classificação."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>metadados</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> metadados</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: metadados.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: metadados.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: metadados.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: metadados.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: metadados.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Metadados.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "2c07b38c-5490-4819-bbec-6d486d4b2f36",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O formato PDF/A foi concebido para</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "a edição colaborativa em tempo real.",
+        "B": "a execução de macros automáticas.",
+        "C": "a compactação de arquivos de áudio.",
+        "D": "a navegação em páginas da internet.",
+        "E": "a preservação de longo prazo de documentos eletrônicos."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>PDF/A</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> PDF/A</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: pDF/A.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: pDF/A.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: pDF/A.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: pDF/A.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: pDF/A.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>PDF/A.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "ab413293-a4ea-47d6-a321-7db63b7b22da",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A assinatura digital baseada em certificado emitido no âmbito da ICP-Brasil tem como finalidade garantir ao documento eletrônico</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "anonimato do signatário.",
+        "B": "autenticidade, integridade e não repúdio.",
+        "C": "compatibilidade com qualquer editor.",
+        "D": "redução do tamanho do arquivo.",
+        "E": "velocidade de abertura e compressão."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>assinatura digital ICP-Brasil</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> assinatura digital ICP-Brasil</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura digital ICP-Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: assinatura digital ICP-Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura digital ICP-Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura digital ICP-Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura digital ICP-Brasil.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Assinatura digital ICP-Brasil.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "9b4d6abb-61a1-4a5c-ad7c-bb97318bc817",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O código hash, calculado sobre o conteúdo de um arquivo, é usado para</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "verificar a integridade do arquivo, pois qualquer alteração no conteúdo produz um hash diferente.",
+        "B": "apagar o arquivo após a leitura.",
+        "C": "converter o arquivo para outro formato.",
+        "D": "criptografar o arquivo de modo reversível.",
+        "E": "compactar o arquivo sem perda."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>hash e integridade</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> hash e integridade</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: hash e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: hash e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: hash e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: hash e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: hash e integridade.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Hash e integridade.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "c7e0658e-eef6-4196-b4a4-0cdbbb5de3d5",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Na teoria das três idades dos arquivos, as fases do ciclo de vida dos documentos são:</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "digital, analógica e híbrida.",
+        "B": "ativa, passiva e morta.",
+        "C": "inicial, mediana e final.",
+        "D": "corrente, intermediária e permanente.",
+        "E": "pública, privada e mista."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>ciclo de vida documental</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> ciclo de vida documental</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: ciclo de vida documental.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: ciclo de vida documental.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: ciclo de vida documental.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: ciclo de vida documental.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: ciclo de vida documental.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Ciclo de vida documental.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "85bbabfc-b418-41ea-9f02-44307a8eb45c",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Sistema Informatizado de Gestão Arquivística de Documentos (SIGAD) é o sistema que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "serve apenas para armazenar arquivos de qualquer tipo, sem classificação.",
+        "B": "é um editor de texto avançado.",
+        "C": "aplica os princípios arquivísticos, como classificação e temporalidade, ao controle de documentos desde a produção até a destinação final.",
+        "D": "é um repositório de backup de servidores.",
+        "E": "é um navegador de internet corporativo."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>SIGAD</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> SIGAD</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sIGAD.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sIGAD.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: sIGAD.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sIGAD.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: sIGAD.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>SIGAD.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "5253949c-3da7-4327-a0b8-3773cb0e9541",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O e-ARQ Brasil, publicado pelo Conselho Nacional de Arquivos (CONARQ), é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "um protocolo de transmissão de dados.",
+        "B": "um sistema operacional.",
+        "C": "um padrão de criptografia.",
+        "D": "um formato de arquivo de imagem.",
+        "E": "um modelo de requisitos para sistemas informatizados de gestão arquivística de documentos."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>e-ARQ Brasil</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> e-ARQ Brasil</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: e-ARQ Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: e-ARQ Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: e-ARQ Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: e-ARQ Brasil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: e-ARQ Brasil.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>E-ARQ Brasil.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "06566c98-4896-46f8-bb0d-0e927ec3d415",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>No Poder Judiciário, o MoReq-Jus é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "um banco de dados de jurisprudência.",
+        "B": "um padrão de numeração única de processos.",
+        "C": "o modelo de requisitos para sistemas informatizados de gestão de processos e documentos do Judiciário.",
+        "D": "um formato de assinatura digital.",
+        "E": "um protocolo de comunicação entre tribunais."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>MoReq-Jus</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> MoReq-Jus</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: moReq-Jus.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: moReq-Jus.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: moReq-Jus.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: moReq-Jus.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: moReq-Jus.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>MoReq-Jus.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "053eee6b-b04c-4a60-90a1-5f9ef489e6c6",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A tabela de temporalidade de documentos define</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "a lista de equipamentos de digitalização.",
+        "B": "as senhas dos usuários.",
+        "C": "a lista de servidores autorizados.",
+        "D": "os prazos de guarda nas fases corrente e intermediária e a destinação final (eliminação ou guarda permanente).",
+        "E": "os formatos aceitos de arquivos."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>tabela de temporalidade</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> tabela de temporalidade</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tabela de temporalidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tabela de temporalidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tabela de temporalidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: tabela de temporalidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tabela de temporalidade.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Tabela de temporalidade.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "3b4ac66c-0524-4199-b438-9272411cd4ce",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O plano de classificação de documentos tem por finalidade</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "organizar os documentos segundo as funções e atividades do órgão, permitindo sua recuperação e a definição de prazos de guarda.",
+        "B": "definir o orçamento anual do arquivo.",
+        "C": "selecionar os equipamentos de rede.",
+        "D": "classificar os usuários por hierarquia.",
+        "E": "organizar os documentos por tamanho de arquivo."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>plano de classificação</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> plano de classificação</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: plano de classificação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: plano de classificação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: plano de classificação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: plano de classificação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: plano de classificação.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Plano de classificação.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "1a647e64-2faf-40fc-a2f9-0bfe3325a5cd",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Quanto à digitalização de documentos, é correto afirmar que a digitalização de um documento físico, por si só,</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "dispensa a observância da tabela de temporalidade.",
+        "B": "não substitui o original para fins arquivísticos nem para eliminação, se não observados os requisitos legais e técnicos aplicáveis.",
+        "C": "garante, por si só, a autenticidade do documento.",
+        "D": "dispensa a adoção de metadados.",
+        "E": "elimina a necessidade de qualquer controle sobre o original."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>digitalização e requisitos</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> digitalização e requisitos</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: digitalização e requisitos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: digitalização e requisitos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: digitalização e requisitos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: digitalização e requisitos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: digitalização e requisitos.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Digitalização e requisitos.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "b69dd8e5-93ee-4543-a274-ab7584fa2833",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A preservação digital de longo prazo envolve estratégias como</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "armazenamento único em mídia óptica sem cópia.",
+        "B": "acesso irrestrito a todos os usuários.",
+        "C": "exclusão periódica dos documentos antigos.",
+        "D": "impressão obrigatória dos documentos eletrônicos.",
+        "E": "migração de formatos, emulação e verificação periódica da integridade dos arquivos."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>estratégias de preservação digital</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> estratégias de preservação digital</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: estratégias de preservação digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: estratégias de preservação digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: estratégias de preservação digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: estratégias de preservação digital.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: estratégias de preservação digital.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Estratégias de preservação digital.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "7c80b5c5-77d3-43a0-bdb6-288ae5e683eb",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A cadeia de custódia ininterrupta, em gestão de documentos eletrônicos, significa</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "a eliminação periódica de versões antigas.",
+        "B": "a duplicação do documento em dois locais físicos.",
+        "C": "a assinatura de todos os servidores no documento.",
+        "D": "a garantia de que o documento esteve sempre sob responsabilidade de pessoas ou sistemas autorizados, preservando sua autenticidade.",
+        "E": "a impressão em papel como cópia oficial."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>cadeia de custódia</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> cadeia de custódia</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: cadeia de custódia.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: cadeia de custódia.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: cadeia de custódia.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: cadeia de custódia.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: cadeia de custódia.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Cadeia de custódia.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "a31ab398-cb0e-42f5-8d0c-b750aa239a7f",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O RDC-Arq (Repositório Arquivístico Digital Confiável) é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "um programa para edição de imagens.",
+        "B": "um ambiente para armazenamento, preservação e acesso a documentos arquivísticos digitais, com garantia de autenticidade e integridade.",
+        "C": "um sistema de gestão de e-mails.",
+        "D": "um tipo de certificado digital.",
+        "E": "um protocolo de rede."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>RDC-Arq</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> RDC-Arq</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: rDC-Arq.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: rDC-Arq.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: rDC-Arq.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: rDC-Arq.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: rDC-Arq.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>RDC-Arq.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "56e9752b-71d0-474c-86bb-a5750439e7f0",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A trilha de auditoria em um sistema de gestão de documentos eletrônicos</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "substitui a assinatura digital.",
+        "B": "elimina a necessidade de cópias de segurança.",
+        "C": "registra as operações realizadas pelos usuários, possibilitando rastrear acessos e alterações.",
+        "D": "criptografa o conteúdo dos documentos.",
+        "E": "impede a edição de qualquer documento."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>trilha de auditoria</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> trilha de auditoria</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: trilha de auditoria.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: trilha de auditoria.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: trilha de auditoria.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: trilha de auditoria.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: trilha de auditoria.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Trilha de auditoria.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "da538a40-5ed3-47d0-834b-e9b2abf59ba8",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O controle de versões (check-in e check-out) em um sistema de gestão de documentos serve para</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "evitar edições simultâneas conflitantes e manter o histórico das alterações do documento.",
+        "B": "eliminar versões antigas automaticamente.",
+        "C": "assinar o documento sem certificado.",
+        "D": "impedir o acesso de qualquer usuário.",
+        "E": "converter o documento em imagem."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>controle de versões</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> controle de versões</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: controle de versões.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: controle de versões.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: controle de versões.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: controle de versões.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: controle de versões.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Controle de versões.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "f834a472-3e10-4ffa-9493-7fc9e1bb154d",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Sobre a gestão de documentos eletrônicos, considere:</p><p>I. Os metadados descrevem e contextualizam os documentos.</p><p>II. O hash auxilia a verificar a integridade de um arquivo.</p><p>III. O PDF/A destina-se à edição colaborativa em tempo real.</p><p>Está correto o que se afirma em</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>conceitos de gestão de documentos eletrônicos</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> conceitos de gestão de documentos eletrônicos</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao gabarito: estão corretos apenas os itens I, II.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao gabarito: estão corretos apenas os itens I, II.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Gabarito: apenas os itens I, II estão corretos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao gabarito: estão corretos apenas os itens I, II.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao gabarito: estão corretos apenas os itens I, II.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Conceitos de gestão de documentos eletrônicos.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Confira cada item com a norma antes de marcar.</p></div></div>",
+      "id": "601d09eb-d179-4bcd-8865-4d3253c6cb80",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O modelo de assinaturas eletrônicas da Lei nº 14.063/2020 classifica-as em</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "simples, avançada e qualificada.",
+        "B": "básica, intermediária e plena.",
+        "C": "pública, privada e mista.",
+        "D": "nacional, internacional e regional.",
+        "E": "digital, analógica e híbrida."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>tipos de assinatura eletrônica (Lei 14.063/2020)</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> tipos de assinatura eletrônica (Lei 14.063/2020)</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: tipos de assinatura eletrônica (Lei 14.063/2020).</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tipos de assinatura eletrônica (Lei 14.063/2020).</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tipos de assinatura eletrônica (Lei 14.063/2020).</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tipos de assinatura eletrônica (Lei 14.063/2020).</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: tipos de assinatura eletrônica (Lei 14.063/2020).</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Tipos de assinatura eletrônica (Lei 14.063/2020).</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "8104a201-3d06-4f7c-8b83-479f0d3b1e0b",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A assinatura eletrônica qualificada, segundo a Lei nº 14.063/2020, é aquela</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "feita por reconhecimento facial, apenas.",
+        "B": "feita por digitação do nome ao final do texto.",
+        "C": "que utiliza certificado digital, nos termos da ICP-Brasil.",
+        "D": "feita por escaneamento de assinatura manuscrita.",
+        "E": "feita por login e senha, apenas."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>assinatura eletrônica qualificada</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> assinatura eletrônica qualificada</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica qualificada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica qualificada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: assinatura eletrônica qualificada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica qualificada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica qualificada.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Assinatura eletrônica qualificada.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "3f4aee56-d58b-4435-95c3-1e59e952f3d8",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A Lei nº 11.419/2006, que dispõe sobre a informatização do processo judicial, considera meio eletrônico qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais, e prevê que a assinatura eletrônica pode ser feita mediante</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "e-mail pessoal do advogado, apenas.",
+        "B": "autenticação por QR code, apenas.",
+        "C": "assinatura manuscrita digitalizada, apenas.",
+        "D": "assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, ou cadastro de usuário no Poder Judiciário.",
+        "E": "impressão digital, apenas."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>assinatura eletrônica na Lei 11.419/2006</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> assinatura eletrônica na Lei 11.419/2006</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica na Lei 11.419/2006.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica na Lei 11.419/2006.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica na Lei 11.419/2006.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: assinatura eletrônica na Lei 11.419/2006.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: assinatura eletrônica na Lei 11.419/2006.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Assinatura eletrônica na Lei 11.419/2006.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "89f9c735-47bd-480d-b90c-8b10c2fc0eda",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>O carimbo do tempo (timestamp) aplicado a um documento eletrônico atesta</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "a autorização para eliminação do documento.",
+        "B": "a identidade do autor do documento.",
+        "C": "a classificação de sigilo do documento.",
+        "D": "a descrição dos metadados do documento.",
+        "E": "que o documento existia em determinada data e hora, e não foi alterado desde então."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>carimbo do tempo</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> carimbo do tempo</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: carimbo do tempo.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: carimbo do tempo.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: carimbo do tempo.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: carimbo do tempo.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: carimbo do tempo.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Carimbo do tempo.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "eae6c7fa-72f9-4a14-acda-18c1fd32b3c8",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>A teoria das três idades, aplicada a documentos eletrônicos, implica que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "os documentos eletrônicos dispensam avaliação.",
+        "B": "os documentos eletrônicos devem ser avaliados e destinados segundo a tabela de temporalidade, com eliminação ou guarda permanente na fase final, observados os requisitos de preservação.",
+        "C": "os documentos eletrônicos são sempre de guarda permanente.",
+        "D": "os documentos eletrônicos não podem ser eliminados.",
+        "E": "os documentos eletrônicos seguem outra teoria, incompatível."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>aplicação das três idades a documentos eletrônicos</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> aplicação das três idades a documentos eletrônicos</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: aplicação das três idades a documentos eletrônicos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: aplicação das três idades a documentos eletrônicos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: aplicação das três idades a documentos eletrônicos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: aplicação das três idades a documentos eletrônicos.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: aplicação das três idades a documentos eletrônicos.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Aplicação das três idades a documentos eletrônicos.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "92f00284-1e83-4dbc-8f52-818a2f20fa9e",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "09 - Gestão de documentos eletrônicos",
+      "subtema": "Conceitos e sistemas de gestão de documentos eletrônicos",
+      "enunciado": "<p>Para garantir a confiabilidade de um documento eletrônico como prova, é necessário assegurar</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "sua autenticidade (origem comprovada) e integridade (ausência de alterações não autorizadas), ao longo de todo o ciclo de vida.",
+        "B": "apenas sua guarda em mais de um local.",
+        "C": "apenas seu tamanho reduzido.",
+        "D": "apenas a data de criação, sem outros dados.",
+        "E": "apenas sua legibilidade, em qualquer formato."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Conceitos e sistemas de gestão de documentos eletrônicos</strong>.<br>Ponto-chave: <strong>autenticidade e integridade</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> autenticidade e integridade</li><li><strong>Fonte:</strong> Gestão arquivística e documentos eletrônicos</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Correta: autenticidade e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: autenticidade e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: autenticidade e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: autenticidade e integridade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao conteúdo cobrado: autenticidade e integridade.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Autenticidade e integridade.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "f6dc4f35-38b1-49f4-b649-c2073ab0403b",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    }
+  ]
 }

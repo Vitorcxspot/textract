@@ -2818,6 +2818,72 @@
         "conteudo_desatualizado_corrigido": false,
         "revisor": "Claude Sonnet 5.5"
       }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Não especificado",
+      "disciplina": "Direito Penal",
+      "tema": "05 - Dos crimes contra a pessoa II - Art. 138 a 153 do CP",
+      "subtema": "Sequestro, Trabalho Análogo ao de Escravo e Tráfico de Pessoas (Arts. 148 a 149-A)",
+      "enunciado": "<p>No crime de tráfico de pessoas (art. 149-A do Código Penal), a conduta de agenciar, aliciar, recrutar, transportar, alojar ou acolher pessoa, mediante grave ameaça, violência, coação, fraude ou abuso, é punida quando tem a finalidade de</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "viabilizar a adoção regular, com autorização judicial.",
+        "B": "promover turismo cultural, com ciência do passageiro.",
+        "C": "encaminhar a vítima a atendimento médico voluntário.",
+        "D": "permitir à vítima a livre escolha de emprego mais vantajoso.",
+        "E": "submeter a vítima a trabalho em condições análogas à de escravo, a qualquer tipo de servidão, ou à exploração sexual."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Sequestro, Trabalho Análogo ao de Escravo e Tráfico de Pessoas (Arts. 148 a 149-A)</strong>.<br>Ponto-chave: <strong>finalidades do tráfico de pessoas</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> finalidades do tráfico de pessoas</li><li><strong>Fonte:</strong> Código Penal, arts. 147-B e 149-A</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Rol de finalidades do 149-A.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "701f6692-9f5d-442f-8e98-8c3626751f69",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Não especificado",
+      "disciplina": "Direito Penal",
+      "tema": "05 - Dos crimes contra a pessoa II - Art. 138 a 153 do CP",
+      "subtema": "Violência Psicológica contra a Mulher (Art. 147-B)",
+      "enunciado": "<p>Quanto à pena do crime de violência psicológica contra a mulher (art. 147-B do Código Penal), é correto afirmar que ela é de reclusão de seis meses a dois anos e multa,</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "se a conduta não constitui crime mais grave.",
+        "B": "somente se houver lesão corporal grave.",
+        "C": "apenas na forma tentada.",
+        "D": "em qualquer hipótese, inclusive se houver crime mais grave.",
+        "E": "somente se a vítima for casada com o agente."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Violência Psicológica contra a Mulher (Art. 147-B)</strong>.<br>Ponto-chave: <strong>pena e subsidiariedade</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> pena e subsidiariedade</li><li><strong>Fonte:</strong> Código Penal, arts. 147-B e 149-A</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>147-B: subsidiário.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "80661a69-37a6-4115-8e56-c9c2a0fd7d10",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
     }
   ],
   "data_correcao": "2026-01-12T07:18:06.463588",

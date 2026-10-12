@@ -205,6 +205,534 @@
       "ia_revisado": true,
       "subtema": "Google Drive: criar, editar e compartilhar arquivos; permissões",
       "enunciado": "<p>Durante uma auditoria interna em um Tribunal, o Agente de Polícia Judicial Ricardo precisa monitorar diversos relatórios que foram compartilhados com ele através do Google Drive por diferentes departamentos. Para otimizar seu fluxo de trabalho, Ricardo cria \"Atalhos\" em suas pastas pessoais dentro de seu \"Meu Drive\".</p><p>A respeito do uso de atalhos e do impacto no armazenamento do Google Drive, assinale a opção correta.</p>"
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>Nas Planilhas Google, a fórmula que soma os valores das células de A1 a A10 é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "=SOMAR(A1;A10).",
+        "B": "=ADICIONAR(A1 A10).",
+        "C": "=SOMA(A1:A10).",
+        "D": "=TOTAL(A1,A10).",
+        "E": "=MAIS(A1:A10)."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>função SOMA</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> função SOMA</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>=SOMA(intervalo).</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "2ac65adc-3987-48c9-a420-7f36c9573736",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>No Apresentações Google, o recurso utilizado para iniciar a exibição dos slides em tela cheia é o botão</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Histórico de versões.",
+        "B": "Apresentar.",
+        "C": "Inserir tabela.",
+        "D": "Verificar ortografia.",
+        "E": "Compartilhar."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>modo apresentar</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> modo apresentar</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Apresentar: tela cheia.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "cbdc5cd7-9a60-4703-ab29-e55797af76ca",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>Ao fazer download de uma planilha criada nas Planilhas Google para uso no Microsoft Excel, o formato mais adequado é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": ".odp.",
+        "B": ".epub.",
+        "C": ".docx.",
+        "D": ".pptx.",
+        "E": ".xlsx."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>exportar para Excel</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> exportar para Excel</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>xlsx = Excel.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "a5872686-3c71-4cb1-8733-d1a0d26eb0bc",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>As Planilhas Google permitem que vários usuários editem a mesma planilha simultaneamente, e as alterações são</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "descartadas ao final do dia.",
+        "B": "salvas apenas ao fechar o navegador.",
+        "C": "permitidas apenas a um usuário por vez.",
+        "D": "salvas automaticamente e exibidas em tempo real aos colaboradores.",
+        "E": "aplicadas somente após aprovação do Google."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>edição colaborativa</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> edição colaborativa</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Edição simultânea.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "9e2dad12-1dbc-42b4-8773-e90d1613b52f",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>No Apresentações Google, para exportar a apresentação em formato do Microsoft PowerPoint, deve-se usar</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Arquivo > Fazer download > Microsoft PowerPoint (.pptx).",
+        "B": "Inserir > Tabela > PowerPoint.",
+        "C": "Formatar > Texto > .pptx.",
+        "D": "Ferramentas > Tradutor.",
+        "E": "Exibir > Tela cheia > .pptx."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>exportar para PowerPoint</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> exportar para PowerPoint</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Download em .pptx.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "2e495e41-c3f7-470d-8146-8b324e5d2ff8",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>Nas Planilhas Google, a formatação condicional é o recurso que permite</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "converter a planilha em apresentação.",
+        "B": "traduzir o conteúdo das células.",
+        "C": "alterar automaticamente a aparência das células (cor, estilo) quando atendem a determinada regra.",
+        "D": "remover o histórico de versões.",
+        "E": "bloquear a planilha para edição."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>formatação condicional</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> formatação condicional</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Formata por regra.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "795ffc97-14ac-46f7-b436-51d148f4aed6",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Planilhas e Apresentações Google",
+      "enunciado": "<p>No Apresentações Google, as notas do orador, quando se utiliza a opção Visualização do apresentador, podem ser lidas</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "somente por quem tem permissão de editor.",
+        "B": "apenas em PDF impresso.",
+        "C": "pelo público, ao lado do slide.",
+        "D": "somente pelo apresentador, em janela separada, sem aparecer para o público.",
+        "E": "apenas depois do término."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Planilhas e Apresentações Google</strong>.<br>Ponto-chave: <strong>notas do orador</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> notas do orador</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Visão do apresentador.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "05230ef7-04b7-4891-88fe-2a21d4944b89",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Google Drive: criar, editar e compartilhar arquivos; permissões",
+      "enunciado": "<p>O Google Drive é um serviço de</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "comunicação por videoconferência exclusivamente.",
+        "B": "envio exclusivo de e-mails.",
+        "C": "edição de vídeos em tempo real.",
+        "D": "navegação segura na internet.",
+        "E": "armazenamento de arquivos na nuvem, com possibilidade de compartilhamento e edição colaborativa."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Google Drive: criar, editar e compartilhar arquivos; permissões</strong>.<br>Ponto-chave: <strong>Google Drive</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> Google Drive</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Armazenamento em nuvem.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "33fd9d28-1127-4448-b394-9915c79eb9c1",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Google Drive: criar, editar e compartilhar arquivos; permissões",
+      "enunciado": "<p>No Google Drive, o nível de permissão que permite apenas visualizar o arquivo, sem editar nem comentar, é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Leitor.",
+        "B": "Editor.",
+        "C": "Comentarista.",
+        "D": "Proprietário.",
+        "E": "Administrador."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Google Drive: criar, editar e compartilhar arquivos; permissões</strong>.<br>Ponto-chave: <strong>permissão Leitor</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> permissão Leitor</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Leitor: só visualiza.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "d16b5d7b-cf76-47a0-896f-aa12a420e1e7",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Google Drive: criar, editar e compartilhar arquivos; permissões",
+      "enunciado": "<p>Os arquivos excluídos do Google Drive são movidos para a Lixeira, onde permanecem por</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "7 dias, antes da exclusão definitiva.",
+        "B": "30 dias, antes da exclusão definitiva.",
+        "C": "1 ano, antes da exclusão definitiva.",
+        "D": "tempo indeterminado, sem exclusão.",
+        "E": "24 horas, antes da exclusão definitiva."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Google Drive: criar, editar e compartilhar arquivos; permissões</strong>.<br>Ponto-chave: <strong>lixeira do Drive</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> lixeira do Drive</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Lixeira: 30 dias.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "92a13377-e632-4f76-b0c0-d7c445f017fc",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Google Drive: criar, editar e compartilhar arquivos; permissões",
+      "enunciado": "<p>Quando um arquivo do Drive é compartilhado com a opção “Qualquer pessoa com o link”, isso significa que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "somente o proprietário pode ver.",
+        "B": "o arquivo fica protegido por senha.",
+        "C": "qualquer pessoa que tenha o link poderá acessar o arquivo, de acordo com a permissão definida.",
+        "D": "apenas pessoas adicionadas por e-mail poderão acessar.",
+        "E": "o arquivo é automaticamente excluído."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Google Drive: criar, editar e compartilhar arquivos; permissões</strong>.<br>Ponto-chave: <strong>compartilhamento por link</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> compartilhamento por link</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Link aberto.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "20fdd6f7-ae21-49d3-9f86-ba8def1c4102",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Google Drive: criar, editar e compartilhar arquivos; permissões",
+      "enunciado": "<p>Para que outro usuário se torne proprietário de um arquivo do Google Drive, o proprietário atual deve</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "copiar o arquivo para a lixeira.",
+        "B": "conceder permissão de Leitor.",
+        "C": "excluir o arquivo.",
+        "D": "transferir a propriedade do arquivo a esse usuário, por meio das configurações de compartilhamento.",
+        "E": "alterar o nome do arquivo."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Google Drive: criar, editar e compartilhar arquivos; permissões</strong>.<br>Ponto-chave: <strong>transferir propriedade</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> transferir propriedade</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Transferência de propriedade.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "4685c774-6b77-4fea-953e-d079871c866e",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Documentos Google (editor de texto)",
+      "enunciado": "<p>O editor de textos Documentos Google salva as alterações</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "apenas quando o usuário clica em salvar.",
+        "B": "apenas ao fechar o navegador.",
+        "C": "somente em computador.",
+        "D": "somente com extensão paga.",
+        "E": "automaticamente, enquanto o usuário edita o documento."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Documentos Google (editor de texto)</strong>.<br>Ponto-chave: <strong>salvamento automático</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> salvamento automático</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Salva automaticamente.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "45d3cebf-a96f-4706-bfcf-516ef9551a63",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Documentos Google (editor de texto)",
+      "enunciado": "<p>No Documentos Google, o modo Sugestão permite</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "bloquear o documento a qualquer edição.",
+        "B": "propor alterações no texto que ficam marcadas, para que o proprietário aceite ou rejeite.",
+        "C": "traduzir o texto.",
+        "D": "converter em planilha.",
+        "E": "alterar o texto sem deixar registro."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Documentos Google (editor de texto)</strong>.<br>Ponto-chave: <strong>modo sugestão</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> modo sugestão</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Sugestões podem ser aceitas ou rejeitadas.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "702f63e6-060f-4806-9e4e-7509959afd74",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Documentos Google (editor de texto)",
+      "enunciado": "<p>O histórico de versões do Documentos Google permite</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "editar sem salvar.",
+        "B": "excluir permanentemente o documento.",
+        "C": "apenas imprimir o documento.",
+        "D": "visualizar versões anteriores do documento e restaurar uma delas, se necessário.",
+        "E": "apenas traduzir o documento."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Documentos Google (editor de texto)</strong>.<br>Ponto-chave: <strong>histórico de versões</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> histórico de versões</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Restaura versão.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "41b43f8d-563c-4613-83ce-4ce1ed0feca5",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Informática",
+      "tema": "11 - Google Drive e Documentos Google",
+      "subtema": "Documentos Google (editor de texto)",
+      "enunciado": "<p>Um documento do Google Documentos pode ser baixado em vários formatos, entre eles</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": ".jpg, .png e .gif somente.",
+        "B": ".xlsx, .pptx e .accdb.",
+        "C": ".docx, .pdf, .odt, .rtf e .txt.",
+        "D": ".exe, .dll e .bat.",
+        "E": ".mp3, .wav e .mid."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Documentos Google (editor de texto)</strong>.<br>Ponto-chave: <strong>formatos de download</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> formatos de download</li><li><strong>Fonte:</strong> Google Workspace (Drive, Documentos, Planilhas e Apresentações Google)</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Não corresponde ao que a norma estabelece.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>docx, pdf, odt, rtf, txt.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "61e7611c-04db-4025-9a26-5acbf9652d63",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
     }
   ]
 }
