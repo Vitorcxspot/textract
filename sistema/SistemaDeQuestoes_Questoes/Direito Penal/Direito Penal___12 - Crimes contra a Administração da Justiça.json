@@ -1215,7 +1215,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apropriação indébita, por tratar-se de crédito em que o credor tomou bem do devedor.",
-        "B": "fato atípico, por haver dívida legítima, que afasta qualquer responsabilidade penal do credor.",
+        "B": "fato atípico, por haver dívida legítima, que afasta qualquer responsabilidade penal do credor que age por conta própria.",
         "C": "roubo, pois a posse do bem é do devedor e a violência foi empregada para subtraí-lo.",
         "D": "estelionato, pois o credor obteve a vantagem mediante artifício que induziu o devedor a erro.",
         "E": "exercício arbitrário das próprias razões, sem prejuízo da pena correspondente à violência empregada, se houver."
@@ -1314,7 +1314,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "exigem fraude ou artifício para sua configuração, induzindo em erro o juiz ou o perito.",
-        "B": "são crimes próprios de funcionário público, que só podem ser praticados por quem exerce cargo público.",
+        "B": "são crimes próprios de funcionário público, que só podem ser praticados por quem exerce cargo público, emprego ou função.",
         "C": "exigem resultado naturalístico de prejuízo econômico, sem o qual não se consumam.",
         "D": "são crimes contra o patrimônio, na modalidade de furto, praticados contra o proprietário da coisa.",
         "E": "são considerados crimes praticados contra a Administração da Justiça, por usurparem a função jurisdicional do Estado."
@@ -1413,7 +1413,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "fica isenta de pena, como companheira do foragido, por aplicação analógica da escusa absolutória familiar.",
-        "B": "responde pelo crime de favorecimento real, pois o abrigo ao foragido visa a tornar seguro o proveito do crime.",
+        "B": "responde pelo crime de favorecimento real, pois o abrigo ao foragido visa a tornar seguro o proveito do crime anterior.",
         "C": "responde por receptação, por ter acolhido pessoa que praticou crime patrimonial anterior à ocultação.",
         "D": "responde pelo crime do art. 348, pois a isenção de pena se restringe aos parentes e ao cônjuge expressamente indicados.",
         "E": "não responde por crime algum, por tratar-se de fato atípico, já que o abrigo foi prestado por afeto."
@@ -1448,7 +1448,7 @@
         "A": "falsa informação sobre a vida do criminoso.",
         "B": "abrigo para fuga de pessoa presa.",
         "C": "qualquer favor pessoal, ainda que lícito.",
-        "D": "auxílio para que se subtraia à ação da autoridade.",
+        "D": "auxílio para que se subtraia à ação da autoridade pública.",
         "E": "auxílio destinado a tornar seguro o proveito do crime."
       },
       "resposta_correta": "E",
@@ -1513,7 +1513,7 @@
       "alternativas": {
         "A": "subtrair, suprimir ou danificar coisa própria que se encontre em poder de terceiro por determinação judicial.",
         "B": "fornecer arma de fogo a preso em estabelecimento prisional, mediante pagamento ou promessa de vantagem.",
-        "C": "introduzir substâncias entorpecentes em unidade de internação de adolescentes, sem a devida autorização legal.",
+        "C": "introduzir substâncias entorpecentes em unidade de internação de adolescentes, sem a devida autorização legal, ou em estabelecimento penal federal.",
         "D": "ingressar, promover, intermediar, auxiliar ou facilitar a entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional, sem autorização legal.",
         "E": "permitir a entrada de visitantes sem a revista prevista em lei, em estabelecimento penal de qualquer natureza."
       },
@@ -1709,7 +1709,7 @@
       "enunciado": "<p>A autoacusação falsa (art. 341 do Código Penal) consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "provocar a ação da autoridade ao comunicar crime que sabe não ter ocorrido.",
+        "A": "provocar a ação da autoridade ao comunicar crime que sabe não ter se verificado.",
         "B": "solicitar dinheiro a pretexto de influir em juiz.",
         "C": "acusar-se, perante a autoridade, de crime inexistente ou praticado por outrem.",
         "D": "fazer afirmação falsa como testemunha.",
@@ -1743,7 +1743,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "é lícita, por ser autodefesa.",
-        "B": "é típica somente se houver prejuízo patrimonial.",
+        "B": "é típica somente se houver prejuízo patrimonial à vítima.",
         "C": "é atípica, por decorrer do direito ao silêncio.",
         "D": "é típica, ainda que em situação de alegada autodefesa.",
         "E": "é atípica, se o agente tiver maus antecedentes."
@@ -1775,7 +1775,7 @@
       "enunciado": "<p>O crime de exploração de prestígio (art. 357 do Código Penal) consiste em solicitar ou receber dinheiro ou qualquer outra utilidade, a pretexto de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "remunerar o advogado por honorários contratados, ainda que a promessa seja de influência sobre o julgador.",
+        "A": "remunerar o advogado por honorários contratados, ainda que a promessa seja de influência sobre o julgador ou sobre outros agentes do processo.",
         "B": "obter o pagamento de dívida legítima junto ao devedor, valendo-se de ameaça de ajuizar ação de cobrança.",
         "C": "financiar a defesa técnica em processo penal, mediante pagamento antecipado de honorários advocatícios.",
         "D": "cobrir despesas de viagem e de hospedagem de testemunha chamada a depor em outra comarca.",
@@ -1943,7 +1943,7 @@
         "A": "deixa de restituir, ao fim do prazo, os autos que recebeu com carga.",
         "B": "apresenta recurso fora do prazo.",
         "C": "utiliza documento falso em juízo.",
-        "D": "representa interesses de uma das partes com zelo.",
+        "D": "representa interesses de uma das partes com zelo, dentro dos prazos processuais.",
         "E": "renuncia ao mandato com aviso prévio."
       },
       "resposta_correta": "A",

@@ -1570,7 +1570,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Chegamos cedo, por isso a reunião ainda não havia começado.",
-        "B": "Chegamos cedo, embora a reunião ainda não havia começado.",
+        "B": "Chegamos cedo, embora a reunião ainda não havia começado por completo.",
         "C": "Chegamos cedo, mas a reunião já havia terminado.",
         "D": "Chegamos cedo, a menos que a reunião começasse.",
         "E": "Chegamos cedo, e a reunião começou cedo."

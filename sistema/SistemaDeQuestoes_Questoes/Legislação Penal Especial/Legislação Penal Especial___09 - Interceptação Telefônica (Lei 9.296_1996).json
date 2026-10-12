@@ -16,7 +16,7 @@
         "B": "gravar a própria conversa telefônica sem avisar o interlocutor.",
         "C": "requerer ao juiz a interceptação de comunicações telefônicas.",
         "D": "receber o resultado de interceptação autorizada pelo juiz.",
-        "E": "acompanhar, como membro do Ministério Público, a diligência autorizada."
+        "E": "acompanhar, como membro do Ministério Público, a diligência autorizada pelo juiz competente."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -148,7 +148,7 @@
         "B": "admite a forma culposa quando houver imprudência do agente.",
         "C": "exige, para sua configuração, fim especial de obter lucro.",
         "D": "dispensa o dolo, bastando a prática objetiva da interceptação.",
-        "E": "é punido a título de culpa, se o agente for funcionário público."
+        "E": "é punido a título de culpa, se o agente for funcionário público no exercício do cargo."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -278,7 +278,7 @@
       "alternativas": {
         "A": "do delegado de polícia que preside o inquérito.",
         "B": "do membro do Ministério Público, de ofício.",
-        "C": "da autoridade administrativa da operadora de telefonia.",
+        "C": "da autoridade administrativa da operadora de telefonia, apenas.",
         "D": "do juiz competente da ação principal, sob segredo de justiça.",
         "E": "do presidente do tribunal, em qualquer caso."
       },
@@ -313,7 +313,7 @@
         "B": "utiliza a interceptação para fim diverso do autorizado, ainda que a diligência tenha ordem judicial.",
         "C": "requer a diligência para provar autoria de crime grave.",
         "D": "cumpre a ordem judicial dentro do prazo de quinze dias.",
-        "E": "obtém ordem judicial para investigar infração punida com reclusão."
+        "E": "obtém ordem judicial para investigar infração punida com reclusão e utiliza a diligência na investigação do crime indicado."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -342,7 +342,7 @@
       "enunciado": "<p>Um policial, valendo-se de interceptação regularmente autorizada para apurar tráfico de drogas, utiliza o conteúdo das conversas para chantagear um desafeto. À luz da Lei nº 9.296/1996, o policial</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pratica o crime do art. 10 somente se obtiver vantagem econômica.",
+        "A": "pratica o crime do art. 10 somente se obtiver vantagem econômica com o uso do conteúdo das conversas.",
         "B": "pratica contravenção penal de violação de privacidade.",
         "C": "pratica o crime do art. 10, por usar a interceptação com objetivo não autorizado em lei.",
         "D": "não pratica crime, pois havia ordem judicial válida.",
@@ -409,7 +409,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não constitui interceptação, pois a gravação é feita por um dos interlocutores.",
-        "B": "constitui o crime do art. 10, por falta de autorização judicial.",
+        "B": "constitui o crime do art. 10, por falta de autorização judicial para a gravação da conversa.",
         "C": "constitui o crime do art. 10-A, por captação sem ordem.",
         "D": "constitui crime, salvo se Paulo vier a consentir depois.",
         "E": "constitui crime, salvo se Pedro for servidor público."
@@ -441,7 +441,7 @@
       "enunciado": "<p>Jornalista obtém e divulga a transcrição de interceptação telefônica que tramitava em segredo de justiça. A conduta, em tese, pode configurar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "nenhum crime, em razão da liberdade de imprensa absoluta.",
+        "A": "nenhum crime, em razão da liberdade de imprensa, que é absoluta e prevalece sobre o segredo de justiça.",
         "B": "crime de abuso de autoridade, por ser crime próprio.",
         "C": "apenas infração ética, sem consequência penal.",
         "D": "o crime de quebra de segredo da Justiça, do art. 10 da Lei nº 9.296/1996.",
@@ -543,7 +543,7 @@
         "A": "a admite, porque a pena mínima é de um ano.",
         "B": "não a admite, porque a pena mínima cominada (dois anos) é superior a um ano.",
         "C": "a admite, porque a pena é de detenção.",
-        "D": "a admite, por ser crime de ação penal pública condicionada.",
+        "D": "a admite, por ser crime de ação penal pública condicionada à representação do ofendido.",
         "E": "não a admite, por ser crime hediondo."
       },
       "resposta_correta": "B",
@@ -576,7 +576,7 @@
         "A": "a pena mínima de dois anos fixa o prazo prescricional.",
         "B": "a prescrição é regulada pela multa cominada, em dois anos.",
         "C": "o crime é imprescritível por violar direito fundamental.",
-        "D": "a pena máxima de quatro anos situa-se na faixa que excede quatro anos.",
+        "D": "a pena máxima de quatro anos situa-se na faixa que excede quatro anos, sendo, portanto, de doze anos o prazo.",
         "E": "a pena máxima de quatro anos situa-se na faixa que não excede quatro anos, do art. 109, IV, do Código Penal."
       },
       "resposta_correta": "E",
@@ -676,7 +676,7 @@
         "B": "não constitui interceptação em sentido estrito, pois a comunicação já foi concluída, exigindo-se fundamento judicial próprio para o acesso.",
         "C": "dispensa qualquer autorização, por tratar-se de objeto apreendido.",
         "D": "é interceptação ambiental, regida pelo art. 8º-A.",
-        "E": "constitui interceptação telefônica regida pelo prazo de quinze dias da Lei nº 9.296/1996."
+        "E": "constitui interceptação telefônica regida pelo prazo de quinze dias da Lei nº 9.296/1996, aplicando-se o art. 10 em caso de acesso."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -808,7 +808,7 @@
         "B": "a ordem é válida, se aprovada pela maioria absoluta da comissão.",
         "C": "a ordem é válida, desde que comunicada ao Ministério Público.",
         "D": "a ordem é válida, se o investigado for agente público.",
-        "E": "a ordem é válida, pois a CPI tem poderes de investigação próprios das autoridades judiciais, sem exceções."
+        "E": "a ordem é válida, pois a CPI tem poderes de investigação próprios das autoridades judiciais, sem qualquer exceção."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -837,7 +837,7 @@
       "enunciado": "<p>A diferença entre a interceptação telefônica e a gravação clandestina consiste em que, na primeira,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ambas dependem de autorização judicial, mas a segunda de requerimento do Ministério Público.",
+        "A": "ambas dependem de autorização judicial, mas a segunda de requerimento do Ministério Público, que exerce o controle da captação.",
         "B": "a primeira é lícita sempre; a segunda é sempre ilícita.",
         "C": "um dos interlocutores grava a conversa; na segunda, um terceiro capta o diálogo.",
         "D": "um terceiro capta a comunicação alheia sem o conhecimento dos interlocutores; na segunda, um dos interlocutores grava a própria conversa.",
@@ -874,7 +874,7 @@
         "B": "poderá ser utilizada em matéria de defesa, quando demonstrada a integridade da gravação.",
         "C": "somente poderá ser usada pela acusação, se autorizada depois.",
         "D": "nunca poderá ser usada como prova, por ser ilícita.",
-        "E": "poderá ser usada pela acusação e pela defesa, sem exigência de integridade."
+        "E": "poderá ser usada pela acusação e pela defesa, sem exigência de integridade da gravação e sem prévia autorização."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -903,7 +903,7 @@
       "enunciado": "<p>Autorizada judicialmente a interceptação para apurar tráfico de drogas, o policial passa a usar, por conta própria, aparelho de interceptação em linha de pessoa não indicada na decisão, para fins não relacionados à investigação. A conduta</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é lícita, pois a autorização para o inquérito abrange qualquer linha telefônica.",
+        "A": "é lícita, pois a autorização para o inquérito abrange qualquer linha telefônica utilizada por investigados ou por terceiros.",
         "B": "é lícita, desde que o delegado a ratifique posteriormente.",
         "C": "caracteriza o crime do art. 10 da Lei nº 9.296/1996, por ausência de autorização para aquele alvo e desvio de finalidade.",
         "D": "constitui apenas falta funcional.",
@@ -1138,7 +1138,7 @@
         "B": "a requerimento da operadora de telefonia.",
         "C": "somente a requerimento do investigado.",
         "D": "de ofício ou a requerimento da autoridade policial ou do Ministério Público.",
-        "E": "somente a requerimento do advogado do investigado."
+        "E": "somente a requerimento do advogado do investigado, em petição fundamentada."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1200,7 +1200,7 @@
       "enunciado": "<p>É vedada a interceptação telefônica quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "houver indícios razoáveis de autoria em crime punido com reclusão.",
+        "A": "houver indícios razoáveis de autoria em crime punido com reclusão, e a prova não puder ser obtida de outro modo.",
         "B": "não houver indícios razoáveis da autoria ou participação em infração penal.",
         "C": "a prova não puder ser feita por outros meios disponíveis.",
         "D": "houver pedido fundamentado da autoridade policial.",
@@ -1236,7 +1236,7 @@
         "A": "sigilosa e sem fundamentação, por ser cautelar.",
         "B": "fundamentada, mas sem indicar a forma de execução.",
         "C": "fundamentada, sob pena de nulidade, indicando também a forma de execução da diligência.",
-        "D": "proferida pelo delegado, sob controle posterior do juiz.",
+        "D": "proferida pelo delegado, sob controle posterior do juiz, em até quinze dias.",
         "E": "verbal, dispensada a fundamentação."
       },
       "resposta_correta": "C",
@@ -1333,7 +1333,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "autos apartados, apensados aos autos do inquérito ou do processo, preservado o sigilo das diligências, gravações e transcrições.",
-        "B": "os próprios autos do inquérito policial, sem sigilo, para que as partes possam acompanhar as diligências.",
+        "B": "os próprios autos do inquérito policial, sem sigilo, para que as partes possam acompanhar as diligências em tempo real e sem restrições.",
         "C": "autos públicos, com livre acesso a terceiros, a fim de assegurar a transparência da investigação.",
         "D": "procedimento administrativo conduzido pela operadora, que guarda as gravações e as transcrições.",
         "E": "autos físicos mantidos pelo investigado, que os apresenta ao juiz quando solicitado pela autoridade."
@@ -1367,7 +1367,7 @@
       "alternativas": {
         "A": "somente às comunicações por rádio amador.",
         "B": "à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
-        "C": "exclusivamente às cartas e correspondências físicas.",
+        "C": "exclusivamente às cartas e correspondências físicas e aos telegramas.",
         "D": "apenas à interceptação de dados bancários.",
         "E": "apenas às comunicações telefônicas fixas."
       },
@@ -1432,7 +1432,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o investigado for pessoa conhecida.",
-        "B": "a prova for essencial ao esclarecimento do crime.",
+        "B": "a prova for essencial ao esclarecimento do crime investigado.",
         "C": "a prova puder ser feita por outros meios disponíveis.",
         "D": "o fato for punido com reclusão.",
         "E": "houver indícios razoáveis de autoria."
@@ -1498,7 +1498,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o consentimento prévio do titular da linha, sem o qual a diligência não poderá ser requerida.",
-        "B": "a anuência da operadora de telefonia, que deve confirmar a viabilidade técnica da interceptação.",
+        "B": "a anuência da operadora de telefonia, que deve confirmar a viabilidade técnica da interceptação e o prazo de duração da medida requerida.",
         "C": "a prova cabal da autoria do crime investigado, não bastando indícios razoáveis de participação.",
         "D": "apenas o nome do investigado e o número do telefone, dispensada a demonstração de necessidade.",
         "E": "a demonstração de que a sua realização é necessária à apuração de infração penal, com a indicação dos meios a serem empregados."
@@ -1566,7 +1566,7 @@
         "A": "certidão da operadora de que não houve falhas.",
         "B": "relatório final do inquérito, com indiciamento.",
         "C": "laudo pericial sobre a voz dos interlocutores.",
-        "D": "parecer do Ministério Público, obrigatoriamente.",
+        "D": "parecer do Ministério Público, obrigatoriamente, sobre cada operação realizada.",
         "E": "auto circunstanciado, que deverá conter o resumo das operações realizadas."
       },
       "resposta_correta": "E",
@@ -1597,7 +1597,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "requisitar serviços e técnicos especializados às concessionárias de serviço público.",
-        "B": "contratar empresa privada sem licitação e sem ordem judicial.",
+        "B": "contratar empresa privada, sem licitação e sem ordem judicial, para executar a diligência.",
         "C": "exigir que a operadora decida sobre a admissibilidade.",
         "D": "dispensar a participação da operadora, por lei.",
         "E": "delegar a execução ao investigado."
@@ -1630,7 +1630,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "logo após o primeiro dia de execução.",
-        "B": "apenas ao término do processo, após o trânsito em julgado.",
+        "B": "apenas ao término do processo, após o trânsito em julgado da sentença.",
         "C": "apenas a pedido do investigado.",
         "D": "imediatamente antes do relatório da autoridade, quando se tratar de inquérito policial.",
         "E": "no início do inquérito, para dar ciência às partes."
@@ -1730,7 +1730,7 @@
       "alternativas": {
         "A": "nula, nos termos do art. 5º da Lei nº 9.296/1996.",
         "B": "válida, por tratar-se de cautelar urgente.",
-        "C": "válida, se confirmada pelo Ministério Público.",
+        "C": "válida, se confirmada posteriormente pelo Ministério Público.",
         "D": "sanável por mera ratificação do delegado.",
         "E": "anulável apenas a pedido da operadora."
       },
@@ -1897,7 +1897,7 @@
         "B": "apenas uma vez, por mais trinta dias, vedada qualquer prorrogação adicional da medida.",
         "C": "se o investigado consentir expressamente, o que torna dispensável a decisão judicial.",
         "D": "se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada.",
-        "E": "sem necessidade de comprovar a indispensabilidade do meio de prova, bastando requerimento da autoridade policial."
+        "E": "sem necessidade de comprovar a indispensabilidade do meio de prova, bastando requerimento fundamentado da autoridade policial."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -1993,7 +1993,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pelo Ministério Público, mas não pela autoridade policial, que só pode requerê-la na investigação criminal.",
-        "B": "pela autoridade policial e pelo Ministério Público, indistintamente.",
+        "B": "pela autoridade policial e pelo Ministério Público, indistintamente, em qualquer fase.",
         "C": "pelo acusado e pelo seu defensor.",
         "D": "pela vítima, por meio de assistente.",
         "E": "apenas pelo juiz, de ofício."
@@ -2058,7 +2058,7 @@
       "enunciado": "<p>Admitida a interceptação em investigação sobre determinada infração, o juiz competente para deferi-la é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o juiz federal, em qualquer caso, por ter competência para as investigações de comunicações.",
+        "A": "o juiz federal, em qualquer caso, por ter competência para as investigações de comunicações em todo o território.",
         "B": "o competente para a ação principal, que se refere ao juízo que irá processar e julgar o fato investigado.",
         "C": "o juiz da comarca do domicílio da operadora de telefonia, onde a medida será cumprida.",
         "D": "qualquer juiz de plantão, em caráter definitivo, que ficará prevento para a ação penal.",

@@ -217,7 +217,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "recebem o evento apenas se forem administradores do domínio.",
-        "B": "não recebem aviso algum, sendo necessário avisá-los por telefone.",
+        "B": "não recebem aviso algum, sendo necessário avisá-los por telefone ou presencialmente.",
         "C": "recebem um convite por e-mail e podem responder se participarão ou não.",
         "D": "são obrigados a aceitar automaticamente o evento.",
         "E": "são excluídos do evento se não possuírem conta paga."
@@ -414,7 +414,7 @@
       "enunciado": "<p>Sobre a repetição de eventos no Google Agenda, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "alterar uma única ocorrência sempre altera todas as demais, sem possibilidade de editar apenas aquela data específica.",
+        "A": "alterar uma única ocorrência sempre altera todas as demais, sem possibilidade de editar apenas aquela data específica ou as ocorrências seguintes.",
         "B": "eventos recorrentes só podem ser criados por administradores do domínio, e não por usuários comuns da agenda.",
         "C": "só é possível repetir eventos diariamente, sem opções de recorrência semanal, mensal, anual ou personalizada.",
         "D": "é possível definir eventos recorrentes (diária, semanal, mensal, anual ou personalizada) e editar apenas uma ocorrência, as seguintes ou todas.",
@@ -613,7 +613,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "editar vídeos em alta definição.",
-        "B": "criar planilhas com fórmulas avançadas.",
+        "B": "criar planilhas com fórmulas avançadas e gráficos dinâmicos.",
         "C": "hospedar sites institucionais.",
         "D": "gerar relatórios de tráfego de rede.",
         "E": "criar tarefas com título, detalhes e data de vencimento."

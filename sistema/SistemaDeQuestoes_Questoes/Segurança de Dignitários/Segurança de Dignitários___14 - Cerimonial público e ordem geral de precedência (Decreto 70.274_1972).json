@@ -49,7 +49,7 @@
         "B": "a sequência de armas e de continências prestadas pelas tropas presentes.",
         "C": "a ordem protocolar em que as autoridades são colocadas ou citadas nas cerimônias oficiais.",
         "D": "a escala de plantões dos agentes de segurança que acompanham os dignitários.",
-        "E": "a ordem cronológica em que as cerimônias oficiais são realizadas em cada ano."
+        "E": "a ordem cronológica em que as cerimônias oficiais são realizadas em cada ano pelos órgãos públicos."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -181,7 +181,7 @@
         "B": "o Vice-Presidente da República.",
         "C": "o Presidente da República.",
         "D": "o Presidente do Senado Federal.",
-        "E": "o Presidente do Congresso Nacional."
+        "E": "o Presidente do Congresso Nacional, em exercício."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -212,7 +212,7 @@
       "alternativas": {
         "A": "o Presidente do Congresso Nacional.",
         "B": "o Presidente da República.",
-        "C": "o Presidente da Câmara dos Deputados.",
+        "C": "o Presidente da Câmara dos Deputados, em exercício.",
         "D": "o Presidente do Supremo Tribunal Federal.",
         "E": "o Vice-Presidente da República."
       },
@@ -244,7 +244,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "à vontade do mestre de cerimônias.",
-        "B": "à pessoa que o ocupa, independentemente do cargo.",
+        "B": "à pessoa que o ocupa, independentemente do cargo que exerça.",
         "C": "ao cargo ou à função exercida, e não à pessoa que o ocupa.",
         "D": "à idade do convidado, em qualquer caso.",
         "E": "ao tempo de serviço público da autoridade."
@@ -543,7 +543,7 @@
         "A": "antes do Presidente da República e após o Presidente do STF.",
         "B": "após o Presidente da República e antes do Presidente do Congresso Nacional.",
         "C": "após o Presidente do STF e antes do Presidente da Câmara.",
-        "D": "após o Presidente do Congresso e antes do Presidente da Câmara.",
+        "D": "após o Presidente do Congresso e antes do Presidente da Câmara, na ordem geral de precedência.",
         "E": "após o Presidente da Câmara e antes do Presidente do STF."
       },
       "resposta_correta": "B",
@@ -606,7 +606,7 @@
       "enunciado": "<p>Na ordem geral de precedência em Brasília, a sequência correta, da maior para a menor precedência, é:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Vice-Presidente, Presidente da República, Presidente do Congresso, Presidente da Câmara e Presidente do Supremo Tribunal Federal.",
+        "A": "Vice-Presidente, Presidente da República, Presidente do Congresso, Presidente da Câmara e Presidente do Supremo Tribunal Federal, nessa ordem de precedência no Distrito Federal.",
         "B": "Presidente da República, Presidente do Congresso, Vice-Presidente, Presidente do Supremo Tribunal Federal e Presidente da Câmara.",
         "C": "Presidente da República, Vice-Presidente da República, Presidente do Congresso Nacional, Presidente da Câmara dos Deputados e Presidente do Supremo Tribunal Federal.",
         "D": "Presidente da República, Presidente do Supremo Tribunal Federal, Vice-Presidente, Presidente do Congresso e Presidente da Câmara.",
@@ -773,7 +773,7 @@
       "alternativas": {
         "A": "apenas a autoridade que preside, omitindo as demais.",
         "B": "em ordem alfabética dos nomes.",
-        "C": "em ordem crescente de precedência, iniciando pela menor.",
+        "C": "em ordem crescente de precedência, iniciando pela menor autoridade presente.",
         "D": "de forma aleatória, sem ordem definida.",
         "E": "em ordem decrescente de precedência, a partir da autoridade que preside a cerimônia."
       },
@@ -808,7 +808,7 @@
         "B": "à sua direita, em respeito ao princípio de que a direita é lugar de honra.",
         "C": "atrás de si, para facilitar a segurança.",
         "D": "na extremidade oposta da mesa, sem proximidade.",
-        "E": "em posição variável, de acordo com o clima do evento."
+        "E": "em posição variável, de acordo com o clima do evento e a disponibilidade de lugares."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -937,7 +937,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "é precedido pelo Presidente da Câmara dos Deputados.",
-        "B": "é precedido pelo Presidente do Supremo Tribunal Federal.",
+        "B": "é precedido pelo Presidente do Supremo Tribunal Federal e pelo Vice-Presidente.",
         "C": "precede o Presidente da Câmara dos Deputados, por ocupar a presidência do Congresso.",
         "D": "precede o Vice-Presidente da República.",
         "E": "precede o Presidente da República."
@@ -1005,7 +1005,7 @@
         "A": "tratamento protocolar respeitoso, posicionando-os em lugares de destaque, conforme regras próprias de precedência.",
         "B": "a presidência da cerimônia, em lugar do PR.",
         "C": "direito de discurso antes das autoridades em exercício.",
-        "D": "precedência idêntica à dos atuais ocupantes dos cargos, em qualquer circunstância.",
+        "D": "precedência idêntica à dos atuais ocupantes dos cargos, em qualquer circunstância, e direito de presidir as cerimônias oficiais.",
         "E": "nenhum lugar, por não ocuparem mais cargos públicos."
       },
       "resposta_correta": "A",
@@ -1037,7 +1037,7 @@
       "alternativas": {
         "A": "a mesma precedência dos prefeitos municipais, independentemente de sua categoria diplomática.",
         "B": "precedência sobre o Presidente da República, em razão da dignidade do país que representam.",
-        "C": "tratamento igual ao de qualquer cidadão comum, sem diferenciação por cargo ou por representação.",
+        "C": "tratamento igual ao de qualquer cidadão comum, sem diferenciação por cargo ou por representação diplomática do país.",
         "D": "precedência definida exclusivamente por ordem alfabética dos países que representam no Brasil.",
         "E": "tratamento diferenciado, conforme sua categoria diplomática e a ordem estabelecida nas normas de precedência."
       },
@@ -1068,7 +1068,7 @@
       "enunciado": "<p>As regras de precedência do Decreto nº 70.274/1972 aplicam-se</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a todas as festas privadas, em qualquer circunstância.",
+        "A": "a todas as festas privadas, em qualquer circunstância e a qualquer tempo.",
         "B": "somente às cerimônias militares.",
         "C": "apenas aos eventos estrangeiros realizados no Brasil.",
         "D": "às cerimônias oficiais, e não às solenidades de caráter exclusivamente privado.",
@@ -1101,7 +1101,7 @@
       "enunciado": "<p>Um Governador de Estado e um Ministro de Estado comparecem a cerimônia oficial presidida pelo Presidente da República. Quanto à presidência da cerimônia,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ela cabe ao Ministro de Estado, por ser o auxiliar direto do PR.",
+        "A": "ela cabe ao Ministro de Estado, por ser o auxiliar direto do Presidente da República.",
         "B": "ela cabe ao mais antigo no cargo entre os três.",
         "C": "ela cabe ao Presidente da República, que ocupa o lugar de maior precedência.",
         "D": "ela cabe ao mestre de cerimônias.",
@@ -1137,7 +1137,7 @@
         "A": "sempre a do titular ausente, mesmo sem exercício.",
         "B": "a do cargo, enquanto durar o exercício da substituição.",
         "C": "nenhuma precedência, durante a substituição.",
-        "D": "a da pessoa que substitui, em seu cargo de origem.",
+        "D": "a da pessoa que substitui, em seu cargo de origem, e não a do cargo.",
         "E": "sempre a mais baixa da lista."
       },
       "resposta_correta": "B",
@@ -1170,7 +1170,7 @@
         "A": "o segundo lugar de precedência, à direita do Presidente da República, conforme a alternância dos lugares.",
         "B": "o lugar central, cedendo a presidência ao Presidente da República, que ocupa a ponta da mesa.",
         "C": "o primeiro lugar, à direita do Presidente, que fica à esquerda por razões de cortesia.",
-        "D": "qualquer lugar distante do Presidente, a critério do mestre de cerimônias, sem ordem definida.",
+        "D": "qualquer lugar distante do Presidente, a critério do mestre de cerimônias, sem ordem definida de precedência.",
         "E": "o último lugar da mesa, por tratar-se de autoridade de menor precedência entre as presentes."
       },
       "resposta_correta": "A",
@@ -1202,7 +1202,7 @@
       "alternativas": {
         "A": "não possuem precedência entre si, sendo decidida por sorteio.",
         "B": "possuem ordem própria de precedência estabelecida no Decreto, iniciada pelo Chefe do Poder Executivo.",
-        "C": "o Chefe do Poder Judiciário precede os demais em todas as cerimônias.",
+        "C": "o Chefe do Poder Judiciário precede os demais em todas as cerimônias oficiais.",
         "D": "o Chefe do Poder Legislativo precede o Chefe do Executivo.",
         "E": "a ordem depende da data de posse de cada um."
       },
@@ -1233,7 +1233,7 @@
       "enunciado": "<p>Na linha de precedência, o Presidente da República precede o Presidente do Supremo Tribunal Federal porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o Presidente do STF é subordinado hierarquicamente ao Presidente da República, que o nomeia e pode destituí-lo.",
+        "A": "o Presidente do STF é subordinado hierarquicamente ao Presidente da República, que o nomeia e pode destituí-lo, razão pela qual lhe cede o primeiro lugar.",
         "B": "o Presidente da República indica o Presidente do STF entre os Ministros do Tribunal, e a ele se vincula.",
         "C": "a Constituição determina que o Poder Judiciário seja sempre o último dos Poderes em qualquer cerimônia.",
         "D": "a norma de cerimonial confere ao Chefe do Executivo federal o primeiro lugar, e não por hierarquia funcional entre Poderes, que são independentes.",
@@ -1269,7 +1269,7 @@
         "A": "dispensa o cerimonial de qualquer registro.",
         "B": "confere à autoridade o direito de presidir.",
         "C": "não altera a ordem, que decorre de norma, devendo o mestre de cerimônias zelar por seu cumprimento.",
-        "D": "extingue a ordem de precedência para todas as autoridades presentes.",
+        "D": "extingue a ordem de precedência para todas as autoridades presentes ao evento.",
         "E": "altera a precedência em favor da autoridade que recusar."
       },
       "resposta_correta": "C",
@@ -1300,7 +1300,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "evitar contato com as assessorias das autoridades.",
-        "B": "dispensar a lista de precedência, deixando que cada autoridade se acomode.",
+        "B": "dispensar a lista de precedência, deixando que cada autoridade se acomode como preferir.",
         "C": "convidar apenas autoridades do mesmo Poder.",
         "D": "retirar os crachás de identificação das autoridades.",
         "E": "elaborar a lista de precedência, conferindo cargos e títulos, para organizar a mesa, os convites e os cumprimentos."
@@ -1333,7 +1333,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "observa normas oficiais, como o Decreto nº 70.274/1972, enquanto o segundo segue convenções sociais e a vontade dos anfitriões.",
-        "B": "é regido pelo Código Civil, e o segundo pelo Código Penal, que define os crimes cometidos em cerimônias.",
+        "B": "é regido pelo Código Civil, e o segundo pelo Código Penal, que define os crimes cometidos em cerimônias oficiais ou privadas, de qualquer natureza.",
         "C": "é facultativo para a administração, e o segundo, obrigatório para os particulares que organizam eventos.",
         "D": "aplica-se apenas a casamentos e batizados, e o segundo, a posses e a solenidades de órgãos públicos.",
         "E": "só existe em eventos militares, e o segundo, em todos os eventos civis de natureza oficial."
@@ -1432,7 +1432,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Nenhum dos três, devendo a cerimônia ser presidida por um magistrado.",
-        "B": "O Presidente do Congresso Nacional, por ser Chefe do Poder Legislativo.",
+        "B": "O Presidente do Congresso Nacional, por ser Chefe do Poder Legislativo e Presidente do Senado Federal.",
         "C": "O Presidente da Câmara dos Deputados, por ser eleito diretamente.",
         "D": "O mais idoso entre os três, por critério de idade.",
         "E": "O Vice-Presidente da República, por ser o de maior precedência entre os presentes."
@@ -1465,7 +1465,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ordem alfabética regressiva, a partir do último convidado.",
-        "B": "ordem cronológica de chegada, a partir do primeiro convidado.",
+        "B": "ordem cronológica de chegada, a partir do primeiro convidado a ingressar no recinto.",
         "C": "ordem sorteada, a partir de lista nominal.",
         "D": "ordem alternada de colocação, a partir da posição central do anfitrião ou do presidente da mesa.",
         "E": "ordem hierárquica funcional, a partir do cargo mais baixo."
@@ -1501,7 +1501,7 @@
         "B": "todas saiam ao mesmo tempo, sem ordem definida.",
         "C": "a de maior precedência permaneça até o último convidado sair.",
         "D": "a ordem de saída seja a alfabética.",
-        "E": "as autoridades se retirem na mesma ordem da entrada, saindo primeiro a de menor precedência."
+        "E": "as autoridades se retirem na mesma ordem da entrada, saindo primeiro a de menor precedência, e depois as demais."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1695,7 +1695,7 @@
       "enunciado": "<p>A lista de precedência para um evento deve ser elaborada com base em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "preferências pessoais do organizador do evento e das autoridades convidadas, com ajustes de última hora feitos pelo mestre de cerimônias.",
+        "A": "preferências pessoais do organizador do evento e das autoridades convidadas, com ajustes de última hora feitos pelo mestre de cerimônias, conforme a ordem de chegada dos convidados ao local.",
         "B": "ordem de confirmação de presença, sendo posicionadas primeiro as autoridades que responderem mais cedo ao convite do evento.",
         "C": "normas formais (como o Decreto nº 70.274/1972), cargos efetivamente exercidos e, quando necessário, antiguidade, sempre com verificação prévia da participação das autoridades.",
         "D": "indicações das assessorias de imprensa dos órgãos, que definem a ordem pelo grau de exposição pública de cada autoridade.",
@@ -1732,7 +1732,7 @@
         "B": "precedência da autoridade mais idosa.",
         "C": "exclusão de ambos, por não serem do Executivo.",
         "D": "precedência do Presidente do Congresso Nacional, seguido do Presidente da Câmara, conforme a ordem geral.",
-        "E": "precedência do Presidente da Câmara, seguido do Presidente do Congresso."
+        "E": "precedência do Presidente da Câmara, seguido do Presidente do Congresso, conforme o critério de antiguidade."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -1761,7 +1761,7 @@
       "enunciado": "<p>Sobre a ordem de colocação de autoridades em um palanque, quando o número de autoridades é par, a técnica de cerimônia determina que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "as autoridades devem ficar em fila única, sem alternância, preservando-se a ordem de precedência da esquerda para a direita.",
+        "A": "as autoridades devem ficar em fila única, sem alternância, preservando-se a ordem de precedência da esquerda para a direita, a partir do lugar de honra.",
         "B": "o primeiro lugar de honra fica à direita do centro vazio da mesa, e o segundo, à esquerda desse centro, alternando-se a partir daí.",
         "C": "as autoridades de maior precedência devem ficar nas pontas da mesa, e as de menor, no centro.",
         "D": "o centro deve ser ocupado por duas autoridades ao mesmo tempo, a de maior precedência à direita da outra.",
@@ -1860,7 +1860,7 @@
       "enunciado": "<p>Entre as autoridades a seguir, a única que é precedida por todas as demais, na ordem geral de precedência, é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o Presidente da Câmara dos Deputados.",
+        "A": "o Presidente da Câmara dos Deputados, em exercício.",
         "B": "o Presidente do Congresso Nacional.",
         "C": "o Vice-Presidente da República.",
         "D": "o Presidente da República.",
@@ -1897,7 +1897,7 @@
         "B": "o lugar atrás do Presidente da República.",
         "C": "o lugar na extremidade direita da mesa.",
         "D": "o lugar à esquerda do Presidente da República.",
-        "E": "o lugar à direita do Presidente da República."
+        "E": "o lugar à direita do Presidente da República, ao lado do Vice-Presidente."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1962,7 +1962,7 @@
         "A": "nenhuma autoridade, por ser o primeiro em seu Poder.",
         "B": "uma autoridade: o Presidente da República.",
         "C": "duas autoridades: o Presidente da República e o Vice-Presidente.",
-        "D": "quatro autoridades: PR, VP, Presidente do Congresso e Presidente do STF.",
+        "D": "quatro autoridades: PR, VP, Presidente do Congresso e Presidente do Supremo Tribunal Federal, nessa ordem de precedência.",
         "E": "três autoridades: o Presidente da República, o Vice-Presidente da República e o Presidente do Congresso Nacional."
       },
       "resposta_correta": "E",
@@ -1993,7 +1993,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Vice-Presidente no centro; Presidente do Congresso à direita; Presidente da Câmara à esquerda; Presidente do STF à direita do Presidente do Congresso.",
-        "B": "Presidente do STF no centro; Vice-Presidente à direita; Presidente do Congresso à esquerda; Presidente da Câmara à direita do Vice-Presidente.",
+        "B": "Presidente do STF no centro; Vice-Presidente à direita; Presidente do Congresso à esquerda; Presidente da Câmara à direita do Vice-Presidente, na mesma linha.",
         "C": "Presidente da Câmara no centro; Presidente do Congresso à direita; Vice-Presidente à esquerda; Presidente do STF à direita do Congresso.",
         "D": "Presidente do Congresso no centro; Vice-Presidente à direita; Presidente do STF à esquerda; Presidente da Câmara à direita do Vice-Presidente.",
         "E": "Vice-Presidente no centro; Presidente da Câmara à direita; Presidente do Congresso à esquerda; Presidente do STF à direita da Câmara."
@@ -2292,7 +2292,7 @@
         "A": "26, representando apenas os Estados.",
         "B": "27, representando os 26 Estados e o Distrito Federal.",
         "C": "28, incluindo uma para a União.",
-        "D": "21, representando os Estados originais.",
+        "D": "21, representando os Estados originais da federação em 1889.",
         "E": "22, representando as regiões do País."
       },
       "resposta_correta": "B",
@@ -2425,7 +2425,7 @@
         "B": "permanecer em atitude de respeito, em silêncio e voltados para a bandeira.",
         "C": "manter-se sentados, usando celular.",
         "D": "aplaudir durante o içamento.",
-        "E": "conversar normalmente, sem interromper a cerimônia."
+        "E": "conversar normalmente, sem interromper a cerimônia, e usar o celular com discrição."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2455,7 +2455,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Ary Barroso.",
-        "B": "Alberto Nepomuceno.",
+        "B": "Alberto Nepomuceno, em 1889.",
         "C": "Carlos Gomes.",
         "D": "Heitor Villa-Lobos.",
         "E": "Francisco Manuel da Silva."
@@ -2491,7 +2491,7 @@
         "B": "na extremidade esquerda da linha.",
         "C": "sempre atrás das demais.",
         "D": "central ou mais próxima do centro e à direita deste.",
-        "E": "em ponto mais baixo que o das outras."
+        "E": "em ponto mais baixo que o das outras, para evitar ofuscamento."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2556,7 +2556,7 @@
         "A": "uma posição intermediária.",
         "B": "o topo apenas em dias úteis.",
         "C": "o topo, nenhuma outra bandeira ficando acima dela.",
-        "D": "a posição que a autoridade presente determinar.",
+        "D": "a posição que a autoridade presente determinar, a seu critério.",
         "E": "a posição inferior, abaixo das demais."
       },
       "resposta_correta": "C",
@@ -2619,7 +2619,7 @@
       "enunciado": "<p>A Bandeira Nacional, nos edifícios públicos, deve ser hasteada diariamente</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "nas residências particulares, por obrigação legal.",
+        "A": "nas residências particulares, por obrigação legal imposta aos cidadãos.",
         "B": "nas sedes dos Poderes e nas repartições públicas federais.",
         "C": "apenas em feriados nacionais.",
         "D": "apenas quando houver visita presidencial.",
@@ -2653,7 +2653,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apor sobre ela legendas, desenhos ou qualquer outra inscrição.",
-        "B": "reproduzi-la em cerimônias cívicas autorizadas.",
+        "B": "reproduzi-la em cerimônias cívicas autorizadas pela administração.",
         "C": "hasteá-la iluminada à noite.",
         "D": "conduzi-la em desfiles escolares.",
         "E": "exibi-la em ambientes oficiais."
@@ -2718,7 +2718,7 @@
       "enunciado": "<p>Quanto ao Hino Nacional, em cerimônias, a execução instrumental</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pode ser interrompida a qualquer momento por conversa.",
+        "A": "pode ser interrompida a qualquer momento por conversa dos presentes.",
         "B": "é obrigatória apenas em eventos esportivos.",
         "C": "deve ser acompanhada de atitude respeitosa dos presentes, que permanecem em pé.",
         "D": "deve ser acompanhada de aplausos durante a execução.",
@@ -2821,7 +2821,7 @@
         "B": "continência apenas ao fim da música.",
         "C": "reverência apenas às autoridades estrangeiras.",
         "D": "continência, enquanto os civis permanecem em atitude respeitosa.",
-        "E": "aplausos, enquanto os civis cantam em voz alta."
+        "E": "aplausos, enquanto os civis cantam em voz alta durante toda a execução do hino."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2917,7 +2917,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "em atos oficiais, documentos, sedes de órgãos públicos e prédios das autoridades, como identificação do Estado brasileiro.",
-        "B": "em competições esportivas promovidas por entidades privadas, como símbolo de identificação das equipes.",
+        "B": "em competições esportivas promovidas por entidades privadas, como símbolo de identificação das equipes, dos atletas e dos torcedores.",
         "C": "em embalagens de produtos comerciais, como selo de qualidade conferido às empresas que as utilizam.",
         "D": "como adorno de vestuário e de objetos de uso pessoal, em campanhas de natureza publicitária.",
         "E": "em campanhas publicitárias de empresas privadas, como marca de identificação de produtos nacionais."
@@ -2986,7 +2986,7 @@
         "B": "indiquem data, hora, local, traje e eventual confirmação de presença, e sejam enviados com antecedência razoável.",
         "C": "sejam entregues apenas à imprensa, que se encarrega de divulgá-los aos convidados do evento.",
         "D": "sejam enviados no dia do evento, de modo informal, para permitir ajustes na lista de presença.",
-        "E": "omitam o local da cerimônia, por razões de segurança, informando-o somente no momento da chegada."
+        "E": "omitam o local da cerimônia, por razões de segurança, informando-o somente no momento da chegada dos convidados ao evento."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -3052,7 +3052,7 @@
         "B": "nenhuma consequência, por tratar-se de mero costume sem previsão em norma de natureza sancionatória.",
         "C": "sanções, uma vez que o desrespeito aos símbolos nacionais é considerado infração de natureza penal e administrativa, nos termos da lei.",
         "D": "apenas sanção civil, consistente na reparação de danos eventualmente causados à União.",
-        "E": "apenas sanção disciplinar militar, restrita aos integrantes das Forças Armadas que descumprirem a norma."
+        "E": "apenas sanção disciplinar militar, restrita aos integrantes das Forças Armadas que descumprirem a norma, sem qualquer sanção penal ou civil."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -3147,7 +3147,7 @@
       "enunciado": "<p>Em conjunto de três bandeiras (Nacional, Estadual e Municipal) hasteadas lado a lado, a Bandeira Nacional ocupa</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o centro apenas se a autoridade presente concordar.",
+        "A": "o centro apenas se a autoridade presente concordar com a disposição.",
         "B": "a extremidade esquerda.",
         "C": "a extremidade direita, em número ímpar.",
         "D": "qualquer posição, sem regra.",
@@ -3183,7 +3183,7 @@
         "A": "a partir da perspectiva de quem preside ou da pessoa ou objeto de referência, e não do observador que está de frente.",
         "B": "a partir do observador, que está diante da mesa e vê a autoridade que preside de frente.",
         "C": "a partir do público presente, sempre, independentemente do posicionamento da autoridade.",
-        "D": "a partir do mestre de cerimônias, sempre, que conduz o roteiro do evento e indica os lugares.",
+        "D": "a partir do mestre de cerimônias, sempre, que conduz o roteiro do evento e indica os lugares aos convidados presentes.",
         "E": "a partir da câmera de transmissão, que registra o evento e define a ordem de visualização."
       },
       "resposta_correta": "A",
@@ -3213,7 +3213,7 @@
       "enunciado": "<p>Em cerimônia de passagem de comando militar com hasteamento da Bandeira Nacional, a atuação das tropas e do cerimonial indica que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas as regras gerais do cerimonial público se aplicam, sem especificidades.",
+        "A": "apenas as regras gerais do cerimonial público se aplicam, sem especificidades, vedada qualquer regra própria militar.",
         "B": "a Bandeira Nacional é dispensada.",
         "C": "o cerimonial militar observa regras próprias, que se articulam com as normas gerais do cerimonial público.",
         "D": "o cerimonial é conduzido por civis.",
@@ -3247,7 +3247,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "bandeiras estrangeiras são proibidas em cerimônias oficiais, por se tratar de ato de soberania nacional.",
-        "B": "apenas a Bandeira Nacional pode ser exibida, ficando vedada a exibição de qualquer outra bandeira em recintos oficiais.",
+        "B": "apenas a Bandeira Nacional pode ser exibida, ficando vedada a exibição de qualquer outra bandeira em recintos oficiais, ainda que de entes federados ou de organismos internacionais.",
         "C": "bandeiras estrangeiras são dispostas aleatoriamente, sem critério, por não haver regra de ordenação protocolar.",
         "D": "as bandeiras de países estrangeiros recebem honras compatíveis e igualdade de tratamento entre si, ordenadas por critério objetivo, como a ordem alfabética.",
         "E": "bandeiras estrangeiras ocupam o lugar de honra, em respeito à reciprocidade com os países representados."
@@ -3283,7 +3283,7 @@
         "B": "deve tocar o chão, em sinal de luto, e permanecer estendida durante todo o velório.",
         "C": "deve ser enterrada junto com o corpo, nos casos de honras fúnebres de qualquer natureza.",
         "D": "deve ser usada como lençol de uso comum, para cobrir o corpo até a chegada do cortejo.",
-        "E": "não pode ser usada em nenhum funeral, por vedação expressa da legislação dos símbolos nacionais."
+        "E": "não pode ser usada em nenhum funeral, por vedação expressa da legislação dos símbolos nacionais e do cerimonial público."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -3312,7 +3312,7 @@
       "enunciado": "<p>A norma que disciplina o uso da Bandeira Nacional, do Hino, das Armas e do Selo, nacionais, é a Lei nº 5.700/1971, que dispõe, entre outras matérias, sobre</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a definição dos feriados nacionais e das datas comemorativas, com a respectiva previsão de ponto facultativo.",
+        "A": "a definição dos feriados nacionais e das datas comemorativas, com a respectiva previsão de ponto facultativo nas repartições.",
         "B": "a forma e a apresentação dos símbolos nacionais, seu uso e as regras de hasteamento, bem como as sanções por desrespeito.",
         "C": "as regras do concurso público para o ingresso na carreira de agente de polícia judicial.",
         "D": "as regras de trânsito e circulação de comitivas oficiais em visitas de autoridades estrangeiras.",

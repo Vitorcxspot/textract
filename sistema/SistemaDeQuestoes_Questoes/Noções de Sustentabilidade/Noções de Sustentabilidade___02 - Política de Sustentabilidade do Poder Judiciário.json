@@ -5028,7 +5028,7 @@
       "enunciado": "<p>O Plano de Logística Sustentável (PLS) do Poder Judiciário é um instrumento</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "de natureza disciplinar, voltado à apuração de infrações ambientais.",
+        "A": "de natureza disciplinar, voltado à apuração de infrações ambientais praticadas por servidores e magistrados do tribunal.",
         "B": "de controle orçamentário externo, exercido pelo Tribunal de Contas.",
         "C": "de fiscalização do cumprimento das decisões judiciais ambientais.",
         "D": "de planejamento vinculado à estratégia do órgão, com objetivos, ações, metas, prazos e monitoramento.",
@@ -5098,7 +5098,7 @@
         "B": "aprovação prévia do Poder Legislativo.",
         "C": "contratos de consultoria externa obrigatórios.",
         "D": "justificativas dispensadas, por serem voluntárias.",
-        "E": "autorização do Supremo Tribunal Federal para cada uma."
+        "E": "autorização do Supremo Tribunal Federal para cada uma delas."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -5129,7 +5129,7 @@
       "alternativas": {
         "A": "seu impacto ambiental e de seu custo na rotina administrativa.",
         "B": "sua substituição imediata por material plástico.",
-        "C": "sua irrelevância na gestão administrativa do órgão.",
+        "C": "sua irrelevância na gestão administrativa do órgão e nos processos.",
         "D": "sua proibição legal de uso em tribunais.",
         "E": "sua restrição ao setor privado."
       },
@@ -5164,7 +5164,7 @@
         "B": "a instalação de dispositivos economizadores e a detecção de vazamentos.",
         "C": "a lavagem diária de calçadas com mangueira.",
         "D": "o descarte de óleo de cozinha na rede de esgoto.",
-        "E": "a substituição de todas as torneiras por modelos de alta vazão."
+        "E": "a substituição de todas as torneiras por modelos de alta vazão, sem controle."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -5229,7 +5229,7 @@
         "A": "elevar o custo do serviço de copa.",
         "B": "extinguir o fornecimento de água potável.",
         "C": "reduzir a geração de resíduos por meio do uso de utensílios reutilizáveis.",
-        "D": "aumentar a geração de resíduos plásticos no ambiente de trabalho.",
+        "D": "aumentar a geração de resíduos plásticos no ambiente de trabalho, em todas as unidades do tribunal.",
         "E": "substituir copos por garrafas descartáveis."
       },
       "resposta_correta": "C",
@@ -5293,7 +5293,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "inserir critérios socioambientais e de eficiência nas aquisições e contratações do órgão.",
-        "B": "dispensar licitações por motivo ambiental em qualquer hipótese.",
+        "B": "dispensar licitações por motivo ambiental em qualquer hipótese, inclusive nas contratações de grande valor.",
         "C": "contratar sempre o menor preço, sem análise de qualidade.",
         "D": "excluir fornecedores locais de todos os certames.",
         "E": "evitar contratações de serviços terceirizados."
@@ -5329,7 +5329,7 @@
         "B": "o envio de resíduos perigosos ao lixo comum.",
         "C": "a coleta seletiva e a destinação ambientalmente adequada dos resíduos gerados no órgão.",
         "D": "a proibição de coleta seletiva nas unidades.",
-        "E": "o descarte de todos os resíduos em aterros sem separação."
+        "E": "o descarte de todos os resíduos em aterros sem separação ou tratamento."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -5392,7 +5392,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "especialidade, limitando-se a áreas técnicas.",
-        "B": "confidencialidade, protegendo dados sensíveis do plano.",
+        "B": "confidencialidade, protegendo dados sensíveis do plano contra acessos indevidos.",
         "C": "reserva legal, impedindo o acesso do público.",
         "D": "subsidiariedade, restringindo-se a servidores.",
         "E": "transparência, permitindo o controle social e institucional."
@@ -5424,7 +5424,7 @@
       "enunciado": "<p>O PLS é elaborado, em regra, por</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "um único plano nacional aplicado igualmente a todos os órgãos.",
+        "A": "um único plano nacional, aplicado igualmente a todos os órgãos do Judiciário.",
         "B": "empresa privada, sem participação do órgão.",
         "C": "órgão do Poder Legislativo, por delegação.",
         "D": "cada órgão do Poder Judiciário, para sua realidade administrativa.",
@@ -5461,7 +5461,7 @@
         "B": "genéricas e de difícil aferição.",
         "C": "secretas, restritas à alta administração.",
         "D": "permanentes e imutáveis, sem revisão.",
-        "E": "subjetivas e sem prazo, para facilitar o cumprimento."
+        "E": "subjetivas e sem prazo, para facilitar o cumprimento pelas áreas."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -5524,7 +5524,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apenas relatório de outro tribunal.",
-        "B": "apenas uma declaração de intenção da alta administração.",
+        "B": "apenas uma declaração de intenção da alta administração, divulgada em portal.",
         "C": "apenas a opinião dos servidores sobre o consumo.",
         "D": "somente a aprovação do Conselho Nacional de Justiça.",
         "E": "indicador e linha de base, que permitam comparar o consumo atual com o ponto de partida."
@@ -5556,7 +5556,7 @@
       "enunciado": "<p>O relatório de desempenho do PLS tem por finalidade</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "substituir a prestação de contas ao Tribunal de Contas.",
+        "A": "substituir a prestação de contas ao Tribunal de Contas e aos órgãos de controle.",
         "B": "apresentar, periodicamente, os resultados das ações e metas, com dados dos indicadores.",
         "C": "definir as condenações em ações ambientais.",
         "D": "apurar responsabilidade disciplinar de servidores.",
@@ -5656,7 +5656,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "impedir o monitoramento por falta de consenso.",
-        "B": "concentrar a decisão em uma única unidade, simplificando o plano.",
+        "B": "concentrar a decisão em uma única unidade, simplificando o plano e reduzindo o número de participantes.",
         "C": "afastar a necessidade de metas e prazos.",
         "D": "dispensar a participação da unidade de sustentabilidade.",
         "E": "reunir perspectivas multidisciplinares para a elaboração e o acompanhamento das ações."
@@ -5692,7 +5692,7 @@
         "B": "admitir produtos sem certificação ou informações ambientais.",
         "C": "exigir selos de eficiência energética e descrição de impactos ambientais do objeto.",
         "D": "preferir sempre o produto de menor durabilidade.",
-        "E": "vedar a participação de empresas que ofereçam logística reversa."
+        "E": "vedar a participação de empresas que ofereçam logística reversa e destinação ambientalmente adequada dos produtos."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -5725,7 +5725,7 @@
         "B": "a vedação de análise de custos indiretos.",
         "C": "a dispensa de estudo técnico preliminar.",
         "D": "a lógica das compras sustentáveis, que avalia custos além do preço de aquisição.",
-        "E": "a prevalência do menor preço de aquisição em qualquer caso."
+        "E": "a prevalência do menor preço de aquisição em qualquer caso, ainda que o custo total seja maior."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -5754,7 +5754,7 @@
       "enunciado": "<p>Um tribunal implanta o processo eletrônico e passa a exigir que documentos sejam digitalizados e tramitados em sistema. Essa ação, no PLS, contribui principalmente para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o aumento das viagens para entrega de documentos.",
+        "A": "o aumento das viagens para entrega de documentos físicos às partes.",
         "B": "a redução do consumo de papel e de insumos de impressão.",
         "C": "a elevação do número de impressoras.",
         "D": "o aumento do consumo de papel e toner.",
@@ -5789,7 +5789,7 @@
       "alternativas": {
         "A": "destinação ambientalmente adequada, com logística reversa quando aplicável.",
         "B": "envio a terrenos baldios.",
-        "C": "descarte no lixo comum, junto aos resíduos orgânicos.",
+        "C": "descarte no lixo comum, junto aos resíduos orgânicos, desde que embalados.",
         "D": "enterro em área do próprio tribunal sem controle.",
         "E": "queima em incinerador sem licença."
       },
@@ -5822,7 +5822,7 @@
       "alternativas": {
         "A": "aumenta o consumo de água tratada para limpeza.",
         "B": "reduz o consumo de água tratada e o custo, sem comprometer o uso potável.",
-        "C": "exige uso de água potável em todas as descargas.",
+        "C": "exige uso de água potável em todas as descargas e na irrigação.",
         "D": "impede a captação de chuva no edifício.",
         "E": "proíbe reservatórios em órgãos públicos."
       },
@@ -5857,7 +5857,7 @@
         "B": "aumento do consumo de produtos químicos.",
         "C": "critério socioambiental em contratação de serviço continuado.",
         "D": "redução da fiscalização do contrato.",
-        "E": "dispensa de licitação por critério ambiental."
+        "E": "dispensa de licitação por critério ambiental, em todos os contratos de serviços."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -5989,7 +5989,7 @@
         "B": "eliminar a necessidade de metas.",
         "C": "identificar desvios em relação às metas e ajustar as ações ao longo do tempo.",
         "D": "impedir a divulgação de resultados.",
-        "E": "manter inalteradas as ações, qualquer que seja o resultado."
+        "E": "manter inalteradas as ações, qualquer que seja o resultado obtido nos indicadores do período."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -6084,7 +6084,7 @@
       "enunciado": "<p>O tema construções sustentáveis, quando incluído no planejamento do órgão, abrange</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a escolha de materiais de menor durabilidade, para renovar a obra.",
+        "A": "a escolha de materiais de menor durabilidade, para renovar a obra periodicamente.",
         "B": "o uso de materiais e soluções que reduzam consumo de energia e água e minimizem impactos da obra.",
         "C": "a ampliação de áreas impermeabilizadas, sem drenagem.",
         "D": "o descarte de entulho em terrenos vazios.",
@@ -6121,7 +6121,7 @@
         "B": "afasta a necessidade de prestação de contas.",
         "C": "reduz a participação social.",
         "D": "impede a comparação entre períodos.",
-        "E": "oculta resultados negativos e destaca apenas os positivos."
+        "E": "oculta resultados negativos e destaca apenas os positivos, protegendo a gestão."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -6184,7 +6184,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a cor do papel.",
-        "B": "o menor preço, independentemente da origem.",
+        "B": "o menor preço, independentemente da origem da matéria-prima ou de sua certificação.",
         "C": "a rastreabilidade e a origem sustentável da matéria-prima.",
         "D": "a madeira de desmatamento ilegal.",
         "E": "a ausência de qualquer documentação."
@@ -6284,7 +6284,7 @@
       "alternativas": {
         "A": "o uso de linguagem técnica.",
         "B": "a impossibilidade de aferir objetivamente o cumprimento das metas.",
-        "C": "a participação das unidades administrativas.",
+        "C": "a participação das unidades administrativas na elaboração do plano.",
         "D": "o excesso de transparência no portal.",
         "E": "a ausência de fundamento constitucional."
       },
@@ -6385,7 +6385,7 @@
         "B": "contraria a lógica da política, pois desperdiça a oportunidade de reinvestir a economia em ações alinhadas à sustentabilidade.",
         "C": "é determinada pela Lei de Licitações, que impede o reinvestimento de economia em sustentabilidade.",
         "D": "não tem relação com a política de sustentabilidade, por tratar-se de matéria orçamentária.",
-        "E": "está plenamente alinhada à política de sustentabilidade, pois toda economia deve ser gasta no exercício."
+        "E": "está plenamente alinhada à política de sustentabilidade, pois toda economia obtida deve ser gasta no próprio exercício financeiro."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -6548,7 +6548,7 @@
       "alternativas": {
         "A": "indiferente do ponto de vista ambiental.",
         "B": "prioritária segundo a hierarquia de resíduos.",
-        "C": "plenamente adequada, por reduzir o resíduo local.",
+        "C": "plenamente adequada, por reduzir o resíduo local e transferi-lo a terceiros.",
         "D": "inadequada, pois não resolve o problema e pode agravá-lo.",
         "E": "exigida pela política de sustentabilidade."
       },
@@ -6582,7 +6582,7 @@
         "A": "a extinção das unidades de sustentabilidade, uma vez que a rede nacional passa a atuar no lugar delas.",
         "B": "ganhos de escala e aprendizado coletivo, sem prejuízo da autonomia de cada órgão na elaboração do seu PLS.",
         "C": "a uniformização total das práticas, que elimina o PLS local e a autonomia de cada órgão.",
-        "D": "a vedação de qualquer troca de experiências, que poderia gerar comparações indevidas entre os tribunais.",
+        "D": "a vedação de qualquer troca de experiências, que poderia gerar comparações indevidas entre os tribunais e seus resultados.",
         "E": "a concentração das decisões em um único tribunal, que passa a coordenar os demais."
       },
       "resposta_correta": "B",
@@ -6777,7 +6777,7 @@
       "enunciado": "<p>A utilização de impressão frente e verso e a configuração padrão de impressoras em modo econômico contribuem para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "elevar o número de impressões desnecessárias.",
+        "A": "elevar o número de impressões desnecessárias nas unidades.",
         "B": "dificultar a leitura dos documentos.",
         "C": "reduzir o consumo de papel e de insumos de impressão.",
         "D": "eliminar o processo eletrônico.",
@@ -6845,7 +6845,7 @@
       "alternativas": {
         "A": "o retorno dos produtos ao fabricante ou importador, para reaproveitamento ou destinação adequada.",
         "B": "a queima dos produtos em fornos domésticos, para reduzir o volume de resíduos do órgão.",
-        "C": "o descarte em lixo comum, desde que os itens sejam previamente lacrados e identificados.",
+        "C": "o descarte em lixo comum, desde que os itens sejam previamente lacrados e identificados pelo órgão gerador.",
         "D": "a venda a catadores sem registro, que se tornam responsáveis pela destinação final.",
         "E": "o armazenamento perpétuo no próprio órgão, sem qualquer encaminhamento ao fabricante."
       },
@@ -6877,7 +6877,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "aumento de preços unitários.",
-        "B": "impossibilidade de exigir critérios socioambientais.",
+        "B": "impossibilidade de exigir critérios socioambientais nas contratações.",
         "C": "ganhos de escala, redução de custos e padronização de critérios sustentáveis.",
         "D": "vedação à participação de pequenas empresas.",
         "E": "dispensa de planejamento da contratação."
@@ -6943,7 +6943,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "diminuir deslocamentos e emissões de gases de efeito estufa.",
-        "B": "exigir a presença física em todas as reuniões.",
+        "B": "exigir a presença física em todas as reuniões, inclusive as de rotina.",
         "C": "encarecer a mobilidade de pessoas.",
         "D": "aumentar o uso de combustíveis fósseis.",
         "E": "ampliar o consumo de papel."
@@ -7009,7 +7009,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "manter o equipamento sempre no mínimo.",
-        "B": "manter janelas abertas com o equipamento ligado.",
+        "B": "manter janelas abertas com o equipamento ligado o dia todo.",
         "C": "ligar o equipamento em ambientes vazios.",
         "D": "equilibrar conforto térmico e economia de energia.",
         "E": "dispensar manutenção preventiva."
@@ -7077,7 +7077,7 @@
         "A": "a ocorrência de vazamentos.",
         "B": "a eficiência no uso de recursos e a durabilidade dos bens.",
         "C": "a obsolescência dos bens.",
-        "D": "a redução da vida útil dos equipamentos.",
+        "D": "a redução da vida útil dos equipamentos e o aumento do consumo.",
         "E": "o aumento do consumo de energia."
       },
       "resposta_correta": "B",
@@ -7175,7 +7175,7 @@
       "alternativas": {
         "A": "excluir o tema papel do plano, por não apresentar resultados em razão de suas características.",
         "B": "punir os servidores que imprimem documentos, como forma de reduzir a utilização de papel.",
-        "C": "manter as ações inalteradas até o fim do ciclo, para só então avaliar a necessidade de ajustes.",
+        "C": "manter as ações inalteradas até o fim do ciclo, para só então avaliar a necessidade de ajustes e de eventual revisão das metas.",
         "D": "analisar as causas, rever as ações e as metas e implementar novas medidas, como regras de impressão e digitalização.",
         "E": "suspender o monitoramento dos indicadores até que as unidades apresentem melhora espontânea."
       },
@@ -7241,7 +7241,7 @@
       "alternativas": {
         "A": "vender água engarrafada em máquinas.",
         "B": "aumentar a compra de copos descartáveis.",
-        "C": "trocar copos plásticos por copos descartáveis de outro material.",
+        "C": "trocar copos plásticos por copos descartáveis de outro material, mantendo o mesmo padrão de consumo.",
         "D": "vedar o consumo de água nas dependências.",
         "E": "fornecer garrafas ou canecas reutilizáveis aos usuários e instalar bebedouros com filtro."
       },
@@ -7374,7 +7374,7 @@
         "A": "práticas de maior impacto ambiental.",
         "B": "práticas de aumento do consumo.",
         "C": "práticas proibidas pela política.",
-        "D": "práticas de desperdício institucional.",
+        "D": "práticas de desperdício institucional e de aumento do consumo.",
         "E": "práticas de redução e consumo consciente de insumos."
       },
       "resposta_correta": "E",
@@ -7605,7 +7605,7 @@
         "A": "priorizar produtos de menor consumo e, portanto, de menor custo operacional e impacto ambiental.",
         "B": "eliminar a análise de preços, que se torna dispensável diante da classificação de energia.",
         "C": "dispensar a verificação de conformidade do produto, bastando a declaração do fornecedor.",
-        "D": "priorizar produtos de maior consumo de energia, por oferecerem maior potência de funcionamento.",
+        "D": "priorizar produtos de maior consumo de energia, por oferecerem maior potência de funcionamento e desempenho.",
         "E": "excluir produtos nacionais das compras do órgão, por não possuírem a etiqueta de eficiência."
       },
       "resposta_correta": "A",
@@ -7902,7 +7902,7 @@
         "A": "erro de contagem de servidores, pois o consumo físico não depende da quantidade de usuários.",
         "B": "a redução real do consumo de papel, pois o gasto financeiro sempre reflete o consumo físico.",
         "C": "a eliminação do uso de papel no órgão, comprovada pela queda de 5% no valor despendido.",
-        "D": "o aumento do preço unitário do papel no período, que eleva o gasto e, ao mesmo tempo, reduz o consumo.",
+        "D": "o aumento do preço unitário do papel no período, que eleva o gasto e, ao mesmo tempo, reduz o consumo físico efetivo.",
         "E": "a variação de preço unitário, o que mostra que o gasto financeiro, isoladamente, pode mascarar o desempenho físico."
       },
       "resposta_correta": "E",
@@ -7969,7 +7969,7 @@
         "B": "a execução deve ser interrompida em definitivo.",
         "C": "as ações podem ter sido mal dimensionadas ou mal focadas, devendo-se rever o diagnóstico e o desenho das medidas.",
         "D": "o diagnóstico inicial é irrelevante.",
-        "E": "o plano deve ser considerado exitoso, apenas por ter executado as ações."
+        "E": "o plano deve ser considerado exitoso, apenas por ter executado as ações previstas no período."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -8002,7 +8002,7 @@
         "B": "os critérios prevalecem sobre o princípio da isonomia, que cede diante de qualquer objetivo ambiental.",
         "C": "os critérios devem ser justificados tecnicamente, proporcionais ao objeto e previstos no edital, de modo a não restringir indevidamente a competição.",
         "D": "os critérios podem ser impostos sem justificativa técnica, bastando a vontade da autoridade que elabora o edital.",
-        "E": "os critérios são vedados em qualquer licitação, por restringirem necessariamente a competição entre os licitantes."
+        "E": "os critérios são vedados em qualquer licitação, por restringirem necessariamente a competição entre os licitantes, em afronta ao princípio constitucional da isonomia."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -8064,7 +8064,7 @@
       "enunciado": "<p>Em relação às contratações compartilhadas entre tribunais, a principal cautela é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensar a definição de responsabilidades, já que a execução cabe ao órgão que conduzir o processo de compra.",
+        "A": "dispensar a definição de responsabilidades, já que a execução cabe ao órgão que conduzir o processo de compra, sem participação dos demais.",
         "B": "alinhar necessidades e especificações, definindo gestão e responsabilidades para evitar divergências na execução.",
         "C": "ignorar as necessidades específicas de cada órgão participante, adotando especificações genéricas para todos.",
         "D": "vedar a participação de órgãos menores, por não terem estrutura para operar a contratação em conjunto.",
@@ -8197,7 +8197,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "aquelas de baixo custo e alto impacto, como o combate ao desperdício e a mudança de hábitos, sem abdicar das metas.",
-        "B": "apenas aquelas de alto custo e baixo impacto, desde que financiadas por fontes extraordinárias.",
+        "B": "apenas aquelas de alto custo e baixo impacto, desde que financiadas por fontes extraordinárias de recursos do órgão.",
         "C": "a suspensão total do plano até que se normalize o cenário orçamentário do órgão.",
         "D": "a exclusão de todas as metas, mantendo-se apenas as ações de caráter educativo.",
         "E": "a terceirização integral das ações, de modo a transferir à contratada os custos de execução."
@@ -8395,7 +8395,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a eficiência autoriza o desperdício, desde que o resultado final seja alcançado pelo órgão.",
-        "B": "a eficiência se limita às atividades-fim, não alcançando as rotinas administrativas de apoio.",
+        "B": "a eficiência se limita às atividades-fim, não alcançando as rotinas administrativas de apoio e de manutenção do órgão.",
         "C": "o uso racional dos recursos públicos e a redução do desperdício são manifestações da eficiência administrativa.",
         "D": "a eficiência é incompatível com a sustentabilidade, que exige gastos adicionais com insumos.",
         "E": "a eficiência dispensa metas e indicadores, pois se mede apenas pela rapidez dos atos."
@@ -8725,7 +8725,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não geração, redução, reutilização, reciclagem, tratamento e disposição final ambientalmente adequada dos rejeitos.",
-        "B": "disposição final, tratamento, reciclagem, reutilização, redução e não geração.",
+        "B": "disposição final, tratamento, reciclagem, reutilização, redução e não geração, nessa ordem, a partir do aterro sanitário.",
         "C": "reciclagem, disposição final, tratamento, reutilização e redução.",
         "D": "tratamento, disposição final, reutilização e reciclagem.",
         "E": "descarte, aterramento, queima e reciclagem."
@@ -8856,7 +8856,7 @@
       "enunciado": "<p>Ao elaborar o PLS, o tribunal percebe que algumas unidades não possuem medição de consumo de água. A medida adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "desconsiderar as unidades sem medição, mantendo o PLS com dados apenas das unidades medidas.",
+        "A": "desconsiderar as unidades sem medição, mantendo o PLS com dados apenas das unidades medidas, sem qualquer estimativa para as demais.",
         "B": "adotar metas de redução sem dados de consumo, definindo percentuais por estimativa informal.",
         "C": "instalar medidores ou estimar o consumo por metodologia definida, garantindo dados mínimos para o monitoramento.",
         "D": "aguardar indefinidamente a instalação de medidores, adiando o monitoramento até lá.",
@@ -8955,7 +8955,7 @@
       "enunciado": "<p>O tribunal quer incentivar o uso de bicicletas pelos servidores. A ação coerente com o PLS é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cobrar taxa pelo uso de bicicletários.",
+        "A": "cobrar taxa pelo uso de bicicletários pelos servidores.",
         "B": "instalar bicicletários e vestiários e divulgar a iniciativa.",
         "C": "eliminar vagas para bicicletas.",
         "D": "proibir a entrada de bicicletas.",
@@ -9058,7 +9058,7 @@
         "B": "apenas decisões judiciais proferidas em ações ambientais envolvendo o tribunal.",
         "C": "apenas normas internas do órgão, vedada a observância de normas de outros entes.",
         "D": "a Política Nacional de Resíduos Sólidos, a Política Nacional do Meio Ambiente e as normas de contratações públicas.",
-        "E": "apenas normas estrangeiras sobre meio ambiente, aplicáveis por analogia às contratações."
+        "E": "apenas normas estrangeiras sobre meio ambiente, aplicáveis por analogia às contratações, sem observância da legislação brasileira."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -9517,7 +9517,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a meta foi atingida, mas o resultado é inadequado se comprometeu a prestação jurisdicional; o ganho de eficiência não deve prejudicar a finalidade do órgão.",
-        "B": "a meta é satisfatória em qualquer hipótese, pois o PLS se preocupa apenas com a redução do consumo, sem considerar efeitos sobre os serviços.",
+        "B": "a meta é satisfatória em qualquer hipótese, pois o PLS se preocupa apenas com a redução do consumo, sem considerar efeitos sobre os serviços prestados à sociedade.",
         "C": "a prestação jurisdicional é irrelevante para a avaliação do PLS, cujo foco são apenas os indicadores de consumo.",
         "D": "a suspensão de atividades essenciais é a melhor forma de economizar recursos e deve ser incentivada pelo plano.",
         "E": "a eficiência dispensa a avaliação dos efeitos sobre o serviço, bastando a comparação dos números de consumo."
@@ -9553,7 +9553,7 @@
         "B": "é exclusivamente social, e a segunda, ambiental.",
         "C": "é privada, e a segunda, pública.",
         "D": "considera as dimensões ambiental, social e econômica, enquanto a segunda se limita à redução de custos.",
-        "E": "limita-se à redução de custos, e a segunda considera três dimensões."
+        "E": "limita-se à redução de custos, e a segunda considera três dimensões, incluindo a ambiental e a social."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -9582,7 +9582,7 @@
       "enunciado": "<p>Em relação ao efeito multiplicador de contratações públicas sustentáveis, a doutrina destaca que o poder de compra do Estado</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "prejudica a competitividade em todos os casos, ao favorecer fornecedores locais em detrimento do mercado.",
+        "A": "prejudica a competitividade em todos os casos, ao favorecer fornecedores locais em detrimento do mercado em geral.",
         "B": "é proibido pela Constituição Federal, que veda qualquer finalidade extrafiscal nas contratações públicas.",
         "C": "induz o mercado a ofertar produtos e serviços mais sustentáveis, funcionando como instrumento de política pública.",
         "D": "não tem qualquer influência sobre o mercado, por representar parcela insignificante da demanda total.",
@@ -9616,7 +9616,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a execução das ações comprova, por si, os resultados, dispensando a mensuração por indicadores.",
-        "B": "o plano é perfeito, pois a execução de 90% das ações demonstra o alcance integral dos objetivos.",
+        "B": "o plano é perfeito, pois a execução de 90% das ações demonstra o alcance integral dos objetivos propostos.",
         "C": "as metas não são necessárias em planos de sustentabilidade, bastando a execução das ações.",
         "D": "o indicador é irrelevante para auditorias, que avaliam somente a regularidade dos atos.",
         "E": "o plano tem fragilidade de mensuração, pois a execução das ações não equivale à comprovação de resultados."
@@ -9651,7 +9651,7 @@
         "A": "concentrar todos os resultados no último ano do ciclo, para facilitar a consolidação final.",
         "B": "eliminar as metas intermediárias, que dificultam a avaliação do desempenho global do plano.",
         "C": "permitir avanços graduais e verificáveis, evitando metas irrealistas concentradas no final do ciclo.",
-        "D": "dispensar as revisões anuais, mantendo-se inalterados metas e indicadores até o fim do ciclo.",
+        "D": "dispensar as revisões anuais, mantendo-se inalterados metas e indicadores até o fim do ciclo de vigência do plano.",
         "E": "dificultar o acompanhamento, pois metas parciais geram excesso de informações para a gestão."
       },
       "resposta_correta": "C",
@@ -9715,7 +9715,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "identificar riscos que possam comprometer as metas (como falta de recursos ou resistência cultural) e a prever medidas de tratamento.",
-        "B": "transferir integralmente os riscos de execução a empresas terceirizadas, que passam a responder pelo plano.",
+        "B": "transferir integralmente os riscos de execução a empresas terceirizadas, que passam a responder pelo plano e por seus resultados perante o órgão.",
         "C": "extinguir o monitoramento do plano, pois a análise de riscos torna desnecessária a verificação das metas.",
         "D": "ignorar riscos de baixa probabilidade, ainda que possam comprometer metas essenciais do plano.",
         "E": "eliminar as metas de maior dificuldade, de modo a afastar qualquer risco de descumprimento."
@@ -9782,7 +9782,7 @@
       "alternativas": {
         "A": "ser sempre a melhor medida, por eliminar totalmente o consumo de papel e de insumos no tribunal.",
         "B": "ser exigida pela Constituição Federal, que veda a impressão de documentos em órgãos públicos.",
-        "C": "ser indiferente para a atividade, já que os documentos podem ser substituídos por cópias ilegíveis.",
+        "C": "ser indiferente para a atividade, já que os documentos podem ser substituídos por cópias ilegíveis ou parciais.",
         "D": "comprometer a atividade administrativa e jurisdicional, devendo a meta considerar as exigências legais.",
         "E": "ser obrigatória para todos os documentos, sem exceção, nos termos da política de sustentabilidade."
       },
@@ -9813,7 +9813,7 @@
       "enunciado": "<p>Na avaliação de uma ação do PLS, a análise de custo-benefício considera</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente a economia financeira de curto prazo, sem considerar os benefícios ambientais e sociais.",
+        "A": "somente a economia financeira de curto prazo, sem considerar os benefícios ambientais e sociais de longo prazo e os custos de manutenção.",
         "B": "somente o prazo de implementação da ação, desconsiderados os custos e os resultados esperados.",
         "C": "os custos de implementação, as economias geradas e os benefícios ambientais e sociais, inclusive os não monetários.",
         "D": "somente os benefícios não monetários, desconsiderados os custos de implementação da ação.",
@@ -10078,7 +10078,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "transitório, limitado a um projeto.",
-        "B": "facultativo, a critério de cada gestor.",
+        "B": "facultativo, a critério de cada gestor, conforme a conveniência da administração.",
         "C": "sigiloso, sem divulgação.",
         "D": "permanente, para assegurar a continuidade das ações.",
         "E": "eventual, extinta a cada exercício."
@@ -10209,7 +10209,7 @@
       "enunciado": "<p>A comissão gestora do PLS é um colegiado que tem por característica</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ser integrada somente por empresas contratadas.",
+        "A": "ser integrada somente por empresas contratadas pelo órgão.",
         "B": "reunir representantes de diversas áreas do órgão, para apoiar o PLS.",
         "C": "ser vedada nos tribunais de pequeno porte.",
         "D": "ser exclusiva do Supremo Tribunal Federal.",
@@ -10345,7 +10345,7 @@
         "B": "contratações e aquisições do tribunal.",
         "C": "promoções por merecimento.",
         "D": "distribuição de processos.",
-        "E": "decisões judiciais de mérito."
+        "E": "decisões judiciais de mérito e de execução."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -10442,7 +10442,7 @@
       "alternativas": {
         "A": "estrutura de pessoal e de recursos compatível com suas atribuições.",
         "B": "estrutura mínima simbólica, sem recursos.",
-        "C": "servidor único, sem apoio, em qualquer hipótese.",
+        "C": "servidor único, sem apoio de outras áreas, em qualquer hipótese, independentemente do porte.",
         "D": "apenas colaboradores voluntários.",
         "E": "estrutura idêntica à de qualquer outra unidade."
       },
@@ -10541,7 +10541,7 @@
       "alternativas": {
         "A": "realizar concursos públicos.",
         "B": "promover a cultura de sustentabilidade e a gestão socioambiental no órgão.",
-        "C": "fiscalizar a atuação de outros órgãos externos.",
+        "C": "fiscalizar a atuação de outros órgãos externos e de empresas privadas.",
         "D": "promover a cobrança de tributos.",
         "E": "elaborar sentenças em matéria ambiental."
       },
@@ -10674,7 +10674,7 @@
         "A": "as áreas devem ser excluídas do plano.",
         "B": "essas áreas não têm relação com o PLS.",
         "C": "a norma proíbe a participação de áreas técnicas.",
-        "D": "a comissão deve ser formada apenas pela alta administração.",
+        "D": "a comissão deve ser formada apenas pela alta administração, sem representantes de áreas técnicas.",
         "E": "essas áreas respondem por parcela relevante dos consumos e processos abordados pelo PLS."
       },
       "resposta_correta": "E",
@@ -10737,7 +10737,7 @@
       "enunciado": "<p>Cabe à unidade de sustentabilidade, em articulação com a área de planejamento, assegurar que as metas do PLS</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "sejam fixadas sem consulta às áreas responsáveis, para evitar resistências à sua aprovação.",
+        "A": "sejam fixadas sem consulta às áreas responsáveis, para evitar resistências à sua aprovação pela alta administração.",
         "B": "sejam mantidas em sigilo, restritas à unidade de sustentabilidade e à alta administração.",
         "C": "sejam revisadas apenas pelo CNJ, vedada qualquer alteração pelo órgão que as aprovou.",
         "D": "estejam alinhadas aos objetivos estratégicos do órgão e sejam acompanhadas nas reuniões de análise da estratégia.",
@@ -10906,7 +10906,7 @@
         "B": "adotar práticas de menor impacto, como uso racional de energia e deslocamentos eficientes, sem prejudicar a segurança.",
         "C": "vedar a coleta seletiva nas áreas controladas, em razão do risco à segurança das instalações.",
         "D": "abandonar a segurança em favor da sustentabilidade, reduzindo os controles de acesso e as rondas.",
-        "E": "aumentar o consumo energético sem critério, para manter a iluminação e os equipamentos permanentemente ligados."
+        "E": "aumentar o consumo energético sem critério, para manter a iluminação e os equipamentos permanentemente ligados, ainda que sem ocupação."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -11038,7 +11038,7 @@
         "B": "manter apenas uma comissão gestora, sem unidade permanente, por ser suficiente em órgãos pequenos.",
         "C": "dispensar a unidade em razão do porte, desde que o PLS seja elaborado por empresa contratada.",
         "D": "com estrutura proporcional, podendo atuar em rede ou em cooperação com outros órgãos, sem dispensar a atribuição.",
-        "E": "terceirizá-la integralmente, vedada a participação de servidores do quadro nas atribuições da unidade."
+        "E": "terceirizá-la integralmente, vedada a participação de servidores do quadro nas atribuições da unidade de sustentabilidade."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -11201,7 +11201,7 @@
       "alternativas": {
         "A": "gera informações que podem ser objeto de avaliação pela área de controle interno, que mantém independência para examinar o plano.",
         "B": "define a pauta de auditorias do órgão e fiscaliza o controle interno, a quem subordina suas decisões.",
-        "C": "substitui a área de controle interno na avaliação do PLS, por possuir conhecimento técnico mais específico.",
+        "C": "substitui a área de controle interno na avaliação do PLS, por possuir conhecimento técnico mais específico, dispensando auditorias.",
         "D": "é isenta de controle, por atuar em tema de natureza técnica que não se sujeita à fiscalização interna.",
         "E": "exerce o controle interno sobre as demais áreas e responde apenas perante o Conselho Nacional de Justiça."
       },
@@ -11302,7 +11302,7 @@
         "B": "servidores de diferentes áreas, com atribuição de implantar e supervisionar a separação e a destinação dos resíduos.",
         "C": "pessoas externas ao órgão, sem vínculo com a administração, escolhidas pelas cooperativas.",
         "D": "representantes das cooperativas de catadores, exclusivamente, sem participação de servidores.",
-        "E": "magistrados do tribunal, exclusivamente, por ser tema de natureza jurisdicional e administrativa."
+        "E": "magistrados do tribunal, exclusivamente, por ser tema de natureza jurisdicional e administrativa, de interesse da magistratura."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -11497,7 +11497,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apoia as áreas com informações, ferramentas e capacitação para que adotem práticas sustentáveis.",
-        "B": "apenas pune as áreas que não cumprem as metas, sem prestar qualquer apoio às unidades.",
+        "B": "apenas pune as áreas que não cumprem as metas, sem prestar qualquer apoio às unidades executoras.",
         "C": "apenas cobra relatórios das áreas, sem acompanhar as dificuldades que enfrentam.",
         "D": "ignora as dificuldades das áreas, impondo metas e prazos sem negociação.",
         "E": "atua somente após a ocorrência de falhas, quando já não há tempo para correções."
@@ -11631,7 +11631,7 @@
         "A": "isolar a unidade local do Comitê, de modo que não receba orientações nacionais sobre o tema.",
         "B": "alinhar as práticas locais às diretrizes nacionais e compartilhar boas práticas entre os órgãos do Judiciário.",
         "C": "impor um modelo único de plano, vedada qualquer adaptação às realidades de cada órgão do Judiciário.",
-        "D": "extinguir os planos locais, que passam a ser substituídos por um único plano nacional, sem metas locais.",
+        "D": "extinguir os planos locais, que passam a ser substituídos por um único plano nacional, sem metas próprias nem indicadores locais.",
         "E": "impedir a troca de experiências entre os órgãos, para evitar comparações entre os resultados obtidos."
       },
       "resposta_correta": "B",
@@ -11727,7 +11727,7 @@
       "enunciado": "<p>A avaliação do desempenho da unidade de sustentabilidade deve considerar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas a opinião de seus integrantes sobre o próprio desempenho, em autoavaliação semestral.",
+        "A": "apenas a opinião de seus integrantes sobre o próprio desempenho, em autoavaliação semestral conduzida pela própria unidade.",
         "B": "apenas a quantidade de reuniões realizadas e de atas lavradas ao longo do exercício.",
         "C": "apenas o volume de documentos produzidos e de relatórios encaminhados à alta administração.",
         "D": "os resultados do PLS, a execução das ações e o engajamento institucional, e não apenas o cumprimento de formalidades.",
@@ -11795,7 +11795,7 @@
       "alternativas": {
         "A": "a formação é proibida.",
         "B": "o tema envolve legislação, tecnologia e boas práticas em constante evolução.",
-        "C": "a unidade não precisa de conhecimento especializado.",
+        "C": "a unidade não precisa de conhecimento especializado, bastando a boa vontade.",
         "D": "as normas nunca mudam.",
         "E": "o tema é estático."
       },
@@ -11995,7 +11995,7 @@
         "B": "reduzir a transparência.",
         "C": "dispensar o planejamento.",
         "D": "ampliar a capacidade técnica e a efetividade das ações do PLS.",
-        "E": "terceirizar integralmente a responsabilidade pelo plano."
+        "E": "terceirizar integralmente a responsabilidade pelo plano a terceiros."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -12325,7 +12325,7 @@
         "B": "competência jurisdicional.",
         "C": "nomeação de peritos.",
         "D": "critérios e impactos socioambientais do objeto.",
-        "E": "avaliação de mérito de processos judiciais."
+        "E": "avaliação de mérito de processos judiciais ambientais."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -12355,7 +12355,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a criação é proibida.",
-        "B": "a criação depende de lei federal específica para cada tribunal.",
+        "B": "a criação depende de lei federal específica para cada tribunal, a ser editada pelo Congresso Nacional.",
         "C": "cada órgão deve instituí-la e mantê-la, com estrutura proporcional.",
         "D": "a criação é facultativa em todos os casos.",
         "E": "apenas o STF deve criá-la."
@@ -12490,7 +12490,7 @@
         "B": "extinguir a comissão.",
         "C": "ignorar a divergência.",
         "D": "submeter a questão à alta administração, com subsídios técnicos de ambas, para decisão.",
-        "E": "decidir pelo critério de quem tem mais tempo de serviço."
+        "E": "decidir pelo critério de quem tem mais tempo de serviço, sem parecer técnico."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -12555,7 +12555,7 @@
         "A": "ser negada, por tratar-se de informação interna de gestão, protegida por sigilo em qualquer hipótese.",
         "B": "ser condicionada ao pagamento prévio de taxa, como contrapartida pela elaboração de relatórios.",
         "C": "ser fornecida com base em dados publicados e, se necessário, complementada por pedido formal, observando a Lei de Acesso à Informação.",
-        "D": "ser limitada a servidores do órgão, vedado o acesso de qualquer cidadão que não integre a instituição.",
+        "D": "ser limitada a servidores do órgão, vedado o acesso de qualquer cidadão que não integre a instituição, ainda que o pedido seja formal e fundamentado.",
         "E": "ser fornecida somente após decisão judicial, que autorize o acesso aos dados de sustentabilidade."
       },
       "resposta_correta": "C",
@@ -12750,7 +12750,7 @@
       "enunciado": "<p>A criação de rede de contatos locais (um servidor por unidade) para disseminar o PLS é estratégia que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "retira a coordenação da unidade central e a transfere aos agentes locais, que passam a definir as metas.",
+        "A": "retira a coordenação da unidade central e a transfere aos agentes locais, que passam a definir as metas e os indicadores de cada unidade.",
         "B": "descentraliza a capilaridade das ações e favorece o engajamento, sem retirar a coordenação da unidade central.",
         "C": "dispensa as metas e os indicadores do plano, pois a atuação dos agentes locais garante o resultado.",
         "D": "centraliza todas as decisões na unidade central, vedando iniciativas locais de sensibilização.",
@@ -12917,7 +12917,7 @@
       "alternativas": {
         "A": "gerar competição entre as áreas, em prejuízo da cooperação necessária à execução do PLS.",
         "B": "substituir as metas e os indicadores do plano por critérios subjetivos de avaliação.",
-        "C": "dispensar o monitoramento dos resultados, já que o reconhecimento é suficiente por si só.",
+        "C": "dispensar o monitoramento dos resultados, já que o reconhecimento das áreas é suficiente por si só para garantir o cumprimento das metas.",
         "D": "servir de punição às áreas que não cumprirem as metas, reduzindo o engajamento delas.",
         "E": "estimular a adesão e o reconhecimento das áreas e servidores que se destacam nas ações do PLS."
       },
@@ -13018,7 +13018,7 @@
         "B": "o sigilo das práticas.",
         "C": "o intercâmbio de experiências e a atualização das práticas.",
         "D": "o isolamento institucional.",
-        "E": "a vedação de contato com outros órgãos."
+        "E": "a vedação de contato com outros órgãos do Poder Judiciário."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -13182,7 +13182,7 @@
         "A": "o monitoramento seja secreto, restrito a quem executa as ações, para preservar a independência da equipe.",
         "B": "a mesma pessoa execute, controle e avalie todas as etapas, para garantir unidade de comando no processo.",
         "C": "a avaliação seja dispensada, quando a execução das ações for conduzida pela alta administração.",
-        "D": "a execução seja terceirizada integralmente, de modo a afastar qualquer envolvimento dos servidores do órgão.",
+        "D": "a execução seja terceirizada integralmente, de modo a afastar qualquer envolvimento dos servidores do órgão na gestão do plano.",
         "E": "quem executa as ações não seja o único responsável por avaliá-las, preservando a independência da verificação."
       },
       "resposta_correta": "E",
@@ -13344,7 +13344,7 @@
       "enunciado": "<p>Considera-se boa prática de governança que a escolha dos integrantes da comissão gestora observe a representatividade das áreas e a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "indicação por critérios pessoais, sem relação com o tema.",
+        "A": "indicação por critérios pessoais, sem relação com o tema ou com as atribuições da comissão.",
         "B": "ausência de qualquer critério.",
         "C": "indicação de servidores sem tempo.",
         "D": "exclusão das áreas técnicas.",
@@ -13413,7 +13413,7 @@
         "A": "apenas a alta administração é responsável pelas decisões que afetem a sustentabilidade do órgão.",
         "B": "os servidores não têm responsabilidade pelas práticas de consumo nas atividades do dia a dia.",
         "C": "a sustentabilidade é transversal, devendo permear as decisões de todas as áreas e níveis hierárquicos.",
-        "D": "só a unidade de sustentabilidade responde pelos resultados do plano e pelas ações de todas as áreas.",
+        "D": "só a unidade de sustentabilidade responde pelos resultados do plano e pelas ações de todas as áreas do tribunal.",
         "E": "a sustentabilidade é restrita a obras e reformas, não alcançando as demais rotinas administrativas."
       },
       "resposta_correta": "C",
@@ -13643,7 +13643,7 @@
       "alternativas": {
         "A": "manter o plano idêntico no ciclo seguinte, sem análise dos resultados nem proposta de ajustes.",
         "B": "dispensar a participação da comissão gestora, decidindo isoladamente sobre as alterações.",
-        "C": "excluir as áreas executoras do processo de revisão, para evitar conflitos na definição de metas.",
+        "C": "excluir as áreas executoras do processo de revisão, para evitar conflitos na definição de metas e de indicadores.",
         "D": "consolidar os resultados e propor à comissão gestora e à administração os ajustes necessários para o novo ciclo.",
         "E": "encerrar o plano ao fim do ciclo, sem elaborar novo documento para o período seguinte."
       },

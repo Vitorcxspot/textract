@@ -37811,7 +37811,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "sobre a soma de todas as remunerações recebidas.",
-        "B": "apenas sobre o cargo de maior remuneração, desprezado o outro.",
+        "B": "apenas sobre o cargo de maior remuneração, desprezado o outro, que fica fora do cômputo do limite.",
         "C": "isoladamente sobre a remuneração de cada cargo, e não sobre a soma dos vencimentos.",
         "D": "somente sobre o cargo mais antigo do servidor.",
         "E": "apenas sobre os proventos de aposentadoria."

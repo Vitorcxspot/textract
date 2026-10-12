@@ -938,7 +938,7 @@
       "alternativas": {
         "A": "negado a autoria, por meio de seu defensor.",
         "B": "permanecido em silêncio durante o interrogatório.",
-        "C": "sido condenado anteriormente por crime semelhante.",
+        "C": "sido condenado anteriormente por crime semelhante, com trânsito em julgado.",
         "D": "confessado formal e circunstanciadamente a prática da infração penal.",
         "E": "sido preso em flagrante delito."
       },
@@ -1006,7 +1006,7 @@
         "B": "por escrito, firmado pela vítima e pelo MP.",
         "C": "oralmente, sem defensor, na audiência de custódia.",
         "D": "oralmente, perante o delegado de polícia.",
-        "E": "por escrito, firmado apenas pelo juiz e pelo investigado."
+        "E": "por escrito, firmado apenas pelo juiz e pelo investigado, sem participação do defensor."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -1069,7 +1069,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pagar fiança em favor do delegado.",
-        "B": "cumprir pena privativa de liberdade em regime fechado.",
+        "B": "cumprir pena privativa de liberdade em regime fechado, por prazo determinado.",
         "C": "reconhecer a reincidência.",
         "D": "reparar o dano ou restituir a coisa à vítima, salvo impossibilidade de fazê-lo.",
         "E": "renunciar à defesa técnica."
@@ -1137,7 +1137,7 @@
         "A": "gerarão maus antecedentes automaticamente, para efeitos de dosimetria de eventual condenação futura.",
         "B": "não constarão de certidão de antecedentes criminais, ressalvada a finalidade de verificar benefício nos cinco anos anteriores.",
         "C": "constarão apenas se houver confissão do investigado, e não do mero cumprimento do acordo.",
-        "D": "constarão sempre da certidão de antecedentes criminais, ainda que o acordo seja cumprido integralmente.",
+        "D": "constarão sempre da certidão de antecedentes criminais, ainda que o acordo seja cumprido integralmente pelo investigado e extinta a punibilidade.",
         "E": "gerarão reincidência para fins penais, equiparando-se a uma condenação definitiva por crime."
       },
       "resposta_correta": "B",
@@ -1169,7 +1169,7 @@
       "alternativas": {
         "A": "ANPP, transação penal ou suspensão condicional do processo.",
         "B": "absolvição sumária ou impronúncia.",
-        "C": "sursis da pena ou livramento condicional.",
+        "C": "sursis da pena ou livramento condicional, em qualquer prazo.",
         "D": "indulto ou graça.",
         "E": "anistia ou abolitio criminis."
       },
@@ -1200,7 +1200,7 @@
       "enunciado": "<p>O ANPP NÃO se aplica quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o investigado for primário e de bons antecedentes.",
+        "A": "o investigado for primário e de bons antecedentes e confessar o crime.",
         "B": "for cabível transação penal de competência dos Juizados Especiais Criminais.",
         "C": "a pena mínima do crime for de três anos.",
         "D": "o investigado confessar o crime espontaneamente.",
@@ -1333,7 +1333,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "devolverá os autos ao Ministério Público para que reformule a proposta, com a concordância do investigado e do defensor.",
-        "B": "alterará diretamente as condições do acordo, sem ouvir as partes nem devolver os autos ao Ministério Público.",
+        "B": "alterará diretamente as condições do acordo, sem ouvir as partes nem devolver os autos ao Ministério Público para reformulação.",
         "C": "homologará o acordo e aplicará a pena, convertendo as condições em sanção judicial.",
         "D": "arquivará o inquérito policial, por considerar insuficientes as condições propostas pelo MP.",
         "E": "oferecerá denúncia de ofício, tendo em vista a rejeição das condições pelo magistrado."
@@ -1433,7 +1433,7 @@
       "alternativas": {
         "A": "requerer ao delegado a lavratura do acordo.",
         "B": "recorrer diretamente ao juiz para homologar o acordo.",
-        "C": "impetrar mandado de segurança para obrigar a proposta.",
+        "C": "impetrar mandado de segurança para obrigar a proposta do acordo pelo Ministério Público.",
         "D": "propor ação penal privada subsidiária.",
         "E": "requerer a remessa dos autos a órgão superior, na forma do art. 28 do CPP."
       },
@@ -1567,7 +1567,7 @@
         "B": "a prisão preventiva automática.",
         "C": "o eventual não oferecimento de suspensão condicional do processo.",
         "D": "a decretação de revelia.",
-        "E": "a perda de bens independentemente de decisão."
+        "E": "a perda de bens independentemente de decisão judicial."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1662,7 +1662,7 @@
       "enunciado": "<p>Segundo o entendimento majoritário, o requisito de ausência de violência ou grave ameaça para o ANPP</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensa o requisito para crimes contra a vida, que são sempre passíveis de acordo de não persecução.",
+        "A": "dispensa o requisito para crimes contra a vida, que são sempre passíveis de acordo de não persecução penal, independentemente de pena.",
         "B": "refere-se à violência inerente ao tipo doloso, de modo que crimes culposos com resultado violento podem comportar o acordo.",
         "C": "exige que a vítima seja maior de idade, para que possa manifestar sua concordância com o acordo.",
         "D": "veda o acordo em todo crime culposo com resultado lesivo, por haver violência contra a pessoa.",
@@ -1698,7 +1698,7 @@
         "A": "três anos anteriores à confissão.",
         "B": "um ano anterior à denúncia.",
         "C": "dois anos anteriores à homologação.",
-        "D": "dez anos anteriores ao trânsito em julgado.",
+        "D": "dez anos anteriores ao trânsito em julgado da sentença condenatória.",
         "E": "cinco anos anteriores ao cometimento da nova infração."
       },
       "resposta_correta": "E",
@@ -1761,7 +1761,7 @@
       "enunciado": "<p>Quanto ao momento de cabimento do ANPP, o art. 28-A do CPP o prevê para a fase em que ainda</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "se discute a execução da pena no juízo competente, após o trânsito em julgado da sentença condenatória.",
+        "A": "se discute a execução da pena no juízo competente, após o trânsito em julgado da sentença condenatória e o início do cumprimento.",
         "B": "não houve oferecimento da denúncia, ao dispor que o MP poderá propor o acordo quando não for caso de arquivamento.",
         "C": "se aguarda o julgamento de revisão criminal, com o propósito de rever condenação definitiva.",
         "D": "há trânsito em julgado da condenação, hipótese em que o acordo substitui a execução da pena.",

@@ -471,7 +471,7 @@
       "enunciado": "<p>O art. 5º, § 2º, da Constituição Federal estabelece que os direitos e garantias expressos na Constituição</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dependem de lei complementar para produzir efeitos, não sendo autoaplicáveis nas hipóteses em que o texto é omisso.",
+        "A": "dependem de lei complementar para produzir efeitos, não sendo autoaplicáveis nas hipóteses em que o texto é omisso, inclusive quanto a tratados já ratificados.",
         "B": "são os únicos que o ordenamento jurídico brasileiro admite, vedada a existência de direitos fora do catálogo.",
         "C": "excluem qualquer direito previsto em tratado internacional, ainda que ratificado pelo Brasil e promulgado.",
         "D": "não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.",
@@ -508,7 +508,7 @@
         "B": "equivalentes às emendas constitucionais.",
         "C": "equivalentes às leis complementares.",
         "D": "superiores à Constituição Federal.",
-        "E": "equivalentes a decretos regulamentares."
+        "E": "equivalentes a decretos regulamentares expedidos pelo Presidente."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -538,7 +538,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "só reconhece a jurisdição para crimes comuns.",
-        "B": "reconhece a jurisdição apenas por ato do Presidente da República.",
+        "B": "reconhece a jurisdição apenas por ato do Presidente da República, sem aprovação do Congresso Nacional.",
         "C": "se submete à jurisdição de tribunal penal internacional a cuja criação tenha manifestado adesão.",
         "D": "reconhece a jurisdição somente em tempo de guerra.",
         "E": "não reconhece a jurisdição de nenhum tribunal internacional."
@@ -638,7 +638,7 @@
       "alternativas": {
         "A": "a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo.",
         "B": "a Convenção Americana sobre Direitos Humanos.",
-        "C": "o Pacto Internacional sobre Direitos Civis e Políticos.",
+        "C": "o Pacto Internacional sobre Direitos Civis e Políticos e seus protocolos.",
         "D": "a Convenção contra a Tortura.",
         "E": "a Carta das Nações Unidas."
       },
@@ -702,7 +702,7 @@
       "enunciado": "<p>O art. 5º, § 3º, da Constituição foi inserido pela Emenda Constitucional nº 45/2004, tendo por finalidade principal</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "extinguir a Justiça Militar, transferindo seus processos para a Justiça comum e para a Justiça Federal.",
+        "A": "extinguir a Justiça Militar, transferindo seus processos para a Justiça comum e para a Justiça Federal, conforme a matéria e o foro dos acusados.",
         "B": "instituir o controle externo do Judiciário, por meio do Conselho Nacional de Justiça.",
         "C": "subordinar os tratados de direitos humanos à legislação ordinária, equiparando-os às leis federais.",
         "D": "resolver a controvérsia sobre a hierarquia dos tratados de direitos humanos, prevendo um rito que lhes confere status constitucional.",
@@ -736,7 +736,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "promulgação pelo Presidente do Supremo Tribunal Federal, após a aprovação por maioria absoluta.",
-        "B": "aprovação por lei ordinária sancionada, sem edição de decreto legislativo nem de decreto presidencial.",
+        "B": "aprovação por lei ordinária sancionada, sem edição de decreto legislativo nem de decreto presidencial de promulgação do tratado.",
         "C": "assinatura por embaixador, sem ratificação nem participação do Congresso Nacional.",
         "D": "aprovação por resolução do Senado e publicação de edital pelo Poder Judiciário.",
         "E": "celebração pelo Presidente da República, aprovação por decreto legislativo, ratificação e promulgação por decreto presidencial."
@@ -835,7 +835,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reúne a Constituição formal e normas materialmente constitucionais, como os tratados aprovados pelo rito do § 3º.",
-        "B": "equipara costumes internacionais a normas constitucionais, independentemente de qualquer aprovação.",
+        "B": "equipara costumes internacionais a normas constitucionais, independentemente de qualquer aprovação pelo Congresso Nacional.",
         "C": "reúne apenas as leis ordinárias e complementares, excluídos os tratados e as normas de emenda.",
         "D": "exclui tratados de qualquer espécie do parâmetro de controle de constitucionalidade das leis.",
         "E": "exige a edição de lei específica para cada direito, como condição de sua exigibilidade."
@@ -935,7 +935,7 @@
       "alternativas": {
         "A": "somente pelo Congresso Nacional.",
         "B": "somente pela Corte Interamericana.",
-        "C": "somente pelo Supremo Tribunal Federal.",
+        "C": "somente pelo Supremo Tribunal Federal, em ação própria.",
         "D": "por qualquer juiz ou tribunal, no caso concreto.",
         "E": "somente pelo Presidente da República."
       },
@@ -1003,7 +1003,7 @@
         "B": "Gomes Lund e outros vs. Brasil.",
         "C": "Damião Ximenes Lopes vs. Brasil.",
         "D": "Maria da Penha vs. Brasil.",
-        "E": "Velásquez Rodríguez vs. Honduras."
+        "E": "Velásquez Rodríguez vs. Honduras, de 1988."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1032,7 +1032,7 @@
       "enunciado": "<p>Em relação à Lei da Anistia (Lei nº 6.683/1979), a Corte Interamericana de Direitos Humanos, no caso Gomes Lund (Guerrilha do Araguaia),</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "declarou a competência exclusiva do Judiciário brasileiro para decidir sobre a validade da lei, sem controle internacional.",
+        "A": "declarou a competência exclusiva do Judiciário brasileiro para decidir sobre a validade da lei, sem qualquer controle internacional de convencionalidade.",
         "B": "não analisou a Lei da Anistia, limitando-se a examinar a conduta dos agentes do Estado.",
         "C": "determinou a revogação da Constituição, em razão de sua incompatibilidade com a Convenção.",
         "D": "reconheceu sua plena compatibilidade com a Convenção Americana, por ter caráter de lei interna.",
@@ -1065,7 +1065,7 @@
       "enunciado": "<p>A Resolução CNJ nº 364/2021 instituiu, no âmbito do Conselho Nacional de Justiça,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o Comitê de Execução Penal, encarregado de acompanhar o cumprimento das sanções criminais no País.",
+        "A": "o Comitê de Execução Penal, encarregado de acompanhar o cumprimento das sanções criminais impostas em todo o País.",
         "B": "a Unidade de Monitoramento e Fiscalização das decisões e deliberações da Corte Interamericana de Direitos Humanos.",
         "C": "a Ouvidoria da Justiça Federal, responsável por receber manifestações dos jurisdicionados.",
         "D": "o Tribunal de Controle de Convencionalidade, com competência para anular normas internas.",
@@ -1164,7 +1164,7 @@
       "enunciado": "<p>A Recomendação CNJ nº 123/2022 recomenda aos órgãos do Poder Judiciário</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "que submetam todos os processos em curso à Corte Interamericana, antes da decisão de mérito pelo juiz nacional.",
+        "A": "que submetam todos os processos em curso à Corte Interamericana, antes da decisão de mérito pelo juiz nacional, em caráter obrigatório.",
         "B": "que apliquem exclusivamente a lei interna, vedada a consideração de tratados e de decisões internacionais.",
         "C": "que deixem de aplicar o controle de constitucionalidade, substituindo-o pelo exame de convencionalidade.",
         "D": "a observância dos tratados e convenções internacionais de direitos humanos e o uso da jurisprudência da Corte Interamericana, inclusive o controle de convencionalidade.",
