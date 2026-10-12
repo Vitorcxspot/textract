@@ -14,8 +14,8 @@
       "alternativas": {
         "A": "retirar rapidamente o protegido de uma situação de ameaça, afastando-o da zona de perigo.",
         "B": "enfrentar os agressores com o veículo, até neutralizá-los.",
-        "C": "cumprir o limite de velocidade da via em qualquer circunstância.",
-        "D": "estacionar o veículo no local do ataque para aguardar reforços.",
+        "C": "cumprir o limite de velocidade da via em qualquer circunstância, mesmo diante de ameaça direta ao protegido.",
+        "D": "estacionar o veículo no local do ataque para aguardar reforços e prestar socorro imediato aos ocupantes.",
         "E": "interromper o deslocamento até o fim da ameaça."
       },
       "resposta_correta": "A",
@@ -45,11 +45,11 @@
       "enunciado": "<p>Uma emboscada contra veículo de dignitário caracteriza-se por</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ataque anunciado antecipadamente à equipe de segurança.",
+        "A": "ataque anunciado antecipadamente à equipe de segurança, em local que ela mesma escolheu para a parada prevista.",
         "B": "evento restrito a áreas rurais.",
         "C": "ataque planejado e surpresa, em local previamente escolhido pelos agressores, geralmente com restrição de movimento do alvo.",
         "D": "situação sem relação com a rota adotada.",
-        "E": "ocorrência aleatória em local escolhido ao acaso pelo condutor."
+        "E": "ocorrência aleatória em local escolhido ao acaso pelo condutor, sem planejamento prévio dos agressores nem rota conhecida pela equipe."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -78,9 +78,9 @@
       "enunciado": "<p>Em deslocamentos de dignitários, comboio é o conjunto de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "veículos dos agressores que seguem o alvo.",
+        "A": "veículos dos agressores que seguem o alvo e coordenam o ataque ao longo de todo o trajeto percorrido pela comitiva oficial.",
         "B": "veículos sem funções definidas.",
-        "C": "veículos que trafegam de modo independente, sem comunicação.",
+        "C": "veículos que trafegam de modo independente, sem comunicação entre si, mas com destino e horário comuns.",
         "D": "veículos estacionados na garagem da instituição.",
         "E": "veículos organizados e coordenados, que se deslocam em formação, incluindo o veículo do protegido e os de escolta."
       },
@@ -111,11 +111,11 @@
       "enunciado": "<p>Entre as providências para reduzir o risco de emboscada, inclui-se</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a realização do trajeto sempre no mesmo horário.",
+        "A": "a realização do trajeto sempre no mesmo horário, para criar rotina na equipe.",
         "B": "a divulgação da rota e dos horários com antecedência.",
         "C": "a adoção de um único trajeto padrão, para facilitar o aprendizado.",
         "D": "o reconhecimento prévio da rota e a variação de trajetos e horários.",
-        "E": "a dispensa de qualquer planejamento do deslocamento."
+        "E": "a dispensa de qualquer planejamento do deslocamento, confiando no condutor."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -144,10 +144,10 @@
       "enunciado": "<p>A comunicação por rádio entre os veículos do comboio é importante para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "divulgar a rota para o público em geral.",
+        "A": "divulgar a rota para o público em geral e os órgãos de trânsito, para facilitar a passagem.",
         "B": "coordenar a movimentação, informar ameaças e orientar as decisões durante o deslocamento.",
         "C": "substituir o planejamento da missão.",
-        "D": "evitar qualquer contato entre as equipes.",
+        "D": "evitar qualquer contato entre as equipes para que a rádio não revele a posição do comboio.",
         "E": "dispensar o treinamento dos condutores."
       },
       "resposta_correta": "B",
@@ -178,10 +178,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o trânsito ou a manobra ficam restritos, como pontes, túneis e cruzamentos, o que os torna mais vulneráveis a ataques.",
-        "B": "a via possui várias faixas livres e alternativas.",
+        "B": "a via possui várias faixas livres e alternativas, o que facilita a manobra de evasão e a retirada do protegido pelo comboio.",
         "C": "o risco de emboscada é inexistente.",
         "D": "o deslocamento é feito a pé pelo protegido.",
-        "E": "o veículo dispõe de amplo espaço para manobras."
+        "E": "o veículo dispõe de amplo espaço para manobras e para a retirada rápida do protegido, inclusive com retornos."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -210,9 +210,9 @@
       "enunciado": "<p>Diante de uma emboscada, a regra geral de reação do condutor é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "reduzir a velocidade para observar os agressores.",
+        "A": "reduzir a velocidade para observar os agressores e identificar a origem dos disparos antes de agir.",
         "B": "discutir a situação com os atacantes.",
-        "C": "parar o veículo e aguardar o desfecho do ataque.",
+        "C": "parar o veículo e aguardar o desfecho do ataque, protegendo os ocupantes no interior do carro.",
         "D": "sair da zona de ataque o mais rápido possível, com segurança, e não permanecer parado no local.",
         "E": "desembarcar o protegido na zona de tiro."
       },
@@ -243,10 +243,10 @@
       "enunciado": "<p>O condutor de dignitário deve, em regra, manter o veículo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "sem verificar os freios antes das missões.",
+        "A": "sem verificar os freios antes das missões, confiando na revisão periódica anterior.",
         "B": "com o tanque quase vazio para economizar peso.",
         "C": "em boas condições de uso, com combustível suficiente e manutenção em dia.",
-        "D": "sem revisão periódica, enquanto não apresentar defeito.",
+        "D": "sem revisão periódica, enquanto não apresentar defeito aparente ao condutor.",
         "E": "com pneus gastos, por serem de menor custo."
       },
       "resposta_correta": "C",
@@ -276,10 +276,10 @@
       "enunciado": "<p>Em um comboio de proteção, o veículo de escolta posicionado à frente do veículo do dignitário (batedor) tem como função típica</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "transportar o dignitário no interior do veículo.",
+        "A": "transportar o dignitário no interior do veículo, protegendo-o com a blindagem do carro.",
         "B": "reconhecer a via, antecipar riscos e abrir caminho em condições de trânsito.",
         "C": "seguir os demais veículos sem comunicação.",
-        "D": "ficar parado nas interseções, sem acompanhar o comboio.",
+        "D": "ficar parado nas interseções, sem acompanhar o comboio, para impedir a passagem de veículos.",
         "E": "afastar-se da formação em situação de risco."
       },
       "resposta_correta": "B",
@@ -309,9 +309,9 @@
       "enunciado": "<p>O veículo de escolta posicionado atrás do veículo do protegido (retaguarda) tem como função típica</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ficar a grande distância do comboio, para evitar atrito.",
+        "A": "ficar a grande distância do comboio, para evitar atrito com os demais veículos da formação.",
         "B": "seguir sem comunicação e sem coordenação.",
-        "C": "ultrapassar o veículo do protegido sempre que possível.",
+        "C": "ultrapassar o veículo do protegido sempre que possível, para assumir a frente do comboio.",
         "D": "conduzir os dignitários ao local do evento.",
         "E": "proteger a retaguarda, impedir aproximações indevidas e dar apoio à evasão."
       },
@@ -343,9 +343,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "inverter o sentido do veículo em movimento, partindo do deslocamento em marcha à ré, para sair rapidamente da zona de ataque.",
-        "B": "ultrapassar o veículo da frente em curva fechada.",
+        "B": "ultrapassar o veículo da frente em curva fechada, usando a contramão para ganhar a dianteira da formação em fuga.",
         "C": "dar ré lentamente, mantendo o veículo na mesma faixa.",
-        "D": "frear bruscamente com todas as rodas travadas, em linha reta.",
+        "D": "frear bruscamente com todas as rodas travadas, em linha reta, para que o veículo gire sozinho e inverta o sentido da marcha original.",
         "E": "estacionar o veículo em paralelo, com as portas abertas."
       },
       "resposta_correta": "A",
@@ -375,9 +375,9 @@
       "enunciado": "<p>O objetivo de realizar o reconhecimento da rota (reconhecimento avançado) é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensar o uso de rádio no comboio.",
+        "A": "dispensar o uso de rádio no comboio, já que o trajeto previamente conhecido torna a comunicação desnecessária.",
         "B": "informar a imprensa sobre o trajeto.",
-        "C": "alertar possíveis agressores sobre o horário de passagem.",
+        "C": "alertar possíveis agressores sobre o horário de passagem, a fim de que se afastem do percurso do comboio.",
         "D": "substituir o plano de contingência.",
         "E": "identificar pontos críticos, rotas alternativas, locais de apoio e riscos antes do deslocamento do protegido."
       },
@@ -408,10 +408,10 @@
       "enunciado": "<p>O ponto de refúgio ou local seguro (safe haven) previsto na rota destina-se a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "servir de local de descanso dos condutores, sem função de segurança.",
+        "A": "servir de local de descanso dos condutores, sem função de segurança, nos deslocamentos de longa duração.",
         "B": "abrigar o protegido e a equipe em caso de ataque ou impedimento, permitindo proteção e apoio externo.",
         "C": "ser mantido em sigilo, mesmo da equipe de escolta.",
-        "D": "ser escolhido no momento do ataque, sem planejamento.",
+        "D": "ser escolhido no momento do ataque, sem planejamento, conforme o julgamento do condutor.",
         "E": "ser substituído por parada em local qualquer."
       },
       "resposta_correta": "B",
@@ -441,11 +441,11 @@
       "enunciado": "<p>Em saída de emboscada, a decisão de forçar a passagem por um bloqueio com o veículo (quebra de bloqueio) deve considerar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a velocidade máxima possível, independentemente do tipo de obstáculo.",
+        "A": "a velocidade máxima possível, independentemente do tipo de obstáculo, do veículo disponível, do ponto de impacto e do local da passagem.",
         "B": "a manutenção do veículo parado diante do bloqueio.",
         "C": "o abandono do protegido no veículo.",
         "D": "o tipo de bloqueio, o veículo disponível, o ponto de impacto e a proteção do ocupante, preferindo a rota alternativa quando possível.",
-        "E": "o impacto frontal contra o centro do bloqueio em qualquer situação."
+        "E": "o impacto frontal contra o centro do bloqueio em qualquer situação, pois o ponto mais frágil é sempre ali localizado."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -475,9 +475,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a cor dos veículos utilizados.",
-        "B": "um modelo único, imutável em qualquer circunstância.",
+        "B": "um modelo único, imutável em qualquer circunstância, adotado como padrão pela instituição.",
         "C": "o nível de ameaça, o tipo de via, o número de veículos e o plano de segurança da missão.",
-        "D": "a preferência individual de cada condutor.",
+        "D": "a preferência individual de cada condutor, que escolhe a posição pelo conforto.",
         "E": "o horário do dia apenas."
       },
       "resposta_correta": "C",
@@ -508,8 +508,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "vigilância constante, atenção a anomalias na rota e reação treinada e rápida.",
-        "B": "ausência de plano de contingência.",
-        "C": "condução desatenta, com foco em conversa e telefone.",
+        "B": "ausência de plano de contingência, deixando a decisão para o momento do ataque.",
+        "C": "condução desatenta, com foco em conversa e telefone, para reduzir a tensão da equipe.",
         "D": "uso dos mesmos trajetos todos os dias.",
         "E": "divulgação da agenda do protegido."
       },
@@ -540,11 +540,11 @@
       "enunciado": "<p>No planejamento de rota, as rotas alternativas devem ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "decididas somente no momento da emergência.",
+        "A": "decididas somente no momento da emergência, conforme o julgamento do condutor e a visibilidade na pista.",
         "B": "previamente reconhecidas e conhecidas por toda a equipe, para uso em caso de bloqueio ou ataque.",
         "C": "mantidas em segredo do condutor.",
         "D": "evitadas, por serem sempre mais perigosas.",
-        "E": "definidas sem conhecimento do trânsito local."
+        "E": "definidas sem conhecimento do trânsito local, bastando consultar o mapa durante a fuga."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -573,9 +573,9 @@
       "enunciado": "<p>O ponto de espera (hold point) do comboio é utilizado para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "realizar abastecimento em posto desconhecido sem verificação.",
+        "A": "realizar abastecimento em posto desconhecido sem verificação prévia da segurança do local ou do pessoal.",
         "B": "reduzir a velocidade sem causa justificada.",
-        "C": "dividir o comboio em veículos independentes.",
+        "C": "dividir o comboio em veículos independentes, para que cada um siga seu próprio trajeto até o destino.",
         "D": "estacionar em qualquer local do trajeto.",
         "E": "aguardar, em local seguro e planejado, antes do deslocamento ou da chegada ao destino."
       },
@@ -607,9 +607,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "dispensa treinamento dos condutores.",
-        "B": "reduz o peso e melhora a manobrabilidade do veículo.",
+        "B": "reduz o peso e melhora a manobrabilidade do veículo, tornando a fuga mais ágil em caso de ataque.",
         "C": "aumenta a proteção contra disparos, mas não elimina a necessidade de direção evasiva e de planejamento.",
-        "D": "torna dispensável a escolta e a direção evasiva.",
+        "D": "torna dispensável a escolta e a direção evasiva, por oferecer proteção suficiente contra os ataques mais comuns.",
         "E": "garante imunidade total a qualquer ataque."
       },
       "resposta_correta": "C",
@@ -640,10 +640,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reduzir a velocidade para facilitar a identificação dos agressores.",
-        "B": "frear e permanecer no local, aguardando a cessação dos disparos.",
+        "B": "frear e permanecer no local, aguardando a cessação dos disparos, para proteger os ocupantes na zona.",
         "C": "desembarcar o protegido na via para buscar abrigo.",
         "D": "acelerar para sair da zona de fogo, mantendo o controle do veículo e a comunicação com a escolta.",
-        "E": "desviar a atenção da via para observar os atacantes."
+        "E": "desviar a atenção da via para observar os atacantes e reportar a posição deles à equipe de apoio."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -673,10 +673,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "proteger e extrair o protegido, valendo-se de cobertura e de veículo de apoio para evacuação, em vez de buscar o confronto.",
-        "B": "perseguir imediatamente os agressores, deixando o protegido.",
+        "B": "perseguir imediatamente os agressores, deixando o protegido sob guarda de um único agente, até a chegada de reforços da polícia local.",
         "C": "permanecer nos veículos, sem prestar apoio.",
         "D": "evadir-se, abandonando o protegido.",
-        "E": "buscar a retirada dos veículos para posterior análise."
+        "E": "buscar a retirada dos veículos para posterior análise, preservando a cena do ataque para a perícia técnica."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -706,10 +706,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o ataque ocorre apenas pela retaguarda.",
-        "B": "o veículo se encontra com pneus furados e imobilizado.",
+        "B": "o veículo se encontra com pneus furados e imobilizado em plena via, e a retirada do local depende de auxílio mecânico especializado e de reboque.",
         "C": "o veículo se encontra em via estreita, sem possibilidade de retorno, e o ataque vem pela frente, permitindo afastar-se rapidamente em linha.",
         "D": "o protegido está fora do veículo.",
-        "E": "a via é ampla e há espaço para manobra de retorno em baixa velocidade."
+        "E": "a via é ampla e há espaço para manobra de retorno em baixa velocidade, com tempo para avaliar o ataque e planejar a saída."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -738,9 +738,9 @@
       "enunciado": "<p>O tempo de reação em uma emboscada é crítico porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a demora na reação não influencia o resultado do ataque.",
+        "A": "a demora na reação não influencia o resultado do ataque, desde que o veículo esteja blindado e com escolta.",
         "B": "o tempo de reação é irrelevante com veículo blindado.",
-        "C": "os atacantes sempre aguardam o dignitário no local de saída.",
+        "C": "os atacantes sempre aguardam o dignitário no local de saída, o que reduz o tempo para a fuga e a ação.",
         "D": "a zona de morte (kill zone) é limitada, e permanecer nela amplia a exposição ao fogo e aos obstáculos.",
         "E": "as emboscadas ocorrem apenas em horário noturno."
       },
@@ -771,10 +771,10 @@
       "enunciado": "<p>Em uma abordagem em que o veículo da frente do comboio é bloqueado por obstáculo na via, o procedimento mais adequado para o veículo do protegido é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tentar contornar o obstáculo pelo acostamento sem avaliar riscos.",
+        "A": "tentar contornar o obstáculo pelo acostamento sem avaliar riscos, pois a pausa aumentaria a exposição da equipe.",
         "B": "aproximar-se do obstáculo para avaliar a situação.",
         "C": "parar ao lado do obstáculo, aguardando orientações.",
-        "D": "desembarcar o protegido para verificar o bloqueio.",
+        "D": "desembarcar o protegido para verificar o bloqueio, de modo que a equipe possa remover o obstáculo à pé.",
         "E": "afastar-se imediatamente, usando a rota de escape ou o retorno planejado, sem se aproximar do obstáculo."
       },
       "resposta_correta": "E",
@@ -804,9 +804,9 @@
       "enunciado": "<p>O planejamento de uma missão de transporte de dignitário deve incluir um plano de contingência, entendido como</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "uma lista de pessoas que serão culpadas em caso de falha.",
+        "A": "uma lista de pessoas que serão culpadas em caso de falha, elaborada pela chefia da missão antes da saída do comboio oficial.",
         "B": "o conjunto de ações previamente definidas para reagir a incidentes, como ataque, pane ou bloqueio, com responsabilidades atribuídas.",
-        "C": "um documento restrito ao protegido, sem conhecimento da equipe.",
+        "C": "um documento restrito ao protegido, sem conhecimento da equipe, para que apenas ele conheça as rotas de fuga em caso de ataque ou emboscada.",
         "D": "a decisão de agir apenas se o incidente ocorrer.",
         "E": "um registro posterior ao incidente."
       },
@@ -837,11 +837,11 @@
       "enunciado": "<p>A direção evasiva distingue-se da direção esportiva porque a evasiva</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ignora a segurança dos ocupantes para ganhar velocidade.",
+        "A": "ignora a segurança dos ocupantes para ganhar velocidade, em manobras que priorizam o desempenho do veículo.",
         "B": "visa proteger o ocupante e afastá-lo da ameaça com controle, e não buscar desempenho ou emoção.",
         "C": "dispensa treinamento e planejamento.",
         "D": "é praticada exclusivamente em circuitos fechados.",
-        "E": "busca alcançar o maior tempo possível em pistas de competição."
+        "E": "busca alcançar o maior tempo possível em pistas de competição, com foco em desempenho esportivo."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",

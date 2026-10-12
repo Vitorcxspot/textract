@@ -45,11 +45,11 @@
       "enunciado": "<p>A ação penal pública incondicionada é, em regra, aquela em que o Ministério Público</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "só atua após requisição do Ministro da Justiça.",
+        "A": "só atua após requisição do Ministro da Justiça, que condiciona o exercício da ação penal pública.",
         "B": "depende da queixa-crime do ofendido.",
         "C": "pode agir sem necessidade de representação do ofendido ou de requisição do Ministro da Justiça.",
         "D": "aguarda a decisão do juiz de garantias.",
-        "E": "depende sempre da representação do ofendido."
+        "E": "depende sempre da representação do ofendido, que deve ser oferecida perante o juiz competente."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -78,8 +78,8 @@
       "enunciado": "<p>O prazo decadencial para o oferecimento da representação ou da queixa, em regra, é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cinco anos, contados do trânsito em julgado.",
-        "B": "três meses, contados da instauração do inquérito.",
+        "A": "cinco anos, contados do trânsito em julgado, ou da data do fato, conforme a pena cominada.",
+        "B": "três meses, contados da instauração do inquérito, ou da data em que o ofendido soube do crime.",
         "C": "trinta dias, contados da data do fato.",
         "D": "um ano, contado do recebimento da denúncia.",
         "E": "seis meses, contados do dia em que o ofendido veio a saber quem é o autor do crime."
@@ -112,8 +112,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "dois dias, contados da audiência de custódia.",
-        "B": "quinze dias, contados do recebimento do inquérito.",
-        "C": "dez dias, contados da prisão em flagrante.",
+        "B": "quinze dias, contados do recebimento do inquérito pelo promotor.",
+        "C": "dez dias, contados da prisão em flagrante do acusado.",
         "D": "cinco dias, contados do recebimento do inquérito policial.",
         "E": "trinta dias, contados da distribuição."
       },
@@ -144,10 +144,10 @@
       "enunciado": "<p>Segundo o art. 41 do Código de Processo Penal, a denúncia ou a queixa deverá conter</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a sentença condenatória e o regime de cumprimento da pena.",
+        "A": "a sentença condenatória e o regime de cumprimento da pena, com a fundamentação das provas colhidas e a indicação do estabelecimento prisional.",
         "B": "a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado, a classificação do crime e, quando necessário, o rol das testemunhas.",
-        "C": "somente o pedido de condenação, sem descrição do fato.",
-        "D": "a qualificação da vítima e o laudo médico completo.",
+        "C": "somente o pedido de condenação, sem descrição do fato, cabendo à instrução criminal esclarecer as circunstâncias e a qualificação do réu.",
+        "D": "a qualificação da vítima e o laudo médico completo, além da certidão de antecedentes, da folha de pagamento e do comprovante de residência do acusado, para fixação da pena.",
         "E": "o rol de assistentes de acusação e a fiança arbitrada."
       },
       "resposta_correta": "B",
@@ -178,10 +178,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "denúncia do Ministério Público, dependendo, quando a lei o exigir, de requisição do Ministro da Justiça ou de representação do ofendido.",
-        "B": "portaria do delegado de polícia, em qualquer caso.",
+        "B": "portaria do delegado de polícia, em qualquer caso, dependendo, quando a lei exigir, de autorização do juiz.",
         "C": "requerimento do juiz, de ofício.",
         "D": "petição da Defensoria Pública, em substituição.",
-        "E": "queixa do ofendido, sempre, sem exceção."
+        "E": "queixa do ofendido, sempre, sem exceção, dependendo, quando a lei exigir, de requisição do Ministro da Justiça ou de ordem do tribunal superior."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -246,8 +246,8 @@
         "A": "pode transigir sobre o mérito da imputação.",
         "B": "pode deixar de denunciar por mera conveniência.",
         "C": "é obrigado a oferecer a denúncia, não lhe cabendo juízo de conveniência.",
-        "D": "deve aguardar a manifestação do ofendido para agir.",
-        "E": "só denuncia se houver confissão do investigado."
+        "D": "deve aguardar a manifestação do ofendido para agir, ainda que a ação seja pública.",
+        "E": "só denuncia se houver confissão do investigado, que condiciona o exercício da ação."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -276,9 +276,9 @@
       "enunciado": "<p>Segundo o art. 42 do Código de Processo Penal, o Ministério Público não poderá desistir da ação penal que propuser. Esse dispositivo traduz o princípio da</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "disponibilidade da ação penal pública.",
+        "A": "disponibilidade da ação penal pública em juízo.",
         "B": "indisponibilidade da ação penal pública.",
-        "C": "oportunidade da ação penal privada.",
+        "C": "oportunidade da ação penal privada em juízo.",
         "D": "intranscendência da pena.",
         "E": "insignificância penal."
       },
@@ -474,8 +474,8 @@
       "enunciado": "<p>A ação penal privada personalíssima, como a do art. 236 do Código Penal (induzimento a erro essencial e ocultação de impedimento), é aquela que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "passa ao cônjuge ou aos descendentes.",
-        "B": "depende de requisição do Ministro da Justiça.",
+        "A": "passa ao cônjuge ou aos descendentes, que podem prosseguir com a queixa no prazo legal.",
+        "B": "depende de requisição do Ministro da Justiça, que a promove por meio do Ministério Público.",
         "C": "só pode ser proposta pelo ofendido, não se transmitindo a seus sucessores com a morte.",
         "D": "pode ser proposta por qualquer cidadão.",
         "E": "é promovida pelo Ministério Público."
@@ -508,10 +508,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o querelante deixar de promover o andamento do processo durante trinta dias seguidos.",
-        "B": "o ofendido comparecer à audiência preliminar.",
+        "B": "o ofendido comparecer à audiência preliminar e requerer o prosseguimento do feito.",
         "C": "o querelante oferecer a queixa antes do prazo.",
         "D": "o querelado confessar a prática do crime.",
-        "E": "o juiz receber a queixa sem manifestação do MP."
+        "E": "o juiz receber a queixa sem manifestação do Ministério Público, que será intimado depois."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -573,8 +573,8 @@
       "enunciado": "<p>O perdão do ofendido, nos crimes de ação penal privada, concedido a um dos querelados,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "depende de homologação do Ministério Público.",
-        "B": "aproveita exclusivamente ao beneficiado.",
+        "A": "depende de homologação do Ministério Público, que fiscaliza o ato e dispensa a aceitação.",
+        "B": "aproveita exclusivamente ao beneficiado, sem alcançar os demais querelados, ainda que o aceitem.",
         "C": "é admissível após o trânsito em julgado.",
         "D": "somente produz efeitos se aceito por todos.",
         "E": "a todos aproveitará, sem prejuízo da eficácia da aceitação por parte dos que o aceitarem."
@@ -606,11 +606,11 @@
       "enunciado": "<p>Segundo a Súmula 714 do Supremo Tribunal Federal, é concorrente a legitimidade do ofendido, mediante queixa, e do Ministério Público, condicionada à representação do ofendido, para a ação penal por crime contra a honra de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autoridade judiciária, apenas por ofensa grave.",
+        "A": "autoridade judiciária, apenas por ofensa grave à sua função.",
         "B": "estrangeiro, quando em território nacional.",
         "C": "servidor público em razão do exercício de suas funções.",
         "D": "particular, em qualquer circunstância.",
-        "E": "pessoa jurídica de direito privado, sempre."
+        "E": "pessoa jurídica de direito privado, sempre que houver prejuízo."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -673,8 +673,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "for manifestamente inepta, faltar pressuposto processual ou condição da ação, ou faltar justa causa para o exercício da ação penal.",
-        "B": "o juiz discordar da classificação dada ao crime pela acusação.",
-        "C": "o acusado estiver preso preventivamente há mais de trinta dias.",
+        "B": "o juiz discordar da classificação dada ao crime pela acusação, hipótese em que deverá rejeitar a peça inicial e determinar o arquivamento.",
+        "C": "o acusado estiver preso preventivamente há mais de trinta dias, hipótese em que a denúncia deve ser rejeitada de plano.",
         "D": "o ofendido não comparecer à audiência.",
         "E": "as testemunhas arroladas forem em número excessivo."
       },
@@ -705,11 +705,11 @@
       "enunciado": "<p>A denúncia que não descreve a conduta do agente no contexto do crime, limitando-se a imputar o resultado, pode ser considerada</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "válida, desde que haja confissão do acusado.",
+        "A": "válida, desde que haja confissão do acusado na fase policial.",
         "B": "nula apenas após o trânsito em julgado.",
         "C": "inepta, por não atender ao art. 41 do Código de Processo Penal.",
         "D": "regular, se acompanhada de laudo pericial.",
-        "E": "válida, pois o resultado dispensa descrição da conduta."
+        "E": "válida, pois o resultado dispensa descrição da conduta do agente."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -738,9 +738,9 @@
       "enunciado": "<p>Quando o Ministério Público, em crime de ação privada subsidiária, assume a ação, nos termos do art. 29 do CPP, poderá</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exigir a extinção do processo e arquivar os autos.",
-        "B": "transferir a titularidade da ação ao ofendido.",
-        "C": "apenas acompanhar a ação, sem intervir nos termos.",
+        "A": "exigir a extinção do processo e arquivar os autos, por entender que a omissão do Ministério Público impede o prosseguimento da ação penal.",
+        "B": "transferir a titularidade da ação ao ofendido, que passará a conduzir o processo como parte principal, sem intervenção ministerial posterior.",
+        "C": "apenas acompanhar a ação, sem intervir nos termos, limitando-se a fiscalizar a regularidade do processo e a emitir parecer ao final da instrução criminal e na sentença.",
         "D": "aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo e retomar a ação como parte principal em caso de negligência.",
         "E": "somente assumir a ação após o trânsito em julgado."
       },
@@ -771,10 +771,10 @@
       "enunciado": "<p>O acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, deve ser proposto pelo Ministério Público quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a vítima solicitar o acordo, sem confissão.",
-        "B": "o juiz determinar, de ofício, a celebração do acordo.",
+        "A": "a vítima solicitar o acordo, sem confissão do investigado, e a infração tiver pena mínima inferior a quatro anos, com reparação integral do dano.",
+        "B": "o juiz determinar, de ofício, a celebração do acordo, quando verificar que o investigado confessou e a infração não envolve violência ou grave ameaça à pessoa.",
         "C": "o investigado for reincidente, desde que confesse.",
-        "D": "a infração for hedionda, desde que haja reparação do dano.",
+        "D": "a infração for hedionda, desde que haja reparação do dano e a pena mínima seja inferior a quatro anos, sem violência ou grave ameaça à pessoa, e o investigado confesse integralmente.",
         "E": "não for caso de arquivamento, o investigado tiver confessado e a infração tiver pena mínima inferior a quatro anos, sem violência ou grave ameaça, desde que necessário e suficiente."
       },
       "resposta_correta": "E",
@@ -838,8 +838,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "comunicará ao juízo, para fins de rescisão e posterior oferecimento de denúncia.",
-        "B": "pedirá a prisão preventiva automática do investigado.",
-        "C": "determinará, de ofício, a execução da pena.",
+        "B": "pedirá a prisão preventiva automática do investigado, independentemente da análise do juízo.",
+        "C": "determinará, de ofício, a execução da pena prevista no acordo, sem intervenção judicial.",
         "D": "dispensará o investigado do acordo.",
         "E": "arquivará definitivamente os autos."
       },
@@ -870,8 +870,8 @@
       "enunciado": "<p>Em relação ao oferecimento de denúncia, a ação penal pública condicionada à requisição do Ministro da Justiça é exigida, por exemplo, nos crimes</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "de tráfico de drogas.",
-        "B": "de lesão corporal grave.",
+        "A": "de tráfico de drogas e associação para o tráfico.",
+        "B": "de lesão corporal grave contra funcionário público.",
         "C": "de homicídio simples.",
         "D": "contra a honra do Presidente da República.",
         "E": "de furto qualificado."
@@ -905,8 +905,8 @@
       "alternativas": {
         "A": "Ministério Público, quando não for caso de arquivamento e preenchidos os requisitos legais.",
         "B": "assistente de acusação, em ação privada.",
-        "C": "delegado de polícia, no curso do inquérito.",
-        "D": "juiz, de ofício, na audiência de custódia.",
+        "C": "delegado de polícia, no curso do inquérito, quando verificar que o investigado confessou o crime.",
+        "D": "juiz, de ofício, na audiência de custódia, quando entender suficiente e necessária a medida.",
         "E": "advogado do investigado, unilateralmente."
       },
       "resposta_correta": "A",
@@ -937,7 +937,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "negado a autoria, por meio de seu defensor.",
-        "B": "permanecido em silêncio durante o interrogatório.",
+        "B": "permanecido em silêncio durante todo o interrogatório policial e judicial.",
         "C": "sido condenado anteriormente por crime semelhante, com trânsito em julgado.",
         "D": "confessado formal e circunstanciadamente a prática da infração penal.",
         "E": "sido preso em flagrante delito."
@@ -1004,9 +1004,9 @@
       "alternativas": {
         "A": "por escrito, firmado pelo Ministério Público, pelo investigado e por seu defensor.",
         "B": "por escrito, firmado pela vítima e pelo MP.",
-        "C": "oralmente, sem defensor, na audiência de custódia.",
+        "C": "oralmente, sem defensor, na audiência de custódia, perante o juiz de garantias.",
         "D": "oralmente, perante o delegado de polícia.",
-        "E": "por escrito, firmado apenas pelo juiz e pelo investigado, sem participação do defensor."
+        "E": "por escrito, firmado apenas pelo juiz e pelo investigado, sem a participação do defensor."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -1068,8 +1068,8 @@
       "enunciado": "<p>Entre as condições que podem ser ajustadas no ANPP está</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pagar fiança em favor do delegado.",
-        "B": "cumprir pena privativa de liberdade em regime fechado, por prazo determinado.",
+        "A": "pagar fiança em favor do delegado, no valor fixado por este para cada infração.",
+        "B": "cumprir pena privativa de liberdade em regime fechado, como condição de acordo.",
         "C": "reconhecer a reincidência.",
         "D": "reparar o dano ou restituir a coisa à vítima, salvo impossibilidade de fazê-lo.",
         "E": "renunciar à defesa técnica."
@@ -1101,11 +1101,11 @@
       "enunciado": "<p>Descumpridas quaisquer das condições do ANPP, o Ministério Público deverá</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplicar sanção administrativa ao investigado.",
+        "A": "aplicar sanção administrativa ao investigado, ou a vedação de novo acordo por cinco anos.",
         "B": "aguardar o término do prazo prescricional.",
         "C": "comunicar ao juízo, para fins de rescisão e posterior oferecimento de denúncia.",
         "D": "requerer a absolvição sumária.",
-        "E": "arquivar o inquérito policial definitivamente."
+        "E": "arquivar o inquérito policial definitivamente, reconhecendo o cumprimento integral do acordo."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",

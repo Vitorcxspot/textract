@@ -738,9 +738,9 @@
       "enunciado": "<p>A Lei nº 11.419/2006, que dispõe sobre a informatização do processo judicial, considera meio eletrônico qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais, e prevê que a assinatura eletrônica pode ser feita mediante</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "e-mail pessoal do advogado, apenas.",
+        "A": "e-mail pessoal do advogado, desde que enviado do endereço cadastrado na OAB e acompanhado de cópia autenticada do documento de identidade, apenas.",
         "B": "autenticação por QR code, apenas.",
-        "C": "assinatura manuscrita digitalizada, apenas.",
+        "C": "assinatura manuscrita digitalizada e anexada ao arquivo em formato PDF, que dispensa qualquer certificação e cadastro prévio, apenas.",
         "D": "assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, ou cadastro de usuário no Poder Judiciário.",
         "E": "impressão digital, apenas."
       },
@@ -772,9 +772,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a autorização para eliminação do documento.",
-        "B": "a identidade do autor do documento.",
+        "B": "a identidade do autor do documento, vinculando-o de forma definitiva ao signatário.",
         "C": "a classificação de sigilo do documento.",
-        "D": "a descrição dos metadados do documento.",
+        "D": "a descrição dos metadados do documento, como título e assunto, no momento de sua captura.",
         "E": "que o documento existia em determinada data e hora, e não foi alterado desde então."
       },
       "resposta_correta": "E",
@@ -804,10 +804,10 @@
       "enunciado": "<p>A teoria das três idades, aplicada a documentos eletrônicos, implica que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "os documentos eletrônicos dispensam avaliação.",
+        "A": "os documentos eletrônicos dispensam avaliação, pois a natureza digital garante sua preservação indefinida, sem necessidade de tabela de temporalidade ou de política de guarda.",
         "B": "os documentos eletrônicos devem ser avaliados e destinados segundo a tabela de temporalidade, com eliminação ou guarda permanente na fase final, observados os requisitos de preservação.",
-        "C": "os documentos eletrônicos são sempre de guarda permanente.",
-        "D": "os documentos eletrônicos não podem ser eliminados.",
+        "C": "os documentos eletrônicos são sempre de guarda permanente, independentemente de seu valor probatório, informativo ou histórico, uma vez que não ocupam espaço físico de armazenamento.",
+        "D": "os documentos eletrônicos não podem ser eliminados, ainda que cumpridos os prazos da tabela de temporalidade, em razão da facilidade e do baixo custo de seu armazenamento em nuvem e em mídias removíveis.",
         "E": "os documentos eletrônicos seguem outra teoria, incompatível."
       },
       "resposta_correta": "B",
@@ -838,9 +838,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "sua autenticidade (origem comprovada) e integridade (ausência de alterações não autorizadas), ao longo de todo o ciclo de vida.",
-        "B": "apenas sua guarda em mais de um local.",
+        "B": "apenas sua guarda em mais de um local, com cópias de segurança mantidas em servidores geograficamente distantes e de diferentes fabricantes.",
         "C": "apenas seu tamanho reduzido.",
-        "D": "apenas a data de criação, sem outros dados.",
+        "D": "apenas a data de criação, sem outros dados, desde que registrada pelo próprio autor no momento de salvar o arquivo.",
         "E": "apenas sua legibilidade, em qualquer formato."
       },
       "resposta_correta": "A",

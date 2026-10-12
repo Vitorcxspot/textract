@@ -1926,9 +1926,9 @@
       "enunciado": "<p>Durante a negociação, o causador exige a presença de seu advogado e de um jornalista. A conduta do comando deve ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "convocar o jornalista para negociar.",
+        "A": "convocar o jornalista para negociar diretamente em nome da equipe, a fim de reduzir a tensão do causador e da imprensa.",
         "B": "entregar o comando ao advogado.",
-        "C": "deferir, sem avaliação, ambos os pedidos.",
+        "C": "deferir, sem avaliação, ambos os pedidos, por serem direitos do causador previstos na doutrina de crises.",
         "D": "avaliar a conveniência e os riscos, usando a exigência como moeda de troca e mantendo o controle da comunicação.",
         "E": "negar e encerrar o diálogo."
       },
@@ -1959,8 +1959,8 @@
       "enunciado": "<p>A incorporação de familiares do causador à negociação, quando considerada, deve ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "feita sem qualquer orientação.",
-        "B": "sempre recomendada, sem exceção.",
+        "A": "feita sem qualquer orientação, deixando que os familiares conduzam o diálogo conforme o vínculo afetivo.",
+        "B": "sempre recomendada, sem exceção, pois os familiares conhecem o causador melhor que o negociador treinado.",
         "C": "sempre proibida.",
         "D": "decidida pelo causador.",
         "E": "avaliada cuidadosamente pelo comando, pois pode tanto acalmar quanto agravar a crise."
@@ -1993,10 +1993,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "manter a negociação e a contenção, evitando a invasão desnecessária, e acompanhar o comportamento do causador.",
-        "B": "ordenar a invasão imediata para aproveitar a posição.",
+        "B": "ordenar a invasão imediata para aproveitar a posição do grupo tático, antes que o causador mude de comportamento.",
         "C": "retirar o negociador do local.",
         "D": "encerrar o isolamento.",
-        "E": "permitir a saída livre do causador."
+        "E": "permitir a saída livre do causador, já que a mudança de atitude dispensa o controle do local e do perímetro."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -2025,11 +2025,11 @@
       "enunciado": "<p>Em operação de proteção de dignitário, ocorre ameaça de agressão por indivíduo armado na plateia. A reação tática prioritária é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pedir aos presentes que contenham a ameaça.",
+        "A": "pedir aos presentes que contenham a ameaça enquanto a equipe aguarda reforços.",
         "B": "aguardar a polícia sem agir.",
         "C": "cobrir e evacuar o dignitário, enquanto outra equipe neutraliza ou contém a ameaça.",
         "D": "discutir com o agressor.",
-        "E": "enfrentar a ameaça com toda a equipe, deixando o dignitário."
+        "E": "enfrentar a ameaça com toda a equipe, deixando o dignitário sem cobertura imediata."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -2058,9 +2058,9 @@
       "enunciado": "<p>A decisão de manter o isolamento rígido, com saída controlada de moradores e circulação de veículos restrita, tem como risco que deve ser ponderado</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a dispensa do perímetro externo.",
+        "A": "a dispensa do perímetro externo, pois o cerco interno e o controle de saída dos moradores bastam para a segurança.",
         "B": "a desnecessidade de porta-voz.",
-        "C": "a economia no número de agentes.",
+        "C": "a economia no número de agentes empregados, já que o controle de circulação reduz as necessidades de efetivo no local.",
         "D": "o aumento da velocidade do trânsito.",
         "E": "o impacto sobre a população do entorno e a necessidade de comunicação clara e de apoio assistencial."
       },
@@ -2091,8 +2091,8 @@
       "enunciado": "<p>Aponte a opção INCORRETA sobre a conduta do negociador.</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Deve consultar o comando sobre decisões.",
-        "B": "Deve evitar mentir ao causador.",
+        "A": "Deve consultar o comando sobre decisões, mas pode tomá-las sozinho se o causador se impacientar.",
+        "B": "Deve evitar mentir ao causador, salvo para conseguir a libertação imediata de um refém.",
         "C": "Deve usar a escuta ativa.",
         "D": "Deve prometer tudo o que o causador pedir, para obter a libertação imediata dos reféns.",
         "E": "Deve ganhar tempo."
@@ -2124,11 +2124,11 @@
       "enunciado": "<p>O fato de a equipe tática e a equipe de negociação trabalharem integradas, sem atribuições confundidas, é relevante porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a integração impede o planejamento.",
+        "A": "a integração impede o planejamento, pois obriga as duas equipes a dividirem informações sensíveis da operação.",
         "B": "a coordenação evita ações contraditórias que prejudiquem a negociação ou a vida dos reféns.",
         "C": "a integração é desnecessária.",
         "D": "uma equipe substitui a outra.",
-        "E": "o negociador deve integrar a invasão."
+        "E": "o negociador deve integrar a invasão, para que o causador reconheça a voz de quem conduziu o diálogo até então."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -2158,10 +2158,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o desgaste físico e emocional pode comprometer o julgamento e a qualidade do diálogo.",
-        "B": "o cansaço favorece o causador.",
+        "B": "o cansaço favorece o causador, que prefere dialogar sempre com o mesmo negociador exausto.",
         "C": "a rotatividade é vedada.",
         "D": "o causador exige troca de negociador a cada hora.",
-        "E": "a negociação independe do estado do negociador."
+        "E": "a negociação independe do estado do negociador, pois o roteiro técnico garante a qualidade."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -2190,11 +2190,11 @@
       "enunciado": "<p>Num cenário de ameaça terrorista contra evento com dignitário, a equipe de segurança identifica pacote suspeito. A ação inicial adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ignorar a suspeita por falta de prova.",
+        "A": "ignorar a suspeita por falta de prova, mantendo o evento em andamento até que alguém assuma a responsabilidade.",
         "B": "fotografar o pacote de perto.",
         "C": "abrir o pacote para verificar.",
         "D": "isolar e evacuar a área, acionar o esquadrão especializado e manter distância, sem manipular o objeto.",
-        "E": "deslocar o pacote para fora do evento."
+        "E": "deslocar o pacote para fora do evento, com cuidado, de modo a preservar o público presente e o dignitário protegido."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -2224,9 +2224,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "transferir o local da crise.",
-        "B": "facilitar a fuga do causador.",
+        "B": "facilitar a fuga do causador, para encerrar a crise com rapidez e reduzir riscos.",
         "C": "impedir que o evento se expanda e que o causador amplie sua área de ação.",
-        "D": "permitir a entrada de pessoas estranhas.",
+        "D": "permitir a entrada de pessoas estranhas, desde que o comando autorize previamente.",
         "E": "ampliar o número de reféns."
       },
       "resposta_correta": "C",
@@ -2256,10 +2256,10 @@
       "enunciado": "<p>As primeiras providências do policial que chega ao local de uma crise incluem</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "entrar sozinho no local.",
+        "A": "entrar sozinho no local, para avaliar a situação de perto.",
         "B": "acionar apoio, conter o evento e informar o comando.",
         "C": "negociar sem informar o comando.",
-        "D": "dispensar os curiosos com violência.",
+        "D": "dispensar os curiosos com violência, para liberar o perímetro.",
         "E": "abandonar o local."
       },
       "resposta_correta": "B",
@@ -2289,10 +2289,10 @@
       "enunciado": "<p>O refém, nesta doutrina, é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o negociador de plantão.",
+        "A": "o negociador de plantão, que conduz o diálogo com o causador durante toda a crise.",
         "B": "o jornalista que cobre a ocorrência.",
         "C": "o perito que analisa o local.",
-        "D": "o policial que comanda a operação.",
+        "D": "o policial que comanda a operação e decide as medidas táticas durante a crise.",
         "E": "a pessoa mantida sob domínio do causador, que serve de instrumento de pressão."
       },
       "resposta_correta": "E",
@@ -2323,10 +2323,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "calmo, respeitoso e sem ameaças.",
-        "B": "gritado e apressado.",
+        "B": "gritado e apressado, para parecer firme.",
         "C": "agressivo e intimidador.",
         "D": "ríspido e ameaçador.",
-        "E": "irônico e provocativo."
+        "E": "irônico e provocativo, para irritá-lo."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -2355,9 +2355,9 @@
       "enunciado": "<p>A empatia, na negociação, significa</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "evitar a escuta.",
+        "A": "evitar a escuta, concentrando-se apenas em transmitir ao interlocutor as determinações do comando da operação.",
         "B": "concordar com todas as exigências.",
-        "C": "ignorar os sentimentos alheios.",
+        "C": "ignorar os sentimentos alheios, privilegiando exclusivamente as informações objetivas fornecidas pelo causador.",
         "D": "ironizar o interlocutor.",
         "E": "colocar-se no lugar do outro, compreendendo seus sentimentos sem necessariamente concordar."
       },
@@ -2388,11 +2388,11 @@
       "enunciado": "<p>O rapport é o estado de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "rivalidade entre as partes.",
+        "A": "rivalidade entre as partes, obtida pela firmeza do negociador diante das exigências do causador.",
         "B": "confiança e sintonia entre negociador e interlocutor, construído ao longo do diálogo.",
         "C": "silêncio prolongado.",
         "D": "ordem unilateral do comando.",
-        "E": "desconfiança mútua."
+        "E": "desconfiança mútua, necessária para que o negociador mantenha distância emocional do causador."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2421,11 +2421,11 @@
       "enunciado": "<p>O bloqueio de vias de acesso, no isolamento, tem como objetivo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "permitir o estacionamento livre.",
+        "A": "permitir o estacionamento livre de veículos de moradores no entorno do local.",
         "B": "atrapalhar o socorro.",
         "C": "expor as equipes.",
         "D": "restringir a circulação de pessoas e veículos na área de operação.",
-        "E": "facilitar a circulação de curiosos."
+        "E": "facilitar a circulação de curiosos, evitando aglomerações em um só ponto."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -2454,10 +2454,10 @@
       "enunciado": "<p>A evacuação de áreas próximas ao ponto crítico tem a finalidade de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "atrair a imprensa.",
+        "A": "atrair a imprensa ao local para pressionar o causador.",
         "B": "expor pessoas ao perigo.",
         "C": "preservar a vida de civis e reduzir riscos.",
-        "D": "aumentar o público no local.",
+        "D": "aumentar o público para reduzir a agressividade.",
         "E": "dificultar a atuação do comando."
       },
       "resposta_correta": "C",
@@ -2488,8 +2488,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "porta-voz oficial designado pelo comando.",
-        "B": "negociador durante o diálogo.",
-        "C": "qualquer agente de plantão.",
+        "B": "negociador, durante o diálogo, se autorizado.",
+        "C": "qualquer agente que conheça os jornalistas.",
         "D": "o próprio causador.",
         "E": "vizinhos do local."
       },
@@ -2520,8 +2520,8 @@
       "enunciado": "<p>O planejamento prévio de resposta a crises, no âmbito de segurança de dignitários, inclui</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ausência de treinamentos.",
-        "B": "dispensa de simulados.",
+        "A": "ausência de treinamentos, pois a experiência de campo supre a preparação.",
+        "B": "dispensa de simulados, pois consomem recursos e não refletem as crises.",
         "C": "decisão por sorteio.",
         "D": "improvisação total.",
         "E": "planos de contingência, treinamentos e simulações periódicas."
@@ -2586,11 +2586,11 @@
       "enunciado": "<p>A escolha entre o isolamento rígido ou flexível do local depende</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "do número de curiosos.",
+        "A": "do número de curiosos presentes e da disposição da imprensa em acompanhar.",
         "B": "da preferência do causador.",
         "C": "de ordem da imprensa.",
         "D": "da natureza da crise, dos riscos e do contexto, a critério do comando.",
-        "E": "do horário de funcionamento do comércio."
+        "E": "do horário do comércio local e da preferência dos moradores quanto à interdição."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2620,9 +2620,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "em que se reúnem viaturas, equipes e equipamentos de apoio, fora do alcance do causador.",
-        "B": "onde ficam os reféns.",
+        "B": "onde ficam os reféns durante a crise, sob vigilância contínua do causador e longe do alcance das equipes.",
         "C": "onde é feita a negociação.",
-        "D": "reservado ao público.",
+        "D": "reservado ao público e à imprensa, para que acompanhem a evolução dos fatos sem interferir na operação.",
         "E": "destinado ao causador."
       },
       "resposta_correta": "A",
@@ -2652,10 +2652,10 @@
       "enunciado": "<p>O local destinado à negociação deve ser, sempre que possível,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "no meio de aglomeração.",
+        "A": "no meio de aglomeração, para que a presença do público iniba reações do causador.",
         "B": "junto aos curiosos.",
         "C": "afastado de ruídos e interferências, permitindo concentração e sigilo do diálogo.",
-        "D": "em frente ao causador.",
+        "D": "em frente ao causador, de modo que ele veja o negociador e se sinta ameaçado.",
         "E": "ao lado da imprensa."
       },
       "resposta_correta": "C",
@@ -2685,11 +2685,11 @@
       "enunciado": "<p>O negociador de crise não deve oferecer ao causador, por não ser admissível,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tempo para pensar.",
+        "A": "tempo para pensar, pois o negociador deve sempre pressioná-lo a decidir rapidamente.",
         "B": "um interlocutor treinado.",
         "C": "água e alimento.",
         "D": "armas, munições ou qualquer meio que aumente o risco à vida dos reféns.",
-        "E": "um aparelho de telefone seguro."
+        "E": "um aparelho de telefone seguro, já que o canal direto de comunicação é inadmissível."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2718,10 +2718,10 @@
       "enunciado": "<p>Em relação a drogas e bebidas alcoólicas solicitadas pelo causador, o negociador deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "negociar a troca por armas.",
+        "A": "negociar a troca por armas, mantendo o controle do intercâmbio em favor dos reféns.",
         "B": "fornecer em grande quantidade.",
         "C": "ofertar como forma de relaxamento.",
-        "D": "entregar sem consulta.",
+        "D": "entregar sem consulta ao comando, para ganhar a confiança do causador e acelerar a libertação.",
         "E": "evitar fornecer, pois alteram o comportamento e aumentam a imprevisibilidade."
       },
       "resposta_correta": "E",
@@ -2751,11 +2751,11 @@
       "enunciado": "<p>O fornecimento de um meio de transporte ao causador é medida</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "de rotina na negociação.",
+        "A": "de rotina na negociação, concedida pelo negociador sempre que o causador a solicitar para libertar os reféns.",
         "B": "excepcional, só decidida pelo comando e cercada de controle, por aumentar riscos aos reféns e a terceiros.",
         "C": "recomendada sempre.",
         "D": "decidida pelo refém.",
-        "E": "dispensada de planejamento."
+        "E": "dispensada de planejamento, desde que o causador se comprometa a libertar os reféns logo ao embarcar no veículo."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -2785,8 +2785,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a divulgação pode comprometer a operação e a segurança de reféns e policiais.",
-        "B": "o sigilo é tradição burocrática.",
-        "C": "o causador deve ser informado de tudo.",
+        "B": "o sigilo é tradição burocrática, sem relação direta com a segurança dos reféns.",
+        "C": "o causador deve ser informado de tudo, a fim de que se sinta respeitado e se renda.",
         "D": "o sigilo é vedado.",
         "E": "a imprensa não tem interesse."
       },
@@ -2817,11 +2817,11 @@
       "enunciado": "<p>Os televisores, rádios e celulares no local da crise podem</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ser desligados apenas pelo refém.",
+        "A": "ser desligados apenas pelo refém, por ser ele quem mais sofre os efeitos da exposição às informações externas.",
         "B": "não ter relevância.",
         "C": "ser deixados livres sem qualquer controle.",
         "D": "fornecer ao causador informações sobre a ação policial e, por isso, seu controle deve ser considerado.",
-        "E": "ser entregues sempre ao causador."
+        "E": "ser entregues sempre ao causador, para que ele acompanhe a cobertura e perceba a gravidade de sua situação."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2850,9 +2850,9 @@
       "enunciado": "<p>O corte de energia, água ou telefone do local da crise, como medida de pressão, deve ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "decidido pelo negociador isoladamente.",
+        "A": "decidido pelo negociador isoladamente, já que ele conhece a rotina do causador e o efeito da pressão psicológica.",
         "B": "decidido pelo comando, avaliando efeitos sobre o comportamento do causador e a segurança dos reféns.",
-        "C": "feito por iniciativa de qualquer agente.",
+        "C": "feito por iniciativa de qualquer agente, quando perceber que o causador está confortável demais com a situação.",
         "D": "aplicado sem planejamento.",
         "E": "proibido em qualquer caso."
       },
@@ -2883,8 +2883,8 @@
       "enunciado": "<p>A clareza sobre o papel do negociador evita que ele seja confundido com o decisor, o que preserva a possibilidade de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tomar decisões sozinho.",
-        "B": "ceder a toda exigência.",
+        "A": "tomar decisões sozinho sempre que o causador exigir resposta imediata.",
+        "B": "ceder a toda exigência, desde que o causador liberte pelo menos um refém.",
         "C": "recusar exigências alegando falta de autoridade e ganhar tempo.",
         "D": "comandar a tropa.",
         "E": "ordenar a invasão."
@@ -2916,9 +2916,9 @@
       "enunciado": "<p>A estratégia de reduzir expectativas do causador, apresentando alternativas realistas, serve para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "encerrar o diálogo.",
+        "A": "encerrar o diálogo quando o causador resistir à rendição.",
         "B": "intensificar as exigências.",
-        "C": "provocar o desespero.",
+        "C": "provocar o desespero do causador, para que se entregue logo.",
         "D": "aumentar a agressividade.",
         "E": "diminuir a frustração e abrir caminho para a rendição."
       },
@@ -2950,9 +2950,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "evitada, por reduzir a margem de negociação e aumentar o risco.",
-        "B": "aplicada sem planejamento.",
+        "B": "aplicada sem planejamento, para demonstrar autoridade nas primeiras horas.",
         "C": "prevista como regra.",
-        "D": "usada desde o primeiro minuto.",
+        "D": "usada desde o primeiro minuto, pois o prazo curto pressiona o causador.",
         "E": "feita pela imprensa."
       },
       "resposta_correta": "A",
@@ -2983,8 +2983,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "exigir invasão imediata.",
-        "B": "aumentar a probabilidade de êxito do causador.",
-        "C": "impedir a negociação.",
+        "B": "aumentar a chance de êxito do causador, com o passar do tempo.",
+        "C": "impedir a negociação, pois o causador cansado não dialoga.",
         "D": "tornar o diálogo inviável.",
         "E": "reduzir sua agressividade e favorecer a rendição."
       },
@@ -3015,8 +3015,8 @@
       "enunciado": "<p>A avaliação do risco, pelo comando, deve ser contínua porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o risco é fixo e imutável.",
-        "B": "a avaliação é feita uma única vez.",
+        "A": "o risco é fixo e imutável, pois a primeira avaliação permanece válida.",
+        "B": "a avaliação é feita uma única vez, na chegada da equipe ao local.",
         "C": "o causador define o risco.",
         "D": "a situação é dinâmica e as informações mudam ao longo da crise.",
         "E": "a imprensa determina o risco."
@@ -3048,11 +3048,11 @@
       "enunciado": "<p>Na gestão da crise, a ordem de prioridades quanto à preservação da vida tem como primeiro foco</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a imagem do comando.",
+        "A": "a imagem do comando perante a imprensa local.",
         "B": "a captura do causador.",
         "C": "os reféns e as pessoas inocentes envolvidas.",
         "D": "os interesses da imprensa.",
-        "E": "o patrimônio da instituição."
+        "E": "o patrimônio da instituição e dos particulares."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -3081,10 +3081,10 @@
       "enunciado": "<p>Na negociação, a técnica de resumir as falas do interlocutor, ao final de uma sequência, tem por objetivo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "impor a decisão do comando.",
+        "A": "impor a decisão do comando, encerrando a discussão sobre as exigências do interlocutor.",
         "B": "confirmar o entendimento e demonstrar que o negociador o ouviu atentamente.",
         "C": "ironizar o interlocutor.",
-        "D": "contestar o interlocutor.",
+        "D": "contestar o interlocutor ponto a ponto, para demonstrar as contradições dele.",
         "E": "encerrar a conversa."
       },
       "resposta_correta": "B",
@@ -3115,9 +3115,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o causador mantém o refém em local desconhecido, o que dificulta o isolamento e exige mais inteligência.",
-        "B": "não há exigências.",
+        "B": "não há exigências, razão pela qual o contato com o causador se limita ao final da crise e à rendição negociada.",
         "C": "não há possibilidade de negociação.",
-        "D": "o local é sempre conhecido.",
+        "D": "o local é sempre conhecido, o que permite montar o isolamento e iniciar a negociação de imediato, sem inteligência prévia.",
         "E": "o refém é sempre voluntário."
       },
       "resposta_correta": "A",
@@ -3147,11 +3147,11 @@
       "enunciado": "<p>Um causador pede que o negociador lhe garanta que não será preso. O negociador, sem poder decisório, deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "garantir o pedido, sem consulta.",
+        "A": "garantir o pedido, sem consulta, para ganhar a confiança do causador e prolongar o diálogo.",
         "B": "evitar assumir o compromisso e remeter a decisão ao comando, mantendo o diálogo.",
         "C": "mentir sobre a prisão.",
         "D": "recusar e encerrar o diálogo.",
-        "E": "prometer em nome do juiz."
+        "E": "prometer em nome do juiz que a rendição será considerada atenuante na punição."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -3180,8 +3180,8 @@
       "enunciado": "<p>A decisão do comandante de substituir o negociador primário durante a crise pode ser justificada quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a imprensa solicitar.",
-        "B": "o negociador estiver tranquilo.",
+        "A": "a imprensa solicitar a troca, por considerar o negociador pouco comunicativo e distante.",
+        "B": "o negociador estiver tranquilo e o vínculo com o causador estiver consolidado há várias horas, sem queixas da equipe.",
         "C": "a crise estiver evoluindo bem.",
         "D": "o vínculo está comprometido ou o negociador está em esgotamento, mas deve ser feita de modo planejado.",
         "E": "o causador pedir a troca em qualquer circunstância."
@@ -3213,10 +3213,10 @@
       "enunciado": "<p>Num evento com dignitário, a existência de rota alternativa de evacuação e de local seguro de abrigo, previamente reconhecidos, constitui</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "risco desnecessário.",
+        "A": "risco desnecessário que amplia a exposição do dignitário, que deve usar a rota única.",
         "B": "exigência de imprensa.",
         "C": "medida de planejamento essencial para resposta rápida a emergências.",
-        "D": "desperdício de recursos.",
+        "D": "desperdício de recursos públicos, pois o dignitário permanece protegido pela escolta.",
         "E": "dispensa dos agentes de escolta."
       },
       "resposta_correta": "C",
@@ -3246,9 +3246,9 @@
       "enunciado": "<p>Um dos riscos de a imprensa transmitir ao vivo a posição das equipes táticas é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "garantir o isolamento.",
+        "A": "garantir o isolamento da área, já que o conhecimento público da posição das equipes aumenta a pressão sobre o causador.",
         "B": "reduzir o risco aos reféns.",
-        "C": "facilitar a negociação.",
+        "C": "facilitar a negociação, na medida em que o causador tem acesso às informações e se convence a se render.",
         "D": "reduzir o número de curiosos.",
         "E": "o causador, ao assistir à transmissão, tomar conhecimento da posição e ajustar sua conduta, aumentando o risco."
       },
@@ -3280,8 +3280,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "resultado positivo parcial, sem eliminar o risco aos remanescentes, devendo ser preservada a prioridade pela vida.",
-        "B": "término definitivo da crise.",
-        "C": "sinal para dispensar o isolamento.",
+        "B": "término definitivo da crise, motivo suficiente para reduzir o efetivo, relaxar o isolamento e liberar o perímetro externo.",
+        "C": "sinal para dispensar o isolamento e o cerco, já que parte dos reféns foi libertada espontaneamente, sem negociação.",
         "D": "motivo para invadir.",
         "E": "sinal de falha do negociador."
       },
@@ -3312,10 +3312,10 @@
       "enunciado": "<p>A decisão de aguardar, quando não há risco iminente, tem apoio na doutrina por parte do gerente da crise porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aguardar equivale a omitir-se.",
+        "A": "aguardar equivale a omitir-se do dever de agir, o que gera responsabilidade para o comando da operação.",
         "B": "o causador deve ganhar poder.",
         "C": "o tempo reduz a tensão e favorece soluções pacíficas, desde que o isolamento e a contenção sejam mantidos.",
-        "D": "a negociação independe do tempo.",
+        "D": "a negociação independe do tempo decorrido, pois o resultado é determinado apenas pelas condições iniciais da crise.",
         "E": "o tempo é sempre favorável ao causador."
       },
       "resposta_correta": "C",
@@ -3345,9 +3345,9 @@
       "enunciado": "<p>Em um evento público, o perímetro de segurança em camadas do dignitário compreende, do mais afastado ao mais próximo,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "perímetro único, aberto ao público.",
+        "A": "perímetro único, aberto ao público em geral, com a escolta dispersa em vários pontos do evento e sem controle de acesso.",
         "B": "perímetro externo (controle de acesso), perímetro intermediário (inspeção) e perímetro interno (proteção imediata).",
-        "C": "perímetro inverso, com o dignitário fora.",
+        "C": "perímetro inverso, com o dignitário fora dos limites de proteção e a equipe concentrada em áreas seguras.",
         "D": "apenas o perímetro interno.",
         "E": "apenas o perímetro externo."
       },
@@ -3378,10 +3378,10 @@
       "enunciado": "<p>Uma possível razão para o fracasso de uma negociação é o negociador</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "consultar o comando.",
+        "A": "consultar o comando antes de tomar decisões relevantes e manter o planejamento atualizado a cada nova informação.",
         "B": "usar escuta ativa.",
         "C": "aplicar rapport.",
-        "D": "manter o canal único.",
+        "D": "manter o canal único com o causador, mesmo que a comunicação se torne desgastante e improdutiva com o tempo.",
         "E": "perder a neutralidade emocional, confrontando o causador e dando-lhe motivos para reagir com violência."
       },
       "resposta_correta": "E",

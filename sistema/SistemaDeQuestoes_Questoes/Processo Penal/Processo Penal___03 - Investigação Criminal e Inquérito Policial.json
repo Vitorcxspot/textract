@@ -81,8 +81,8 @@
         "A": "dez dias, tanto para preso quanto para solto, improrrogáveis.",
         "B": "dez dias, se o indiciado estiver preso, e de trinta dias, se estiver solto, podendo este último ser prorrogado em caso de fato de difícil elucidação.",
         "C": "noventa dias, para preso ou solto, prorrogáveis por igual período.",
-        "D": "trinta dias, se o indiciado estiver preso, e de dez dias, se estiver solto.",
-        "E": "quinze dias, se o indiciado estiver preso, e de sessenta dias, se estiver solto."
+        "D": "trinta dias, se o indiciado estiver preso, e de dez dias, se estiver solto, contados da data em que a autoridade policial tomou conhecimento do fato.",
+        "E": "quinze dias, se o indiciado estiver preso, e de sessenta dias, se estiver solto, podendo ambos ser prorrogados mediante autorização do juiz competente."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -243,10 +243,10 @@
       "enunciado": "<p>Sobre o indiciamento no inquérito policial, nos termos da Lei nº 12.830/2013, é correto afirmar que ele</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é realizado pelo juiz, de ofício, ao receber o inquérito.",
+        "A": "é realizado pelo juiz, de ofício, ao receber o inquérito, mediante decisão fundamentada que indique a autoria, a materialidade e as circunstâncias do fato investigado.",
         "B": "é ato do Ministério Público, que o realiza por despacho no inquérito.",
-        "C": "independe de fundamentação, bastando a ordem verbal da autoridade policial.",
-        "D": "equivale à condenação e produz efeitos de antecedentes criminais definitivos.",
+        "C": "independe de fundamentação, bastando a ordem verbal da autoridade policial, e deve ser comunicado ao juiz apenas depois do oferecimento da denúncia pelo órgão acusador.",
+        "D": "equivale à condenação e produz efeitos de antecedentes criminais definitivos, sendo ato privativo do delegado de polícia, praticado após a conclusão da perícia técnica oficial.",
         "E": "é privativo do delegado de polícia, dá-se por ato fundamentado, mediante análise técnico-jurídica do fato, e deve indicar a autoria, a materialidade e suas circunstâncias."
       },
       "resposta_correta": "E",
@@ -276,8 +276,8 @@
       "enunciado": "<p>Marta, agente da Polícia Judicial, recebe de um cidadão que não se identifica a informação, por escrito e sem comprovação, de que um servidor estaria praticando crime de ação penal pública incondicionada.</p><p>De acordo com a jurisprudência, a notícia anônima</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autoriza, de plano, a instauração do inquérito e a decretação de prisão preventiva.",
-        "B": "deve ser descartada em qualquer hipótese, sem possibilidade de apuração preliminar.",
+        "A": "autoriza, de plano, a instauração do inquérito e a decretação de prisão preventiva, bastando que a denúncia descreva o fato e indique o autor com precisão.",
+        "B": "deve ser descartada em qualquer hipótese, sem possibilidade de apuração preliminar, por violar a vedação constitucional ao anonimato e ao direito de defesa do denunciado.",
         "C": "somente pode ser apreciada pelo Supremo Tribunal Federal.",
         "D": "não pode, por si só, fundamentar a instauração do inquérito, devendo a autoridade realizar diligências preliminares para verificar a procedência das informações.",
         "E": "tem o mesmo valor probatório de uma confissão judicial."
@@ -309,11 +309,11 @@
       "enunciado": "<p>A Súmula Vinculante nº 14 do Supremo Tribunal Federal assegura ao defensor, no interesse do representado,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "acesso apenas aos autos do processo judicial, após o recebimento da denúncia.",
+        "A": "acesso apenas aos autos do processo judicial, após o recebimento da denúncia, sendo vedado qualquer acesso ao inquérito policial e aos procedimentos investigatórios em fase de apuração.",
         "B": "amplo acesso aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.",
-        "C": "participação obrigatória em todas as oitivas, com poder de requisitar diligências à autoridade policial.",
+        "C": "participação obrigatória em todas as oitivas, com poder de requisitar diligências à autoridade policial, ainda que estas estejam sob sigilo e não tenham sido documentadas nos autos.",
         "D": "direito de impedir a lavratura do auto de prisão em flagrante.",
-        "E": "acesso irrestrito a todas as diligências em andamento, ainda que não documentadas, inclusive as sigilosas."
+        "E": "acesso irrestrito a todas as diligências em andamento, ainda que não documentadas, inclusive as sigilosas, desde que a defesa demonstre o interesse e obtenha autorização judicial prévia e fundamentada."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -540,11 +540,11 @@
       "enunciado": "<p>Durante investigação de crime de competência da Justiça Federal, o investigado é preso em flagrante e o inquérito é instaurado.</p><p>De acordo com a Lei nº 5.010/1966, o prazo para a conclusão do inquérito policial será de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dez dias, improrrogáveis, como no Código de Processo Penal.",
+        "A": "dez dias, improrrogáveis, como no Código de Processo Penal, aplicando-se o mesmo regime do inquérito para indiciado preso e solto.",
         "B": "quinze dias, podendo ser prorrogado por mais quinze dias, a pedido fundamentado da autoridade policial, deferido pelo juiz.",
         "C": "trinta dias, prorrogáveis por mais trinta dias.",
         "D": "quinze dias, improrrogáveis, sem exceção.",
-        "E": "noventa dias, prorrogáveis por igual período."
+        "E": "noventa dias, prorrogáveis por igual período, a pedido fundamentado da autoridade policial, deferido pelo juiz competente."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -573,10 +573,10 @@
       "enunciado": "<p>O inquérito policial tem como característica o fato de ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "público, sempre acessível a qualquer pessoa.",
+        "A": "público, sempre acessível a qualquer pessoa, inclusive a terceiros.",
         "B": "obrigatório, indispensável à propositura da ação penal.",
         "C": "judicial, presidido por um magistrado desde o início.",
-        "D": "acusatório, com contraditório pleno desde o início.",
+        "D": "acusatório, com contraditório e ampla defesa plenos desde o início.",
         "E": "inquisitivo, sem contraditório pleno nem ampla defesa formal."
       },
       "resposta_correta": "E",
@@ -606,8 +606,8 @@
       "enunciado": "<p>Nos termos do art. 10 do Código de Processo Penal, o inquérito policial deve terminar no prazo de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "trinta dias, se preso, e noventa dias, se solto.",
-        "B": "vinte dias, se preso, e sessenta dias, se solto.",
+        "A": "trinta dias, se o indiciado estiver preso, e noventa dias, se estiver solto, prorrogáveis.",
+        "B": "vinte dias, se o indiciado estiver preso, e sessenta dias, se estiver solto.",
         "C": "dez dias, se o indiciado estiver preso, e trinta dias, se estiver solto.",
         "D": "cinco dias, se preso, e dez dias, se solto.",
         "E": "quinze dias, se preso, e trinta dias, se solto."
@@ -673,8 +673,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "privativo do delegado de polícia, por análise técnico-jurídica do fato, que deve ser fundamentada.",
-        "B": "do Ministério Público, que o realiza após receber os autos.",
-        "C": "do juiz, que o determina de ofício ao receber a denúncia.",
+        "B": "do Ministério Público, que o realiza após receber os autos, mediante despacho fundamentado e análise da prova.",
+        "C": "do juiz, que o determina de ofício ao receber a denúncia, após análise técnico-jurídica do fato e da prova.",
         "D": "de qualquer agente policial, sem exigência de fundamentação.",
         "E": "do escrivão, que o lavra mediante simples despacho."
       },
@@ -740,9 +740,9 @@
       "alternativas": {
         "A": "em prova documental, quando apresentada pela acusação.",
         "B": "em depoimentos judiciais, quando colhidos sem a defesa.",
-        "C": "em qualquer elemento do inquérito, sem exceção de natureza.",
+        "C": "em qualquer elemento do inquérito, sem exceção de natureza, pois a prova da investigação é sempre vedada ao juiz em seu convencimento.",
         "D": "exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.",
-        "E": "em prova pericial, ainda que produzida em contraditório."
+        "E": "em prova pericial, ainda que produzida em contraditório, pois a perícia é sempre elemento informativo e depende de ratificação oral posterior."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -804,8 +804,8 @@
       "enunciado": "<p>Segundo a Súmula Vinculante nº 14 do Supremo Tribunal Federal, é direito do defensor, no interesse do representado,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "participar de todas as diligências sigilosas em curso, sem restrição.",
-        "B": "acessar elementos ainda não documentados, mesmo que cautelares.",
+        "A": "participar de todas as diligências sigilosas em curso, sem restrição, ainda que o acesso comprometa a eficácia da investigação policial em andamento.",
+        "B": "acessar elementos ainda não documentados, mesmo que cautelares, desde que demonstre interesse legítimo e peça autorização do juiz.",
         "C": "exigir a abertura do inquérito em qualquer caso de prisão.",
         "D": "impedir o registro de depoimentos tomados em sigilo.",
         "E": "ter acesso amplo aos elementos de prova já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária."
@@ -838,10 +838,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "discricionária, cabendo ao delegado avaliar sua conveniência e oportunidade.",
-        "B": "sujeita à aprovação prévia do Ministério Público.",
+        "B": "sujeita à aprovação prévia do Ministério Público, que a examina antes de qualquer decisão.",
         "C": "condicionada à homologação judicial imediata.",
         "D": "vedada ao indiciado, sendo privativa do ofendido.",
-        "E": "obrigatória, devendo ser deferida em qualquer hipótese."
+        "E": "obrigatória, devendo ser deferida em qualquer hipótese, sem juízo de conveniência."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -872,9 +872,9 @@
       "alternativas": {
         "A": "só pode instaurar após sentença de pronúncia.",
         "B": "deve apenas arquivar, pois a requisição é opinativa.",
-        "C": "pode indeferir a requisição por juízo de conveniência.",
+        "C": "pode indeferir a requisição por juízo de conveniência e oportunidade da autoridade policial.",
         "D": "deve instaurá-lo, só podendo recusar se a requisição for manifestamente ilegal.",
-        "E": "deve consultar o juiz antes de iniciar a investigação."
+        "E": "deve consultar o juiz antes de iniciar a investigação, sob pena de nulidade."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -904,9 +904,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "dolosas contra a vida, antes da pronúncia.",
-        "B": "hediondas, em substituição à prisão em flagrante.",
+        "B": "hediondas, em substituição à prisão em flagrante, lavrado pelo delegado.",
         "C": "de menor potencial ofensivo, em substituição ao inquérito policial.",
-        "D": "de competência originária dos tribunais superiores.",
+        "D": "de competência originária dos tribunais superiores, em substituição à denúncia.",
         "E": "contra a administração pública, em qualquer caso."
       },
       "resposta_correta": "C",
@@ -939,8 +939,8 @@
         "A": "do Ministério Público, nos termos da lei complementar respectiva.",
         "B": "da Defensoria Pública, de forma privativa.",
         "C": "do Poder Executivo, por meio das corregedorias.",
-        "D": "do Conselho Nacional de Justiça, em todos os casos.",
-        "E": "das comissões parlamentares de inquérito, de modo exclusivo."
+        "D": "do Conselho Nacional de Justiça, em todos os casos de atuação policial.",
+        "E": "das comissões parlamentares de inquérito, de modo exclusivo e permanente."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -969,9 +969,9 @@
       "enunciado": "<p>As comissões parlamentares de inquérito têm poderes de investigação próprios das autoridades judiciais, além de outros previstos nos regimentos, sendo conclusivo que as conclusões, se for o caso, serão encaminhadas ao</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "delegado de polícia, para instaurar o julgamento.",
+        "A": "delegado de polícia, para instaurar o julgamento e aplicar as penalidades cabíveis aos infratores.",
         "B": "Tribunal do Júri, para oferecer a denúncia.",
-        "C": "Poder Executivo, para executar a pena aplicada.",
+        "C": "Poder Executivo, para executar a pena aplicada e responsabilizar civilmente os infratores.",
         "D": "juiz de garantias, para homologação das provas.",
         "E": "Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores."
       },
@@ -1002,10 +1002,10 @@
       "enunciado": "<p>A interceptação de comunicações telefônicas, nos termos da Lei nº 9.296/1996, depende de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pedido da vítima, formulado diretamente à operadora.",
+        "A": "pedido da vítima, formulado diretamente à operadora de telefonia, sob segredo.",
         "B": "ordem do juiz competente da ação principal, sob segredo de justiça.",
         "C": "deliberação de comissão administrativa, sem juiz.",
-        "D": "requisição exclusiva do delegado, sem controle judicial.",
+        "D": "requisição exclusiva do delegado, sem controle judicial posterior.",
         "E": "autorização do Ministério Público, em qualquer caso."
       },
       "resposta_correta": "B",
@@ -1036,10 +1036,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "somente com a presença do Ministério Público.",
-        "B": "durante a noite, para evitar a destruição de provas.",
+        "B": "durante a noite, para evitar a destruição de provas, desde que haja mandado judicial.",
         "C": "em qualquer horário, desde que haja mandado.",
         "D": "durante o dia, salvo consentimento do morador, nos termos do art. 5º, XI, da CF.",
-        "E": "sempre à noite, pelo risco de reação."
+        "E": "sempre à noite, pelo risco de reação do morador, independentemente de consentimento."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1068,11 +1068,11 @@
       "enunciado": "<p>A colaboração premiada é meio de obtenção de prova previsto na</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Lei nº 9.099/1995, aplicável aos juizados especiais.",
+        "A": "Lei nº 9.099/1995, aplicável aos juizados especiais criminais.",
         "B": "Lei nº 7.210/1984, aplicável à execução penal.",
         "C": "Lei nº 12.850/2013, que define organização criminosa.",
         "D": "Lei nº 8.072/1990, aplicável aos crimes hediondos.",
-        "E": "Lei nº 11.343/2006, apenas para o tráfico de drogas."
+        "E": "Lei nº 11.343/2006, apenas para o tráfico de entorpecentes."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -1101,11 +1101,11 @@
       "enunciado": "<p>O acordo de colaboração premiada, nos termos da Lei nº 12.850/2013, é negociado entre</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o juiz e o delegado, com exclusão do Ministério Público.",
+        "A": "o juiz e o delegado, com exclusão do Ministério Público, que será intimado apenas depois da homologação do acordo e da fixação das penas pelo magistrado.",
         "B": "o delegado de polícia, o investigado e o defensor, com manifestação do Ministério Público, ou entre o Ministério Público e o investigado, com o defensor.",
-        "C": "a vítima e o investigado, com o defensor, diante do juiz.",
+        "C": "a vítima e o investigado, com o defensor, diante do juiz, cabendo ao Ministério Público apenas fiscalizar a execução das cláusulas ajustadas.",
         "D": "o investigado e o Tribunal, sem a presença do defensor.",
-        "E": "o juiz e o investigado, com o defensor, sem manifestação do Ministério Público."
+        "E": "o juiz e o investigado, com o defensor, sem manifestação do Ministério Público, cabendo ao delegado apenas lavrar o termo de homologação."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1135,10 +1135,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "com a prolação da sentença.",
-        "B": "com o trânsito em julgado da condenação.",
+        "B": "com o trânsito em julgado da condenação criminal.",
         "C": "com a conclusão do inquérito policial.",
         "D": "com o recebimento da denúncia ou da queixa.",
-        "E": "com a decretação da prisão preventiva."
+        "E": "com a decretação da prisão preventiva do investigado."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1167,8 +1167,8 @@
       "enunciado": "<p>Segundo o Supremo Tribunal Federal (RE 593.727, Tema 184), o Ministério Público dispõe de competência para promover, por autoridade própria, investigações de natureza penal, desde que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a polícia judiciária seja afastada do caso em definitivo.",
-        "B": "a investigação seja sempre precedida de autorização judicial.",
+        "A": "a polícia judiciária seja afastada do caso em definitivo, assumindo o Ministério Público a presidência do inquérito policial.",
+        "B": "a investigação seja sempre precedida de autorização judicial, vedada a requisição de diligências à polícia judiciária.",
         "C": "o inquérito policial seja instaurado ao mesmo tempo.",
         "D": "o investigado concorde expressamente com a investigação.",
         "E": "respeitados os direitos e garantias dos investigados, e observadas as hipóteses de reserva constitucional de jurisdição."
@@ -1201,8 +1201,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
-        "B": "houver indícios razoáveis de autoria em crime punido com reclusão.",
-        "C": "a prova puder ser feita por outros meios disponíveis, mesmo difíceis.",
+        "B": "houver indícios razoáveis de autoria em crime punido com reclusão, e não existir outro meio.",
+        "C": "a prova puder ser feita por outros meios disponíveis, mesmo que difíceis ou onerosos.",
         "D": "o crime for hediondo e houver pedido do Ministério Público.",
         "E": "o investigado for conhecido e estiver identificado."
       },
@@ -1267,10 +1267,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "na lista de testemunhas arroladas pela acusação.",
-        "B": "no registro das peças do inquérito no cartório do juízo.",
-        "C": "na sequência de atos processuais praticados após o recebimento da denúncia.",
+        "B": "no registro das peças do inquérito no cartório do juízo, com a numeração e a guarda das provas até o encerramento definitivo do processo.",
+        "C": "na sequência de atos processuais praticados após o recebimento da denúncia, desde a citação do réu até o trânsito em julgado da sentença condenatória e a expedição da guia de execução.",
         "D": "no conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes.",
-        "E": "no encaminhamento do preso ao presídio após a sentença."
+        "E": "no encaminhamento do preso ao presídio após a sentença, com o registro de todas as movimentações e transferências do apenado."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1300,9 +1300,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "com a preservação do local de crime ou com procedimentos policiais ou periciais nos quais seja detectada a existência de vestígio.",
-        "B": "com a sentença condenatória transitada em julgado.",
-        "C": "somente com a entrega do laudo pericial ao juiz.",
-        "D": "com o oferecimento da denúncia pelo Ministério Público.",
+        "B": "com a sentença condenatória transitada em julgado, quando o perito oficial elabora o laudo definitivo de exame da prova.",
+        "C": "somente com a entrega do laudo pericial ao juiz, quando então os vestígios passam a ser protegidos pelo cartório judicial.",
+        "D": "com o oferecimento da denúncia pelo Ministério Público, momento em que o promotor requisita a guarda dos vestígios ao juiz e ao perito oficial.",
         "E": "com a audiência de instrução e julgamento."
       },
       "resposta_correta": "A",
@@ -1332,10 +1332,10 @@
       "enunciado": "<p>Quanto ao reconhecimento de pessoas previsto no art. 226 do Código de Processo Penal, a jurisprudência do Superior Tribunal de Justiça entende que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "as formalidades são meras recomendações, dispensáveis em qualquer caso.",
+        "A": "as formalidades são meras recomendações, dispensáveis em qualquer caso, pois o reconhecimento pessoal é livre e informal.",
         "B": "as formalidades legais constituem garantia mínima, e o reconhecimento feito sem observá-las não serve para fundamentar condenação.",
-        "C": "o reconhecimento fotográfico basta, sem outra prova, para condenar.",
-        "D": "a vítima pode sempre indicar o suspeito sem o procedimento legal.",
+        "C": "o reconhecimento fotográfico basta, sem outra prova, para condenar, desde que a vítima seja firme e segura ao apontar o suspeito em juízo.",
+        "D": "a vítima pode sempre indicar o suspeito sem o procedimento legal, porque o reconhecimento é ato livre de formalidades legais.",
         "E": "o reconhecimento é prova absoluta e dispensa confirmação."
       },
       "resposta_correta": "B",
@@ -1365,8 +1365,8 @@
       "enunciado": "<p>A infiltração de agentes de polícia em tarefas de investigação, prevista na Lei nº 12.850/2013, depende de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autorização do chefe de polícia, sem controle judicial.",
-        "B": "requerimento do investigado, em termos de colaboração.",
+        "A": "autorização do chefe de polícia, sem controle judicial, bastando a comunicação posterior ao Ministério Público.",
+        "B": "requerimento do investigado, em termos de colaboração, firmado perante o delegado e o seu defensor.",
         "C": "deliberação do Tribunal, após recebimento da denúncia.",
         "D": "simples ordem do delegado, dispensada qualquer oitiva do Ministério Público.",
         "E": "circunstanciada, motivada e sigilosa autorização judicial, que estabelecerá seus limites."
@@ -1398,11 +1398,11 @@
       "enunciado": "<p>A ação controlada, prevista na Lei nº 12.850/2013, consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "permitir que o investigado escolha o momento da prisão.",
+        "A": "permitir que o investigado escolha o momento da prisão, de modo a facilitar a colheita de provas contra os demais integrantes da organização criminosa.",
         "B": "substituir a prisão em flagrante por medida cautelar.",
         "C": "retardar a intervenção policial ou administrativa relativa à ação praticada por organização criminosa, mantendo a observação para obter provas em momento mais eficaz.",
-        "D": "impedir a atuação policial até o trânsito em julgado.",
-        "E": "suspender a investigação enquanto o investigado estiver preso."
+        "D": "impedir a atuação policial até o trânsito em julgado, ainda que haja flagrante de crime grave praticado por integrante da organização criminosa.",
+        "E": "suspender a investigação enquanto o investigado estiver preso, retomando-a somente após o cumprimento integral da pena, com autorização do Ministério Público e do juiz."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1432,8 +1432,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "só é permitido após o trânsito em julgado da sentença.",
-        "B": "exige sempre prévia autorização judicial, sob pena de nulidade.",
-        "C": "é vedado, por violar o sigilo bancário do investigado.",
+        "B": "exige sempre prévia autorização judicial, sob pena de nulidade do relatório e dos atos.",
+        "C": "é vedado, por violar o sigilo bancário do investigado e a reserva de jurisdição.",
         "D": "depende de decisão do Tribunal de Contas competente.",
         "E": "é permitido sem prévia autorização judicial, resguardado o sigilo das informações."
       },
@@ -1464,8 +1464,8 @@
       "enunciado": "<p>A audiência de custódia, no prazo de vinte e quatro horas da prisão, destina-se, entre outras finalidades, a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "julgar o mérito da acusação e proferir sentença.",
-        "B": "colher a prova testemunhal para a instrução do processo.",
+        "A": "julgar o mérito da acusação e proferir sentença, após a oitiva do preso e das testemunhas arroladas pela defesa.",
+        "B": "colher a prova testemunhal para a instrução do processo, ouvindo o preso, a vítima e as testemunhas de acusação.",
         "C": "homologar o acordo de não persecução penal.",
         "D": "apreciar a legalidade da prisão e a necessidade de sua manutenção ou substituição por medidas cautelares.",
         "E": "decretar a perda de bens do preso em definitivo."
@@ -1497,11 +1497,11 @@
       "enunciado": "<p>O juiz das garantias, segundo decisão do Supremo Tribunal Federal nas ADIs 6.298 e outras, não se aplica, entre outros casos, aos processos</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "de crimes hediondos, em qualquer fase.",
+        "A": "de crimes hediondos, em qualquer fase, inclusive os de competência do juiz singular.",
         "B": "de competência originária dos tribunais e de violência doméstica e familiar.",
         "C": "de competência da Justiça Federal comum.",
         "D": "de crimes de trânsito, sem exceção.",
-        "E": "de crimes contra o patrimônio, em qualquer valor."
+        "E": "de crimes contra o patrimônio, em qualquer valor, e de tráfico de drogas."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1531,9 +1531,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não autoriza, por si só, a instauração de inquérito, mas serve de ponto de partida para investigação preliminar.",
-        "B": "exige identificação do denunciante em até cinco dias.",
+        "B": "exige identificação do denunciante em até cinco dias, sob pena de arquivamento do procedimento preliminar.",
         "C": "equivale a prova plena para decretação da prisão.",
-        "D": "autoriza a instauração direta do inquérito, sem apuração prévia.",
+        "D": "autoriza a instauração direta do inquérito, sem apuração prévia, bastando a verossimilhança do fato narrado na delação.",
         "E": "é imprestável e deve ser descartada de plano."
       },
       "resposta_correta": "A",
@@ -1566,8 +1566,8 @@
         "A": "por decisão do investigado, pela oposição de suspeição.",
         "B": "por ato imotivado, a critério do chefe da instituição.",
         "C": "somente por ato fundamentado, após iniciada a investigação criminal.",
-        "D": "por solicitação do juiz, em qualquer fase.",
-        "E": "mediante autorização do Ministério Público."
+        "D": "por solicitação do juiz, em qualquer fase, para atender à conveniência da instrução.",
+        "E": "mediante autorização do Ministério Público, que fiscaliza o inquérito em curso."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1597,9 +1597,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pode representar ao juiz pela infiltração, com manifestação do Ministério Público.",
-        "B": "pode determinar a infiltração por ato próprio e sigiloso.",
+        "B": "pode determinar a infiltração por ato próprio e sigiloso, sem manifestação do Ministério Público.",
         "C": "deve aguardar a instrução criminal para pedir a medida.",
-        "D": "pode requisitar a infiltração diretamente ao Ministério Público.",
+        "D": "pode requisitar a infiltração diretamente ao Ministério Público, sem autorização do juiz.",
         "E": "deve arquivar o inquérito e comunicar ao tribunal."
       },
       "resposta_correta": "A",
@@ -1662,11 +1662,11 @@
       "enunciado": "<p>Em relação à prisão temporária, regulada pela Lei nº 7.960/1989, nos crimes comuns, o prazo é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "trinta dias, prorrogáveis por trinta.",
+        "A": "trinta dias, prorrogáveis por trinta, em caso de extrema e comprovada necessidade, a pedido do delegado.",
         "B": "cinco dias, prorrogável por igual período, em caso de extrema e comprovada necessidade.",
         "C": "três dias, prorrogáveis por mais dois.",
         "D": "dez dias, improrrogáveis.",
-        "E": "quinze dias, prorrogáveis por mais dez."
+        "E": "quinze dias, prorrogáveis por mais dez, em caso de crime comum, mediante simples comunicação ao juiz."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -1696,9 +1696,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "aplicar medida de segurança ao preso.",
-        "B": "proferir sentença condenatória ou absolutória.",
+        "B": "proferir sentença condenatória ou absolutória, após a manifestação do Ministério Público e da defesa.",
         "C": "decretar a prisão perpétua do preso.",
-        "D": "determinar o arquivamento definitivo dos autos.",
+        "D": "determinar o arquivamento definitivo dos autos, por ausência de justa causa para a ação penal.",
         "E": "relaxar a prisão ilegal, converter em preventiva ou conceder liberdade provisória."
       },
       "resposta_correta": "E",
@@ -1728,10 +1728,10 @@
       "enunciado": "<p>A medida de busca e apreensão pessoal, prevista no art. 240, § 2º, do Código de Processo Penal, pode ser realizada sem mandado quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o policial achar a pessoa com aparência suspeita, sem outro dado.",
+        "A": "o policial achar a pessoa com aparência suspeita, sem outro dado concreto que indique a posse de objetos ilícitos.",
         "B": "a pessoa se recusar a prestar depoimento ao delegado.",
         "C": "houver fundada suspeita de que a pessoa oculta arma proibida ou objetos que constituam corpo de delito.",
-        "D": "o juiz determinar a revista por ofício, sem fundamento.",
+        "D": "o juiz determinar a revista por ofício, sem fundamento, quando houver mera suspeita genérica sobre o comportamento.",
         "E": "a vítima solicitar a revista, sem elementos concretos."
       },
       "resposta_correta": "C",
@@ -1761,11 +1761,11 @@
       "enunciado": "<p>O Supremo Tribunal Federal, ao julgar as ADIs sobre o juiz das garantias (2023), decidiu que, quanto ao prazo para sua implementação pelos tribunais, deveria ocorrer em até</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "seis meses, prorrogáveis por tempo indeterminado.",
+        "A": "seis meses, prorrogáveis por tempo indeterminado, a critério de cada tribunal estadual, contados da decisão.",
         "B": "doze meses, prorrogáveis uma única vez por mais doze meses, contados da publicação da ata de julgamento.",
         "C": "cinco anos, sem possibilidade de prorrogação.",
         "D": "noventa dias, prorrogáveis por mais noventa.",
-        "E": "trinta dias, improrrogáveis, a partir da publicação do acórdão."
+        "E": "trinta dias, improrrogáveis, a partir da publicação do acórdão, sob pena de nulidade dos processos."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",

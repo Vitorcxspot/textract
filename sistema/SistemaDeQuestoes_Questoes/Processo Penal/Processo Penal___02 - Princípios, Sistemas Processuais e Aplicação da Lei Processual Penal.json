@@ -179,9 +179,9 @@
       "alternativas": {
         "A": "admissíveis, mas com valor probatório reduzido.",
         "B": "inadmissíveis apenas se obtidas por particulares.",
-        "C": "válidas, se o réu não impugnar a prova na primeira oportunidade.",
+        "C": "válidas, se o réu não impugnar a prova na primeira oportunidade, hipótese em que se considera convalidada qualquer ilicitude praticada.",
         "D": "inadmissíveis, assim entendidas as obtidas em violação a normas constitucionais ou legais, devendo ser desentranhadas do processo.",
-        "E": "admissíveis, se forem a única prova da autoria do crime."
+        "E": "admissíveis, se forem a única prova da autoria do crime, em respeito ao princípio da verdade real e da persecução penal."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -409,9 +409,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser estendidas aos sucessores, até o limite do valor do patrimônio transferido.",
-        "B": "a pena privativa de liberdade pode ser transferida aos herdeiros do condenado falecido.",
-        "C": "a pena de multa pode ser cobrada dos familiares do condenado.",
-        "D": "os sucessores respondem pelas dívidas do falecido, sem qualquer limite.",
+        "B": "a pena privativa de liberdade pode ser transferida aos herdeiros do condenado falecido, que cumprirão o restante da pena em regime semiaberto, mediante decisão judicial fundamentada.",
+        "C": "a pena de multa pode ser cobrada dos familiares do condenado falecido, sem limite de valor, pois constitui dívida da família perante a Fazenda Pública do respectivo ente, transmitida integralmente com a morte.",
+        "D": "os sucessores respondem pelas dívidas do falecido, sem qualquer limite, inclusive pelas penas privativas de liberdade e de multa, como efeito automático da sucessão hereditária.",
         "E": "o princípio só se aplica à pena de prisão perpétua."
       },
       "resposta_correta": "A",
@@ -474,11 +474,11 @@
       "enunciado": "<p>Em relação à concentração dos atos na audiência de instrução e julgamento, o Código de Processo Penal prevê que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a audiência é dispensável, bastando a juntada de depoimentos escritos.",
+        "A": "a audiência é dispensável, bastando a juntada de depoimentos escritos, de laudos e de declarações firmadas pelas partes, sem necessidade de interrogatório do acusado ou de inquirição das testemunhas em juízo.",
         "B": "as alegações finais são sempre escritas, sendo vedadas as orais.",
         "C": "na audiência única serão realizados, sempre que possível, a tomada de declarações do ofendido, a inquirição das testemunhas, os esclarecimentos dos peritos, as acareações, o reconhecimento de pessoas e coisas e o interrogatório do acusado.",
-        "D": "o interrogatório do acusado deve ser o primeiro ato da instrução, antes das testemunhas.",
-        "E": "as testemunhas devem ser ouvidas em audiências diversas, sendo vedada a audiência una."
+        "D": "o interrogatório do acusado deve ser o primeiro ato da instrução, antes das testemunhas, a fim de que o juiz conheça a versão da defesa antes de ouvir o ofendido, os peritos e as demais pessoas arroladas pelas partes e pelo Ministério Público.",
+        "E": "as testemunhas devem ser ouvidas em audiências diversas, sendo vedada a audiência una, e cada ato deve ser realizado em dia distinto, ainda que as partes e o juízo estejam presentes e a prova seja de fácil produção."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -606,9 +606,9 @@
       "enunciado": "<p>O princípio do duplo grau de jurisdição, no processo penal brasileiro,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplica-se apenas ao Ministério Público, e não à defesa.",
-        "B": "exige que toda decisão seja julgada por três instâncias.",
-        "C": "é garantia absoluta, não admitindo exceções, mesmo para as ações de competência originária do STF.",
+        "A": "aplica-se apenas ao Ministério Público, e não à defesa, que só poderia recorrer em caso de condenação à pena privativa de liberdade superior a oito anos de reclusão.",
+        "B": "exige que toda decisão seja julgada por três instâncias, de modo que nenhuma sentença transita em julgado sem a manifestação do Superior Tribunal de Justiça e do Supremo Tribunal Federal.",
+        "C": "é garantia absoluta, não admitindo exceções, mesmo para as ações de competência originária do STF, que também devem ser reexaminadas por órgão colegiado de instância superior.",
         "D": "decorre do direito de recorrer da sentença para juiz ou tribunal superior, previsto na Convenção Americana, mas não é absoluto, havendo hipóteses de competência originária de tribunais.",
         "E": "não existe no ordenamento brasileiro, que só admite uma instância de julgamento."
       },
@@ -639,8 +639,8 @@
       "enunciado": "<p>Segundo o art. 792 do Código de Processo Penal, se da publicidade da audiência, da sessão ou do ato processual puder resultar escândalo, grave inconveniente ou perigo de perturbação da ordem,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a publicidade é limitada apenas em crimes sexuais, não em outras hipóteses.",
-        "B": "a audiência deverá ser cancelada, remetendo-se o processo ao Ministério Público.",
+        "A": "a publicidade é limitada apenas em crimes sexuais, não em outras hipóteses, ainda que haja risco de escândalo ou de perturbação da ordem.",
+        "B": "a audiência deverá ser cancelada, remetendo-se o processo ao Ministério Público, que decidirá sobre a necessidade de nova designação para outra data.",
         "C": "o ato será obrigatoriamente público, vedada qualquer restrição.",
         "D": "somente a defesa poderá decidir pela restrição da publicidade.",
         "E": "o juiz poderá determinar, de ofício ou a requerimento, que o ato seja realizado a portas fechadas, limitando o número de pessoas presentes."
@@ -804,9 +804,9 @@
       "enunciado": "<p>A criação, por lei de organização judiciária anterior aos fatos, de vara especializada para o julgamento de crimes praticados por organização criminosa</p><p>Em relação ao princípio do juiz natural, essa criação</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "viola o princípio, pois toda especialização de varas constitui tribunal de exceção.",
+        "A": "viola o princípio, pois toda especialização de varas constitui tribunal de exceção, ainda que criada por lei anterior aos fatos e de aplicação geral.",
         "B": "é válida mesmo se criada após o fato e para julgar apenas o caso concreto.",
-        "C": "viola o princípio porque a competência deve ser definida pelo Ministério Público.",
+        "C": "viola o princípio porque a competência deve ser definida pelo Ministério Público, que escolhe o juízo mais adequado para cada organização criminosa.",
         "D": "somente seria válida se aprovada por referendo popular.",
         "E": "não o viola, pois a competência é definida previamente por lei, sendo vedados apenas os juízos ou tribunais de exceção, constituídos após o fato."
       },
@@ -837,11 +837,11 @@
       "enunciado": "<p>No processo penal, o contraditório pode ser diferido (ou postergado), o que ocorre quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o acusado é impedido de recorrer da decisão que decretou a medida.",
+        "A": "o acusado é impedido de recorrer da decisão que decretou a medida, devendo aguardar a sentença final para impugná-la, em razão da preclusão.",
         "B": "a medida é adotada sem prévia ciência do investigado, por risco à sua eficácia, como na interceptação telefônica, assegurando-se o contraditório posteriormente.",
         "C": "o contraditório só se exerce depois do trânsito em julgado.",
         "D": "o contraditório é substituído pela decisão do Ministério Público.",
-        "E": "o juiz dispensa totalmente o contraditório, sem possibilidade de manifestação posterior."
+        "E": "o juiz dispensa totalmente o contraditório, sem possibilidade de manifestação posterior da defesa, em razão do sigilo do processo e da gravidade do fato investigado."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -872,9 +872,9 @@
       "alternativas": {
         "A": "tiver praticado crime hediondo, desde que confesse.",
         "B": "for reincidente, desde que a pena mínima seja inferior a quatro anos.",
-        "C": "tiver negado a autoria, desde que a pena máxima seja inferior a quatro anos.",
+        "C": "tiver negado a autoria, desde que a pena máxima seja inferior a quatro anos e não haja violência ou grave ameaça na conduta.",
         "D": "tiver confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a quatro anos.",
-        "E": "for acusado de crime com violência, desde que a pena mínima seja inferior a dois anos."
+        "E": "for acusado de crime com violência, desde que a pena mínima seja inferior a dois anos e o dano tenha sido integralmente reparado à vítima e ao Estado."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -903,10 +903,10 @@
       "enunciado": "<p>Um condutor é abordado em fiscalização de trânsito e se recusa a submeter-se ao teste do bafômetro, sob o argumento de que ninguém é obrigado a produzir prova contra si mesmo.</p><p>Considerando o princípio nemo tenetur se detegere, a recusa</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "afasta qualquer consequência jurídica, inclusive a administrativa.",
-        "B": "configura crime de desobediência, pois o teste é obrigatório.",
+        "A": "afasta qualquer consequência jurídica, inclusive a administrativa, por se tratar de exercício regular de direito, ainda que o condutor seja flagrado em estado de embriaguez.",
+        "B": "configura crime de desobediência, pois o teste é obrigatório e a recusa equivale à confissão, devendo o condutor ser preso em flagrante e submetido ao exame compulsório.",
         "C": "é exercício de direito, não podendo ser compelido a produzir prova contra si, sem prejuízo das consequências administrativas previstas no Código de Trânsito.",
-        "D": "autoriza o uso de força física para obter o exame, pois o interesse público prevalece.",
+        "D": "autoriza o uso de força física para obter o exame, pois o interesse público prevalece sobre a garantia do investigado, desde que haja ordem judicial e acompanhamento médico.",
         "E": "gera confissão ficta da embriaguez."
       },
       "resposta_correta": "C",
@@ -1035,11 +1035,11 @@
       "enunciado": "<p>O sistema processual penal misto, de origem napoleônica, é composto por</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "uma fase judicial prévia e uma fase investigativa posterior.",
+        "A": "uma fase judicial prévia e uma fase investigativa posterior, ambas conduzidas pelo juiz, com ampla publicidade e contraditório.",
         "B": "uma fase preliminar de natureza inquisitiva, conduzida em regra sem publicidade e contraditório, e uma fase judicial de natureza acusatória.",
         "C": "duas fases acusatórias, ambas públicas e contraditórias.",
         "D": "duas fases inquisitivas, ambas sigilosas e escritas.",
-        "E": "uma única fase, sigilosa, conduzida pelo Ministério Público."
+        "E": "uma única fase, sigilosa e escrita, conduzida pelo Ministério Público, que investiga, acusa e decide a causa sem a intervenção de juiz natural."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1563,10 +1563,10 @@
       "enunciado": "<p>A audiência de custódia, prevista no art. 310 do Código de Processo Penal e na Convenção Americana sobre Direitos Humanos, determina que, após a prisão em flagrante, o preso seja conduzido à presença do juiz, que, na audiência, poderá</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "transferir a decisão ao delegado de polícia, que decidirá sobre a liberdade.",
+        "A": "transferir a decisão ao delegado de polícia, que decidirá sobre a liberdade, mantendo o preso em cela até a conclusão do inquérito policial.",
         "B": "somente homologar o flagrante, sem possibilidade de relaxar a prisão.",
         "C": "condenar o preso, ao final da audiência, à pena privativa de liberdade.",
-        "D": "decretar a prisão preventiva de ofício, independentemente de requerimento.",
+        "D": "decretar a prisão preventiva de ofício, independentemente de requerimento, ainda que ausentes os requisitos legais, desde que o crime seja grave e haja clamor social.",
         "E": "relaxar a prisão ilegal, converter o flagrante em preventiva, quando presentes os requisitos, ou conceder liberdade provisória, com ou sem fiança."
       },
       "resposta_correta": "E",
@@ -1794,9 +1794,9 @@
       "enunciado": "<p>Em crime de ação penal pública, o Ministério Público recebe os autos do inquérito policial referentes a investigado solto e deixa de oferecer a denúncia no prazo legal, sem justificativa.</p><p>Segundo a Constituição Federal e o Código de Processo Penal, nessa situação</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a autoridade policial oferecerá a denúncia, diante da inércia do Ministério Público.",
-        "B": "o prazo para a ação privada subsidiária é de cinco dias, contados da ciência do fato.",
-        "C": "não há providência cabível, pois a ação penal pública é privativa do Ministério Público em qualquer hipótese.",
+        "A": "a autoridade policial oferecerá a denúncia, diante da inércia do Ministério Público, e o juiz receberá a peça acusatória, designando audiência de instrução e julgamento no prazo de dez dias.",
+        "B": "o prazo para a ação privada subsidiária é de cinco dias, contados da ciência do fato, e o ofendido poderá oferecer queixa mesmo que o Ministério Público já tenha requerido diligências complementares.",
+        "C": "não há providência cabível, pois a ação penal pública é privativa do Ministério Público em qualquer hipótese, cabendo ao ofendido apenas aguardar a manifestação do órgão ministerial, ainda que tardia e injustificada, sem controle judicial.",
         "D": "o juiz oferecerá a denúncia, de ofício, em substituição ao Ministério Público.",
         "E": "será admitida a ação penal privada subsidiária da pública, podendo o Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, ou retomar a ação como parte principal em caso de negligência do querelante."
       },
@@ -1860,11 +1860,11 @@
       "enunciado": "<p>O princípio da paridade de armas, decorrente do sistema acusatório, assegura igualdade de tratamento entre acusação e defesa.</p><p>Ainda assim, esse princípio admite</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a concessão de poderes ilimitados à acusação, em detrimento da defesa.",
-        "B": "a dispensa de intimação da defesa em qualquer fase do processo.",
+        "A": "a concessão de poderes ilimitados à acusação, em detrimento da defesa, inclusive para produzir provas sem submetê-las ao contraditório e à análise judicial.",
+        "B": "a dispensa de intimação da defesa em qualquer fase do processo, desde que o Ministério Público tenha sido intimado pessoalmente.",
         "C": "tratamento diferenciado razoável, como a intimação pessoal do Defensor Público e do Ministério Público e o prazo em dobro previsto para a Defensoria.",
         "D": "a proibição de que a defesa produza provas, reservada à acusação.",
-        "E": "a supressão do contraditório para o acusado, em prol da celeridade."
+        "E": "a supressão do contraditório para o acusado, em prol da celeridade, nos processos que envolvam réu preso ou crimes de maior gravidade."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -2553,10 +2553,10 @@
       "enunciado": "<p>De acordo com a Constituição Federal, em matéria de extradição,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o estrangeiro será extraditado por crime político ou de opinião.",
-        "B": "o brasileiro naturalizado pode ser extraditado por qualquer crime, a qualquer tempo.",
+        "A": "o estrangeiro será extraditado por crime político ou de opinião, desde que o Estado requerente ofereça reciprocidade e o crime seja punido também no Brasil.",
+        "B": "o brasileiro naturalizado pode ser extraditado por qualquer crime, a qualquer tempo, inclusive por crime comum praticado após a naturalização, mediante decisão do Presidente da República.",
         "C": "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes.",
-        "D": "a extradição é decidida pelo Ministro da Justiça, sem controle do Judiciário.",
+        "D": "a extradição é decidida pelo Ministro da Justiça, sem controle do Judiciário, que apenas toma ciência da entrega do extraditando pelas autoridades após sua efetivação.",
         "E": "o brasileiro nato pode ser extraditado em caso de crime comum."
       },
       "resposta_correta": "C",
@@ -2751,9 +2751,9 @@
       "enunciado": "<p>Em matéria de cooperação jurídica internacional, a carta rogatória passiva, enviada por autoridade estrangeira para cumprimento no Brasil, depende de exequatur do Superior Tribunal de Justiça.</p><p>Diferentemente da carta rogatória, o auxílio direto</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é pedido dirigido diretamente ao acusado, sem participação de autoridades.",
-        "B": "também exige o exequatur do STJ, como requisito de validade.",
-        "C": "só pode ser utilizado em matéria civil, e não em matéria penal.",
+        "A": "é pedido dirigido diretamente ao acusado, sem participação de autoridades, para que ele forneça voluntariamente documentos e informações ao Estado requerente.",
+        "B": "também exige o exequatur do STJ, como requisito de validade, porque toda cooperação jurídica internacional depende de juízo de delibação prévio.",
+        "C": "só pode ser utilizado em matéria civil, e não em matéria penal, em razão da natureza administrativa dos atos de cooperação entre as autoridades.",
         "D": "dispensa o juízo de delibação pelo STJ, sendo tramitado diretamente entre as autoridades centrais, com atuação das autoridades brasileiras competentes.",
         "E": "exige a homologação do pedido pelo Supremo Tribunal Federal."
       },
@@ -2817,11 +2817,11 @@
       "enunciado": "<p>Sobre a aplicação da analogia no direito penal e no processo penal, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a analogia in malam partem é sempre admitida no direito penal, para suprir lacunas na tipificação.",
-        "B": "a analogia in bonam partem é vedada, e a in malam partem é admitida.",
+        "A": "a analogia in malam partem é sempre admitida no direito penal, para suprir lacunas na tipificação, desde que o intérprete a fundamente nos princípios gerais de direito e nos costumes.",
+        "B": "a analogia in bonam partem é vedada, e a in malam partem é admitida, porque o princípio da legalidade protege apenas o Estado contra a criação de tipos penais pelos particulares.",
         "C": "a analogia em prejuízo do réu (in malam partem) é vedada em matéria de normas penais incriminadoras, mas é admitida na integração de lacunas de normas processuais, nos termos do art. 3º do CPP.",
         "D": "a analogia só se aplica ao Tribunal do Júri.",
-        "E": "a analogia é vedada em qualquer hipótese, no direito penal e no processual penal."
+        "E": "a analogia é vedada em qualquer hipótese, no direito penal e no processual penal, inclusive na integração de lacunas de normas processuais, pois o princípio da legalidade estrita se aplica a ambos."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -2853,8 +2853,8 @@
         "A": "é mais gravosa, razão pela qual não poderia retroagir.",
         "B": "tem natureza mista (processual e penal), pois afeta a punibilidade, razão pela qual, por ser mais benéfica, retroagiu aos processos em curso.",
         "C": "somente se aplica a crimes cometidos após sua vigência.",
-        "D": "é puramente processual, e a aplicação imediata sem ressalvas seria suficiente.",
-        "E": "é puramente penal, e por isso não se aplica aos processos em curso."
+        "D": "é puramente processual, e a aplicação imediata sem ressalvas seria suficiente, conforme o princípio tempus regit actum, que rege as normas de processo.",
+        "E": "é puramente penal, e por isso não se aplica aos processos em curso, ainda que seja mais benéfica ao acusado e afete sua punibilidade."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",

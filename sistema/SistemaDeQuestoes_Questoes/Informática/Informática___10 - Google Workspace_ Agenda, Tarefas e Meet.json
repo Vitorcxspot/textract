@@ -216,8 +216,8 @@
       "enunciado": "<p>No Google Agenda, ao criar um evento e adicionar convidados, os convidados</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "recebem o evento apenas se forem administradores do domínio.",
-        "B": "não recebem aviso algum, sendo necessário avisá-los por telefone ou presencialmente.",
+        "A": "recebem o evento apenas se forem administradores do domínio ou do mesmo grupo.",
+        "B": "não recebem aviso algum, sendo necessário avisá-los por telefone ou aplicativo.",
         "C": "recebem um convite por e-mail e podem responder se participarão ou não.",
         "D": "são obrigados a aceitar automaticamente o evento.",
         "E": "são excluídos do evento se não possuírem conta paga."
@@ -284,8 +284,8 @@
       "alternativas": {
         "A": "só pode ser alterado por administrador de TI.",
         "B": "é aplicado igualmente a todos os usuários, sem variação.",
-        "C": "é sempre o do organizador e não pode ser alterado.",
-        "D": "não existe no Google Agenda, que usa apenas o horário de Brasília.",
+        "C": "é sempre o do organizador e não pode ser alterado pelos convidados, mesmo que estejam em outro país ou região geográfica.",
+        "D": "não existe no Google Agenda, que usa apenas o horário de Brasília para todos os eventos criados na plataforma.",
         "E": "pode ser definido para o início e o término do evento, o que auxilia reuniões entre pessoas em locais diferentes."
       },
       "resposta_correta": "E",
@@ -349,9 +349,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "visualizar a disponibilidade dos convidados e escolher um horário em que todos estejam livres.",
-        "B": "apagar automaticamente os eventos conflitantes dos convidados, liberando os horários necessários.",
+        "B": "apagar eventos conflitantes automaticamente da agenda dos convidados, priorizando a reunião mais recente.",
         "C": "excluir da lista os convidados com agenda cheia, mantendo apenas os que têm horário livre.",
-        "D": "enviar mensagem de texto aos convidados, solicitando que informem os horários de preferência.",
+        "D": "enviar mensagem de texto aos convidados para confirmar presença, usando o número de telefone cadastrado.",
         "E": "alterar o fuso horário de todos os convidados, para que o evento ocorra no mesmo horário."
       },
       "resposta_correta": "A",
@@ -381,11 +381,11 @@
       "enunciado": "<p>Ao criar um evento no Google Agenda, o organizador pode definir permissões dos convidados, entre as quais</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apagar a agenda de outros usuários.",
+        "A": "apagar a agenda de outros usuários do domínio, em caso de conflito.",
         "B": "acessar os arquivos de qualquer pessoa.",
         "C": "modificar o evento, convidar outras pessoas e ver a lista de convidados.",
         "D": "excluir o domínio da organização.",
-        "E": "alterar a senha da conta do organizador."
+        "E": "alterar a senha da conta do organizador e as configurações de segurança."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -414,9 +414,9 @@
       "enunciado": "<p>Sobre a repetição de eventos no Google Agenda, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "alterar uma única ocorrência sempre altera todas as demais, sem possibilidade de editar apenas aquela data específica ou as ocorrências seguintes.",
+        "A": "alterar uma ocorrência sempre altera todas as demais, sem opção de editar apenas uma ou as seguintes, mesmo que o organizador deseje alterar uma só data.",
         "B": "eventos recorrentes só podem ser criados por administradores do domínio, e não por usuários comuns da agenda.",
-        "C": "só é possível repetir eventos diariamente, sem opções de recorrência semanal, mensal, anual ou personalizada.",
+        "C": "só é possível repetir diariamente ou semanalmente, sem opção de recorrência mensal, anual ou personalizada para o evento.",
         "D": "é possível definir eventos recorrentes (diária, semanal, mensal, anual ou personalizada) e editar apenas uma ocorrência, as seguintes ou todas.",
         "E": "a repetição de eventos exige a compra de licença adicional, indisponível nas edições básicas do Google Workspace."
       },
@@ -513,11 +513,11 @@
       "enunciado": "<p>O link de uma reunião do Google Meet pode ser criado</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente com o uso de um aplicativo externo pago.",
+        "A": "somente com o uso de um aplicativo externo pago, instalado no computador e vinculado à conta do usuário.",
         "B": "no próprio Meet, a partir de um evento do Google Agenda, ou por outros produtos do Workspace.",
         "C": "somente por telefone.",
         "D": "somente por e-mail do Gmail.",
-        "E": "somente pelo administrador de TI do domínio."
+        "E": "somente pelo administrador de TI do domínio, que deve liberar previamente cada link no console administrativo."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -546,10 +546,10 @@
       "enunciado": "<p>Na reunião do Google Meet, o recurso de levantar a mão serve para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "gravar a reunião.",
+        "A": "gravar a reunião e salvar o vídeo na conta de todos os participantes.",
         "B": "remover o organizador.",
         "C": "o participante sinalizar que deseja falar, sem interromper o orador.",
-        "D": "encerrar a reunião para todos.",
+        "D": "encerrar a reunião para todos os participantes quando o organizador sair.",
         "E": "silenciar todos os participantes."
       },
       "resposta_correta": "C",
@@ -579,8 +579,8 @@
       "enunciado": "<p>Em relação à gravação de reuniões no Google Meet, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é salva em servidor próprio do órgão.",
-        "B": "é permitida a todos os usuários de contas gratuitas, sem restrições.",
+        "A": "é salva em servidor próprio do órgão, que deve ser mantido e configurado pela equipe de TI para cada reunião.",
+        "B": "é permitida a todos os usuários de contas gratuitas, sem restrições de edição, e o arquivo é enviado aos participantes por e-mail.",
         "C": "é salva automaticamente no computador do participante.",
         "D": "a gravação depende da edição do Google Workspace e de permissões, e os arquivos são salvos no Google Drive do organizador.",
         "E": "é impossível em qualquer edição."
@@ -612,9 +612,9 @@
       "enunciado": "<p>O Google Tarefas permite ao usuário</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "editar vídeos em alta definição.",
+        "A": "editar vídeos em alta definição e aplicar efeitos de transição.",
         "B": "criar planilhas com fórmulas avançadas e gráficos dinâmicos.",
-        "C": "hospedar sites institucionais.",
+        "C": "hospedar sites institucionais com domínio próprio do órgão.",
         "D": "gerar relatórios de tráfego de rede.",
         "E": "criar tarefas com título, detalhes e data de vencimento."
       },
@@ -711,8 +711,8 @@
       "enunciado": "<p>Sobre o Google Tarefas, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "não permite listas de tarefas diferentes.",
-        "B": "só funciona em computadores com sistema operacional Linux.",
+        "A": "não permite listas de tarefas diferentes, concentrando todas as tarefas em uma única lista por usuário.",
+        "B": "só funciona em computadores com sistema operacional Linux, por meio de extensão instalada no navegador do usuário.",
         "C": "pode ser acessado em painel lateral de produtos como Gmail, Agenda e Documentos, além de aplicativos móveis.",
         "D": "exige instalação de servidor local.",
         "E": "só pode ser usado sem conexão com a Internet."

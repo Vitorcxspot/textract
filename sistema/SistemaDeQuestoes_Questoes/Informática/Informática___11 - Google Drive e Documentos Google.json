@@ -315,9 +315,9 @@
       "enunciado": "<p>As Planilhas Google permitem que vários usuários editem a mesma planilha simultaneamente, e as alterações são</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "descartadas ao final do dia.",
+        "A": "descartadas ao final do dia, caso o usuário não as confirme manualmente.",
         "B": "salvas apenas ao fechar o navegador.",
-        "C": "permitidas apenas a um usuário por vez.",
+        "C": "permitidas apenas a um usuário por vez, ficando os demais em modo de leitura.",
         "D": "salvas automaticamente e exibidas em tempo real aos colaboradores.",
         "E": "aplicadas somente após aprovação do Google."
       },
@@ -349,9 +349,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Arquivo > Fazer download > Microsoft PowerPoint (.pptx).",
-        "B": "Inserir > Tabela > PowerPoint.",
+        "B": "Inserir > Tabela > Exportar > Microsoft PowerPoint (.pptx).",
         "C": "Formatar > Texto > .pptx.",
-        "D": "Ferramentas > Tradutor.",
+        "D": "Ferramentas > Tradutor de documentos > Microsoft PowerPoint (.pptx).",
         "E": "Exibir > Tela cheia > .pptx."
       },
       "resposta_correta": "A",
@@ -381,10 +381,10 @@
       "enunciado": "<p>Nas Planilhas Google, a formatação condicional é o recurso que permite</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "converter a planilha em apresentação.",
+        "A": "converter a planilha em apresentação, transformando cada aba em um slide formatado automaticamente.",
         "B": "traduzir o conteúdo das células.",
         "C": "alterar automaticamente a aparência das células (cor, estilo) quando atendem a determinada regra.",
-        "D": "remover o histórico de versões.",
+        "D": "remover o histórico de versões da planilha, mantendo apenas o último estado salvo pelo editor.",
         "E": "bloquear a planilha para edição."
       },
       "resposta_correta": "C",
@@ -414,9 +414,9 @@
       "enunciado": "<p>No Apresentações Google, as notas do orador, quando se utiliza a opção Visualização do apresentador, podem ser lidas</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente por quem tem permissão de editor.",
+        "A": "somente por quem tem permissão de editor, e ficam visíveis ao público na tela principal.",
         "B": "apenas em PDF impresso.",
-        "C": "pelo público, ao lado do slide.",
+        "C": "pelo público, ao lado do slide, quando a apresentação é exibida em tela cheia.",
         "D": "somente pelo apresentador, em janela separada, sem aparecer para o público.",
         "E": "apenas depois do término."
       },
@@ -448,9 +448,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "comunicação por videoconferência exclusivamente.",
-        "B": "envio exclusivo de e-mails.",
+        "B": "envio exclusivo de e-mails corporativos, com armazenamento de mensagens e anexos nos servidores locais.",
         "C": "edição de vídeos em tempo real.",
-        "D": "navegação segura na internet.",
+        "D": "navegação segura na internet, com bloqueio de sites maliciosos e filtro de conteúdo para os usuários.",
         "E": "armazenamento de arquivos na nuvem, com possibilidade de compartilhamento e edição colaborativa."
       },
       "resposta_correta": "E",
@@ -546,8 +546,8 @@
       "enunciado": "<p>Quando um arquivo do Drive é compartilhado com a opção “Qualquer pessoa com o link”, isso significa que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente o proprietário pode ver.",
-        "B": "o arquivo fica protegido por senha.",
+        "A": "somente o proprietário pode ver o arquivo, ainda que o link seja encaminhado a outras pessoas.",
+        "B": "o arquivo fica protegido por senha, que é gerada automaticamente e enviada a quem receber o link.",
         "C": "qualquer pessoa que tenha o link poderá acessar o arquivo, de acordo com a permissão definida.",
         "D": "apenas pessoas adicionadas por e-mail poderão acessar.",
         "E": "o arquivo é automaticamente excluído."
@@ -579,9 +579,9 @@
       "enunciado": "<p>Para que outro usuário se torne proprietário de um arquivo do Google Drive, o proprietário atual deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "copiar o arquivo para a lixeira.",
+        "A": "copiar o arquivo para a lixeira do Drive e orientar o novo usuário a restaurá-lo de lá, assumindo a propriedade.",
         "B": "conceder permissão de Leitor.",
-        "C": "excluir o arquivo.",
+        "C": "excluir o arquivo e pedir ao novo usuário que o recrie, o que o torna automaticamente proprietário.",
         "D": "transferir a propriedade do arquivo a esse usuário, por meio das configurações de compartilhamento.",
         "E": "alterar o nome do arquivo."
       },
@@ -612,8 +612,8 @@
       "enunciado": "<p>O editor de textos Documentos Google salva as alterações</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas quando o usuário clica em salvar.",
-        "B": "apenas ao fechar o navegador.",
+        "A": "apenas quando o usuário clica em salvar ou fecha o documento.",
+        "B": "apenas ao fechar o navegador ou encerrar a sessão da conta.",
         "C": "somente em computador.",
         "D": "somente com extensão paga.",
         "E": "automaticamente, enquanto o usuário edita o documento."
@@ -647,8 +647,8 @@
       "alternativas": {
         "A": "bloquear o documento a qualquer edição.",
         "B": "propor alterações no texto que ficam marcadas, para que o proprietário aceite ou rejeite.",
-        "C": "traduzir o texto.",
-        "D": "converter em planilha.",
+        "C": "traduzir o texto para outro idioma, mantendo o original em uma versão separada do documento.",
+        "D": "converter o documento em planilha, distribuindo cada parágrafo em uma linha.",
         "E": "alterar o texto sem deixar registro."
       },
       "resposta_correta": "B",
@@ -678,11 +678,11 @@
       "enunciado": "<p>O histórico de versões do Documentos Google permite</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "editar sem salvar.",
+        "A": "editar sem salvar, mantendo as alterações apenas na memória do navegador do usuário.",
         "B": "excluir permanentemente o documento.",
         "C": "apenas imprimir o documento.",
         "D": "visualizar versões anteriores do documento e restaurar uma delas, se necessário.",
-        "E": "apenas traduzir o documento."
+        "E": "apenas traduzir o documento e comparar a tradução com o texto original, sem restaurar versões."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -711,8 +711,8 @@
       "enunciado": "<p>Um documento do Google Documentos pode ser baixado em vários formatos, entre eles</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": ".jpg, .png e .gif somente.",
-        "B": ".xlsx, .pptx e .accdb.",
+        "A": ".jpg, .png, .gif e .bmp somente.",
+        "B": ".xlsx, .pptx e .accdb apenas.",
         "C": ".docx, .pdf, .odt, .rtf e .txt.",
         "D": ".exe, .dll e .bat.",
         "E": ".mp3, .wav e .mid."

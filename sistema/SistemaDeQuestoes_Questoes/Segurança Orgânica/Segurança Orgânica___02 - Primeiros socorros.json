@@ -7107,8 +7107,8 @@
       "enunciado": "<p>Na coleta do histórico SAMPLE, a letra L diz respeito a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "localização exata do acidente.",
-        "B": "lesões anteriores na coluna vertebral.",
+        "A": "localização exata do acidente no mapa viário.",
+        "B": "lesões anteriores na coluna vertebral ou no crânio.",
         "C": "locais de dor referida.",
         "D": "laudo médico recente.",
         "E": "alimentos ou líquidos ingeridos pela última vez."
@@ -7173,10 +7173,10 @@
       "enunciado": "<p>O pulso descrito como filiforme caracteriza-se por ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ausente e sem batimentos audíveis.",
+        "A": "ausente à palpação e sem batimentos audíveis.",
         "B": "regular e cheio, com ritmo normal.",
         "C": "fraco, fino e rápido, de difícil palpação.",
-        "D": "irregular apenas na inspiração.",
+        "D": "irregular, variando apenas na inspiração.",
         "E": "forte, amplo e lento."
       },
       "resposta_correta": "C",
@@ -7272,10 +7272,10 @@
       "enunciado": "<p>Para contar a frequência respiratória de uma vítima consciente, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pedir que respire o mais fundo possível durante a contagem.",
+        "A": "pedir que respire o mais fundo possível durante toda a contagem de um minuto.",
         "B": "observar os movimentos do tórax sem avisar a vítima, para que ela não altere o ritmo.",
         "C": "contar apenas as expirações bucais audíveis.",
-        "D": "solicitar que prenda a respiração por dez segundos.",
+        "D": "solicitar que prenda a respiração por dez segundos antes de iniciar a contagem dos ciclos.",
         "E": "medir o tempo em que a vítima consegue falar."
       },
       "resposta_correta": "B",
@@ -7305,10 +7305,10 @@
       "enunciado": "<p>No exame físico da avaliação secundária, a sigla DCAP-BTLS auxilia o socorrista a procurar:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dor, calor, alergia, pressão, batimentos, temperatura, lucidez e saturação.",
+        "A": "dor, calor, alergia, pressão, batimentos, temperatura, lucidez e saturação de oxigênio no sangue.",
         "B": "dentes, cabelos, unhas, pele, boca, tórax, língua e sobrancelhas.",
         "C": "documentos, contatos, antecedentes, parentes, bens, trajeto, local e horário.",
-        "D": "dispneia, cianose, agitação, palidez, bradicardia, taquicardia, letargia e sudorese.",
+        "D": "dispneia, cianose, agitação, palidez, bradicardia, taquicardia, letargia, sudorese e tontura.",
         "E": "deformidades, contusões, abrasões, penetrações, queimaduras, sensibilidade, lacerações e edema."
       },
       "resposta_correta": "E",
@@ -7338,8 +7338,8 @@
       "enunciado": "<p>A elevação dos membros inferiores no atendimento ao choque NÃO é indicada quando a vítima apresenta</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "sensação de sede.",
-        "B": "pulso rápido e fraco.",
+        "A": "sensação de sede intensa, boca seca e língua saburrosa após o acidente.",
+        "B": "pulso rápido e fraco, com enchimento capilar lento e pele fria.",
         "C": "suspeita de fratura de membros inferiores ou de lesão de coluna.",
         "D": "pele pálida e fria.",
         "E": "sudorese discreta."
@@ -7371,9 +7371,9 @@
       "enunciado": "<p>Um servidor sofre queda de escada e, minutos depois, está pálido, sudoreico, ansioso, com pulso rápido e fraco. A hipótese mais coerente é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "quadro normal após esforço, sem necessidade de acompanhamento.",
+        "A": "quadro normal após esforço, que dispensa acompanhamento e pode ser resolvido apenas com repouso em pé.",
         "B": "simples desmaio, com recuperação espontânea garantida.",
-        "C": "crise de ansiedade, tratada apenas com conversa.",
+        "C": "crise de ansiedade, tratada apenas com conversa tranquilizadora e orientação para respirar devagar.",
         "D": "hipertensão arterial, tratada com oferta de água.",
         "E": "estado de choque, o que exige acionar o serviço de emergência e manter a vítima deitada e aquecida."
       },
@@ -7405,10 +7405,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pupilas dilatadas nos dois olhos por efeito da luz fraca.",
-        "B": "pupilas puntiformes nos dois olhos, em qualquer circunstância.",
+        "B": "pupilas puntiformes nos dois olhos, independentemente da luz ambiente.",
         "C": "ausência de movimento dos globos oculares ao frio.",
         "D": "pupilas com diâmetros diferentes, o que pode indicar lesão intracraniana.",
-        "E": "coloração diferente da íris em cada olho desde o nascimento."
+        "E": "coloração diferente da íris em cada olho, presente desde o nascimento do paciente."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -7439,9 +7439,9 @@
       "alternativas": {
         "A": "a dilatação dos vasos sanguíneos por reação alérgica.",
         "B": "a falha do coração em bombear sangue em quantidade suficiente aos tecidos.",
-        "C": "a infecção disseminada pela corrente sanguínea.",
+        "C": "a infecção disseminada pela corrente sanguínea, com resposta inflamatória exagerada.",
         "D": "o bloqueio da circulação por pneumotórax hipertensivo.",
-        "E": "a perda de grande volume de sangue por hemorragia."
+        "E": "a perda de grande volume de sangue por hemorragia interna ou externa, reduzindo a volemia."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -7471,9 +7471,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a perda de calor corporal agrava o quadro e reduz a perfusão dos tecidos.",
-        "B": "o frio elimina a necessidade de avaliar os sinais vitais.",
+        "B": "o frio elimina a necessidade de avaliar os sinais vitais com frequência.",
         "C": "o calor interrompe a produção de suor, curando o choque.",
-        "D": "o calor intenso aumenta a pressão arterial de forma definitiva.",
+        "D": "o calor intenso aumenta a pressão arterial de forma definitiva, mesmo sem tratar a causa.",
         "E": "o aquecimento substitui a necessidade de controlar sangramentos."
       },
       "resposta_correta": "A",
@@ -7537,9 +7537,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "verificação rápida do estado neurológico, como nível de consciência e pupilas.",
-        "B": "drenagem de líquidos acumulados no tórax.",
+        "B": "drenagem de líquidos acumulados no tórax, realizada com agulha ou dreno ainda na cena.",
         "C": "desfibrilação imediata de todas as vítimas.",
-        "D": "dosagem da glicemia capilar no local.",
+        "D": "dosagem da glicemia capilar no local, para descartar hipoglicemia antes de agir.",
         "E": "dimensionamento do colar cervical."
       },
       "resposta_correta": "A",
@@ -7602,10 +7602,10 @@
       "enunciado": "<p>Ao realizar o exame físico em uma vítima consciente, o socorrista deve, antes de tocá-la,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "iniciar pelos pés, ignorando as queixas.",
+        "A": "iniciar pelos pés, ignorando as queixas e o desejo de comunicação da vítima.",
         "B": "identificar-se, explicar o que fará e obter o consentimento da vítima.",
         "C": "apenas observar à distância, sem tocar na vítima.",
-        "D": "examinar o tórax sem avisar, para não gerar ansiedade.",
+        "D": "examinar o tórax sem avisar, para não gerar ansiedade antes do contato.",
         "E": "exigir que a vítima se levante para facilitar o exame."
       },
       "resposta_correta": "B",
@@ -7701,9 +7701,9 @@
       "enunciado": "<p>Na fase inicial (compensada) do choque hipovolêmico, é esperado que a vítima apresente</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "hipertensão arterial e pele rosada e seca.",
+        "A": "hipertensão arterial e pele rosada e seca, com respiração lenta.",
         "B": "respiração lenta e pulso cheio, com pele quente.",
-        "C": "nenhuma alteração perceptível nos sinais vitais.",
+        "C": "nenhuma alteração nos sinais vitais, mesmo com perda de sangue.",
         "D": "taquicardia e pele fria, com pressão arterial ainda mantida.",
         "E": "bradicardia acentuada e pele quente, com pressão elevada."
       },
@@ -7734,8 +7734,8 @@
       "enunciado": "<p>No choque neurogênico, ao contrário do hipovolêmico, a vítima pode apresentar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "hipertensão e sudorese, em razão de excesso de adrenalina.",
-        "B": "febre alta e calafrios, em razão de infecção.",
+        "A": "hipertensão e sudorese intensa, em razão de excesso de adrenalina liberada pelo organismo no trauma.",
+        "B": "febre alta e calafrios, em razão de infecção disseminada pela corrente sanguínea e por toxinas.",
         "C": "pele quente e seca e frequência cardíaca normal ou baixa, em razão da perda do tônus simpático.",
         "D": "pele fria e úmida e taquicardia intensa, em razão da perda de sangue.",
         "E": "pele ressecada e pápulas, em razão de reação alérgica."
@@ -7767,11 +7767,11 @@
       "enunciado": "<p>Uma vítima de reação alérgica grave apresenta urticária difusa, inchaço de lábios e língua e dificuldade para respirar. A conduta mais adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deitar a vítima e oferecer água com açúcar.",
+        "A": "deitar a vítima e oferecer água com açúcar, mantendo-a em observação no local por algumas horas, sem acionar o serviço de emergência.",
         "B": "acionar imediatamente o serviço de emergência e, se houver autoinjetor de adrenalina prescrito à vítima, auxiliar em sua aplicação.",
-        "C": "oferecer anti-inflamatório por via oral e aguardar melhora em casa.",
+        "C": "oferecer anti-inflamatório por via oral e aguardar melhora em casa, sem acionar o serviço de emergência, pois o quadro é leve.",
         "D": "dar um banho frio e observar por algumas horas.",
-        "E": "induzir o vômito para eliminar a substância causadora."
+        "E": "induzir o vômito para eliminar a substância causadora, sem necessidade de acionar o serviço de emergência de imediato."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -7801,9 +7801,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "controlar a hemorragia externa e acionar o suporte avançado, sem retardar o transporte com procedimentos secundários.",
-        "B": "realizar o exame céfalo-caudal completo antes de qualquer outra medida.",
+        "B": "realizar o exame céfalo-caudal completo antes de qualquer outra medida de controle da hemorragia e do transporte da vítima.",
         "C": "colher o histórico SAMPLE detalhado antes de agir.",
-        "D": "aguardar a chegada de familiares para autorizar o socorro.",
+        "D": "aguardar a chegada de familiares para autorizar o socorro e o transporte da vítima ao serviço de saúde mais próximo.",
         "E": "oferecer líquidos até a pressão se normalizar."
       },
       "resposta_correta": "A",
@@ -7866,9 +7866,9 @@
       "enunciado": "<p>Na avaliação secundária de uma vítima inconsciente, em que não é possível obter o histórico diretamente, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aguardar a recuperação da consciência para iniciar qualquer avaliação.",
+        "A": "aguardar a recuperação espontânea da consciência para só então iniciar qualquer tipo de avaliação secundária.",
         "B": "supor que não haja alergias nem doenças prévias.",
-        "C": "dispensar qualquer histórico e prosseguir apenas com sinais vitais.",
+        "C": "dispensar qualquer histórico e prosseguir apenas com a aferição dos sinais vitais e a inspeção rápida do corpo.",
         "D": "buscar informações com testemunhas, familiares e pertences, como pulseiras de alerta e medicamentos.",
         "E": "acordar a vítima com tapas até que fale."
       },
@@ -7899,9 +7899,9 @@
       "enunciado": "<p>Durante a avaliação secundária, constata-se na vítima de trauma uma pelve instável, dolorosa à compressão. O socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "massagear a região com pomada anti-inflamatória.",
+        "A": "massagear a região com pomada anti-inflamatória para reduzir a dor e o edema local, mantendo a vítima deitada e aquecida.",
         "B": "comprimir a pelve várias vezes para confirmar a fratura.",
-        "C": "fazer a vítima levantar para testar a dor.",
+        "C": "fazer a vítima levantar para testar a dor e verificar se consegue apoiar o peso do corpo sobre os dois membros.",
         "D": "estimular a vítima a caminhar até a ambulância.",
         "E": "evitar manipular ou balançar a pelve repetidamente e manter a vítima imobilizada, pois há risco de hemorragia interna."
       },
@@ -7933,8 +7933,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "uma infecção grave que desencadeia resposta inflamatória sistêmica, e não a perda externa de sangue.",
-        "B": "a perda de grandes volumes de sangue visível.",
-        "C": "o bloqueio mecânico do fluxo pelo tamponamento cardíaco.",
+        "B": "a perda de grandes volumes de sangue visível, por ferimento aberto e sangramento externo contínuo e abundante.",
+        "C": "o bloqueio mecânico do fluxo pelo tamponamento cardíaco, com compressão do coração por líquido no pericárdio.",
         "D": "a lesão medular alta com bradicardia.",
         "E": "a ingestão de alimentos que causam alergia."
       },
@@ -7965,10 +7965,10 @@
       "enunciado": "<p>Considere a sequência da avaliação de uma vítima de trauma em via pública. A ordem correta é:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "histórico SAMPLE, avaliação primária, remoção imediata e avaliação da cena.",
+        "A": "histórico SAMPLE, avaliação primária, remoção imediata da vítima e só depois a avaliação da cena e da segurança local.",
         "B": "reavaliação, avaliação primária, avaliação secundária e segurança da cena.",
         "C": "segurança da cena, avaliação primária com correção das ameaças à vida, avaliação secundária e reavaliação contínua.",
-        "D": "avaliação primária, aproximação sem proteção, segurança da cena e alta.",
+        "D": "avaliação primária, aproximação sem proteção, segurança da cena e alta imediata da vítima no próprio local.",
         "E": "avaliação secundária, avaliação primária, segurança da cena e reavaliação."
       },
       "resposta_correta": "C",
@@ -7998,9 +7998,9 @@
       "enunciado": "<p>Uma vítima de choque que vomita e passa a ter rebaixamento da consciência, sem suspeita de trauma, deve ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deitada com a cabeça mais baixa que os pés e a boca fechada.",
+        "A": "deitada com a cabeça mais baixa que os pés e a boca fechada, sem monitoramento posterior.",
         "B": "colocada em posição lateral de segurança, com monitoramento da respiração e do pulso.",
-        "C": "mantida em pé, apoiada em duas pessoas.",
+        "C": "mantida em pé, apoiada em duas pessoas, até que o vômito cesse por completo.",
         "D": "mantida deitada de costas, sem qualquer alteração de posição.",
         "E": "sentada em cadeira, com apoio nas costas."
       },
@@ -8031,8 +8031,8 @@
       "enunciado": "<p>Quanto à pressão arterial, assinale a opção correta.</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "A pressão arterial é indiferente à perda de sangue.",
-        "B": "A pressão de 90 x 60 mmHg é sempre sinal de hipertensão.",
+        "A": "A pressão arterial é indiferente à perda de sangue, mantendo-se estável em qualquer hemorragia.",
+        "B": "A pressão de 90 x 60 mmHg é sempre sinal de hipertensão, qualquer que seja o quadro clínico.",
         "C": "A pressão diastólica corresponde à contração do ventrículo.",
         "D": "Pressões de repouso de 140 x 90 mmHg ou superiores caracterizam hipertensão arterial.",
         "E": "A hipotensão exclui o diagnóstico de choque."
@@ -8065,10 +8065,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "hipotensão importante, o que reforça a hipótese de choque grave.",
-        "B": "quadro de normalidade, pois o pulso radial é dispensável.",
+        "B": "quadro de normalidade, pois o pulso radial é dispensável na avaliação circulatória.",
         "C": "pressão arterial muito elevada.",
         "D": "ausência de risco, pela presença de pulso carotídeo.",
-        "E": "parada cardiorrespiratória, que exige DEA imediato."
+        "E": "parada cardiorrespiratória, que exige o uso imediato do DEA e início da RCP."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -8097,10 +8097,10 @@
       "enunciado": "<p>Ao chegar a uma cena de acidente com motocicleta em via movimentada, o primeiro cuidado do socorrista é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "levantar a vítima para tirá-la da pista.",
+        "A": "levantar a vítima para tirá-la da pista, antes de qualquer sinalização do local.",
         "B": "oferecer água para reduzir o susto.",
         "C": "fotografar o acidente para registro.",
-        "D": "remover imediatamente o capacete da vítima.",
+        "D": "remover imediatamente o capacete da vítima para facilitar a avaliação inicial.",
         "E": "avaliar os riscos e sinalizar o local antes de se aproximar da vítima."
       },
       "resposta_correta": "E",
@@ -8131,8 +8131,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "desligue o motor ou a ignição, a fim de reduzir o risco de incêndio.",
-        "B": "acenda um cigarro para sinalizar o local.",
-        "C": "derrame água sobre o tanque de combustível.",
+        "B": "acenda um cigarro para sinalizar o local e alertar os demais condutores.",
+        "C": "derrame água sobre o tanque de combustível para evitar vazamento de gasolina.",
         "D": "acelere o motor para verificar o funcionamento.",
         "E": "empine a moto para recolocá-la em movimento."
       },
@@ -8229,8 +8229,8 @@
       "enunciado": "<p>Uma das funções do capacete do motociclista é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "impedir qualquer lesão de coluna cervical.",
-        "B": "substituir o uso de óculos e de luvas.",
+        "A": "impedir qualquer lesão de coluna cervical em quedas, mesmo em altas velocidades.",
+        "B": "substituir o uso de óculos e de luvas, dispensando a proteção dos demais equipamentos.",
         "C": "evitar a ocorrência de acidentes.",
         "D": "aumentar a velocidade do veículo.",
         "E": "proteger a cabeça contra impactos, reduzindo o risco de lesões graves."
@@ -8263,10 +8263,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "tirar o capacete sozinha, com rapidez.",
-        "B": "dobrar o pescoço para olhar o ferimento.",
+        "B": "dobrar o pescoço para olhar o ferimento e localizar a origem da dor.",
         "C": "levantar-se e caminhar até a calçada.",
         "D": "permanecer imóvel, sem movimentar a cabeça, enquanto aguarda o socorro.",
-        "E": "girar o pescoço para verificar se há dor."
+        "E": "girar o pescoço devagar para verificar se há dor em cada movimento possível."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -8295,10 +8295,10 @@
       "enunciado": "<p>Um dos objetivos da estabilização manual da cabeça da vítima é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "mover a vítima com maior rapidez.",
+        "A": "mover a vítima com maior rapidez até o veículo de transporte mais próximo, sem esperar os demais socorristas.",
         "B": "aliviar a dor por meio de massagem no pescoço.",
         "C": "favorecer a ingestão de líquidos pela boca.",
-        "D": "tracionar a coluna para realinhá-la.",
+        "D": "tracionar a coluna para realinhá-la antes da chegada do socorro especializado e do colar cervical.",
         "E": "manter a cabeça alinhada com o corpo e evitar movimentos que agravem lesão cervical."
       },
       "resposta_correta": "E",
@@ -8329,10 +8329,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "retirado por socorristas treinados, a fim de permitir a abertura da via aérea e a RCP.",
-        "B": "mantido, impedindo qualquer manobra de reanimação.",
+        "B": "mantido, impedindo qualquer manobra de reanimação enquanto a vítima estiver usando o equipamento de proteção.",
         "C": "retirado por qualquer pessoa, puxando-o rapidamente para cima.",
         "D": "mantido, até a chegada do médico no hospital.",
-        "E": "cortado ao meio com tesoura, sem qualquer cuidado."
+        "E": "cortado ao meio com tesoura, sem qualquer cuidado com a estabilização da cabeça e do pescoço da vítima."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -8361,10 +8361,10 @@
       "enunciado": "<p>Para a retirada correta do capacete de um acidentado, são necessários, preferencialmente,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas um socorrista, que deve agir com rapidez.",
+        "A": "apenas um socorrista, que deve agir com rapidez para liberar a cabeça da vítima.",
         "B": "dois socorristas, sendo um deles responsável por estabilizar a cabeça e o pescoço.",
         "C": "um socorrista e a própria vítima, que ajuda a puxar.",
-        "D": "nenhum socorrista, pois o capacete sai sozinho.",
+        "D": "nenhum socorrista, pois o capacete sai sozinho quando a vítima é colocada de lado.",
         "E": "quatro socorristas segurando cada membro da vítima."
       },
       "resposta_correta": "B",
@@ -8394,9 +8394,9 @@
       "enunciado": "<p>O Código de Trânsito Brasileiro estabelece que o condutor que, na ocasião do acidente, deixa de prestar imediato socorro à vítima</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "só responde se a vítima falecer no local.",
+        "A": "só responde criminalmente se a vítima falecer no local do acidente.",
         "B": "deve apenas pagar os danos materiais.",
-        "C": "comete apenas infração leve, sem consequência penal.",
+        "C": "comete apenas infração leve, sem consequência penal, sujeita a multa.",
         "D": "está isento de responsabilidade se estiver com pressa.",
         "E": "pratica crime de omissão de socorro de trânsito (art. 304)."
       },
@@ -8427,11 +8427,11 @@
       "enunciado": "<p>Em um acidente de moto, a prioridade do socorrista em relação a sangramentos é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplicar pó de café sobre a ferida.",
+        "A": "aplicar pó de café ou outro produto caseiro sobre a ferida para estancar o sangue.",
         "B": "lavar todos os ferimentos com álcool antes de qualquer medida.",
         "C": "retirar fragmentos de vidro ou metal cravados no corpo.",
         "D": "controlar hemorragias importantes por compressão direta do ferimento.",
-        "E": "ignorar o sangramento enquanto a vítima estiver consciente."
+        "E": "ignorar o sangramento enquanto a vítima estiver consciente e com os sinais estáveis."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -8460,10 +8460,10 @@
       "enunciado": "<p>É conduta inadequada com o motociclista acidentado:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "manter a calma e conversar com a vítima.",
+        "A": "manter a calma e conversar com a vítima para tranquilizá-la e avaliá-la.",
         "B": "oferecer água ou alimentos enquanto aguarda a chegada do socorro.",
-        "C": "aguardar o socorro sem movimentá-la desnecessariamente.",
-        "D": "informar ao SAMU o local do acidente.",
+        "C": "aguardar o socorro sem movimentá-la desnecessariamente, mantendo-a aquecida.",
+        "D": "informar ao SAMU o local do acidente com pontos de referência e o número de vítimas.",
         "E": "observar sua respiração e seu nível de consciência."
       },
       "resposta_correta": "B",
@@ -8493,10 +8493,10 @@
       "enunciado": "<p>O colar cervical, quando disponível, tem por finalidade</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "substituir a prancha longa no transporte.",
+        "A": "substituir a prancha longa no transporte, dispensando outros dispositivos de imobilização.",
         "B": "curar a lesão cervical rapidamente.",
         "C": "limitar os movimentos do pescoço da vítima com suspeita de lesão cervical.",
-        "D": "facilitar a retirada do capacete pela frente.",
+        "D": "facilitar a retirada do capacete pela frente, sem necessidade de estabilizar a cabeça.",
         "E": "tracionar a coluna para aliviar a dor."
       },
       "resposta_correta": "C",
@@ -8527,10 +8527,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "transportar a vítima com suspeita de lesão de coluna de forma imobilizada.",
-        "B": "fixar apenas as pernas em casos de fratura.",
+        "B": "fixar apenas as pernas em casos de fratura, sem envolver o tronco da vítima.",
         "C": "servir de apoio para a vítima caminhar.",
         "D": "substituir o atendimento médico no local.",
-        "E": "manter a vítima sentada durante o transporte."
+        "E": "manter a vítima sentada durante o transporte, com apoio das costas na prancha."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -8559,9 +8559,9 @@
       "enunciado": "<p>Segundo o Código de Trânsito Brasileiro, os condutores de motocicletas só podem circular nas vias utilizando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "capacete somente à noite e em rodovias.",
+        "A": "capacete somente à noite e em rodovias, ficando dispensado nas vias urbanas.",
         "B": "apenas bonés com proteção para o sol.",
-        "C": "capacete, desde que a velocidade seja alta.",
+        "C": "capacete, desde que a velocidade seja alta, dispensado nas demais situações de circulação.",
         "D": "óculos de grau, dispensado o capacete.",
         "E": "capacete de segurança com viseira ou óculos de proteção, entre outras exigências."
       },
@@ -8593,10 +8593,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "mantê-lo, estabilizando a cabeça, até a chegada do atendimento especializado.",
-        "B": "retirá-lo de imediato por precaução.",
-        "C": "cortá-lo, para facilitar a respiração.",
+        "B": "retirá-lo de imediato por precaução, antes de qualquer avaliação da vítima.",
+        "C": "cortá-lo, para facilitar a respiração, mesmo com a vítima respirando normalmente.",
         "D": "pedir que a própria vítima o retire.",
-        "E": "puxá-lo para cima enquanto a vítima se levanta."
+        "E": "puxá-lo para cima enquanto a vítima se levanta apoiada pelo socorrista."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -8790,11 +8790,11 @@
       "enunciado": "<p>Na técnica de retirada do capacete, o socorrista que realiza a estabilização da cabeça posiciona suas mãos</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "sobre os ombros, apertando com firmeza.",
+        "A": "sobre os ombros, apertando com firmeza para impedir qualquer movimento do tronco e da cabeça da vítima.",
         "B": "nas orelhas, tracionando a cabeça para cima.",
         "C": "sobre o nariz e a boca da vítima, para vedar o ar.",
         "D": "nas laterais da cabeça, apoiando a mandíbula e a região occipital, sem forçar movimentos.",
-        "E": "na nuca, flexionando o pescoço para frente."
+        "E": "na nuca, flexionando o pescoço para frente para facilitar a saída do capacete pela parte de trás da cabeça."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -8823,11 +8823,11 @@
       "enunciado": "<p>Ao retirar um capacete integral, o segundo socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deixar o capacete preso pela jugular e puxar a vítima pelos ombros.",
+        "A": "deixar o capacete preso pela jugular e puxar a vítima pelos ombros para liberá-lo da cabeça sem muito esforço.",
         "B": "puxar o capacete em linha reta, com força, para cima.",
         "C": "abrir a jugular e puxar o capacete lateralmente, inclinando-o ligeiramente para frente para liberar o nariz.",
         "D": "girar o capacete em movimentos circulares para soltá-lo.",
-        "E": "fletir o pescoço da vítima para facilitar a saída da nuca."
+        "E": "fletir o pescoço da vítima para facilitar a saída da nuca, tracionando o capacete para cima em linha reta."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -8856,9 +8856,9 @@
       "enunciado": "<p>Antes da retirada do capacete, é recomendável que o socorrista</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplique compressas de gelo no rosto da vítima.",
+        "A": "aplique compressas de gelo no rosto da vítima para reduzir o inchaço local.",
         "B": "remova os óculos da vítima, se houver, e solte ou corte a jugular.",
-        "C": "coloque um travesseiro sob os ombros da vítima.",
+        "C": "coloque um travesseiro sob os ombros da vítima para alinhar a coluna cervical.",
         "D": "peça que a vítima engula saliva várias vezes.",
         "E": "realize massagem cardíaca preventiva."
       },
@@ -8889,10 +8889,10 @@
       "enunciado": "<p>Depois de retirado o capacete, o socorrista deve manter</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a cabeça girada para o lado para observar o rosto.",
+        "A": "a cabeça girada para o lado para observar o rosto e checar a respiração da vítima durante todo o transporte.",
         "B": "as mãos soltas, para auxiliar na reanimação do colega.",
         "C": "a vítima sentada, para facilitar o transporte.",
-        "D": "a cabeça fletida sobre o peito para prevenir vômito.",
+        "D": "a cabeça fletida sobre o peito para prevenir vômito, até que o colar cervical seja dispensado pelo médico.",
         "E": "a estabilização manual da cabeça até que o colar cervical e o dispositivo de imobilização sejam instalados."
       },
       "resposta_correta": "E",
@@ -8922,10 +8922,10 @@
       "enunciado": "<p>Em um motociclista inconsciente com via aérea obstruída por vômito ou sangue, o capacete</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deve permanecer, desde que a vítima esteja deitada de lado.",
+        "A": "deve permanecer, desde que a vítima esteja deitada de lado e sem qualquer sangramento.",
         "B": "deve ser removido somente após o transporte ao hospital.",
         "C": "deve ser removido, pois o acesso à via aérea tem prioridade sobre a proteção da coluna.",
-        "D": "não deve ser removido, pois a coluna tem prioridade absoluta.",
+        "D": "não deve ser removido, pois a proteção da coluna tem prioridade absoluta sobre a via aérea.",
         "E": "só pode ser removido por médico, mesmo havendo risco de asfixia."
       },
       "resposta_correta": "C",
@@ -8955,9 +8955,9 @@
       "enunciado": "<p>Para abrir a via aérea de uma vítima de trauma com suspeita de lesão cervical, a manobra recomendada pelos protocolos é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a elevação da nuca com um travesseiro.",
+        "A": "a elevação da nuca com um travesseiro, flexionando levemente o pescoço da vítima.",
         "B": "a tração (anteriorização) da mandíbula, sem extensão do pescoço.",
-        "C": "a hiperextensão da cabeça com elevação do queixo, sempre.",
+        "C": "a hiperextensão da cabeça com elevação do queixo, sempre, em qualquer trauma.",
         "D": "a flexão forçada do pescoço sobre o tórax.",
         "E": "o giro completo da cabeça para a esquerda."
       },
@@ -8989,8 +8989,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a retirada incorreta pode movimentar a coluna cervical e agravar eventual lesão.",
-        "B": "o capacete funciona como colar cervical completo.",
-        "C": "o capacete torna desnecessária a avaliação da vítima.",
+        "B": "o capacete funciona como colar cervical completo, dispensando outras medidas de imobilização.",
+        "C": "o capacete torna desnecessária a avaliação da vítima, pois protege todo o crânio e a face.",
         "D": "o capacete impede qualquer vômito.",
         "E": "o capacete evita a hemorragia interna."
       },
@@ -9021,11 +9021,11 @@
       "enunciado": "<p>Um servidor presencia um acidente de moto: o condutor está no chão, consciente, com capacete, queixando-se de dor na perna. Qual conduta é adequada?</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Pedir que a vítima se levante para testar o apoio da perna.",
-        "B": "Colocar a vítima na parte de trás de um carro particular.",
+        "A": "Pedir que a vítima se levante para testar o apoio da perna e avaliar a dor, com ajuda de um passante ou de outro motociclista.",
+        "B": "Colocar a vítima na parte de trás de um carro particular e levá-la rapidamente ao hospital mais próximo.",
         "C": "Dar analgésico e deixá-la sozinha até melhorar.",
         "D": "Acionar o serviço de emergência, orientar a vítima a não se mexer e estabilizar manualmente sua cabeça, se treinado.",
-        "E": "Retirar o capacete e a jaqueta para avaliar as pernas."
+        "E": "Retirar o capacete e a jaqueta para avaliar as pernas e verificar a extensão da lesão antes da chegada do socorro."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -9054,9 +9054,9 @@
       "enunciado": "<p>No acidente de moto, a palavra “cinemática” do trauma refere-se à</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "sequência de fotografias do local para a perícia.",
+        "A": "sequência de fotografias do local para a perícia e o registro do acidente.",
         "B": "medida do tempo de reação do condutor.",
-        "C": "velocidade com que o socorro chega ao local.",
+        "C": "velocidade com que o socorro chega ao local, medida em minutos desde o acionamento.",
         "D": "técnica de colocação do capacete na vítima.",
         "E": "análise do mecanismo e da energia envolvida na colisão para suspeitar de lesões."
       },
@@ -9087,8 +9087,8 @@
       "enunciado": "<p>Se o motociclista acidentado apresenta sangramento pelo ouvido após forte impacto na cabeça, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplicar pressão firme com o dedo no interior do ouvido.",
-        "B": "introduzir algodão no ouvido para estancar o sangue.",
+        "A": "aplicar pressão firme com o dedo no interior do ouvido para conter o sangramento e evitar a saída de líquido.",
+        "B": "introduzir algodão no ouvido para estancar o sangue e impedir a saída de líquido, trocando-o quando necessário.",
         "C": "inclinar a cabeça da vítima para trás.",
         "D": "cobrir o local de forma frouxa com gaze limpa, sem tamponar o canal, e informar ao serviço de emergência.",
         "E": "lavar o canal auditivo com água."
@@ -9121,8 +9121,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "avaliá-lo como segunda vítima, com os mesmos cuidados de proteção da coluna e da via aérea.",
-        "B": "ignorá-lo, por supor que esteja ileso.",
-        "C": "atendê-lo somente após a chegada da polícia.",
+        "B": "ignorá-lo, por supor que esteja ileso, já que não tem queixas imediatas nem ferimentos visíveis.",
+        "C": "atendê-lo somente após a chegada da polícia, que deve autorizar e acompanhar o atendimento.",
         "D": "liberá-lo para ir embora se estiver andando.",
         "E": "atender primeiro o condutor, mesmo que o passageiro esteja inconsciente."
       },
@@ -9154,10 +9154,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "dispensar a estabilização da cabeça.",
-        "B": "confirmar que a vítima pode ser transportada em carro comum.",
+        "B": "confirmar que a vítima pode ser transportada em carro comum, sem esperar o socorro especializado.",
         "C": "perceber precocemente alterações do nível de consciência, da respiração e da circulação.",
         "D": "comprovar que o capacete é desnecessário.",
-        "E": "substituir o acionamento do serviço de emergência."
+        "E": "substituir o acionamento do serviço de emergência, caso a vítima pareça estável e consciente."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -9186,9 +9186,9 @@
       "enunciado": "<p>Segundo as regras de trânsito, o passageiro de motocicleta</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pode usar boné de proteção no lugar do capacete.",
+        "A": "pode usar boné de proteção no lugar do capacete, em trajetos curtos e de baixa velocidade.",
         "B": "também deve usar capacete de segurança, sendo a ausência dele infração de trânsito.",
-        "C": "é dispensado de capacete em vias urbanas de baixa velocidade.",
+        "C": "é dispensado de capacete em vias urbanas de baixa velocidade, conforme o limite local.",
         "D": "é dispensado de capacete se estiver na garupa.",
         "E": "só precisa de capacete se for menor de idade."
       },
@@ -9219,8 +9219,8 @@
       "enunciado": "<p>Em um acidente de moto com fratura suspeita de fêmur, a medida mais adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "colocar a perna para cima e dobrar o joelho várias vezes.",
-        "B": "tentar alinhar o osso com tração forte, para reduzir a dor.",
+        "A": "colocar a perna para cima e dobrar o joelho várias vezes para aliviar a dor e reduzir o inchaço local.",
+        "B": "tentar alinhar o osso com tração forte, para reduzir a dor e o encurtamento do membro.",
         "C": "fazer a vítima caminhar para testar o apoio.",
         "D": "massagear a coxa para aliviar a dor.",
         "E": "imobilizar o membro na posição encontrada, evitando movimentá-lo, e acionar o serviço de emergência."
@@ -9253,10 +9253,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o local exato, o número de vítimas, o uso de capacete e o estado de consciência.",
-        "B": "somente o nome do condutor e da seguradora.",
+        "B": "somente o nome do condutor e da seguradora do veículo, sem dados do local.",
         "C": "apenas o modelo e a cor da moto.",
-        "D": "a opinião sobre quem teve culpa pelo acidente.",
-        "E": "apenas que houve um acidente, sem outros dados."
+        "D": "a opinião sobre quem teve culpa pelo acidente e sobre as infrações cometidas pelos envolvidos.",
+        "E": "apenas que houve um acidente, sem outros dados, para não sobrecarregar a central."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -9285,9 +9285,9 @@
       "enunciado": "<p>Assinale a alternativa que traz um sinal de alerta de lesão medular em motociclista consciente.</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Sono leve e sensação de frio nas mãos.",
+        "A": "Sono leve e sensação de frio nas mãos e nos pés, sem alteração de força.",
         "B": "Coceira nos braços.",
-        "C": "Dor de cabeça que melhora ao caminhar.",
+        "C": "Dor de cabeça que melhora ao caminhar e sem outros sintomas.",
         "D": "Formigamento, perda de força ou de sensibilidade nos membros.",
         "E": "Fome e sede intensas."
       },
@@ -9318,10 +9318,10 @@
       "enunciado": "<p>A sinalização do local de acidente de moto com triângulo de segurança serve para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "impedir que as testemunhas deixem o local.",
+        "A": "impedir que as testemunhas deixem o local antes da chegada da polícia e da perícia técnica.",
         "B": "alertar os demais condutores e evitar novas colisões com as vítimas e os socorristas.",
         "C": "orientar a vítima sobre a direção do hospital.",
-        "D": "delimitar o local da perícia policial somente.",
+        "D": "delimitar o local da perícia policial somente, sem relação com a proteção das vítimas e dos socorristas.",
         "E": "indicar que o socorro já foi concluído."
       },
       "resposta_correta": "B",
@@ -9351,11 +9351,11 @@
       "enunciado": "<p>Um motociclista consciente vomita dentro do capacete integral e relata que está sufocando. A conduta adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "oferecer água para diluir o conteúdo do vômito.",
-        "B": "manter o capacete fechado e pedir que respire devagar.",
+        "A": "oferecer água para diluir o conteúdo do vômito e facilitar a respiração da vítima dentro do capacete fechado.",
+        "B": "manter o capacete fechado e pedir que respire devagar, até que o vômito pare por conta própria e a vítima se acalme, tranquilizando a vítima durante a espera.",
         "C": "retirar o capacete com dois socorristas, mantendo a estabilização da cabeça, para permitir a drenagem do vômito e proteger a via aérea.",
-        "D": "apenas levantar a viseira e aguardar que o vômito pare.",
-        "E": "puxar a vítima pelos braços para sentá-la e esvaziar o capacete."
+        "D": "apenas levantar a viseira e aguardar que o vômito pare, sem retirar o capacete nem estabilizar a cabeça da vítima, mesmo que ela esteja inconsciente.",
+        "E": "puxar a vítima pelos braços para sentá-la e esvaziar o capacete, mesmo com suspeita de lesão na coluna cervical."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -9418,9 +9418,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a queixa de dor cervical em vítima consciente, que respira bem e conversa normalmente.",
-        "B": "a parada cardiorrespiratória, para realizar RCP e uso do DEA.",
-        "C": "a obstrução da via aérea por vômito, que o capacete impede de remover.",
-        "D": "o capacete mal ajustado, que impede a estabilização da cabeça.",
+        "B": "a parada cardiorrespiratória, para realizar RCP e uso do DEA com a via aérea livre.",
+        "C": "a obstrução da via aérea por vômito, que o capacete impede de remover, mesmo com a vítima inconsciente.",
+        "D": "o capacete mal ajustado, que impede a estabilização da cabeça e o manejo adequado da via aérea.",
         "E": "a impossibilidade de avaliar ou manejar a via aérea com o capacete."
       },
       "resposta_correta": "A",
@@ -9450,11 +9450,11 @@
       "enunciado": "<p>Na técnica de retirada do capacete, é erro grave</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "alargar lateralmente o capacete ao passar pelas orelhas.",
+        "A": "alargar lateralmente o capacete ao passar pelas orelhas e pelo nariz, mantendo a cabeça alinhada.",
         "B": "comunicar-se com o parceiro antes de cada passo.",
-        "C": "estabilizar a cabeça com as duas mãos durante todo o procedimento.",
+        "C": "estabilizar a cabeça com as duas mãos durante todo o procedimento, sem soltá-la em nenhum momento.",
         "D": "puxar o capacete em linha reta para cima, sem inclinação, causando extensão forçada do pescoço.",
-        "E": "afrouxar a jugular antes de qualquer tração."
+        "E": "afrouxar a jugular antes de qualquer tração e comunicar a manobra à vítima, se estiver consciente."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -9483,10 +9483,10 @@
       "enunciado": "<p>Um motociclista inconsciente, com capacete integral e respiração ruidosa, é atendido por um servidor leigo, sozinho, até a chegada do SAMU. A conduta mais consistente é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "sentá-la contra uma parede para melhorar a respiração.",
-        "B": "retirar o capacete com um puxão rápido, sem avisar ninguém.",
-        "C": "deixar a vítima sem observação, para não piorar a lesão cervical.",
-        "D": "oferecer água para que respire melhor.",
+        "A": "sentá-la contra uma parede para melhorar a respiração, mesmo com suspeita de lesão cervical, até a chegada do SAMU.",
+        "B": "retirar o capacete com um puxão rápido, sem avisar ninguém, para liberar a via aérea e esperar a chegada da equipe médica.",
+        "C": "deixar a vítima sem observação, para não piorar a lesão cervical, afastando-se até a chegada do SAMU para chamar mais pessoas e sem retornar ao local.",
+        "D": "oferecer água para que respire melhor e acompanhar a vítima até que o socorro chegue, sem verificar a respiração com frequência nem pedir ajuda a terceiros.",
         "E": "acionar o 192, manter a via aérea pérvia com o mínimo de movimentação e priorizar a respiração, caso haja vômito, mesmo que isso exija mover a vítima."
       },
       "resposta_correta": "E",
@@ -9516,11 +9516,11 @@
       "enunciado": "<p>Em relação ao volume do capacete, é correto afirmar que, durante a remoção,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a cabeça deve ser sempre fletida para o tórax.",
+        "A": "a cabeça deve ser sempre fletida para o tórax, a fim de facilitar a passagem do capacete.",
         "B": "a cabeça deve ser mantida em posição neutra, pois a retirada pode alterar o alinhamento cervical.",
-        "C": "o pescoço deve ser estendido para facilitar a passagem do capacete.",
+        "C": "o pescoço deve ser estendido para facilitar a passagem do capacete pela região da nuca e do queixo.",
         "D": "o alinhamento cervical independe da presença do capacete.",
-        "E": "o capacete deve ser retirado em movimento rápido para minimizar a dor."
+        "E": "o capacete deve ser retirado em movimento rápido para minimizar a dor e o tempo de exposição da vítima."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -9549,11 +9549,11 @@
       "enunciado": "<p>Na imobilização de uma vítima na prancha longa, a ordem recomendada de fixação dos segmentos é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pernas, cabeça e por último o tronco.",
-        "B": "somente a cabeça, dispensando-se o tronco.",
+        "A": "pernas, cabeça e por último o tronco, com a pelve solta sobre a prancha.",
+        "B": "somente a cabeça, dispensando-se o tronco e os demais segmentos do corpo da vítima.",
         "C": "tronco, pelve e membros inferiores, deixando a cabeça para o final, com apoios laterais.",
         "D": "somente os braços e as mãos.",
-        "E": "cabeça, pernas e depois o tronco."
+        "E": "cabeça, pernas e depois o tronco, mantendo a pelve livre para a movimentação, sem apoios laterais."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -9583,9 +9583,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pode comprometer os músculos respiratórios e a ventilação.",
-        "B": "impede o sangramento externo de qualquer ferida.",
-        "C": "provoca imediatamente aumento da força nos membros.",
-        "D": "causa apenas dor local, sem outras consequências.",
+        "B": "impede o sangramento externo de qualquer ferida aberta do corpo.",
+        "C": "provoca imediatamente aumento da força nos membros superiores.",
+        "D": "causa apenas dor local, sem outras consequências para a respiração.",
         "E": "sempre elimina o risco de hemorragia."
       },
       "resposta_correta": "A",
@@ -9615,9 +9615,9 @@
       "enunciado": "<p>Sobre o rolamento (movimento em bloco) para colocar o motociclista em decúbito dorsal na prancha, é correto afirmar:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deve ser feito por rotação repentina do tronco sobre a pelve.",
-        "B": "pode ser feito por um único socorrista, para ganhar tempo.",
-        "C": "exige que a cabeça gire livremente, acompanhando o olhar da vítima.",
+        "A": "deve ser feito por rotação repentina do tronco sobre a pelve, em movimento único e rápido.",
+        "B": "pode ser feito por um único socorrista, para ganhar tempo, desde que a vítima esteja consciente.",
+        "C": "exige que a cabeça gire livremente, acompanhando o olhar da vítima durante todo o movimento.",
         "D": "dispensa a estabilização manual da cabeça.",
         "E": "deve ser conduzido por um comando, com a cabeça mantida alinhada ao tronco durante todo o giro."
       },
@@ -9648,11 +9648,11 @@
       "enunciado": "<p>Constitui prática inadequada na abordagem a um motociclista caído, com sinais de choque e suspeita de lesão de coluna:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "priorizar o controle de hemorragias externas importantes.",
-        "B": "informar ao serviço de emergência que há sinais de choque.",
+        "A": "priorizar o controle de hemorragias externas importantes, antes de qualquer outra medida.",
+        "B": "informar ao serviço de emergência que há sinais de choque e suspeita de lesão de coluna.",
         "C": "elevar o tronco e flexionar o pescoço da vítima para que respire com mais facilidade.",
-        "D": "manter a vítima aquecida, se possível, sem mobilizá-la.",
-        "E": "manter a estabilização manual da cabeça durante a espera."
+        "D": "manter a vítima aquecida, se possível, sem mobilizá-la nem retirar o capacete de imediato.",
+        "E": "manter a estabilização manual da cabeça durante toda a espera pela equipe de resgate."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -9681,11 +9681,11 @@
       "enunciado": "<p>Considere um grave acidente de moto com duas vítimas: a primeira, consciente e gritando, com fratura exposta de tíbia e sangramento moderado; a segunda, inconsciente, sem respirar. Segundo a lógica do atendimento, o socorrista treinado deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aguardar a polícia para orientar quem socorrer.",
-        "B": "atender à que sangra, pois o sangue é mais visível.",
-        "C": "atender as duas ao mesmo tempo, sem priorizar.",
+        "A": "aguardar a polícia para orientar quem socorrer primeiro e como dividir o atendimento entre as vítimas, conforme a decisão dos policiais.",
+        "B": "atender à que sangra, pois o sangue é mais visível e o sangramento é a maior causa de morte no local.",
+        "C": "atender as duas ao mesmo tempo, sem priorizar, alternando rapidamente entre as vítimas até a chegada do SAMU e do apoio de outros socorristas.",
         "D": "atender primeiro a que está sem respirar, pois a ameaça à vida é mais imediata e a possibilidade de recuperação é maior com ação precoce.",
-        "E": "atender a que grita, por estar com a dor mais intensa."
+        "E": "atender a que grita, por estar com a dor mais intensa, deixando as demais para a equipe especializada."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -9714,11 +9714,11 @@
       "enunciado": "<p>Ao proceder à retirada do capacete com suspeita de lesão cervical, o socorrista responsável pela estabilização deve continuar sua função</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "até que a vítima acorde e consiga andar.",
+        "A": "até que a vítima acorde e consiga andar com auxílio do socorrista, sem necessidade de imobilização.",
         "B": "até que outro dispositivo de imobilização, como o colar cervical, esteja em posição e a vítima esteja imobilizada.",
-        "C": "somente enquanto houver curiosos observando.",
-        "D": "por apenas alguns segundos, soltando a cabeça assim que o capacete sair.",
-        "E": "somente se a vítima pedir."
+        "C": "somente enquanto houver curiosos observando, quando então a estabilização manual pode ser dispensada, se o socorrista estiver cansado.",
+        "D": "por apenas alguns segundos, soltando a cabeça assim que o capacete sair, para iniciar o exame físico.",
+        "E": "somente se a vítima pedir, pois a estabilização depende da vontade e do desconforto referido por ela."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -9748,10 +9748,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pode responder pelo crime de omissão de socorro, ainda que a vítima tenha apenas ferimentos leves.",
-        "B": "responde apenas por multa administrativa.",
-        "C": "só responde se for parente da vítima.",
-        "D": "nunca responde, pois o dever de socorro é apenas moral.",
-        "E": "só responde se a vítima falecer em decorrência da omissão."
+        "B": "responde apenas por multa administrativa, sem qualquer consequência criminal.",
+        "C": "só responde se for parente da vítima ou tiver contribuído para o acidente.",
+        "D": "nunca responde, pois o dever de socorro é apenas moral e depende da boa vontade de quem passa pelo local.",
+        "E": "só responde se a vítima falecer em decorrência da omissão, comprovada pela perícia no local."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -9780,11 +9780,11 @@
       "enunciado": "<p>Diante de motociclista caído e inconsciente, em via movimentada, a sequência mais adequada é:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "retirar o capacete, levantar a vítima e transportá-la no carro mais próximo.",
+        "A": "retirar o capacete, levantar a vítima e transportá-la no carro mais próximo, sem estabilizar a cabeça nem acionar o socorro de emergência.",
         "B": "sinalizar o local, acionar o 192, avaliar respiração e via aérea com estabilização da cabeça e agir conforme os achados, incluindo RCP se necessário.",
-        "C": "iniciar compressões sem checar a cena, a respiração ou a resposta da vítima.",
-        "D": "oferecer água, aguardar que acorde e só então chamar o socorro.",
-        "E": "aguardar a chegada da polícia para só depois se aproximar da vítima."
+        "C": "iniciar compressões sem checar a cena, a respiração ou a resposta da vítima, e só depois sinalizar o local e chamar o socorro, deixando a sinalização para depois.",
+        "D": "oferecer água, aguardar que acorde e só então chamar o socorro, mantendo a vítima sentada na calçada, longe do tráfego.",
+        "E": "aguardar a chegada da polícia para só depois se aproximar da vítima, mesmo que ela esteja inconsciente e sem respirar."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -9815,8 +9815,8 @@
       "alternativas": {
         "A": "formar grandes bolhas e exposição da derme úmida.",
         "B": "atingir músculos e ossos, sem dor.",
-        "C": "provocar pele esbranquiçada e totalmente insensível.",
-        "D": "atingir todas as camadas da pele, com aspecto carbonizado.",
+        "C": "provocar pele esbranquiçada e totalmente insensível, com lesão profunda.",
+        "D": "atingir todas as camadas da pele, com aspecto carbonizado e ausência de dor.",
         "E": "atingir apenas a epiderme, com vermelhidão, dor e ausência de bolhas."
       },
       "resposta_correta": "E",
@@ -9879,10 +9879,10 @@
       "enunciado": "<p>A queimadura de terceiro grau tem como característica</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "coceira intensa sem mudanças na aparência da pele.",
-        "B": "vermelhidão discreta, com dor intensa e sem lesão visível.",
-        "C": "apenas ressecamento da pele sem alteração de cor.",
-        "D": "bolhas pequenas que se rompem em horas.",
+        "A": "coceira intensa sem mudanças na aparência da pele, apenas com descamação posterior leve e rápida.",
+        "B": "vermelhidão discreta, com dor intensa e sem lesão visível, regredindo em poucos dias sem sequelas.",
+        "C": "apenas ressecamento da pele sem alteração de cor, acompanhado de dor intensa e formação de grandes bolhas.",
+        "D": "bolhas pequenas que se rompem em horas, com dor intensa e cicatrização rápida da epiderme, sem sequelas.",
         "E": "destruição de todas as camadas da pele, com aspecto esbranquiçado ou carbonizado e pouca dor no local."
       },
       "resposta_correta": "E",
@@ -9913,10 +9913,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "resfriar a área com água corrente em temperatura ambiente.",
-        "B": "aplicar gelo diretamente sobre a lesão.",
-        "C": "passar pasta de dente sobre a pele.",
-        "D": "cobrir com manteiga ou óleo.",
-        "E": "estourar as bolhas para aliviar a pressão."
+        "B": "aplicar gelo diretamente sobre a lesão por cerca de vinte minutos.",
+        "C": "passar pasta de dente sobre a pele para aliviar o ardor e proteger a lesão.",
+        "D": "cobrir com manteiga ou óleo para manter a pele hidratada.",
+        "E": "estourar as bolhas para aliviar a pressão e aumentar o conforto local."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -9945,9 +9945,9 @@
       "enunciado": "<p>Em primeiros socorros, é conduta INCORRETA na queimadura:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "resfriar com água corrente em temperatura ambiente.",
-        "B": "cobrir a área com pano limpo e úmido.",
-        "C": "procurar atendimento se a queimadura for extensa.",
+        "A": "resfriar com água corrente em temperatura ambiente por vários minutos.",
+        "B": "cobrir a área com pano limpo e úmido, trocando-o conforme necessário.",
+        "C": "procurar atendimento se a queimadura for extensa ou atingir áreas críticas do corpo.",
         "D": "aplicar substâncias caseiras, como pasta de dente, manteiga ou borra de café.",
         "E": "remover anéis e pulseiras da região afetada, antes do inchaço."
       },
@@ -9978,10 +9978,10 @@
       "enunciado": "<p>As bolhas de uma queimadura devem ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "furadas com alfinete previamente aquecido.",
+        "A": "furadas com alfinete aquecido na chama do fogão.",
         "B": "massageadas até que se rompam.",
         "C": "preservadas, pois protegem contra infecção.",
-        "D": "estouradas imediatamente com agulha.",
+        "D": "estouradas imediatamente com agulha esterilizada.",
         "E": "retiradas com a mão para aliviar a dor."
       },
       "resposta_correta": "C",
@@ -10044,11 +10044,11 @@
       "enunciado": "<p>Em queimadura química da pele, o primeiro procedimento é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplicar outra substância química para neutralizar o agente.",
-        "B": "cobrir imediatamente com curativo oclusivo, sem lavar.",
+        "A": "aplicar outra substância química para neutralizar o agente, como vinagre ou bicarbonato.",
+        "B": "cobrir imediatamente com curativo oclusivo, sem lavar, para isolar a pele da substância.",
         "C": "lavar o local com água corrente em abundância e retirar as roupas contaminadas.",
-        "D": "esfregar a pele com escova até a remoção da lesão.",
-        "E": "aplicar gelo, que bloqueia a ação do produto."
+        "D": "esfregar a pele com escova até a remoção da lesão e do resíduo químico.",
+        "E": "aplicar gelo, que bloqueia a ação do produto sobre a pele e reduz a dor."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -10077,11 +10077,11 @@
       "enunciado": "<p>Se as roupas de uma pessoa estiverem em chamas, a orientação correta é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "jogar álcool sobre as roupas.",
-        "B": "incentivar que fique em pé e se sacuda.",
-        "C": "puxar a roupa pela cabeça e deixá-la queimando no chão.",
+        "A": "jogar álcool sobre as roupas para que o fogo se extinga mais rapidamente.",
+        "B": "incentivar que fique em pé e se sacuda vigorosamente até o fogo se apagar.",
+        "C": "puxar a roupa pela cabeça e deixá-la queimando no chão, afastando-se em seguida do local.",
         "D": "pedir que pare, deite no chão e role, ou abafar o fogo com cobertor, evitando que corra.",
-        "E": "pedir que corra para apagar o fogo com o vento."
+        "E": "pedir que corra para apagar o fogo com o vento, procurando um local aberto."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -10111,10 +10111,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a perda temporária e breve da consciência, geralmente por diminuição momentânea do fluxo de sangue ao cérebro.",
-        "B": "o aumento súbito da pressão dentro do crânio.",
-        "C": "a convulsão com movimentos involuntários prolongados.",
-        "D": "a perda permanente da consciência por falta de ar.",
-        "E": "a parada total das funções do coração."
+        "B": "o aumento súbito da pressão dentro do crânio, com perda de consciência prolongada.",
+        "C": "a convulsão com movimentos involuntários prolongados, seguida de sonolência e confusão mental, em geral com mordedura de língua.",
+        "D": "a perda permanente da consciência por falta de ar, geralmente por obstrução das vias aéreas superiores.",
+        "E": "a parada total das funções do coração, com ausência de pulso e de respiração."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -10143,10 +10143,10 @@
       "enunciado": "<p>Diante de uma pessoa que desmaiou e respira, a conduta inicial adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dar tapas no rosto até que acorde.",
+        "A": "dar tapas no rosto até que acorde, estimulando assim a circulação cerebral.",
         "B": "mantê-la em pé, apoiada na parede.",
-        "C": "sentá-la em cadeira, com a cabeça inclinada para trás.",
-        "D": "oferecer água ou café, imediatamente.",
+        "C": "sentá-la em cadeira, com a cabeça inclinada para trás, mantendo o ambiente fechado.",
+        "D": "oferecer água ou café, imediatamente, mesmo antes de ela recuperar a consciência.",
         "E": "deitá-la e, se não houver trauma, elevar suas pernas, mantendo o ambiente arejado."
       },
       "resposta_correta": "E",
@@ -10209,11 +10209,11 @@
       "enunciado": "<p>Em regra, no atendimento de primeiros socorros, a vítima somente deve ser movimentada ou transportada</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "imediatamente, em qualquer situação, antes da avaliação.",
-        "B": "apenas por familiares, nunca por terceiros.",
+        "A": "imediatamente, em qualquer situação, antes mesmo da avaliação inicial e da verificação do local.",
+        "B": "apenas por familiares, nunca por terceiros, mesmo que haja risco de explosão, incêndio ou desabamento do imóvel.",
         "C": "se houver risco imediato à vida no local ou quando a movimentação for indispensável para o atendimento.",
-        "D": "somente depois que a vítima pedir.",
-        "E": "sempre que o socorrista desejar encurtar o tempo de atendimento."
+        "D": "somente depois que a vítima pedir ou autorizar, ainda que esteja inconsciente e em perigo.",
+        "E": "sempre que o socorrista desejar encurtar o tempo de atendimento ou facilitar o trabalho da equipe."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -10243,10 +10243,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "puxa a vítima pelas roupas ou pelas axilas, no sentido do eixo longitudinal do corpo, para retirá-la de local perigoso.",
-        "B": "carrega a vítima de pé, apoiada nos próprios braços.",
-        "C": "gira a vítima várias vezes antes de movê-la.",
-        "D": "rola a vítima pelo chão em movimentos de lado.",
-        "E": "puxa a vítima pelos pés, com a cabeça arrastando livre."
+        "B": "carrega a vítima de pé, apoiada nos próprios braços, acompanhando o movimento das pernas dela até o local seguro.",
+        "C": "gira a vítima várias vezes antes de movê-la, a fim de que o tronco fique paralelo à direção da remoção.",
+        "D": "rola a vítima pelo chão em movimentos de lado, mantendo-a de bruços e com a cabeça rodada para o lado do socorrista durante o deslocamento.",
+        "E": "puxa a vítima pelos pés, com a cabeça arrastando livre no solo, para retirá-la do local o mais depressa possível."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -10275,11 +10275,11 @@
       "enunciado": "<p>A mecânica corporal correta do socorrista ao levantar uma vítima ou carga consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "usar somente a força dos braços e das costas.",
+        "A": "usar somente a força dos braços e das costas, com o corpo inclinado sobre a carga e as pernas estendidas.",
         "B": "dobrar os joelhos, manter a coluna ereta e levantar o peso próximo ao corpo, com a força das pernas.",
-        "C": "manter os joelhos retos e curvar a coluna para frente.",
-        "D": "levantar a carga com os braços estendidos longe do corpo.",
-        "E": "girar rapidamente o tronco enquanto levanta o peso."
+        "C": "manter os joelhos retos e curvar a coluna para frente, com a carga afastada do tronco para facilitar o movimento.",
+        "D": "levantar a carga com os braços estendidos longe do corpo, para que as pernas apoiem toda a força necessária.",
+        "E": "girar rapidamente o tronco enquanto levanta o peso, aproveitando o impulso para completar o movimento."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -10605,11 +10605,11 @@
       "enunciado": "<p>Em uma queimadura no braço, é recomendável retirar anéis, pulseiras e relógios o mais rápido possível porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a retirada reduz a profundidade da queimadura.",
+        "A": "a retirada reduz a profundidade da queimadura e acelera a cicatrização da pele.",
         "B": "o edema pode surgir e impedir a retirada posterior, comprometendo a circulação.",
-        "C": "os objetos de metal causam infecção imediata.",
-        "D": "a pele só cicatriza sem a presença de joias.",
-        "E": "os metais atraem calor e prolongam a lesão."
+        "C": "os objetos de metal causam infecção imediata, mesmo quando a pele está íntegra.",
+        "D": "a pele só cicatriza sem a presença de joias, que impedem a formação do tecido novo.",
+        "E": "os metais atraem calor e prolongam a lesão, aprofundando a queimadura inicial."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -10671,8 +10671,8 @@
       "enunciado": "<p>Constitui sinal que sugere queimadura de vias aéreas:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dor de cabeça isolada sem outras alterações.",
-        "B": "pele ressecada nas mãos e coceira na garganta.",
+        "A": "dor de cabeça isolada sem outras alterações respiratórias.",
+        "B": "pele ressecada nas mãos e coceira leve na garganta, sem fuligem.",
         "C": "tosse que melhora ao beber água gelada.",
         "D": "sudorese discreta e rubor no rosto.",
         "E": "pelos do nariz chamuscados, fuligem na boca e rouquidão."
@@ -10705,10 +10705,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "face, mãos, pés, genitais ou grandes articulações, ou que seja extensa ou de terceiro grau.",
-        "B": "apenas uma pequena área do antebraço, de primeiro grau.",
-        "C": "somente a região das unhas, sem vermelhidão.",
-        "D": "uma área restrita da pele, com ardor discreto.",
-        "E": "apenas o dorso do pé, com leve vermelhidão."
+        "B": "apenas uma pequena área do antebraço, de primeiro grau, sem outras lesões associadas.",
+        "C": "somente a região das unhas, sem vermelhidão, dor intensa ou formação de bolhas.",
+        "D": "uma área restrita da pele, com ardor discreto, sem bolhas, e que melhora com o resfriamento.",
+        "E": "apenas o dorso do pé, com leve vermelhidão e sem bolhas, de primeiro grau."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -10737,11 +10737,11 @@
       "enunciado": "<p>Em queimadura química por produto em pó seco, antes de lavar com água, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cobrir com curativo apertado.",
-        "B": "aplicar vinagre sobre a pele.",
+        "A": "cobrir com curativo apertado, mantendo o pó em contato com a pele para que seja absorvido.",
+        "B": "aplicar vinagre sobre a pele, para neutralizar o pó químico antes de qualquer lavagem.",
         "C": "remover o excesso do pó, escovando-o da pele com cuidado e, em seguida, irrigar com água abundante.",
-        "D": "aplicar bicarbonato de sódio sobre a lesão.",
-        "E": "molhar imediatamente com pouca água para ativar a substância."
+        "D": "aplicar bicarbonato de sódio sobre a lesão, para neutralizar o produto antes de lavar com água.",
+        "E": "molhar imediatamente com pouca água para ativar a substância e facilitar a retirada do pó da pele e do vestuário."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -10770,11 +10770,11 @@
       "enunciado": "<p>Por que a queimadura elétrica exige avaliação médica mesmo quando a lesão cutânea aparenta ser pequena?</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Porque a eletricidade imuniza o corpo contra novas lesões.",
+        "A": "Porque a eletricidade imuniza o corpo contra novas lesões, tornando a avaliação médica opcional.",
         "B": "Porque a corrente pode causar lesões profundas e arritmias cardíacas, não visíveis na superfície.",
-        "C": "Porque não há risco, mas é exigência burocrática.",
-        "D": "Porque a corrente elétrica só causa queimadura de primeiro grau.",
-        "E": "Porque o choque elétrico deixa o corpo eletrizado por dias."
+        "C": "Porque não há risco real, mas a avaliação é uma exigência burocrática dos serviços de saúde.",
+        "D": "Porque a corrente elétrica só causa queimadura de primeiro grau, que exige acompanhamento posterior.",
+        "E": "Porque o choque elétrico deixa o corpo eletrizado por dias, com risco para quem o toca."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -10804,9 +10804,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "há apenas febre alta e calafrios.",
-        "B": "há parada cardíaca com perda completa da consciência.",
+        "B": "há parada cardíaca, com perda completa e prolongada da consciência.",
         "C": "há convulsão generalizada com mordedura de língua.",
-        "D": "há perda de consciência por mais de uma hora.",
+        "D": "há perda de consciência por mais de uma hora, com confusão.",
         "E": "há sensação de desmaio iminente, sem perda total da consciência."
       },
       "resposta_correta": "E",
@@ -10836,11 +10836,11 @@
       "enunciado": "<p>Entre as causas comuns de desmaio, incluem-se:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exercício leve, hidratação adequada e repouso.",
-        "B": "alimentação equilibrada, sono regular e ambientes arejados.",
+        "A": "exercício leve, hidratação adequada e repouso em ambiente fresco, com alimentação regular e sono suficiente.",
+        "B": "alimentação equilibrada, sono regular e ambientes arejados, com atividade física moderada e hidratação constante.",
         "C": "hipoglicemia, exposição ao calor, emoção intensa e queda de pressão ao levantar-se rapidamente.",
-        "D": "ingestão de água, lazer e exercício respiratório.",
-        "E": "uso de óculos de sol e protetor solar."
+        "D": "ingestão de água, lazer e exercício respiratório, com permanência em local ventilado e sombreado.",
+        "E": "uso de óculos de sol e protetor solar, além de permanência em ambientes bem iluminados e silenciosos."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -10869,11 +10869,11 @@
       "enunciado": "<p>Quando a pessoa recobra a consciência após um desmaio, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "oferecer bebida alcoólica para estimular a circulação.",
-        "B": "deixá-la sozinha, pois o problema acabou.",
-        "C": "aplicar pancadas nas costas para restabelecer a pressão.",
+        "A": "oferecer bebida alcoólica para estimular a circulação e acelerar a recuperação da vítima.",
+        "B": "deixá-la sozinha, pois o problema acabou e a vítima já está consciente e orientada.",
+        "C": "aplicar pancadas nas costas para restabelecer a pressão, em intervalos regulares de poucos segundos.",
         "D": "orientá-la a permanecer deitada por alguns instantes e a levantar-se devagar, sentando-se primeiro.",
-        "E": "mandá-la levantar-se imediatamente para evitar nova queda."
+        "E": "mandá-la levantar-se imediatamente para evitar nova queda e verificar se consegue caminhar sozinha."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -10903,10 +10903,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "acionar o serviço de emergência e verificar continuamente a respiração.",
-        "B": "oferecer água para que desperte.",
-        "C": "retirá-la do local sem avaliação, em carro particular.",
-        "D": "aguardar por duas horas antes de buscar ajuda.",
-        "E": "dar tapas fortes no rosto para acordá-la."
+        "B": "oferecer água para que desperte e observar se consegue engolir normalmente.",
+        "C": "retirá-la do local sem avaliação, em carro particular, para chegar rápido ao hospital.",
+        "D": "aguardar por duas horas antes de buscar ajuda, observando se ela acorda sozinha.",
+        "E": "dar tapas fortes no rosto para acordá-la e continuar o estímulo até que responda."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -10935,11 +10935,11 @@
       "enunciado": "<p>A técnica da cadeirinha de duas mãos (dois socorristas) é indicada para transportar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "qualquer vítima, independentemente do estado.",
+        "A": "qualquer vítima, independentemente do estado de consciência, de fraturas ou de lesões na coluna.",
         "B": "vítima consciente e colaborativa, sem suspeita de lesão de coluna ou de fraturas.",
-        "C": "vítima inconsciente com suspeita de fratura na coluna.",
-        "D": "vítima com fratura exposta de fêmur.",
-        "E": "vítima com traumatismo craniano grave."
+        "C": "vítima inconsciente com suspeita de fratura na coluna, desde que haja dois socorristas disponíveis.",
+        "D": "vítima com fratura exposta de fêmur, desde que os socorristas mantenham o membro elevado.",
+        "E": "vítima com traumatismo craniano grave, sob monitoramento constante da respiração durante o trajeto."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -10969,10 +10969,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "retirar rapidamente de dentro de um veículo uma vítima em risco iminente, minimizando a movimentação da coluna.",
-        "B": "transportar vítimas de queimaduras em macas.",
-        "C": "controlar hemorragias por meio de torniquete.",
-        "D": "desobstruir as vias aéreas de crianças.",
-        "E": "realizar compressões torácicas em lactentes."
+        "B": "transportar vítimas de queimaduras em macas, reduzindo o atrito da pele lesionada com o material.",
+        "C": "controlar hemorragias por meio de torniquete aplicado acima do ferimento, em membros superiores.",
+        "D": "desobstruir as vias aéreas de crianças com compressões abdominais, realizadas por apenas um socorrista no local da emergência.",
+        "E": "realizar compressões torácicas em lactentes, com a técnica dos dois dedos e frequência controlada."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -11001,11 +11001,11 @@
       "enunciado": "<p>Uma maca improvisada, quando for realmente necessário transportar a vítima sem equipamentos, pode ser confeccionada com</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "galhos de árvore quebradiços atados com fita.",
-        "B": "cadeiras de plástico unidas por cordas.",
+        "A": "galhos de árvore quebradiços atados com fita, que formam uma superfície rígida e leve.",
+        "B": "cadeiras de plástico unidas por cordas, formando uma superfície elevada e estável.",
         "C": "cobertores ou casacos fixos em duas varas resistentes, ou uma prancha rígida e plana.",
-        "D": "redes de pesca esticadas entre postes.",
-        "E": "lençóis finos presos apenas por cordões soltos."
+        "D": "redes de pesca esticadas entre postes, que oferecem apoio uniforme a toda a coluna.",
+        "E": "lençóis finos presos apenas por cordões soltos, que sustentam o corpo sem exigir apoio rígido."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -11034,11 +11034,11 @@
       "enunciado": "<p>Ao transportar uma vítima com um colega de equipe, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "puxar a vítima em ritmo diferente do colega.",
-        "B": "trocar de posição durante o trajeto sem aviso.",
-        "C": "agir sozinho, sem avisar, para ganhar tempo.",
+        "A": "puxar a vítima em ritmo diferente do colega, para que cada um escolha a melhor velocidade.",
+        "B": "trocar de posição durante o trajeto sem aviso, para dividir o esforço de modo mais equilibrado.",
+        "C": "agir sozinho, sem avisar, para ganhar tempo, deixando ao colega apenas a tarefa de acompanhar o movimento.",
         "D": "combinar previamente os comandos e coordenar as ações para realizar movimentos sincronizados.",
-        "E": "carregar sempre pelo lado que lhe parecer mais fácil, sem combinar."
+        "E": "carregar sempre pelo lado que lhe parecer mais fácil, sem combinar com o colega nem avisar das mudanças."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -11067,10 +11067,10 @@
       "enunciado": "<p>Quando as roupas estão aderidas à área queimada, o socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplicar pomada sobre o tecido grudado.",
-        "B": "arrancar a roupa de uma vez, para expor a lesão.",
-        "C": "puxar a roupa aos poucos, para aliviar a dor.",
-        "D": "embeber a roupa em álcool para soltá-la.",
+        "A": "aplicar pomada sobre o tecido grudado, para soltá-lo da pele e proteger a ferida.",
+        "B": "arrancar a roupa de uma vez, para expor a lesão e facilitar a avaliação da extensão da queimadura.",
+        "C": "puxar a roupa aos poucos, para aliviar a dor, soltando o tecido da pele gradualmente.",
+        "D": "embeber a roupa em álcool para soltá-la da pele e desinfetar a área queimada.",
         "E": "cortar o tecido ao redor da lesão e deixar a parte aderida no local, sem arrancá-la."
       },
       "resposta_correta": "E",
@@ -11133,11 +11133,11 @@
       "enunciado": "<p>Uma criança sofreu escaldadura por água fervente no tronco e no braço, com bolhas. A conduta mais adequada é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "manter as roupas molhadas coladas ao corpo da criança.",
-        "B": "aplicar gelo sobre as bolhas para reduzir o inchaço.",
+        "A": "manter as roupas molhadas coladas ao corpo da criança, para evitar o contato com o ar e aliviar a dor.",
+        "B": "aplicar gelo sobre as bolhas para reduzir o inchaço e o ardor, cobrindo em seguida com gaze úmida.",
         "C": "retirar as roupas encharcadas não aderidas à pele, resfriar com água corrente, cobrir com pano limpo e buscar atendimento.",
-        "D": "aplicar pomada caseira e deixar a lesão exposta.",
-        "E": "furar as bolhas e aplicar manteiga na lesão."
+        "D": "aplicar pomada caseira e deixar a lesão exposta ao ar, para que cicatrize mais depressa e sem curativo, sem cobrir nem procurar atendimento.",
+        "E": "furar as bolhas e aplicar manteiga na lesão, para aliviar a dor e evitar que o líquido se espalhe."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -11166,11 +11166,11 @@
       "enunciado": "<p>A queimadura química nos olhos exige que o socorrista</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cubra o olho com curativo oclusivo antes de lavar.",
-        "B": "aguarde o ardor passar sem intervir.",
-        "C": "aplique colírio doméstico e feche o olho.",
+        "A": "cubra o olho com curativo oclusivo antes de lavar, para impedir que o produto se espalhe pela face e pelo rosto e evitar nova contaminação do outro olho.",
+        "B": "aguarde o ardor passar sem intervir, pois o olho elimina sozinho os resíduos químicos por meio das lágrimas, sem necessidade de lavagem.",
+        "C": "aplique colírio doméstico e feche o olho, mantendo-o em repouso até que o ardor desapareça por completo.",
         "D": "irrigue abundantemente o olho com água corrente, do canto interno para o externo, por tempo prolongado, e procure atendimento especializado.",
-        "E": "esfregue o olho para retirar o produto."
+        "E": "esfregue o olho para retirar o produto, ajudando a remover as partículas que estiverem aderidas à córnea."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -11200,9 +11200,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Colocar a vítima mergulhada em água gelada por tempo prolongado, para reduzir a dor.",
-        "B": "Retirar anéis e relógios das áreas queimadas, se possível.",
-        "C": "Acionar imediatamente o serviço de emergência.",
-        "D": "Cobrir as áreas queimadas com compressa limpa e seca.",
+        "B": "Retirar anéis e relógios das áreas queimadas, se possível, antes que surja o edema.",
+        "C": "Acionar imediatamente o serviço de emergência e informar a extensão das queimaduras.",
+        "D": "Cobrir as áreas queimadas com compressa limpa e seca, sem apertar o curativo.",
         "E": "Evitar o resfriamento excessivo, mantendo a vítima aquecida."
       },
       "resposta_correta": "A",
@@ -11232,11 +11232,11 @@
       "enunciado": "<p>Um servidor sofre uma queimadura de segundo grau de 3 cm na mão, com bolhas íntegras e dor moderada. Quanto à gravidade e à conduta,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "por ter apenas 3 cm, dispensa qualquer resfriamento.",
+        "A": "por ter apenas 3 cm, dispensa qualquer resfriamento e atendimento de saúde, bastando observar a evolução.",
         "B": "por atingir a mão, uma região considerada crítica, recomenda-se atendimento de saúde, além do resfriamento e da proteção local.",
-        "C": "por ter bolhas, deve ser puncionada e drenada em casa.",
-        "D": "por ser de segundo grau, pode ser tratada com pasta dental.",
-        "E": "por ser pequena, a mão deve ser exposta ao sol para secar."
+        "C": "por ter bolhas, deve ser puncionada e drenada em casa, com agulha esterilizada na chama, para evitar infecção.",
+        "D": "por ser de segundo grau, pode ser tratada com pasta dental e curativo oclusivo, sem necessidade de resfriar.",
+        "E": "por ser pequena, a mão deve ser exposta ao sol para secar, dispensando o resfriamento com água e o atendimento nas horas seguintes."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -11265,10 +11265,10 @@
       "enunciado": "<p>Na avaliação de um adulto que desmaiou e apresentou dor torácica e palpitações antes do episódio, é correto considerar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o quadro dispensa avaliação, pois o desmaio já passou.",
-        "B": "a causa é invariavelmente psicológica.",
-        "C": "a vítima deve voltar a trabalhar sem investigação.",
-        "D": "trata-se sempre de desmaio por jejum, sem gravidade.",
+        "A": "o quadro dispensa avaliação, pois o desmaio já passou e a vítima está consciente e orientada, sem queixas no momento.",
+        "B": "a causa é invariavelmente psicológica, ligada ao estresse, e dispensa exames cardiológicos ou acompanhamento posterior médico.",
+        "C": "a vítima deve voltar a trabalhar sem investigação, pois a dor torácica e as palpitações são comuns em desmaios.",
+        "D": "trata-se sempre de desmaio por jejum, sem gravidade, bastando oferecer alimento e orientar repouso por alguns minutos.",
         "E": "o desmaio pode ter causa cardíaca, o que exige acionar o serviço de emergência, mesmo que a vítima aparente recuperação."
       },
       "resposta_correta": "E",
@@ -11298,11 +11298,11 @@
       "enunciado": "<p>Uma vítima de desmaio bateu a cabeça na queda e queixa-se de dor no pescoço ao recobrar a consciência. O socorrista deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "carregá-la em cadeirinha até o ambulatório.",
-        "B": "oferecer um copo d’água e orientá-la a caminhar.",
+        "A": "carregá-la em cadeirinha até o ambulatório, mantendo o pescoço apoiado nos braços de um dos socorristas.",
+        "B": "oferecer um copo d’água e orientá-la a caminhar, para verificar se há tontura, dor ou perda de equilíbrio.",
         "C": "não elevar as pernas nem movimentar a vítima, manter a cabeça estabilizada e acionar o serviço de emergência.",
-        "D": "elevar as pernas e sentá-la imediatamente.",
-        "E": "pedir que faça movimentos de rotação do pescoço para testar a dor."
+        "D": "elevar as pernas e sentá-la imediatamente, para recuperar a pressão arterial e evitar nova perda de consciência.",
+        "E": "pedir que faça movimentos de rotação do pescoço para testar a dor, observando a amplitude do movimento."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -11331,10 +11331,10 @@
       "enunciado": "<p>Distinguir desmaio de hipoglicemia tem importância porque, na hipoglicemia, uma vítima consciente e capaz de engolir deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ser deitada com a cabeça mais baixa e sem alimentos.",
-        "B": "receber açúcar mesmo estando inconsciente.",
-        "C": "ser mantida em jejum e em repouso por duas horas.",
-        "D": "receber somente água gelada, sem açúcar.",
+        "A": "ser deitada com a cabeça mais baixa e sem alimentos, até que a crise passe por conta própria e a glicemia se normalize.",
+        "B": "receber açúcar mesmo estando inconsciente, colocando-o na boca e massageando a garganta para estimular a deglutição.",
+        "C": "ser mantida em jejum e em repouso por duas horas, aguardando a glicemia se normalizar sem qualquer intervenção do socorrista no local.",
+        "D": "receber somente água gelada, sem açúcar, em pequenos goles, para evitar que a glicemia suba rápido demais e cause mal-estar.",
         "E": "receber açúcar ou carboidrato de absorção rápida por via oral, ao passo que, se inconsciente, nada se deve oferecer pela boca."
       },
       "resposta_correta": "E",
@@ -11364,9 +11364,9 @@
       "enunciado": "<p>Sobre o transporte de vítima com suspeita de lesão de coluna que está em risco iminente (por exemplo, incêndio), é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deve-se aguardar o fim do incêndio para movê-la.",
-        "B": "a vítima deve ser arrastada pelos pés, em movimento rápido.",
-        "C": "deve-se dobrar o corpo para ganhar espaço.",
+        "A": "deve-se aguardar o fim do incêndio para movê-la, mesmo que o fogo se aproxime, para preservar a coluna e o alinhamento do corpo.",
+        "B": "a vítima deve ser arrastada pelos pés, em movimento rápido, sem preocupação com a posição da cabeça e do pescoço durante o deslocamento até o local seguro.",
+        "C": "deve-se dobrar o corpo para ganhar espaço e facilitar a passagem pela saída mais próxima, mesmo com risco de agravar a lesão.",
         "D": "a remoção de emergência deve ser feita no menor tempo, mantendo o alinhamento do eixo cabeça-pescoço-tronco, aceitando-se o risco para salvar a vida.",
         "E": "deve-se forçar a vítima a ficar de pé."
       },
@@ -11397,10 +11397,10 @@
       "enunciado": "<p>Entre as técnicas de transporte por um único socorrista, a mais indicada para vítima consciente que não consegue andar, mas pode colaborar, sem suspeita de fraturas graves, é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o transporte de bruços sobre os ombros, em qualquer situação.",
+        "A": "o transporte de bruços sobre os ombros, em qualquer situação, mesmo com a vítima inconsciente e com suspeita de lesão.",
         "B": "o apoio no ombro do socorrista ou o transporte no colo, conforme o peso e a colaboração da vítima.",
         "C": "o rolamento em bloco sobre a prancha.",
-        "D": "a utilização de maca de lona por uma única pessoa.",
+        "D": "a utilização de maca de lona por uma única pessoa, inclusive em trajetos longos e acidentados.",
         "E": "o arrasto pelos pés até a ambulância."
       },
       "resposta_correta": "B",
@@ -11431,8 +11431,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "um dos socorristas deve comandar os movimentos, e todos devem erguer e deslocar a maca de modo sincronizado.",
-        "B": "o transporte deve ser rápido, mesmo que descoordenado.",
-        "C": "não é necessário haver comando, pois todos conhecem o procedimento.",
+        "B": "o transporte deve ser rápido, mesmo que descoordenado, pois a pressa reduz o risco de agravar as lesões da vítima.",
+        "C": "não é necessário haver comando, pois todos conhecem o procedimento e a equipe já é experiente.",
         "D": "cada pessoa deve decidir sozinha quando levantar, para agilizar.",
         "E": "o comando deve ser dado pela vítima, quando consciente."
       },
@@ -11463,8 +11463,8 @@
       "enunciado": "<p>Em queimadura circunferencial de membro, o principal risco imediato é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a infecção que ocorre apenas após semanas.",
-        "B": "a cicatrização espontânea acelerada que fecha a ferida.",
+        "A": "a infecção que ocorre apenas após semanas ou meses, sem relação com a circulação local do membro.",
+        "B": "a cicatrização espontânea acelerada que fecha a ferida, sem deixar cicatriz visível.",
         "C": "o edema comprimir os tecidos e prejudicar a circulação, o que exige avaliação médica urgente.",
         "D": "a perda de calor, que dispensa qualquer cuidado.",
         "E": "a ausência de dor, que indica melhora."
@@ -11497,8 +11497,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "garantir a segurança, avaliar via aérea e respiração, tratar a parada, se houver, e só depois cuidar das queimaduras.",
-        "B": "resfriar as queimaduras do rosto antes de verificar a respiração.",
-        "C": "cobrir todas as queimaduras e aguardar a vítima acordar.",
+        "B": "resfriar as queimaduras do rosto antes de verificar a respiração, pois a dor e a lesão da pele são a maior ameaça imediata.",
+        "C": "cobrir todas as queimaduras e aguardar a vítima acordar, mantendo-a deitada e aquecida até a chegada do socorro.",
         "D": "remover joias e relógios antes de qualquer avaliação.",
         "E": "oferecer água gelada para hidratar a vítima."
       },

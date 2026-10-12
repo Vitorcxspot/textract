@@ -1457,9 +1457,9 @@
       "enunciado": "<p>De acordo com o Estatuto do Desarmamento (Lei nº 10.826/2003), é, em regra,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "livre o porte por maiores de 18 anos em via pública.",
+        "A": "livre o porte por maiores de 18 anos em via pública, desde que a arma esteja registrada em seu nome e com a documentação em dia.",
         "B": "proibido portar arma de fogo em todo o território nacional, salvo para os casos previstos em legislação própria.",
-        "C": "permitido o porte a qualquer pessoa em área rural.",
+        "C": "permitido o porte a qualquer pessoa em área rural, quando a arma for utilizada para a proteção da propriedade.",
         "D": "permitido o porte a qualquer servidor público, sem restrições.",
         "E": "livre o porte de arma de fogo a qualquer cidadão que tenha o registro da arma."
       },
@@ -1490,10 +1490,10 @@
       "enunciado": "<p>Conforme o art. 6º da Lei nº 10.826/2003, é prerrogativa de determinadas categorias o porte de arma de fogo, ainda que fora de serviço, entre outras,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "os maiores de 25 anos sem antecedentes.",
+        "A": "os maiores de 25 anos sem antecedentes criminais, desde que comprovem a necessidade do porte para sua atividade profissional.",
         "B": "os candidatos a cargos públicos de segurança.",
         "C": "os vigilantes de empresas privadas, em qualquer lugar e a qualquer hora.",
-        "D": "os cidadãos com registro de arma de uso permitido.",
+        "D": "os cidadãos com registro de arma de uso permitido, desde que tenham feito curso de tiro e exame psicológico.",
         "E": "os integrantes das Forças Armadas e das polícias federal, civil e militar, desde que atendidos os requisitos legais."
       },
       "resposta_correta": "E",
@@ -1524,9 +1524,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "terem a arma fornecida somente por empresas privadas contratadas.",
-        "B": "não precisarem de qualquer comprovação de capacidade técnica.",
+        "B": "não precisarem de qualquer comprovação de capacidade técnica, bastando a investidura no cargo de segurança do Poder Judiciário.",
         "C": "observarem os requisitos de capacidade técnica, aptidão psicológica e as normas de armazenamento e uso editadas pelos órgãos competentes.",
-        "D": "poderem emprestar a arma a terceiros de confiança.",
+        "D": "poderem emprestar a arma a terceiros de confiança, desde que o empréstimo seja comunicado por escrito à chefia imediata e o terceiro seja maior de idade.",
         "E": "portarem a arma em qualquer ambiente, inclusive fora do serviço, sem regulamentação."
       },
       "resposta_correta": "C",
@@ -1557,10 +1557,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reclusão de dois a quatro anos, e multa.",
-        "B": "detenção de um a três anos, e multa.",
+        "B": "detenção de seis meses a três anos, e multa.",
         "C": "reclusão de três a seis anos, e multa.",
         "D": "reclusão de quatro a dez anos, e multa.",
-        "E": "detenção de seis meses a dois anos."
+        "E": "detenção de seis meses a dois anos, sem multa."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1623,9 +1623,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pode configurar, em tese, porte ilegal, por estar em desacordo com determinação regulamentar, sem prejuízo da apuração disciplinar.",
-        "B": "configura apenas infração administrativa, sem repercussão penal.",
+        "B": "configura apenas infração administrativa, sem repercussão penal, pois o agente atuava no exercício de sua função pública e do poder de polícia administrativa.",
         "C": "configura contravenção penal de perturbação da tranquilidade.",
-        "D": "é atípica, pois o agente tem autorização funcional de porte.",
+        "D": "é atípica, pois o agente tem autorização funcional de porte e a regulamentação interna não possui natureza de lei penal.",
         "E": "é lícita, pois o porte funcional é irrestrito."
       },
       "resposta_correta": "A",

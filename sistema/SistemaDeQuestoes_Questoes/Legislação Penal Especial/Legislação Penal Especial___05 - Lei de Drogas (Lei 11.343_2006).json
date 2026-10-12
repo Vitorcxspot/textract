@@ -149,9 +149,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "as substâncias ou os produtos capazes de causar dependência, assim especificados em lei ou relacionados em listas atualizadas periodicamente pelo Poder Executivo da União.",
-        "B": "somente as substâncias ilícitas de origem vegetal, como a maconha.",
-        "C": "quaisquer substâncias químicas que causem efeitos no organismo, inclusive medicamentos.",
-        "D": "as substâncias definidas por decisão judicial em cada caso concreto.",
+        "B": "somente as substâncias ilícitas de origem vegetal, como a maconha, a cocaína e o ópio, conforme definição constante de portaria do Ministério da Saúde e de tratados internacionais.",
+        "C": "quaisquer substâncias químicas que causem efeitos no organismo, inclusive medicamentos e bebidas alcoólicas, independentemente de constarem de lista oficial.",
+        "D": "as substâncias definidas por decisão judicial em cada caso concreto, a partir de laudo pericial que ateste o potencial de dependência, sem lista oficial.",
         "E": "apenas as substâncias de uso proibido em todo o mundo."
       },
       "resposta_correta": "A",
@@ -181,10 +181,10 @@
       "enunciado": "<p>O Sistema Nacional de Políticas Públicas sobre Drogas (Sisnad), instituído pela Lei nº 11.343/2006, tem por finalidade</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas tratar dependentes em estabelecimentos de saúde.",
+        "A": "apenas tratar dependentes em estabelecimentos de saúde, articulando hospitais, ambulatórios e comunidades terapêuticas, sem atribuições de prevenção ou de repressão a condutas ilícitas relacionadas às drogas ou ao seu comércio.",
         "B": "articular, integrar, organizar e coordenar as atividades relacionadas à prevenção do uso indevido, à atenção e à reinserção social de usuários e dependentes e à repressão da produção não autorizada e do tráfico ilícito.",
-        "C": "julgar os crimes previstos na lei.",
-        "D": "regular a venda de medicamentos controlados em farmácias.",
+        "C": "julgar os crimes previstos na lei, por meio de juízos especializados integrados ao sistema, e executar as penas aplicadas aos condenados por tráfico ilícito de entorpecentes e drogas afins.",
+        "D": "regular a venda de medicamentos controlados em farmácias, fiscalizar a prescrição médica e autorizar a importação de substâncias de uso terapêutico pelos hospitais e clínicas credenciadas.",
         "E": "apenas reprimir o tráfico, sem atenção a usuários."
       },
       "resposta_correta": "B",
@@ -214,9 +214,9 @@
       "enunciado": "<p>Segundo o art. 2º da Lei nº 11.343/2006, ficam proibidos, em todo o território nacional, as drogas, bem como o plantio, a cultura, a colheita e a exploração de vegetais e substratos dos quais possam ser extraídas ou produzidas drogas, ressalvada</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a hipótese de cultivo em área rural por proprietários.",
-        "B": "a hipótese de uso em eventos culturais, sem autorização.",
-        "C": "a hipótese de uso recreativo em local privado.",
+        "A": "a hipótese de cultivo em área rural por proprietários, desde que a produção seja destinada exclusivamente ao consumo pessoal e comunicada à autoridade sanitária local.",
+        "B": "a hipótese de uso em eventos culturais, sem autorização, quando a planta for utilizada em cerimônias tradicionais reconhecidas pela comunidade e sem fins lucrativos.",
+        "C": "a hipótese de uso recreativo em local privado, desde que o cultivador seja maior de idade e mantenha a quantidade dentro do limite fixado para consumo pessoal.",
         "D": "a hipótese de autorização legal ou regulamentar, bem como a prevista na Convenção de Viena, de 1971, a respeito de plantas de uso estritamente ritualístico-religioso.",
         "E": "a hipótese de produção artesanal para consumo próprio."
       },
@@ -247,8 +247,8 @@
       "enunciado": "<p>Entre os princípios do Sisnad, previstos no art. 4º da Lei nº 11.343/2006, encontra-se</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a prevalência do tratamento compulsório sobre a vontade do usuário.",
-        "B": "a repressão absoluta ao usuário, como forma de prevenção.",
+        "A": "a prevalência do tratamento compulsório sobre a vontade do usuário, em todos os casos de dependência química comprovada.",
+        "B": "a repressão absoluta ao usuário, como forma de prevenção, com a aplicação de pena privativa de liberdade.",
         "C": "a exclusão dos usuários do convívio social.",
         "D": "a atuação exclusiva de órgãos de segurança pública.",
         "E": "o respeito aos direitos fundamentais da pessoa humana, especialmente quanto à sua autonomia e à sua liberdade."
@@ -280,11 +280,11 @@
       "enunciado": "<p>Segundo a Lei nº 11.343/2006, o Conselho Nacional de Políticas sobre Drogas (Conad) é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "órgão jurisdicional encarregado de julgar crimes de drogas.",
+        "A": "órgão jurisdicional encarregado de julgar crimes de drogas e de fiscalizar a execução das penas aplicadas aos condenados.",
         "B": "órgão executivo da Polícia Federal.",
         "C": "órgão normativo e de deliberação coletiva do Sisnad, vinculado ao Ministério da Justiça e Segurança Pública.",
         "D": "empresa estatal de fabricação de medicamentos.",
-        "E": "órgão do Poder Legislativo que elabora leis sobre drogas."
+        "E": "órgão do Poder Legislativo que elabora leis sobre drogas e fiscaliza os atos do Poder Executivo na área."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -313,9 +313,9 @@
       "enunciado": "<p>As atividades de prevenção do uso indevido de drogas, para efeito da Lei nº 11.343/2006, são aquelas direcionadas para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o confisco de bens de traficantes.",
+        "A": "o confisco de bens de traficantes e a sua destinação ao fundo nacional antidrogas, após a sentença penal condenatória.",
         "B": "a redução dos fatores de vulnerabilidade e risco e para a promoção e o fortalecimento dos fatores de proteção.",
-        "C": "a regularização de plantações tradicionais.",
+        "C": "a regularização de plantações tradicionais e o fomento de cultivos em áreas de preservação indígena.",
         "D": "a venda controlada de drogas a dependentes.",
         "E": "a prisão dos usuários em flagrante."
       },
@@ -347,8 +347,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a conversão da pena em multa.",
-        "B": "o direito de livramento condicional imediato.",
-        "C": "somente a atenção em instituições particulares.",
+        "B": "o direito de livramento condicional imediato, independentemente do cumprimento de fração da pena.",
+        "C": "somente a atenção em instituições particulares, custeada pelo apenado ou familiares.",
         "D": "a suspensão da pena enquanto durar o tratamento.",
         "E": "os serviços de atenção à sua saúde, definidos pelo respectivo sistema penitenciário."
       },
@@ -379,11 +379,11 @@
       "enunciado": "<p>Segundo a Lei nº 11.343/2006, com a redação dada pela Lei nº 13.840/2019, a internação involuntária de dependente de drogas</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é medida de segurança aplicada pelo juiz criminal.",
-        "B": "é determinada de ofício por policial, em qualquer situação.",
+        "A": "é medida de segurança aplicada pelo juiz criminal, mediante requerimento do Ministério Público, após o trânsito em julgado da sentença que reconheça a inimputabilidade do usuário, devendo a internação ser cumprida em hospital de custódia e tratamento psiquiátrico, pelo prazo fixado na sentença.",
+        "B": "é determinada de ofício por policial, em qualquer situação de uso de drogas em via pública, mediante registro da ocorrência e condução do usuário a unidade de saúde, sem necessidade de pedido de familiares ou de decisão de médico responsável.",
         "C": "independe de laudo médico.",
         "D": "é realizada mediante solicitação de familiar ou do responsável legal, ou, na absoluta falta deles, de servidor público da área de saúde, de assistência social ou dos órgãos públicos integrantes do Sisnad, com exceção de servidores da área de segurança pública, e após formalização da decisão por médico responsável.",
-        "E": "não pode exceder 30 dias, em nenhuma hipótese."
+        "E": "não pode exceder 30 dias, em nenhuma hipótese, e deve ser autorizada pelo juiz da vara de execuções penais, com oitiva prévia do Ministério Público e da Defensoria Pública, antes da internação do dependente em qualquer unidade."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -413,9 +413,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apenas pelo tempo necessário à desintoxicação, no prazo máximo de noventa dias.",
-        "B": "pelo prazo de um ano, renovável por decisão do juiz.",
+        "B": "pelo prazo de um ano, renovável por decisão do juiz, enquanto persistir a necessidade.",
         "C": "por prazo indeterminado, até a cura completa.",
-        "D": "por trinta dias, vedada a prorrogação.",
+        "D": "por trinta dias, vedada a prorrogação, ainda que haja indicação médica.",
         "E": "por cinco anos, em comunidade terapêutica."
       },
       "resposta_correta": "A",
@@ -445,11 +445,11 @@
       "enunciado": "<p>As comunidades terapêuticas acolhedoras, reconhecidas pela Lei nº 11.343/2006, caracterizam-se por</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "prestar atendimento hospitalar de alta complexidade.",
-        "B": "executar penas privativas de liberdade de usuários.",
+        "A": "prestar atendimento hospitalar de alta complexidade, com leitos de internação, equipe médica permanente e realização de procedimentos cirúrgicos aos dependentes.",
+        "B": "executar penas privativas de liberdade de usuários, em regime aberto, sob supervisão do juízo da execução penal e custeio exclusivo do Estado.",
         "C": "acolher, de forma voluntária, pessoas com transtornos decorrentes do uso de drogas, em ambiente residencial protegido, sem caráter de tratamento hospitalar.",
         "D": "funcionar como delegacias especializadas em drogas.",
-        "E": "internar compulsoriamente os usuários por determinação policial."
+        "E": "internar compulsoriamente os usuários por determinação policial, sem necessidade de laudo médico ou de decisão judicial, quando houver risco à ordem pública."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -478,9 +478,9 @@
       "enunciado": "<p>Em relação aos princípios das atividades de prevenção do uso indevido de drogas (art. 19 da Lei nº 11.343/2006), destaca-se</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a dispensa de avaliação dos resultados.",
+        "A": "a dispensa de avaliação dos resultados, pois as ações preventivas se justificam por si mesmas.",
         "B": "a vedação à participação da comunidade e da família.",
-        "C": "a utilização exclusiva de estratégias repressivas.",
+        "C": "a utilização exclusiva de estratégias repressivas, voltadas à punição de quem fornece e consome drogas.",
         "D": "a adoção de conceitos objetivos e de fundamentação científica como forma de orientar as ações.",
         "E": "a imposição de padrões de conduta idênticos para todos os grupos."
       },
@@ -511,9 +511,9 @@
       "enunciado": "<p>Os recursos oriundos de bens apreendidos, sequestrados ou perdidos em decorrência de crimes de tráfico, na forma da Lei nº 11.343/2006, são destinados, em regra, ao</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Tesouro dos Estados, sem vinculação.",
+        "A": "Tesouro dos Estados, sem vinculação a qualquer finalidade, para custear despesas gerais de governo.",
         "B": "Fundo Nacional Antidrogas (Funad), para custear atividades de prevenção, tratamento e repressão.",
-        "C": "Fundo de Garantia do Tempo de Serviço.",
+        "C": "Fundo de Garantia do Tempo de Serviço, para custear programas habitacionais e de saneamento básico.",
         "D": "Fundo Penitenciário Nacional, exclusivamente.",
         "E": "patrimônio particular do delegado que presidiu o inquérito."
       },
@@ -545,8 +545,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "sursis, graça, indulto e anistia, e, segundo a literalidade da lei, de liberdade provisória.",
-        "B": "apenas de fiança.",
-        "C": "apenas de anistia.",
+        "B": "apenas de fiança, admitindo-se, porém, a concessão de sursis, graça, indulto e liberdade provisória.",
+        "C": "apenas de anistia e de graça, sendo possível a concessão de sursis e de liberdade provisória.",
         "D": "sursis, mas admitem graça e indulto.",
         "E": "progressão de regime, que é vedada em qualquer hipótese."
       },
@@ -577,10 +577,10 @@
       "enunciado": "<p>Segundo o Supremo Tribunal Federal, no julgamento do Tema 506 da repercussão geral (2024), o porte de maconha para consumo pessoal</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "abrange todas as drogas ilícitas, sem distinção.",
+        "A": "abrange todas as drogas ilícitas, sem distinção de espécie ou de quantidade, desde que o porte não tenha finalidade de comércio.",
         "B": "foi legalizado para comércio em estabelecimentos autorizados.",
         "C": "passou a ser infração penal de menor potencial ofensivo.",
-        "D": "continua configurando crime, punido com reclusão.",
+        "D": "continua configurando crime, punido com reclusão, ainda que o agente seja usuário e tenha pequena quantidade.",
         "E": "não configura crime, mas ilícito administrativo, presumindo-se usuário quem porta até 40 gramas ou seis plantas-fêmeas."
       },
       "resposta_correta": "E",
@@ -643,11 +643,11 @@
       "enunciado": "<p>Um dependente de drogas, maior de idade, recusa-se a receber tratamento, mas sua família solicita a internação involuntária. O médico responsável formaliza a decisão.</p><p>Quanto a essa internação, é correto afirmar que ela</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tem natureza de pena, convertida em tratamento.",
-        "B": "dispensa comunicação a qualquer órgão de controle.",
+        "A": "tem natureza de pena, convertida em tratamento, e deve ser determinada pelo juiz criminal em sentença condenatória, com prazo mínimo de seis meses e cumprimento em estabelecimento de saúde da rede privada.",
+        "B": "dispensa comunicação a qualquer órgão de controle, pois decorre de decisão exclusivamente médica, cabendo apenas ao serviço de saúde registrar o atendimento em prontuário do paciente.",
         "C": "poderá ser realizada em estabelecimento prisional, por falta de vagas.",
         "D": "deve ser comunicada ao Ministério Público e à Defensoria Pública no prazo de até setenta e duas horas, e será realizada em unidades de saúde ou hospitais gerais, perdurando pelo tempo necessário à desintoxicação.",
-        "E": "deve ser autorizada previamente pelo delegado."
+        "E": "deve ser autorizada previamente pelo delegado de polícia, que fixará o prazo da medida e determinará a condução do dependente à unidade de saúde mais próxima do local dos fatos."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -677,10 +677,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a avaliação médica prévia, a respeito das necessidades de cada pessoa, e a garantia dos direitos fundamentais dos atendidos, com vedação de práticas que violem sua dignidade.",
-        "B": "a prática obrigatória de cultos religiosos como condição de acolhimento.",
-        "C": "a restrição de comunicação do atendido com a família.",
+        "B": "a prática obrigatória de cultos religiosos como condição de acolhimento, a fim de assegurar a disciplina e a adesão do atendido ao programa terapêutico.",
+        "C": "a restrição de comunicação do atendido com a família, durante todo o período de acolhimento, para evitar interferências no tratamento e na rotina da instituição de acolhimento e dos demais internos.",
         "D": "a dispensa de projeto terapêutico individual.",
-        "E": "a cobrança de valores como condição para atendimento público."
+        "E": "a cobrança de valores como condição para atendimento público, de modo a custear a manutenção das instalações e a contratação dos profissionais da unidade."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -709,9 +709,9 @@
       "enunciado": "<p>Em relação ao art. 33, § 4º, da Lei nº 11.343/2006 (tráfico privilegiado), é correto afirmar que a causa de diminuição de pena</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exige que o agente seja dependente químico.",
-        "B": "aplica-se a qualquer agente, inclusive reincidente.",
-        "C": "torna o crime hediondo e insuscetível de progressão de regime.",
+        "A": "exige que o agente seja dependente químico, comprovado por laudo médico, e que a droga apreendida se destine exclusivamente ao seu próprio consumo, sem finalidade de lucro ou de entrega a terceiros.",
+        "B": "aplica-se a qualquer agente, inclusive reincidente, desde que a quantidade de droga seja pequena e não haja prova de que integre organização criminosa.",
+        "C": "torna o crime hediondo e insuscetível de progressão de regime, por equiparação legal, e impede a concessão de qualquer benefício de execução penal ao condenado.",
         "D": "reduz a pena à metade, sempre.",
         "E": "aplica-se ao agente primário, de bons antecedentes, que não se dedique a atividades criminosas nem integre organização criminosa, e, segundo o STF, não se confunde com crime hediondo."
       },
@@ -745,8 +745,8 @@
         "A": "a vigilância policial permanente.",
         "B": "a sua integração ou reintegração em redes sociais, educacionais e profissionais.",
         "C": "a proibição de contato com a família.",
-        "D": "o isolamento do usuário em estabelecimentos fechados.",
-        "E": "a imposição de pena privativa de liberdade ao dependente."
+        "D": "o isolamento do usuário em estabelecimentos fechados, longe do convívio da comunidade.",
+        "E": "a imposição de pena privativa de liberdade ao dependente, para assegurar a sua adesão."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -776,9 +776,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a vedação à participação da família.",
-        "B": "a padronização do tratamento, igual para todos os pacientes.",
+        "B": "a padronização do tratamento, igual para todos os pacientes, de modo a facilitar a gestão dos serviços e a reduzir custos operacionais.",
         "C": "a definição de projeto terapêutico individualizado, orientado para a inclusão social e para a redução de riscos e de danos sociais e à saúde.",
-        "D": "a exclusividade de atendimento hospitalar.",
+        "D": "a exclusividade de atendimento hospitalar, com internação obrigatória de todos os usuários em unidades de alta complexidade da rede pública de saúde.",
         "E": "a imposição de crença religiosa única."
       },
       "resposta_correta": "C",
@@ -809,9 +809,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "promover a construção e a socialização do conhecimento sobre drogas no país e promover a integração entre as políticas de prevenção do uso indevido, atenção e reinserção social e de repressão ao tráfico.",
-        "B": "unificar todas as polícias em uma só corporação.",
-        "C": "tornar obrigatório o tratamento médico a todo usuário.",
-        "D": "suprimir a competência dos Estados em matéria de saúde.",
+        "B": "unificar todas as polícias em uma só corporação nacional, subordinada ao Ministério da Justiça, para uniformizar as ações de repressão ao tráfico e ao uso de drogas em todo o território do país e nas fronteiras.",
+        "C": "tornar obrigatório o tratamento médico a todo usuário, ainda que não seja dependente, independentemente de consentimento, e vedar qualquer medida de prevenção de caráter educativo.",
+        "D": "suprimir a competência dos Estados em matéria de saúde, centralizando na União a execução do atendimento aos dependentes e das políticas de prevenção, como forma de integração.",
         "E": "extinguir o Fundo Nacional Antidrogas."
       },
       "resposta_correta": "A",
@@ -874,10 +874,10 @@
       "enunciado": "<p>A Lei nº 13.840/2019 alterou a Lei nº 11.343/2006 para dispor sobre o Sisnad e as condições de atenção aos usuários. Entre as inovações, está a previsão de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "proibição absoluta de tratamento em unidades de saúde.",
+        "A": "proibição absoluta de tratamento em unidades de saúde pública, que passa a ser prestado exclusivamente por comunidades terapêuticas privadas.",
         "B": "internação voluntária e involuntária de dependentes, além de acolhimento em comunidades terapêuticas, observadas as garantias legais.",
         "C": "anistia a traficantes que se submetam a tratamento.",
-        "D": "criminalização do uso de drogas com pena de reclusão.",
+        "D": "criminalização do uso de drogas com pena de reclusão, em substituição às penas alternativas previstas na lei anterior.",
         "E": "extinção do Conad."
       },
       "resposta_correta": "B",
@@ -908,8 +908,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "Defensor Público-Geral, em quarenta e oito horas.",
-        "B": "Presidente do Tribunal, em até cinco dias.",
-        "C": "Conselho Nacional de Justiça, em dez dias.",
+        "B": "Presidente do Tribunal de Justiça, no prazo de cinco dias.",
+        "C": "Conselho Nacional de Justiça, no prazo de dez dias.",
         "D": "Ministro da Justiça, imediatamente.",
         "E": "Ministério Público, no prazo de vinte e quatro horas."
       },
@@ -940,8 +940,8 @@
       "enunciado": "<p>Para efeito da lavratura do auto de prisão em flagrante e estabelecimento da materialidade do delito, o art. 50, § 1º, da Lei de Drogas exige</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "laudo definitivo de toxicologia, obrigatoriamente.",
-        "B": "confissão do preso, em qualquer caso.",
+        "A": "laudo definitivo de toxicologia, obrigatoriamente, firmado por perito oficial, com a identificação química precisa da substância.",
+        "B": "confissão do preso, em qualquer caso, a ser reduzida a termo na presença de advogado ou defensor público.",
         "C": "laudo de constatação da natureza e quantidade da droga, firmado por perito oficial ou, na falta, por pessoa idônea.",
         "D": "autorização do juiz para a prisão.",
         "E": "testemunho de dois vizinhos do local."
@@ -973,11 +973,11 @@
       "enunciado": "<p>Nos termos do art. 51 da Lei nº 11.343/2006, o inquérito policial será concluído no prazo de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "quinze dias, se preso, e trinta dias, se solto.",
+        "A": "quinze dias, se preso, e trinta dias, se solto, prorrogáveis por igual período.",
         "B": "trinta dias, se o indiciado estiver preso, e de noventa dias, se solto.",
         "C": "sessenta dias, se preso, e cento e vinte dias, se solto.",
         "D": "cinco dias, se preso, e quinze dias, se solto.",
-        "E": "dez dias, se preso, e trinta dias, se solto."
+        "E": "dez dias, se preso, e trinta dias, se solto, contados da lavratura do flagrante."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1007,9 +1007,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ouvido o Ministério Público, mediante pedido justificado da autoridade de polícia judiciária.",
-        "B": "pelo delegado de polícia, por ato próprio.",
+        "B": "pelo delegado de polícia, por ato próprio, mediante simples comunicação posterior ao Ministério Público.",
         "C": "somente no caso de réu primário.",
-        "D": "de ofício, sem ouvir o Ministério Público.",
+        "D": "de ofício, sem ouvir o Ministério Público, bastando que o delegado de polícia comunique a medida.",
         "E": "a requerimento do investigado, sem justificativa."
       },
       "resposta_correta": "A",
@@ -1040,8 +1040,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "requererá sua devolução para a continuação das diligências, que serão necessárias à elucidação do fato.",
-        "B": "suspenderá o inquérito por prazo indeterminado.",
-        "C": "arquivará o inquérito, por ato próprio.",
+        "B": "suspenderá o inquérito por prazo indeterminado, até que a autoridade policial conclua as diligências pendentes.",
+        "C": "arquivará o inquérito, por ato próprio, se entender insuficientes as provas reunidas pela autoridade policial.",
         "D": "oferecerá a denúncia, por ato próprio.",
         "E": "aplicará pena ao investigado."
       },
@@ -1106,8 +1106,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "quinze dias seguintes ao recebimento.",
-        "B": "sessenta dias seguintes ao recebimento.",
-        "C": "cento e vinte dias seguintes ao recebimento.",
+        "B": "sessenta dias seguintes ao recebimento, salvo se houver necessidade de perícia complementar sobre a droga apreendida.",
+        "C": "cento e vinte dias seguintes ao recebimento, prorrogáveis a pedido do Ministério Público ou da defesa.",
         "D": "trinta dias seguintes ao recebimento, salvo se houver necessidade de avaliação para atestar dependência de drogas.",
         "E": "cinco dias seguintes ao recebimento."
       },
@@ -1172,9 +1172,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "em momento anterior à citação.",
-        "B": "sempre ao final, por expressa previsão da lei de drogas.",
-        "C": "a critério do Ministério Público.",
-        "D": "apenas se o acusado estiver preso.",
+        "B": "sempre ao final, por expressa previsão da lei de drogas, que afasta a regra geral do Código de Processo Penal e, segundo o STF, deve prevalecer sobre os demais procedimentos especiais.",
+        "C": "a critério do Ministério Público, que decide, em cada caso, se o acusado será ouvido antes ou depois das testemunhas, conforme a conveniência da acusação e a natureza da droga apreendida na ocasião da prisão.",
+        "D": "apenas se o acusado estiver preso, caso em que será ouvido ao final da audiência, ao passo que o réu solto será interrogado no início, conforme o art. 57 da Lei de Drogas.",
         "E": "no início da audiência, antes da inquirição das testemunhas, segundo a literalidade do art. 57, hoje superada pelo STF para a ordem do interrogatório como último ato, que se aplica a todos os procedimentos."
       },
       "resposta_correta": "E",
@@ -1205,8 +1205,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "depende de autorização judicial, ouvido o Ministério Público, e se dá em atuação sigilosa.",
-        "B": "dispensa autorização judicial, por ser ato de polícia.",
-        "C": "somente pode ocorrer após o trânsito em julgado.",
+        "B": "dispensa autorização judicial, por ser ato de polícia, bastando comunicação ao Ministério Público.",
+        "C": "somente pode ocorrer após o trânsito em julgado, com autorização do juiz da execução penal.",
         "D": "pode ser realizada por particulares sem vínculo com a polícia.",
         "E": "depende de decisão do Conselho Nacional de Justiça."
       },
@@ -1237,11 +1237,11 @@
       "enunciado": "<p>A ação controlada, prevista no art. 53, II, da Lei de Drogas, consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "fiscalizar as farmácias por determinação do Ministério da Saúde.",
-        "B": "interceptar comunicações telefônicas sem ordem judicial.",
+        "A": "fiscalizar as farmácias por determinação do Ministério da Saúde, a fim de apurar desvios de medicamentos controlados e de precursores químicos, com aplicação imediata de sanções administrativas e penais aos responsáveis.",
+        "B": "interceptar comunicações telefônicas sem ordem judicial, a critério da autoridade policial, para identificar os integrantes da organização criminosa, comunicando o fato ao Ministério Público apenas após o encerramento de toda a investigação.",
         "C": "não atuação policial sobre os portadores de drogas, seus precursores químicos ou outros produtos utilizados em sua produção, que se encontrem no território brasileiro, com a finalidade de identificar e responsabilizar maior número de integrantes de operações de tráfico.",
         "D": "infiltrar agentes na organização por prazo indeterminado.",
-        "E": "prender imediatamente todos os suspeitos, para evitar a fuga."
+        "E": "prender imediatamente todos os suspeitos, para evitar a fuga, apreendendo a droga e os produtos utilizados em sua produção, sem esperar a identificação dos demais integrantes da organização criminosa."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1272,9 +1272,9 @@
       "alternativas": {
         "A": "trinta dias, sem exceção.",
         "B": "dez dias, após cientificadas as partes.",
-        "C": "sessenta dias, em qualquer caso.",
+        "C": "sessenta dias, em qualquer caso concreto.",
         "D": "cinco dias, improrrogáveis.",
-        "E": "quinze dias, prorrogáveis."
+        "E": "quinze dias, prorrogáveis uma única vez."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1336,11 +1336,11 @@
       "enunciado": "<p>Em relação à destruição das drogas apreendidas, o art. 50-A da Lei nº 11.343/2006 prevê que a destruição ocorra, em regra, em prazo máximo de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cinco dias, sem necessidade de amostra.",
+        "A": "cinco dias contados da apreensão, sem necessidade de guardar amostra, mediante incineração pela autoridade policial do inquérito.",
         "B": "noventa dias, por incineração apenas.",
         "C": "um ano, após o trânsito em julgado.",
         "D": "trinta dias contados da data do recebimento do laudo definitivo, guardada amostra necessária à realização do laudo definitivo.",
-        "E": "imediatamente, antes de qualquer laudo."
+        "E": "imediatamente, antes de qualquer laudo, por decisão do delegado de polícia, sem necessidade de autorização do juiz."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1370,9 +1370,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não se imporá prisão em flagrante, devendo o autor do fato ser imediatamente encaminhado ao juízo competente ou assumir o compromisso de a ele comparecer, lavrando-se termo circunstanciado.",
-        "B": "será encaminhado ao presídio, aguardando a sentença.",
-        "C": "ficará sujeito a prisão temporária de cinco dias.",
-        "D": "será submetido a internação compulsória imediata.",
+        "B": "será encaminhado ao presídio, aguardando a sentença, ainda que o juiz verifique tratar-se de porte para consumo pessoal, sem prejuízo do termo circunstanciado.",
+        "C": "ficará sujeito a prisão temporária de cinco dias, prorrogável por igual período, até a lavratura do termo circunstanciado e a realização do laudo de constatação da droga pelo perito.",
+        "D": "será submetido a internação compulsória imediata, por determinação da autoridade policial, e permanecerá em unidade de saúde até a conclusão do inquérito policial.",
         "E": "será preso em flagrante e mantido sob custódia até a audiência."
       },
       "resposta_correta": "A",
@@ -1402,11 +1402,11 @@
       "enunciado": "<p>Concluída a investigação de crime de tráfico, o Ministério Público, no prazo de dez dias, nos termos do art. 54 da Lei de Drogas, poderá</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "arquivar diretamente, sem controle de qualquer órgão.",
+        "A": "arquivar diretamente, sem controle de qualquer órgão, ou requisitar as diligências que entender necessárias, arrolando até cinco testemunhas e requerendo as provas.",
         "B": "indiciar o acusado, por ato próprio.",
-        "C": "aplicar a pena, por termo de ajustamento.",
+        "C": "aplicar a pena, por termo de ajustamento, ou requisitar diligências, oferecer denúncia e arrolar até cinco testemunhas, sem necessidade de intervenção judicial.",
         "D": "requerer o arquivamento, requisitar as diligências que entender necessárias ou oferecer denúncia, arrolar até cinco testemunhas e requerer as demais provas.",
-        "E": "julgar o acusado, em procedimento sumário."
+        "E": "julgar o acusado, em procedimento sumário, ou oferecer denúncia, arrolar até cinco testemunhas e requerer a produção de provas na audiência."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1501,10 +1501,10 @@
       "enunciado": "<p>Um réu primário, de bons antecedentes, condenado por tráfico de drogas, pretende recorrer em liberdade. Segundo o art. 59 da Lei de Drogas, em sua literalidade,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o réu não pode apelar, em nenhuma hipótese.",
+        "A": "o réu não pode apelar, em nenhuma hipótese, ainda que primário e de bons antecedentes, devendo aguardar preso o julgamento do recurso pelo tribunal competente para apreciá-lo.",
         "B": "o réu só pode apelar com fiança paga.",
-        "C": "o réu só pode recorrer por habeas corpus.",
-        "D": "o réu sempre deve recolher-se à prisão, sem exceção.",
+        "C": "o réu só pode recorrer por habeas corpus, vedada a apelação, ainda que seja primário e de bons antecedentes, conforme a literalidade do art. 59 da lei.",
+        "D": "o réu sempre deve recolher-se à prisão, sem exceção, mesmo que seja primário e de bons antecedentes, nos termos do art. 59 da lei, hoje plenamente aplicável.",
         "E": "o réu não poderia apelar sem recolher-se à prisão, salvo se primário e de bons antecedentes, o que permite a apelação em liberdade, nos termos da Súmula 347 do STJ e do entendimento atual."
       },
       "resposta_correta": "E",
@@ -1534,10 +1534,10 @@
       "enunciado": "<p>A autoridade policial lavra auto de prisão em flagrante de pessoa que transportava droga, mas o laudo de constatação preliminar da natureza e quantidade da substância não está disponível naquele momento.</p><p>Segundo a Lei nº 11.343/2006, a lavratura do auto</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é vedada para qualquer pessoa presa transportando droga.",
-        "B": "pode ser lavrado por qualquer particular que testemunhe o fato.",
+        "A": "é vedada para qualquer pessoa presa transportando droga, enquanto não for concluído o laudo toxicológico definitivo pelo perito oficial.",
+        "B": "pode ser lavrado por qualquer particular que testemunhe o fato, dispensando-se laudo de constatação e a presença de autoridade policial no local da prisão ou da apreensão.",
         "C": "somente será possível com laudo de constatação firmado por perito oficial ou, na falta, por pessoa idônea, pois é exigência legal para a materialidade preliminar.",
-        "D": "pode ocorrer sem qualquer exame da droga, com base apenas na palavra dos policiais.",
+        "D": "pode ocorrer sem qualquer exame da droga, com base apenas na palavra dos policiais condutores, desde que a prisão seja ratificada pelo juiz.",
         "E": "deve aguardar o laudo definitivo, em qualquer caso."
       },
       "resposta_correta": "C",
@@ -1601,10 +1601,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a investigação cabe à Polícia Federal, e o processo e julgamento, à Justiça Federal, por se tratar de tráfico internacional (art. 70 da Lei nº 11.343/2006).",
-        "B": "a investigação cabe à Polícia Civil, e o julgamento, à Justiça Estadual.",
+        "B": "a investigação cabe à Polícia Civil, e o julgamento, à Justiça Estadual, pois o tráfico de drogas é crime comum, ainda que haja destino ao exterior da substância apreendida.",
         "C": "a investigação cabe à Guarda Municipal.",
-        "D": "o julgamento cabe à Justiça Militar da União.",
-        "E": "o julgamento cabe ao Tribunal do Júri."
+        "D": "o julgamento cabe à Justiça Militar da União, por envolver substância entorpecente e transporte entre países, com investigação pela Polícia Federal.",
+        "E": "o julgamento cabe ao Tribunal do Júri, por se tratar de crime com possível resultado de morte, apurado pela Polícia Federal."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1635,9 +1635,9 @@
       "alternativas": {
         "A": "reclusão de um a três anos.",
         "B": "advertência sobre os efeitos das drogas, prestação de serviços à comunidade e medida educativa de comparecimento a programa ou curso educativo.",
-        "C": "multa de dez a vinte salários mínimos.",
+        "C": "multa de dez a vinte salários mínimos, cumulada com advertência sobre os efeitos das drogas e com prestação de serviços à comunidade por até cinco meses.",
         "D": "prisão simples de quinze dias.",
-        "E": "detenção de seis meses a um ano."
+        "E": "detenção de seis meses a um ano, cumulada com multa e com a medida educativa de comparecimento a programa ou curso educativo."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1667,8 +1667,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reclusão de cinco a quinze anos, e pagamento de quinhentos a mil e quinhentos dias-multa.",
-        "B": "reclusão de três a dez anos, e multa.",
-        "C": "reclusão de oito a vinte anos, e multa.",
+        "B": "reclusão de três a dez anos, e pagamento de duzentos a quinhentos dias-multa, conforme o tipo.",
+        "C": "reclusão de oito a vinte anos, e pagamento de mil e quinhentos a quatro mil dias-multa.",
         "D": "reclusão de um a cinco anos, e multa.",
         "E": "detenção de seis meses a dois anos."
       },
@@ -1732,9 +1732,9 @@
       "enunciado": "<p>O crime de financiamento ou custeio do tráfico (art. 36 da Lei nº 11.343/2006) é punido com</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "reclusão de cinco a quinze anos.",
+        "A": "reclusão de cinco a quinze anos, e pagamento de quinhentos a mil e quinhentos dias-multa.",
         "B": "reclusão de três a dez anos.",
-        "C": "detenção de seis meses a dois anos.",
+        "C": "detenção de seis meses a dois anos, e pagamento de cem a trezentos dias-multa.",
         "D": "reclusão de oito a vinte anos, e pagamento de mil e quinhentos a quatro mil dias-multa.",
         "E": "reclusão de dois a seis anos."
       },
@@ -1765,11 +1765,11 @@
       "enunciado": "<p>O art. 37 da Lei de Drogas prevê o crime de colaborar, como informante, com grupo, organização ou associação destinados à prática do tráfico, punido com</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "detenção de um a três anos.",
+        "A": "detenção de um a três anos, e pagamento de cento e vinte a trezentos dias-multa.",
         "B": "reclusão de oito a vinte anos.",
         "C": "reclusão de dois a seis anos, e pagamento de trezentos a setecentos dias-multa.",
         "D": "multa, apenas.",
-        "E": "reclusão de cinco a quinze anos."
+        "E": "reclusão de cinco a quinze anos, e pagamento de quinhentos a mil e quinhentos dias-multa."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -1799,8 +1799,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o agente for primário.",
-        "B": "a quantidade apreendida for pequena.",
-        "C": "o agente for dependente químico.",
+        "B": "a quantidade apreendida for pequena, o que, segundo a lei, justifica o aumento da pena na terceira fase de aplicação.",
+        "C": "o agente for dependente químico, comprovada a dependência por laudo pericial, hipótese em que a lei prevê a elevação da pena em um sexto.",
         "D": "a natureza, a procedência da substância ou do produto apreendido e as circunstâncias do fato evidenciarem a transnacionalidade do delito.",
         "E": "o agente confessar o crime."
       },
@@ -1831,10 +1831,10 @@
       "enunciado": "<p>Entre as causas de aumento do art. 40 da Lei de Drogas, encontra-se o fato de o crime ser praticado</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "por dependente de drogas, para sustentar o vício.",
+        "A": "por dependente de drogas, para sustentar o vício, hipótese em que a pena é elevada em razão da maior reprovabilidade social.",
         "B": "por pessoa idosa, em qualquer circunstância.",
         "C": "por agente primário.",
-        "D": "em local de consumo próprio, sem circulação.",
+        "D": "em local de consumo próprio, sem circulação de terceiros, caso em que a lei prevê aumento em razão da natureza do local.",
         "E": "por agente que prevalece-se de função pública ou no desempenho de missão de educação, poder familiar, guarda ou vigilância."
       },
       "resposta_correta": "E",
@@ -1865,10 +1865,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "colaborar voluntariamente com a investigação policial e o processo criminal, na identificação dos demais coautores ou partícipes e na recuperação total ou parcial do produto do crime.",
-        "B": "confessar o crime perante o delegado, apenas.",
-        "C": "pagar a multa antes do julgamento.",
+        "B": "confessar o crime perante o delegado, apenas, ainda que não indique coautores nem contribua para a recuperação do produto do crime, devendo a confissão ser espontânea e feita sem advogado.",
+        "C": "pagar a multa antes do julgamento e reparar o dano causado à coletividade, ainda que não colabore com a investigação nem com o processo penal em curso.",
         "D": "se declarar dependente químico.",
-        "E": "for primário, em qualquer circunstância."
+        "E": "for primário, em qualquer circunstância, ainda que não colabore com a investigação nem identifique os demais envolvidos no crime."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1897,11 +1897,11 @@
       "enunciado": "<p>O § 2º do art. 33 da Lei de Drogas prevê o crime de induzir, instigar ou auxiliar alguém ao uso indevido de droga, punido com</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "detenção de seis meses a um ano.",
+        "A": "detenção de seis meses a um ano, e multa de cinquenta a cem dias-multa.",
         "B": "detenção de um a três anos, e multa de cem a trezentos dias-multa.",
         "C": "reclusão de três a dez anos.",
         "D": "prestação de serviços, apenas.",
-        "E": "reclusão de cinco a quinze anos."
+        "E": "reclusão de cinco a quinze anos, e multa de quinhentos a mil dias-multa."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1931,9 +1931,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "advertência, apenas.",
-        "B": "reclusão de dois a seis anos.",
+        "B": "reclusão de dois a seis anos, e pagamento de trezentos a setecentos dias-multa, sem prejuízo das penas do art. 28.",
         "C": "detenção de seis meses a um ano, e pagamento de setecentos a mil e quinhentos dias-multa, sem prejuízo das penas do art. 28.",
-        "D": "reclusão de cinco a quinze anos.",
+        "D": "reclusão de cinco a quinze anos, e pagamento de quinhentos a mil e quinhentos dias-multa, sem prejuízo das penas do art. 28.",
         "E": "detenção de um a três anos."
       },
       "resposta_correta": "C",
@@ -1963,10 +1963,10 @@
       "enunciado": "<p>O art. 39 da Lei de Drogas pune conduzir embarcação ou aeronave após o consumo de droga, expondo a dano potencial a incolumidade de outrem. A pena é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "prestação de serviços, apenas.",
-        "B": "reclusão de cinco a quinze anos, e multa.",
+        "A": "prestação de serviços à comunidade, apenas, além da apreensão do veículo e da suspensão da habilitação pelo mesmo prazo da pena aplicada, sem pagamento de dias-multa ao condenado.",
+        "B": "reclusão de cinco a quinze anos, e multa, além da apreensão do veículo e da cassação da habilitação pelo mesmo prazo da pena aplicada.",
         "C": "advertência, apenas.",
-        "D": "reclusão de dois a seis anos.",
+        "D": "reclusão de dois a seis anos, além da apreensão do veículo, cassação da habilitação pelo mesmo prazo da pena e pagamento de duzentos a quatrocentos dias-multa ao Estado.",
         "E": "detenção de seis meses a três anos, além da apreensão do veículo, cassação da habilitação pelo mesmo prazo da pena e pagamento de duzentos a quatrocentos dias-multa."
       },
       "resposta_correta": "E",
@@ -2029,8 +2029,8 @@
       "enunciado": "<p>Um traficante é condenado por tráfico e também por associação para o tráfico, em concurso material. Foi comprovado que o crime teve caráter transnacional.</p><p>Quanto à dosimetria, o aumento do art. 40, I, da Lei de Drogas</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é inaplicável, por já constituir elementar do tipo.",
-        "B": "incide na primeira fase, como circunstância judicial.",
+        "A": "é inaplicável, por já constituir elementar do tipo, e o julgador não pode considerá-lo em nenhuma fase da dosimetria, nem mesmo como circunstância judicial desfavorável.",
+        "B": "incide na primeira fase, como circunstância judicial, elevando a pena-base em fração livremente escolhida pelo julgador, sem necessidade de fundamentação específica.",
         "C": "incide apenas sobre a multa.",
         "D": "incide sobre o crime de tráfico, na terceira fase, em fração de um sexto a dois terços, e o julgador deve fundamentar a fração escolhida.",
         "E": "é obrigatório no patamar de dois terços, sem fundamentação."
@@ -2063,9 +2063,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "deve ser aplicada em seu patamar máximo, quando os requisitos do § 4º estiverem preenchidos e não houver fundamentação concreta para fração menor, e a quantidade de droga, isoladamente, não afasta a causa de diminuição.",
-        "B": "torna o crime hediondo, impedindo a progressão.",
-        "C": "substitui a pena por multa, obrigatoriamente.",
-        "D": "não pode ultrapassar um sexto, em hipótese alguma.",
+        "B": "torna o crime hediondo, impedindo a progressão, e afasta a aplicação do redutor quando a quantidade de droga apreendida for considerada elevada pelo julgador, nos termos da Lei de Crimes Hediondos e de sua regulamentação.",
+        "C": "substitui a pena por multa, obrigatoriamente, sempre que o réu for primário e de bons antecedentes, independentemente da quantidade de droga apreendida e da natureza do crime praticado.",
+        "D": "não pode ultrapassar um sexto, em hipótese alguma, qualquer que seja a primariedade do réu, a ausência de organização criminosa ou a ausência de fundamentação concreta para fração menor.",
         "E": "só pode ser aplicada se o réu confessar."
       },
       "resposta_correta": "A",
@@ -2095,11 +2095,11 @@
       "enunciado": "<p>O art. 34 da Lei nº 11.343/2006 pune o ato de fabricar, adquirir, utilizar, transportar, oferecer, vender, distribuir, entregar a qualquer título, possuir, guardar ou fornecer, ainda que gratuitamente, maquinário, aparelho, instrumento ou qualquer objeto destinado à fabricação, preparação, produção ou transformação de drogas. A pena é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "detenção de seis meses a um ano.",
+        "A": "detenção de seis meses a dois anos, e pagamento de cem a trezentos dias-multa.",
         "B": "reclusão de três a dez anos, e pagamento de mil e duzentos a dois mil dias-multa.",
         "C": "reclusão de cinco a quinze anos.",
         "D": "detenção de um a três anos.",
-        "E": "reclusão de oito a vinte anos."
+        "E": "reclusão de oito a vinte anos, e pagamento de mil e quinhentos a quatro mil dias-multa."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -2128,10 +2128,10 @@
       "enunciado": "<p>Segundo a Lei nº 11.343/2006, a apreensão de veículo, embarcação ou aeronave utilizados para o tráfico, bem como de objetos e valores, recebe tratamento de medida assecuratória, e, nos termos do art. 62, esses bens</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "devem ser devolvidos imediatamente ao proprietário, em qualquer caso.",
+        "A": "devem ser devolvidos imediatamente ao proprietário, em qualquer caso, ainda que haja indício de origem ilícita, antes de manifestação judicial.",
         "B": "são destruídos no ato da apreensão.",
         "C": "são leiloados antes de qualquer decisão judicial.",
-        "D": "são entregues a entidades filantrópicas sem decisão judicial.",
+        "D": "são entregues a entidades filantrópicas sem decisão judicial, mediante simples requerimento da instituição à autoridade policial.",
         "E": "podem ser apreendidos, ficando sob custódia da autoridade de polícia judiciária, que deve adotar medidas para sua conservação."
       },
       "resposta_correta": "E",

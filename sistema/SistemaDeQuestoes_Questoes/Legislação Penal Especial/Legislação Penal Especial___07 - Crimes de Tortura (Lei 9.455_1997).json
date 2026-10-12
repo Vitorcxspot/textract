@@ -404,10 +404,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a perda de um terço da remuneração, conforme a conveniência de cada caso.",
-        "B": "a perda do cargo apenas, sem interdição.",
+        "B": "a perda do cargo, função ou emprego público, sem interdição para seu exercício, que só ocorre no caso de reincidência.",
         "C": "a suspensão do cargo por trinta dias, de modo automático e sem fiscalização.",
         "D": "a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
-        "E": "a advertência escrita ao servidor, a critério exclusivo do interessado."
+        "E": "a advertência escrita ao servidor, cumulada com a perda de um terço da remuneração pelo prazo da pena aplicada."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -602,9 +602,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pessoa jurídica de direito privado, desde que haja simples concordância verbal.",
-        "B": "autoridade policial em serviço, ainda que contrarie a norma aplicável.",
+        "B": "autoridade policial em serviço, quando o crime for praticado por mais de duas pessoas.",
         "C": "magistrado em audiência, mesmo na ausência de previsão normativa.",
-        "D": "homem adulto, sem condição especial.",
+        "D": "homem adulto, sem condição especial, mas preso em estabelecimento de segurança máxima.",
         "E": "criança, gestante, pessoa com deficiência, adolescente ou maior de sessenta anos."
       },
       "resposta_correta": "E",
@@ -667,8 +667,8 @@
       "enunciado": "<p>A Lei de Tortura revogou expressamente o artigo do Estatuto da Criança e do Adolescente que tratava de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a venda de armas a crianças (art. 242).",
-        "B": "o tráfico de crianças (art. 239), sem a participação da autoridade competente.",
+        "A": "a venda de arma, munição ou explosivo a criança ou adolescente (art. 242), com pena de reclusão.",
+        "B": "o envio de criança ou adolescente ao exterior sem formalidades legais (art. 239).",
         "C": "a adoção irregular (art. 238), em caráter definitivo e irrevogável.",
         "D": "o trabalho infantil (art. 244), sem necessidade de registro ou controle.",
         "E": "submeter criança ou adolescente sob autoridade a vexame ou constrangimento (art. 233)."
@@ -768,9 +768,9 @@
       "alternativas": {
         "A": "a Justiça Militar, sempre, desde que haja simples concordância verbal.",
         "B": "a Justiça Comum, estadual ou federal, conforme os critérios constitucionais.",
-        "C": "o Juizado Especial, sempre.",
+        "C": "o Juizado Especial Criminal, sempre, por ser infração de menor potencial ofensivo.",
         "D": "a Justiça Eleitoral, ainda que contrarie a norma aplicável.",
-        "E": "a Justiça do Trabalho, conforme a conveniência de cada caso."
+        "E": "a Justiça do Trabalho, quando a vítima for empregado do agente torturador."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -834,8 +834,8 @@
       "alternativas": {
         "A": "de abuso de autoridade, apenas, sem prazo nem condição de validade.",
         "B": "previsto na Lei nº 9.455/1997, com causa de aumento pela condição de agente público.",
-        "C": "de lesão corporal leve, apenas.",
-        "D": "de contravenção, apenas, dispensada qualquer formalidade.",
+        "C": "de lesão corporal leve, apenas, mas com pena aumentada pela condição de agente público.",
+        "D": "de contravenção penal, apenas, de competência do juizado especial criminal.",
         "E": "de maus-tratos, apenas, sem a participação da autoridade competente."
       },
       "resposta_correta": "B",
@@ -1395,9 +1395,9 @@
       "alternativas": {
         "A": "exigir pagamento de dívida privada, em caráter definitivo e irrevogável.",
         "B": "cobrar tributo em atraso, sem a participação da autoridade competente.",
-        "C": "impedir o acesso a documento público.",
+        "C": "impedir o acesso a documento público, mediante coação do servidor responsável.",
         "D": "obter informação, declaração ou confissão da vítima ou de terceira pessoa.",
-        "E": "obter vantagem econômica indevida, por mera liberalidade do agente."
+        "E": "obter vantagem econômica indevida da vítima ou de seus familiares."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -1657,11 +1657,11 @@
       "enunciado": "<p>Se a tortura é seguida de morte da vítima por dolo do agente, a conduta pode configurar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas lesão leve, dispensada qualquer formalidade.",
+        "A": "apenas lesão corporal leve, por ser a morte resultado alheio à vontade do agente.",
         "B": "somente omissão, de modo automático e sem fiscalização.",
         "C": "concurso entre o crime de tortura e o homicídio, conforme o caso concreto.",
         "D": "fato atípico, sem prazo nem condição de validade.",
-        "E": "somente contravenção."
+        "E": "somente contravenção penal, por ausência de dolo quanto ao resultado."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1690,10 +1690,10 @@
       "enunciado": "<p>A pena de multa na tortura:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é a pena da omissão, sem possibilidade de revisão posterior.",
+        "A": "é a pena da omissão, aplicável cumulativamente à reclusão nos tipos do art. 1º.",
         "B": "não é prevista isoladamente nos tipos do art. 1º, que estabelecem reclusão ou detenção.",
         "C": "é a pena do § 4º, sem prazo nem condição de validade.",
-        "D": "é a única pena prevista.",
+        "D": "é a única pena prevista nos tipos do art. 1º, que não cominam penas privativas de liberdade.",
         "E": "é a pena do § 3º, sem necessidade de registro ou controle."
       },
       "resposta_correta": "B",

@@ -13,8 +13,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "negócio jurídico processual e meio de obtenção de prova, que pressupõe utilidade e interesse públicos.",
-        "B": "meio de prova direto, suficiente por si só para a condenação do delatado.",
-        "C": "ato administrativo unilateral do Ministério Público, sem natureza processual.",
+        "B": "meio de prova direto, suficiente por si só para a condenação do delatado, dispensando a produção de outras provas.",
+        "C": "ato administrativo unilateral do Ministério Público, sem natureza processual, dispensada a homologação judicial.",
         "D": "sentença homologatória de natureza condenatória.",
         "E": "mera declaração de testemunha, sem regime jurídico próprio."
       },
@@ -78,10 +78,10 @@
       "enunciado": "<p>O juiz participa das negociações para a formalização do acordo de colaboração premiada?</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Sim, desde que o colaborador esteja preso cautelarmente.",
+        "A": "Sim, desde que o colaborador esteja preso cautelarmente e haja pedido do delegado.",
         "B": "Não; o juiz não participa das negociações, limitando-se a homologar o acordo.",
         "C": "Sim, mas apenas nos acordos celebrados com o delegado de polícia.",
-        "D": "Sim; o juiz conduz as negociações e fixa as cláusulas do acordo.",
+        "D": "Sim; o juiz conduz as negociações com o Ministério Público e fixa as cláusulas do acordo.",
         "E": "Sim; o juiz deve estar presente em todas as reuniões entre as partes."
       },
       "resposta_correta": "B",
@@ -177,9 +177,9 @@
       "enunciado": "<p>São direitos do colaborador previstos na Lei nº 12.850/2013:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ser conduzido ao tribunal junto com os demais corréus.",
+        "A": "ser conduzido ao tribunal junto com os demais corréus, na mesma viatura policial.",
         "B": "ter nome, qualificação, imagem e demais informações pessoais preservados.",
-        "C": "manter contato visual com os acusados nas audiências.",
+        "C": "manter contato visual com os acusados nas audiências, em sala comum.",
         "D": "ter a identidade divulgada nos meios de comunicação.",
         "E": "cumprir pena sempre junto com os demais corréus."
       },
@@ -211,8 +211,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "A identificação dos demais coautores e partícipes da organização criminosa e das infrações por eles praticadas.",
-        "B": "A renúncia do colaborador à defesa técnica.",
-        "C": "A desistência do processo por parte do Ministério Público.",
+        "B": "A renúncia do colaborador à defesa técnica, para que negocie diretamente com o Ministério Público e com o delegado.",
+        "C": "A desistência do processo por parte do Ministério Público, com a extinção da punibilidade de todos os envolvidos.",
         "D": "A confissão do crime perante a imprensa.",
         "E": "O pagamento prévio de fiança em valor elevado."
       },
@@ -243,9 +243,9 @@
       "enunciado": "<p>A respeito do papel do juiz na homologação do acordo de colaboração, é correto afirmar que ele deve verificar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a concordância expressa do delatado com o acordo.",
+        "A": "a concordância expressa do delatado com o acordo, que deve assinar o termo de colaboração perante o juiz para sua homologação.",
         "B": "o mérito das declarações do colaborador, para antecipar o juízo sobre a veracidade.",
-        "C": "apenas a conveniência política da delação.",
+        "C": "apenas a conveniência política da delação para a administração pública e para a opinião pública.",
         "D": "a regularidade, a legalidade e a voluntariedade, podendo ouvir sigilosamente o colaborador, na presença de seu defensor.",
         "E": "somente a gravidade abstrata do crime investigado."
       },
@@ -309,8 +309,8 @@
       "enunciado": "<p>Nenhuma das seguintes medidas será decretada, ou sentença condenatória proferida, com fundamento apenas nas declarações do colaborador:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente as medidas cautelares reais, sendo admitida a condenação.",
-        "B": "somente o recebimento de denúncia, sendo admitida a prisão preventiva.",
+        "A": "somente as medidas cautelares reais, sendo admitidos o recebimento de denúncia e a sentença condenatória.",
+        "B": "somente o recebimento de denúncia, sendo admitidas a prisão preventiva e as medidas cautelares pessoais.",
         "C": "nenhuma delas, pois a lei admite a decretação baseada exclusivamente nas declarações.",
         "D": "somente a sentença condenatória, sendo admitido o recebimento de denúncia.",
         "E": "medidas cautelares reais ou pessoais, recebimento de denúncia ou queixa-crime e sentença condenatória."
@@ -342,10 +342,10 @@
       "enunciado": "<p>Realizado o acordo e antes do recebimento da denúncia, o prazo para o oferecimento da denúncia relativo ao colaborador poderá ser suspenso por até</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dois anos, sem suspensão da prescrição.",
+        "A": "dois anos, prorrogáveis por igual período, sem suspensão do prazo prescricional durante a colaboração.",
         "B": "três meses, vedada a prorrogação.",
         "C": "seis meses, prorrogáveis por igual período, suspendendo-se também o prazo prescricional.",
-        "D": "trinta dias, vedada a prorrogação.",
+        "D": "trinta dias, vedada a prorrogação, mas suspendendo-se também o prazo prescricional.",
         "E": "um ano, sem prorrogação."
       },
       "resposta_correta": "C",
@@ -409,8 +409,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reduzida até a metade ou será admitida a progressão de regime, ainda que ausentes os requisitos objetivos.",
-        "B": "reduzida até dois terços, com perdão judicial automático.",
-        "C": "mantida, por ser vedado qualquer benefício após a sentença.",
+        "B": "reduzida até dois terços, com perdão judicial automático, desde que o colaborador seja réu primário e confesse.",
+        "C": "mantida, por ser vedado qualquer benefício após a sentença, ainda que a colaboração seja efetiva.",
         "D": "substituída obrigatoriamente por multa.",
         "E": "extinta, com declaração da prescrição."
       },
@@ -474,10 +474,10 @@
       "enunciado": "<p>Sobre o sigilo do acordo de colaboração, é correto afirmar que o pedido de homologação</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "será público apenas ao delatado, que poderá divulgá-lo.",
+        "A": "será público apenas ao delatado, que poderá divulgá-lo, ao passo que permanece sigiloso para os demais acusados e para a imprensa.",
         "B": "dependerá da autorização da imprensa para ser levantado.",
         "C": "será sempre público desde a formalização da proposta.",
-        "D": "permanecerá sigiloso para sempre, mesmo após a sentença.",
+        "D": "permanecerá sigiloso para sempre, mesmo após a sentença, em razão da segurança do colaborador.",
         "E": "será distribuído sigilosamente, e o acordo deixa de ser sigiloso assim que recebida a denúncia, observado o art. 5º."
       },
       "resposta_correta": "E",

@@ -13,9 +13,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "menor potencial ofensivo pelos agentes de segurança pública, em todo o território nacional.",
-        "B": "armas de guerra pelas Forças Armadas, em operações externas.",
+        "B": "armas de guerra pelas Forças Armadas, em operações externas e em conflitos armados regulares fora do país.",
         "C": "explosivos por empresas de mineração.",
-        "D": "armas de caça por particulares autorizados.",
+        "D": "armas de caça por particulares autorizados, em áreas rurais, conforme o regulamento da atividade cinegética.",
         "E": "equipamentos de proteção individual de trabalhadores."
       },
       "resposta_correta": "A",
@@ -78,11 +78,11 @@
       "enunciado": "<p>Nos termos da Lei nº 13.060/2014, não é legítimo o uso de arma de fogo contra pessoa em fuga que esteja</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "na companhia de menor de idade.",
+        "A": "na companhia de menor de idade, em local de grande circulação de pessoas.",
         "B": "desarmada ou que, ainda que armada, não represente risco imediato de morte ou lesão.",
         "C": "em local sem iluminação adequada.",
         "D": "conduzindo veículo qualquer em via pública.",
-        "E": "dentro de estabelecimento comercial."
+        "E": "dentro de estabelecimento comercial, sem risco imediato de morte para terceiros presentes."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -112,9 +112,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a remoção para o local do fato.",
-        "B": "a abertura de inquérito apenas após trinta dias.",
+        "B": "a abertura de inquérito apenas após trinta dias, sem prejuízo do socorro prestado depois.",
         "C": "a prisão do ferido, em qualquer caso.",
-        "D": "o isolamento da vítima por vinte e quatro horas.",
+        "D": "o isolamento da vítima por vinte e quatro horas, para evitar contato com os familiares.",
         "E": "a imediata prestação de assistência e socorro médico, e a comunicação aos familiares."
       },
       "resposta_correta": "E",
@@ -144,9 +144,9 @@
       "enunciado": "<p>O Decreto nº 12.341/2024 regulamenta a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Lei nº 8.112/1990, sobre o regime dos servidores.",
+        "A": "Lei nº 8.112/1990, sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações.",
         "B": "Lei nº 10.826/2003, sobre o comércio de armas.",
-        "C": "Lei nº 12.850/2013, sobre organizações criminosas.",
+        "C": "Lei nº 12.850/2013, sobre organizações criminosas e os meios de obtenção de prova contra elas.",
         "D": "Lei nº 7.210/1984, sobre execução penal.",
         "E": "Lei nº 13.060/2014, disciplinando o uso da força pelos profissionais de segurança pública."
       },
@@ -179,9 +179,9 @@
       "alternativas": {
         "A": "armas brancas, de uso discricionário.",
         "B": "instrumentos de menor potencial ofensivo, desde que não coloquem em risco a integridade dos agentes.",
-        "C": "explosivos de efeito moral, em todo caso.",
+        "C": "explosivos de efeito moral, em todo caso, desde que a integridade dos agentes e da população esteja preservada.",
         "D": "armas pesadas, em operações de rotina.",
-        "E": "armas de fogo, em qualquer abordagem."
+        "E": "armas de fogo, em qualquer abordagem, para que a superioridade bélica iniba reações adversas."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -211,8 +211,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "conteúdo programático que os habilite ao uso de instrumentos de menor potencial ofensivo.",
-        "B": "exclusivamente disciplinas de direito civil.",
-        "C": "aulas de idioma estrangeiro obrigatórias.",
+        "B": "exclusivamente disciplinas de direito civil, sem conteúdo prático sobre o emprego da força.",
+        "C": "aulas de idioma estrangeiro obrigatórias, para o atendimento de turistas em grandes eventos.",
         "D": "apenas formação em armas de fogo.",
         "E": "somente conteúdos de gestão financeira."
       },
@@ -243,11 +243,11 @@
       "enunciado": "<p>São instrumentos de menor potencial ofensivo aqueles projetados para, com baixa probabilidade de causar morte ou lesões permanentes,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "impedir qualquer resistência por meio letal.",
+        "A": "impedir qualquer resistência por meio letal, se necessário.",
         "B": "destruir bens públicos e privados.",
         "C": "eliminar o alvo de forma definitiva.",
         "D": "conter, debilitar ou incapacitar temporariamente pessoas.",
-        "E": "produzir ferimentos graves e irreversíveis."
+        "E": "produzir ferimentos graves e irreversíveis no alvo."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -279,8 +279,8 @@
         "A": "sempre legítimo, para garantir a ordem.",
         "B": "sempre legítimo, em via pública.",
         "C": "ilegítimo, salvo se o ato represente risco imediato de morte ou lesão.",
-        "D": "legítimo, quando o condutor for reincidente.",
-        "E": "legítimo, quando o veículo for de valor elevado."
+        "D": "legítimo, quando o condutor for reincidente em infrações e de conduta perigosa.",
+        "E": "legítimo, quando o veículo for de valor elevado e o bloqueio for em via federal."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -309,9 +309,9 @@
       "enunciado": "<p>Nos termos da Lei nº 13.060/2014, o poder público tem o dever de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensar o treinamento dos agentes.",
+        "A": "dispensar o treinamento dos agentes que já tenham experiência prática de campo comprovada, para economizar recursos.",
         "B": "limitar o uso de equipamentos de proteção.",
-        "C": "transferir a compra dos instrumentos aos agentes.",
+        "C": "transferir a compra dos instrumentos aos próprios agentes, que os adquirirão conforme sua preferência e capacidade financeira.",
         "D": "fornecer apenas armas de fogo aos agentes.",
         "E": "fornecer a todo agente de segurança pública instrumentos de menor potencial ofensivo para o uso racional da força."
       },
@@ -343,9 +343,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "livre de qualquer controle.",
-        "B": "aplicado de forma desproporcional para intimidar.",
+        "B": "aplicado de forma desproporcional para intimidar, quando houver resistência verbal.",
         "C": "necessário, proporcional e legal, com o uso de arma de fogo como último recurso.",
-        "D": "automático e irrestrito diante de qualquer resistência.",
+        "D": "automático e irrestrito diante de qualquer resistência, inclusive passiva, do abordado.",
         "E": "indiscriminado nas manifestações públicas."
       },
       "resposta_correta": "C",
@@ -375,8 +375,8 @@
       "enunciado": "<p>Sobre os instrumentos de menor potencial ofensivo, é correto afirmar que seu uso</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é proibido para os agentes de segurança pública.",
-        "B": "dispensa qualquer critério, por serem não letais.",
+        "A": "é proibido para os agentes de segurança pública que não sejam das forças especiais, por seu risco.",
+        "B": "dispensa qualquer critério, por serem não letais, bastando que o agente julgue o momento adequado.",
         "C": "é livre e irrestrito.",
         "D": "também se submete aos princípios da legalidade, necessidade, razoabilidade e proporcionalidade.",
         "E": "pode ser aplicado como punição."
@@ -409,8 +409,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "proporcional ao risco concreto e imediato, e não uma resposta à simples fuga.",
-        "B": "aplicada para punir o fugitivo.",
-        "C": "máxima para desestimular fugas futuras.",
+        "B": "aplicada para punir o fugitivo e desestimular novas tentativas de fuga, mesmo sem risco.",
+        "C": "máxima para desestimular fugas futuras e afirmar a autoridade do Estado perante o infrator.",
         "D": "dispensada de justificativa posterior.",
         "E": "guiada pelo interesse patrimonial."
       },
@@ -441,9 +441,9 @@
       "enunciado": "<p>Em caso de comunicação aos familiares da pessoa ferida em ação de segurança, a Lei nº 13.060/2014 prevê que ela deve ocorrer</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente após o término do processo.",
+        "A": "somente após o término do processo, a fim de preservar o sigilo da investigação em curso.",
         "B": "como parte da assistência devida, sem prejuízo do socorro médico imediato.",
-        "C": "se a vítima for menor de idade.",
+        "C": "se a vítima for menor de idade ou estiver sob custódia, sem prejuízo da conduta do agente.",
         "D": "por mera liberalidade do agente.",
         "E": "apenas se solicitado em juízo."
       },
@@ -474,9 +474,9 @@
       "enunciado": "<p>A regulamentação da Lei nº 13.060/2014 por decreto presidencial significa que o decreto deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "substituir a lei em caso de omissão.",
+        "A": "substituir a lei em caso de omissão, criando hipóteses de uso da força não previstas.",
         "B": "dispensar a observância da lei pelos Estados.",
-        "C": "revogar a lei no que contrariar o Executivo.",
+        "C": "revogar a lei no que contrariar o interesse do Executivo federal.",
         "D": "criar tipos penais novos.",
         "E": "detalhar a execução da lei, sem contrariá-la nem ampliar seu alcance."
       },
@@ -507,9 +507,9 @@
       "enunciado": "<p>Em operação de segurança do dignitário, o agente nota que o risco pode ser contido por meio de verbalização e contato físico controlado. A conduta alinhada à Lei 13.060/2014 é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "empregar instrumentos letais por precaução.",
+        "A": "empregar instrumentos letais por precaução, já que o resultado da abordagem é imprevisível.",
         "B": "sacar de imediato a arma de fogo.",
-        "C": "utilizar a força máxima para dissuadir.",
+        "C": "utilizar a força máxima para dissuadir, a fim de evitar que a situação evolua posteriormente.",
         "D": "adotar o meio menos lesivo eficaz, escalando a força apenas se necessário.",
         "E": "aguardar a ofensa para só então agir."
       },
@@ -542,9 +542,9 @@
       "alternativas": {
         "A": "aplica-se apenas à Polícia Federal.",
         "B": "aplica-se aos agentes de segurança pública em todo o território nacional, nas três esferas.",
-        "C": "aplica-se somente às polícias estaduais.",
+        "C": "aplica-se somente às polícias estaduais, por serem as responsáveis pelo policiamento ostensivo nas ruas.",
         "D": "aplica-se apenas às Forças Armadas.",
-        "E": "aplica-se apenas à segurança privada."
+        "E": "aplica-se apenas à segurança privada, por ser a atividade em que o uso da força é mais frequente."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -574,9 +574,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apenas multa tributária.",
-        "B": "nenhuma responsabilidade, pela natureza da função.",
+        "B": "nenhuma responsabilidade, pela natureza da função, desde que em serviço.",
         "C": "responsabilização administrativa, civil e penal, conforme o caso.",
-        "D": "somente perda de gratificação.",
+        "D": "somente perda de gratificação e transferência de lotação.",
         "E": "apenas advertência verbal."
       },
       "resposta_correta": "C",
@@ -608,8 +608,8 @@
       "alternativas": {
         "A": "interromper o uso da força e prestar assistência necessária à pessoa atingida.",
         "B": "abandonar o local sem registro.",
-        "C": "negar atendimento médico até a lavratura do termo.",
-        "D": "continuar a força para garantir submissão.",
+        "C": "negar atendimento médico até a lavratura do termo circunstanciado, que deve ser feito primeiro.",
+        "D": "continuar a força para garantir a submissão do abordado até a chegada de outra equipe.",
         "E": "aplicar força adicional como lição."
       },
       "resposta_correta": "A",
@@ -639,8 +639,8 @@
       "enunciado": "<p>O fornecimento de equipamentos de proteção ao agente, previsto na Lei nº 13.060/2014 e em seu regulamento, serve para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "eliminar o uso de instrumentos de menor potencial ofensivo.",
-        "B": "permitir o abuso de autoridade.",
+        "A": "eliminar o uso de instrumentos de menor potencial ofensivo, substituindo-os por equipamentos letais de maior alcance.",
+        "B": "permitir o abuso de autoridade por meio de equipamentos que reduzem a possibilidade de reação dos agentes.",
         "C": "substituir a capacitação.",
         "D": "dispensar o treinamento.",
         "E": "reduzir riscos ao agente e viabilizar o uso gradual da força, sem recurso imediato à arma de fogo."
@@ -705,11 +705,11 @@
       "enunciado": "<p>Durante uma abordagem, um agente de segurança dispara contra veículo que ultrapassou bloqueio policial, sem que o motorista oferecesse risco imediato de morte ou lesão. A conduta</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é regular, pois a legislação autoriza disparos preventivos.",
+        "A": "é regular, pois a legislação autoriza disparos preventivos contra veículos em bloqueios policiais, em qualquer circunstância.",
         "B": "contraria a Lei nº 13.060/2014, que só admite o uso de arma de fogo nessas situações diante de risco imediato.",
         "C": "é regular se o veículo estiver em alta velocidade.",
         "D": "é regular se for noturno.",
-        "E": "é regular, pois o veículo desrespeitou a ordem."
+        "E": "é regular, pois o veículo desrespeitou a ordem de parada e o agente agiu em estrito cumprimento do dever legal."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -738,10 +738,10 @@
       "enunciado": "<p>O agente utilizou instrumento de menor potencial ofensivo e, mesmo com a pessoa já contida, continuou a aplicá-lo. Do ponto de vista da legislação, a conduta</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é admitida, se a pessoa xingar o agente.",
+        "A": "é admitida, se a pessoa xingar o agente ou tentar se libertar da contenção após ser imobilizada.",
         "B": "é admitida, desde que breve.",
         "C": "viola os princípios da necessidade e da proporcionalidade, pois a força deve cessar com a contenção.",
-        "D": "é admitida, por tratar-se de instrumento não letal.",
+        "D": "é admitida, por tratar-se de instrumento não letal, cujo emprego dispensa critérios de necessidade e proporção.",
         "E": "é admitida, como forma de punição."
       },
       "resposta_correta": "C",
@@ -771,8 +771,8 @@
       "enunciado": "<p>Um decreto estadual pretende autorizar o disparo de arma de fogo contra qualquer pessoa em fuga. Em face da Lei federal nº 13.060/2014, a norma estadual é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "válida, se limitada a crimes graves.",
-        "B": "válida, pois o Estado tem autonomia irrestrita.",
+        "A": "válida, se limitada a crimes graves, pois o Estado pode ampliar as hipóteses de uso da arma de fogo contra fugitivos.",
+        "B": "válida, pois o Estado tem autonomia irrestrita para legislar sobre o uso da força por suas polícias, sem limites federais.",
         "C": "válida, pois a lei federal é apenas recomendação.",
         "D": "inválida, por contrariar a vedação do uso de arma de fogo contra pessoa em fuga desarmada ou sem risco imediato.",
         "E": "válida, se aprovada pela Assembleia."
@@ -805,8 +805,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a dignidade da pessoa humana e a proteção dos direitos fundamentais.",
-        "B": "a livre iniciativa e a concorrência.",
-        "C": "a autonomia federativa absoluta.",
+        "B": "a livre iniciativa e a concorrência, na gestão da segurança pública.",
+        "C": "a autonomia federativa absoluta, sem limites de normas gerais da União.",
         "D": "o sigilo da fonte jornalística.",
         "E": "a liberdade de cátedra."
       },
@@ -839,9 +839,9 @@
       "alternativas": {
         "A": "não existia meio menos lesivo igualmente eficaz para atingir o objetivo legítimo.",
         "B": "o procedimento seria mais rápido.",
-        "C": "o equipamento está disponível no momento.",
+        "C": "o equipamento está disponível no momento e seu uso é compatível com o treinamento recebido.",
         "D": "o custo é inferior ao de outros meios.",
-        "E": "o agente gostaria de usar o meio mais forte."
+        "E": "o agente gostaria de usar o meio mais forte, por entender que ele daria resultado mais rápido."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -871,10 +871,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "definida pela preferência do agente.",
-        "B": "definida pelo número de pessoas presentes.",
+        "B": "definida pelo número de pessoas presentes e pela repercussão do fato na imprensa.",
         "C": "sempre máxima, para dissuadir.",
         "D": "compatível com a gravidade da ameaça e o objetivo legítimo a ser alcançado.",
-        "E": "sempre mínima, ainda que insuficiente."
+        "E": "sempre mínima, ainda que insuficiente para conter a ameaça real."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -905,8 +905,8 @@
       "alternativas": {
         "A": "compatível, por ser operacional.",
         "B": "incompatível com a Lei nº 13.060/2014 e com o decreto regulamentador, que impõem parâmetros e princípios.",
-        "C": "compatível, pois a resistência autoriza qualquer força.",
-        "D": "compatível, por ser matéria discricionária.",
+        "C": "compatível, pois a resistência do abordado autoriza o emprego de qualquer grau de força disponível ao agente.",
+        "D": "compatível, por ser matéria discricionária do agente, a quem cabe avaliar caso a caso o momento do disparo.",
         "E": "compatível, por respeitar a hierarquia."
       },
       "resposta_correta": "B",
@@ -937,10 +937,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "aguardar a conclusão do inquérito.",
-        "B": "condicionar o socorro ao reconhecimento da culpa.",
+        "B": "condicionar o socorro ao reconhecimento da culpa pelo ferido que houver desobedecido.",
         "C": "providenciar atendimento médico sem condicionar a assistência à apuração dos fatos.",
         "D": "negar socorro a pessoas presas.",
-        "E": "transferir o dever à vítima."
+        "E": "transferir o dever à vítima, que deve buscar atendimento por seus próprios meios."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1002,10 +1002,10 @@
       "enunciado": "<p>Segundo o Código de Conduta da ONU, no cumprimento do dever, os encarregados da aplicação da lei devem respeitar e proteger</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas os interesses de empresas privadas.",
+        "A": "apenas os interesses de empresas privadas contratantes e das autoridades superiores.",
         "B": "exclusivamente os direitos de nacionais.",
         "C": "a dignidade humana e manter e defender os direitos humanos de todas as pessoas.",
-        "D": "apenas os direitos das autoridades públicas.",
+        "D": "apenas os direitos das autoridades públicas, cabendo aos cidadãos o dever de colaboração.",
         "E": "somente os bens materiais do Estado."
       },
       "resposta_correta": "C",
@@ -1035,10 +1035,10 @@
       "enunciado": "<p>O Código de Conduta da ONU estabelece que a força somente pode ser usada</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "em qualquer situação de desobediência.",
+        "A": "em qualquer situação de desobediência, mesmo quando não haja risco para a integridade de ninguém.",
         "B": "quando estritamente necessária e na medida exigida para o cumprimento do dever.",
         "C": "sempre que o agente julgar conveniente.",
-        "D": "para dissuadir pessoas de se aproximarem.",
+        "D": "para dissuadir pessoas de se aproximarem de áreas sensíveis, ainda que sem qualquer ameaça concreta.",
         "E": "como forma de punição imediata."
       },
       "resposta_correta": "B",
@@ -1069,8 +1069,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "tortura ou outros tratamentos ou penas cruéis, desumanos ou degradantes.",
-        "B": "a realização de revistas pessoais legais.",
-        "C": "a lavratura de autos de prisão em flagrante.",
+        "B": "a realização de revistas pessoais legais, desde que feitas com respeito ao revistado.",
+        "C": "a lavratura de autos de prisão em flagrante nos crimes cometidos por outros agentes.",
         "D": "a condução coercitiva legal.",
         "E": "o uso de algemas em casos justificados."
       },
@@ -1102,8 +1102,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "quando houver interesse comercial.",
-        "B": "quando a imprensa solicitar, em qualquer caso.",
-        "C": "quando houver pedido de colegas, sem formalidade.",
+        "B": "quando a imprensa solicitar, em qualquer caso, desde que o pedido seja feito por escrito e fundamentado.",
+        "C": "quando houver pedido de colegas, sem formalidade, para que todos tenham acesso aos dados.",
         "D": "quando o cumprimento do dever ou as necessidades da justiça exigirem estritamente o contrário.",
         "E": "quando alguém solicitar por curiosidade."
       },
@@ -1135,9 +1135,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "incomunicabilidade absoluta do preso.",
-        "B": "transferência para local desconhecido.",
+        "B": "transferência para local desconhecido, a fim de preservar a segurança dos agentes e o êxito da investigação.",
         "C": "restrição de contato com defensores.",
-        "D": "privação de alimentação durante a custódia.",
+        "D": "privação de alimentação durante a custódia, enquanto o preso não colaborar com a investigação.",
         "E": "proteção da saúde das pessoas sob sua custódia, inclusive atendimento médico, sempre que necessário."
       },
       "resposta_correta": "E",
@@ -1167,8 +1167,8 @@
       "enunciado": "<p>O Código de Conduta da ONU veda aos encarregados da aplicação da lei a prática de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cooperação com outros órgãos.",
-        "B": "participação em cursos de capacitação.",
+        "A": "cooperação com outros órgãos, havendo conflito com a corporação.",
+        "B": "participação em cursos de capacitação sem relação com a função.",
         "C": "uso regular de uniforme.",
         "D": "atos de corrupção, devendo opor-se vigorosamente a eles.",
         "E": "registro de ocorrências."
@@ -1233,11 +1233,11 @@
       "enunciado": "<p>O Código de Conduta da ONU, ao tratar do uso de armas de fogo, afirma que o uso é medida extrema e que deve-se fazer todo esforço para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "incentivar o uso contra suspeitos desarmados.",
+        "A": "incentivar o uso contra suspeitos desarmados, quando fugirem do local.",
         "B": "excluir o uso de armas de fogo, especialmente contra crianças.",
         "C": "dispensar a comunicação do fato à autoridade.",
         "D": "ampliar o uso em abordagens de rotina.",
-        "E": "garantir o disparo de advertência sistemático."
+        "E": "garantir o disparo de advertência sistemático antes de qualquer abordagem."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1266,10 +1266,10 @@
       "enunciado": "<p>A expressão encarregados da aplicação da lei, no Código de Conduta da ONU, inclui</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente os oficiais de justiça.",
+        "A": "somente os oficiais de justiça e os agentes que cumpram mandados judiciais, nas esferas cível e criminal, em atividade.",
         "B": "apenas os juízes e promotores.",
         "C": "somente os agentes da polícia civil.",
-        "D": "apenas os agentes das Forças Armadas.",
+        "D": "apenas os agentes das Forças Armadas, quando empregados em operações de garantia da lei e da ordem pública.",
         "E": "todos os agentes da lei, nomeados ou eleitos, que exerçam poderes policiais, especialmente de prisão ou detenção."
       },
       "resposta_correta": "E",
@@ -1300,8 +1300,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "instrumento de soft law, com valor orientativo e influência sobre normas e práticas.",
-        "B": "tratado internacional com ratificação obrigatória.",
-        "C": "norma interna de aplicação direta e coercitiva.",
+        "B": "tratado internacional com ratificação obrigatória, cujo descumprimento gera sanção automática ao Estado.",
+        "C": "norma interna de aplicação direta e coercitiva, com força de lei federal em todos os Estados.",
         "D": "sentença de tribunal internacional.",
         "E": "emenda à Carta da ONU."
       },
@@ -1332,8 +1332,8 @@
       "enunciado": "<p>Um agente, ao receber ordem de torturar preso para obter informações, alega obediência hierárquica. À luz do Código de Conduta da ONU, a alegação</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o exime, se houver estado de emergência.",
-        "B": "o exime, se a informação for relevante.",
+        "A": "o exime, se houver estado de emergência declarado, hipótese em que a ordem superior prevalece.",
+        "B": "o exime, se a informação for relevante para o inquérito e a ordem partir de autoridade competente.",
         "C": "o exime, se o preso for perigoso.",
         "D": "não o exime de responsabilidade, devendo recusar a ordem manifestamente ilegal.",
         "E": "o exime, em qualquer caso."
@@ -1365,11 +1365,11 @@
       "enunciado": "<p>O dever de reportar violações ao Código de Conduta, previsto no art. 8º, exige dos encarregados que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tolerem violações em nome da solidariedade.",
+        "A": "tolerem violações em nome da solidariedade institucional, evitando o desgaste da corporação perante a opinião pública.",
         "B": "respeitem a lei e o Código e, na medida de suas possibilidades, impeçam e se oponham a violações.",
         "C": "comuniquem apenas à imprensa.",
         "D": "omitam violações de colegas.",
-        "E": "aguardem decisão judicial para agir."
+        "E": "aguardem decisão judicial para agir, mesmo quando haja risco imediato para a integridade física de pessoas."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1399,9 +1399,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "trata exclusivamente de prisões.",
-        "B": "revoga integralmente o Código de Conduta.",
+        "B": "revoga integralmente o Código de Conduta, passando a regular sozinho todas as matérias antes tratadas por ele.",
         "C": "trata especificamente do uso da força e armas de fogo, detalhando os padrões gerais do primeiro.",
-        "D": "trata de comércio internacional de armas.",
+        "D": "trata de comércio internacional de armas, regulando exportações e importações entre os Estados-membros.",
         "E": "dispõe sobre o regime de Forças Armadas."
       },
       "resposta_correta": "C",
@@ -1432,8 +1432,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apliquem sempre a força máxima.",
-        "B": "evitem qualquer comunicação com superiores.",
-        "C": "desconsiderem a legislação nacional.",
+        "B": "evitem qualquer comunicação com superiores durante as operações, para não prejudicar a iniciativa do agente.",
+        "C": "desconsiderem a legislação nacional, quando as normas internacionais indicarem solução mais rigorosa.",
         "D": "evitem relatar o uso da força.",
         "E": "tomem decisões legítimas sob pressão, aplicando os princípios de necessidade e proporcionalidade."
       },
@@ -1464,9 +1464,9 @@
       "enunciado": "<p>O Código de Conduta destaca que os agentes de segurança devem, no desempenho do dever, servir à comunidade e proteger todas as pessoas contra atos ilegais, de modo compatível com</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a conveniência de autoridades locais.",
+        "A": "a conveniência de autoridades locais, que definem as atribuições.",
         "B": "o elevado grau de responsabilidade exigido pela profissão.",
-        "C": "o poder econômico dos interessados.",
+        "C": "o poder econômico dos interessados nos serviços prestados.",
         "D": "a posição política do agente.",
         "E": "o interesse particular do agente."
       },
@@ -1497,10 +1497,10 @@
       "enunciado": "<p>O princípio da legalidade no uso da força, conforme o Manual do UNODC, implica que a força deve ter base</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "na gravidade do histórico do suspeito.",
+        "A": "na gravidade do histórico do suspeito, bastando que ele tenha antecedentes.",
         "B": "no clamor público.",
         "C": "na lei, perseguir objetivo legítimo e ser necessária e proporcional.",
-        "D": "na ordem verbal de qualquer pessoa.",
+        "D": "na ordem verbal de qualquer pessoa presente, ainda que não seja autoridade.",
         "E": "na conveniência do agente."
       },
       "resposta_correta": "C",
@@ -1531,8 +1531,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "violadora do dever de usar a força apenas na medida estritamente necessária e do respeito à dignidade da pessoa.",
-        "B": "admissível, por ser forma de dissuasão.",
-        "C": "admissível, se o dignitário solicitar.",
+        "B": "admissível, por ser forma de dissuasão, desde que o invasor tenha antes oferecido resistência ao agente de segurança.",
+        "C": "admissível, se o dignitário solicitar a ação, por ser ele o maior interessado na sua própria segurança.",
         "D": "admissível, se o invasor for violento.",
         "E": "admissível, se a ação for rápida."
       },
@@ -1563,8 +1563,8 @@
       "enunciado": "<p>Considerado o comentário do Código de Conduta à luz do Manual UNODC, o uso da força por agente da lei é permitido, em geral,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "como instrumento de punição imediata.",
-        "B": "como forma de obtenção de confissão.",
+        "A": "como instrumento de punição imediata, quando o agente presenciar a prática de infração penal.",
+        "B": "como forma de obtenção de confissão, desde que utilizada com moderação e sem causar lesões.",
         "C": "como recurso de rotina.",
         "D": "como medida preferencial e imediata.",
         "E": "somente quando exigido pelo cumprimento do dever, após esgotados outros meios eficazes."
@@ -1597,10 +1597,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o sigilo é dever apenas do chefe.",
-        "B": "o sigilo se aplica só a documentos físicos.",
+        "B": "o sigilo se aplica só a documentos físicos, não alcançando informações obtidas em conversas ou diligências.",
         "C": "a exceção alcança hipóteses em que o dever ou as necessidades da justiça exigem estritamente a divulgação.",
         "D": "o sigilo é absoluto e inderrogável.",
-        "E": "o sigilo cessa por pedido de qualquer parte."
+        "E": "o sigilo cessa por pedido de qualquer parte do processo, desde que formulado por escrito ao juiz."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1631,8 +1631,8 @@
       "alternativas": {
         "A": "informam a interpretação e a elaboração de normas e protocolos nacionais sobre o uso da força.",
         "B": "são aplicáveis apenas a militares.",
-        "C": "são irrelevantes para o direito interno.",
-        "D": "são hierarquicamente superiores à Constituição.",
+        "C": "são irrelevantes para o direito interno, por não terem força vinculante nem valor de fonte interpretativa.",
+        "D": "são hierarquicamente superiores à Constituição, prevalecendo sobre as normas internas dos Estados-membros.",
         "E": "revogam as leis nacionais."
       },
       "resposta_correta": "A",
@@ -1662,10 +1662,10 @@
       "enunciado": "<p>Um comandante determina que seus agentes usem sempre a força máxima contra manifestantes, sob a alegação de prevenção. A ordem é, perante o Código de Conduta,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "compatível, pois a prevenção a justifica.",
+        "A": "compatível, pois a prevenção a justifica, mesmo que não haja violência por parte dos manifestantes.",
         "B": "manifestamente incompatível, pois a força deve ser a estritamente necessária e proporcional.",
         "C": "compatível, pois o comando é superior.",
-        "D": "compatível, pois manifestantes são infratores.",
+        "D": "compatível, pois manifestantes são infratores em potencial, cabendo à polícia contê-los preventivamente.",
         "E": "compatível, pois o Código é facultativo."
       },
       "resposta_correta": "B",
@@ -1729,9 +1729,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o agente criar técnica própria de uso da força.",
-        "B": "o agente improvisar instrumentos conforme a ocasião.",
+        "B": "o agente improvisar instrumentos conforme a ocasião, mesmo que não previstos em normas ou regulamentos da corporação.",
         "C": "o agente aplicar a força de acordo com sua experiência.",
-        "D": "o agente copiar a técnica de outra corporação sem autorização.",
+        "D": "o agente copiar a técnica de outra corporação sem autorização, desde que o resultado seja considerado eficaz.",
         "E": "o agente utilizar apenas os instrumentos e procedimentos autorizados em lei e nos protocolos do órgão."
       },
       "resposta_correta": "E",
@@ -1827,11 +1827,11 @@
       "enunciado": "<p>Quando o uso legítimo da força for inevitável, os agentes devem agir com</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "imprevisibilidade, para surpreender.",
+        "A": "imprevisibilidade, para surpreender o infrator e impedir que ele reaja ao uso da força.",
         "B": "moderação e proporcionalidade à gravidade da infração e ao objetivo legítimo.",
         "C": "rigor máximo, para dissuadir.",
         "D": "impulsividade, para ganhar tempo.",
-        "E": "indiferença, quanto às consequências."
+        "E": "indiferença quanto às consequências, para que o juízo moral não influencie a atuação do agente."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1861,9 +1861,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "assistência e socorro médico o mais cedo possível.",
-        "B": "atendimento apenas após o inquérito.",
+        "B": "atendimento apenas após o fim do inquérito.",
         "C": "socorro apenas aos agentes feridos.",
-        "D": "assistência condicionada à identificação.",
+        "D": "assistência condicionada à identificação do ferido.",
         "E": "auxílio somente em horário comercial."
       },
       "resposta_correta": "A",
@@ -1893,9 +1893,9 @@
       "enunciado": "<p>Segundo os Princípios de Havana, os agentes da lei devem, ao usar arma de fogo, identificar-se como tais e dar aviso claro de sua intenção,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente se o suspeito solicitar.",
+        "A": "somente se o suspeito solicitar ou se o agente entender que ele pode estar armado ou perigoso.",
         "B": "apenas se houver testemunhas.",
-        "C": "nunca, em nenhuma circunstância.",
+        "C": "nunca, em nenhuma circunstância, para preservar o fator surpresa em abordagens com risco real.",
         "D": "somente após o disparo.",
         "E": "com tempo suficiente para o aviso ser respeitado, salvo se isso colocar o agente em risco."
       },
@@ -1959,10 +1959,10 @@
       "enunciado": "<p>Segundo os Princípios de Havana, o uso arbitrário ou abusivo da força e de armas de fogo pelos agentes deve ser punido como</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exercício regular de direito.",
+        "A": "exercício regular de direito dos agentes, sem punição.",
         "B": "mera falta de etiqueta.",
         "C": "simples dissidência técnica.",
-        "D": "omissão administrativa irrelevante.",
+        "D": "omissão administrativa irrelevante, apenas anotada.",
         "E": "infração penal, nos termos da legislação nacional."
       },
       "resposta_correta": "E",
@@ -1993,9 +1993,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ameaça iminente de morte ou ferimento grave.",
-        "B": "qualquer desobediência.",
+        "B": "qualquer desobediência a ordens legais.",
         "C": "fuga de pequeno furto.",
-        "D": "risco patrimonial.",
+        "D": "risco patrimonial ao Estado ou a particulares.",
         "E": "discussão verbal."
       },
       "resposta_correta": "A",
@@ -2025,10 +2025,10 @@
       "enunciado": "<p>Os Princípios de Havana admitem o uso letal intencional de armas de fogo somente quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autorizado verbalmente por superior.",
+        "A": "autorizado verbalmente por superior hierárquico.",
         "B": "solicitado pela imprensa.",
         "C": "estritamente inevitável para proteger a vida.",
-        "D": "útil para dissuadir futuras infrações.",
+        "D": "útil para dissuadir futuras infrações, mediante exemplo.",
         "E": "conveniente à operação."
       },
       "resposta_correta": "C",
@@ -2091,8 +2091,8 @@
       "enunciado": "<p>Em reuniões ilegais, mas não violentas, os Princípios de Havana orientam os agentes a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tratar todos como violentos.",
-        "B": "usar armas de fogo, de imediato.",
+        "A": "tratar todos como violentos e dispersá-los preventivamente, qualquer que seja o comportamento.",
+        "B": "usar armas de fogo, de imediato, contra quem se recusar a deixar o local.",
         "C": "usar força máxima, para dissuadir.",
         "D": "evitar o uso da força ou, se impraticável, restringi-lo ao mínimo necessário.",
         "E": "ignorar a situação."
@@ -2125,8 +2125,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não for possível adotar meios menos perigosos e dentro do mínimo necessário.",
-        "B": "houver desrespeito a ordens simples.",
-        "C": "a multidão for numerosa.",
+        "B": "houver desrespeito a ordens simples dadas pelos agentes, ainda que sem violência.",
+        "C": "a multidão for numerosa e houver risco de tumulto generalizado na área.",
         "D": "houver ruído excessivo.",
         "E": "houver baixa visibilidade."
       },
@@ -2157,10 +2157,10 @@
       "enunciado": "<p>Os Princípios de Havana recomendam que os agentes passem por seleção rigorosa e exame</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas de desempenho acadêmico.",
+        "A": "apenas de desempenho acadêmico, mediante provas escritas e entrevistas conduzidas por banca da corporação.",
         "B": "físico e psicológico, com treinamento contínuo, inclusive em ética e direitos humanos.",
         "C": "de fidelidade política.",
-        "D": "apenas de aptidão física.",
+        "D": "apenas de aptidão física, sem avaliação psicológica ou preparação ética específica para a função.",
         "E": "apenas financeiro."
       },
       "resposta_correta": "B",
@@ -2190,8 +2190,8 @@
       "enunciado": "<p>Segundo os Princípios de Havana, os Estados devem garantir que os governos estabeleçam procedimentos de relato e revisão dos casos de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "promoções por antiguidade.",
-        "B": "gastos com diárias.",
+        "A": "promoções por antiguidade, com registro dos critérios usados pelos comandos.",
+        "B": "gastos com diárias e deslocamentos, auditados pelas chefias.",
         "C": "uso da força e armas de fogo que causem morte ou ferimento grave.",
         "D": "férias dos agentes.",
         "E": "mudanças de lotação."
@@ -2223,11 +2223,11 @@
       "enunciado": "<p>A responsabilidade dos superiores, nos Princípios de Havana, é configurada quando eles sabiam ou deviam saber do uso ilícito da força por subordinados e</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autorizaram verbalmente.",
+        "A": "autorizaram verbalmente o ato, ainda que sem conhecer as circunstâncias.",
         "B": "aprovaram tacitamente.",
         "C": "estavam em férias.",
         "D": "não tomaram medidas ao seu alcance para impedir, suprimir ou relatar.",
-        "E": "não tinham formação jurídica."
+        "E": "não tinham formação jurídica suficiente para avaliar a legalidade."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2258,8 +2258,8 @@
       "alternativas": {
         "A": "afastam todas as regras.",
         "B": "não podem ser invocadas para justificar o descumprimento desses princípios.",
-        "C": "permitem uso irrestrito da força.",
-        "D": "suspendem as normas por ato do Executivo.",
+        "C": "permitem uso irrestrito da força, sobretudo quando houver ordem superior expressa.",
+        "D": "suspendem as normas por ato do Executivo, durante o período declarado de emergência.",
         "E": "autorizam o descumprimento."
       },
       "resposta_correta": "B",
@@ -2289,8 +2289,8 @@
       "enunciado": "<p>Os Princípios de Havana preveem que os agentes que se recusem a cumprir ordens ilegais de usar força ou armas de fogo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "perdem a gratificação.",
-        "B": "devem ser transferidos de ofício.",
+        "A": "perdem a gratificação e ficam sujeitos a processo disciplinar sumário.",
+        "B": "devem ser transferidos de ofício, por conveniência do serviço.",
         "C": "não devem sofrer sanção penal ou disciplinar por essa recusa.",
         "D": "devem ser exonerados.",
         "E": "devem ser presos."
@@ -2323,9 +2323,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "legítima, se de madrugada.",
-        "B": "legítima, pois a fuga justifica o disparo.",
+        "B": "legítima, pois a fuga justifica o disparo, já que o suspeito tenta escapar da ação policial e da prisão em flagrante, por crime grave.",
         "C": "legítima, pois o suspeito é criminoso.",
-        "D": "legítima, pois o disparo foi de advertência.",
+        "D": "legítima, pois o disparo foi de advertência e, como tal, dispensa a avaliação de necessidade e proporção.",
         "E": "ilegítima, pois o uso de arma de fogo exige ameaça iminente de morte ou ferimento grave, ou grave crime com risco à vida."
       },
       "resposta_correta": "E",
@@ -2356,8 +2356,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "criar risco indevido ao agente ou risco de morte ou dano grave a outras pessoas, ou for inadequado ou inútil.",
-        "B": "o agente tiver pressa.",
-        "C": "o suspeito estiver de costas.",
+        "B": "o agente tiver pressa para alcançar o suspeito, desde que o chefe autorize o disparo verbalmente depois do fato ocorrido.",
+        "C": "o suspeito estiver de costas e em fuga, de modo que a advertência não seria ouvida nem compreendida.",
         "D": "o chefe não estiver presente.",
         "E": "houver pouco movimento."
       },
@@ -2388,11 +2388,11 @@
       "enunciado": "<p>O princípio da precaução, nos Princípios de Havana, orienta o planejamento das operações para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "eliminar o treinamento específico.",
+        "A": "eliminar o treinamento específico, pois a experiência dos agentes basta para conter qualquer situação de risco real e imprevisível.",
         "B": "evitar relatórios.",
         "C": "dispensar supervisão.",
         "D": "reduzir ao mínimo o recurso à força letal, inclusive com o fornecimento de equipamentos de proteção e armas não letais.",
-        "E": "maximizar o uso de armas de fogo."
+        "E": "maximizar o uso de armas de fogo em abordagens, para que a letalidade iniba a reação de suspeitos armados."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -2421,11 +2421,11 @@
       "enunciado": "<p>Aponte a afirmação INCORRETA acerca dos Princípios de Havana.</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Armas não letais devem ser disponibilizadas.",
+        "A": "Armas não letais devem ser disponibilizadas aos agentes, em alternativa à arma de fogo.",
         "B": "O abuso do uso da força deve ser punido.",
         "C": "A hierarquia militar justifica o cumprimento de ordem manifestamente ilegal.",
         "D": "O uso da força deve ser proporcional.",
-        "E": "O socorro aos feridos deve ser imediato."
+        "E": "O socorro aos feridos deve ser imediato, inclusive para os agentes envolvidos no confronto."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -2456,9 +2456,9 @@
       "alternativas": {
         "A": "ser direcionada aos que praticam a violência, preservando, quanto possível, o direito de reunião dos demais.",
         "B": "impedir as filmagens.",
-        "C": "dispersar toda a multidão com armas de fogo.",
+        "C": "dispersar toda a multidão com armas de fogo, pois a violência isolada contamina os demais presentes e justifica a medida.",
         "D": "ignorar a violência.",
-        "E": "prender todos os presentes."
+        "E": "prender todos os presentes no local, para posterior identificação daqueles que praticaram atos violentos."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -2487,9 +2487,9 @@
       "enunciado": "<p>Os Princípios de Havana, apesar de não terem natureza de tratado, são relevantes porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "revogam as leis nacionais.",
+        "A": "revogam automaticamente as leis nacionais que contrariem seus dispositivos, por refletirem o consenso internacional dos Estados-membros.",
         "B": "consolidam padrões internacionais que inspiram normas e protocolos nacionais e são referência para a responsabilização do Estado.",
-        "C": "têm força de emenda constitucional.",
+        "C": "têm força de emenda constitucional, pois foram adotados por resolução de órgão das Nações Unidas e ratificados pelo Brasil.",
         "D": "são aplicados somente a Forças Armadas.",
         "E": "dispensam regulamentação."
       },
@@ -2520,10 +2520,10 @@
       "enunciado": "<p>A Portaria MJSP nº 855/2025 institui o</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Comitê de Ética do Judiciário.",
+        "A": "Comitê de Ética do Judiciário, ligado ao CNJ.",
         "B": "Fórum Nacional de Mediação.",
         "C": "Comitê Nacional de Monitoramento do Uso da Força.",
-        "D": "Conselho Nacional do Ministério Público.",
+        "D": "Conselho Nacional do Ministério Público da União.",
         "E": "Conselho Nacional de Justiça."
       },
       "resposta_correta": "C",
@@ -2553,11 +2553,11 @@
       "enunciado": "<p>A Portaria nº 855/2025 foi editada pelo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Supremo Tribunal Federal.",
+        "A": "Supremo Tribunal Federal, por resolução plenária.",
         "B": "Tribunal de Contas da União.",
         "C": "Ministério da Defesa.",
         "D": "Ministério da Justiça e Segurança Pública.",
-        "E": "Conselho Nacional de Justiça."
+        "E": "Conselho Nacional de Justiça, por deliberação."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -2588,9 +2588,9 @@
       "alternativas": {
         "A": "da produção agrícola nacional.",
         "B": "do uso da força pelos profissionais de segurança pública.",
-        "C": "da execução orçamentária das universidades.",
+        "C": "da execução orçamentária das universidades federais e estaduais.",
         "D": "do desempenho de atletas olímpicos.",
-        "E": "da qualidade do ensino médio."
+        "E": "da qualidade do ensino médio em escolas públicas."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2652,10 +2652,10 @@
       "enunciado": "<p>O Comitê Nacional de Monitoramento do Uso da Força é, em geral, instância de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aplicação de penas privativas de liberdade.",
+        "A": "aplicação de penas privativas de liberdade a agentes abusivos.",
         "B": "expedição de mandados de prisão.",
         "C": "execução penal.",
-        "D": "julgamento de crimes dolosos contra a vida.",
+        "D": "julgamento de crimes dolosos contra a vida de civis.",
         "E": "acompanhamento e avaliação, e não de julgamento de infrações."
       },
       "resposta_correta": "E",
@@ -2686,9 +2686,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "fixar a remuneração dos agentes.",
-        "B": "autorizar previamente cada operação.",
+        "B": "autorizar previamente cada operação policial de grande porte e fiscalizar sua execução.",
         "C": "consolidar informações e propor aperfeiçoamentos nas políticas e protocolos de uso da força.",
-        "D": "substituir as polícias nas ocorrências.",
+        "D": "substituir as polícias nas ocorrências de maior complexidade, assumindo o comando das operações locais.",
         "E": "julgar os recursos de servidores."
       },
       "resposta_correta": "C",
@@ -2718,8 +2718,8 @@
       "enunciado": "<p>A atuação do Comitê Nacional de Monitoramento do Uso da Força não elimina o controle externo da atividade policial exercido pelo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "Instituto Nacional do Seguro Social.",
-        "B": "Conselho Nacional de Educação.",
+        "A": "Instituto Nacional do Seguro Social, por peritos.",
+        "B": "Conselho Nacional de Educação, por câmaras.",
         "C": "Tribunal Marítimo.",
         "D": "Banco Central.",
         "E": "Ministério Público, nos termos da Constituição."
@@ -2752,10 +2752,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a segurança pública é responsabilidade de todos, e a atuação policial ocorre em União, Estados, DF e Municípios.",
-        "B": "só a União possui forças de segurança.",
+        "B": "só a União possui forças de segurança, e por isso os demais entes não devem opinar sobre o tema nem participar do monitoramento.",
         "C": "só os Municípios têm agentes armados.",
         "D": "só os Estados empregam a força.",
-        "E": "a Constituição não trata de segurança pública."
+        "E": "a Constituição não trata de segurança pública, deixando o tema à livre organização de cada ente federado."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -2784,11 +2784,11 @@
       "enunciado": "<p>A produção de dados e relatórios sobre uso da força, a cargo do Comitê, tem como função precípua</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "punir agentes por critérios estatísticos.",
+        "A": "punir agentes por critérios estatísticos, sem apuração individual das condutas.",
         "B": "aumentar a letalidade policial.",
         "C": "encerrar investigações em curso.",
         "D": "orientar a formulação de políticas públicas e a prevenção de abusos.",
-        "E": "substituir a atuação do Judiciário."
+        "E": "substituir a atuação do Judiciário no controle dos excessos praticados."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2820,8 +2820,8 @@
         "A": "internacional, vinculado à ONU.",
         "B": "administrativa, no âmbito do Poder Executivo federal.",
         "C": "privada, vinculado a ONGs.",
-        "D": "legislativa, vinculado ao Congresso.",
-        "E": "jurisdicional, vinculado ao Judiciário."
+        "D": "legislativa, vinculado ao Congresso Nacional.",
+        "E": "jurisdicional, vinculado ao Poder Judiciário da União."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -2850,11 +2850,11 @@
       "enunciado": "<p>A transparência, no monitoramento do uso da força, é importante pois</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensa a motivação dos atos.",
+        "A": "dispensa a motivação dos atos praticados pelos agentes, desde que haja registro.",
         "B": "impede a prestação de contas.",
         "C": "permite o controle social e a avaliação pública da atuação das forças de segurança.",
         "D": "reduz a participação social.",
-        "E": "protege informações sem exceção."
+        "E": "protege informações sem exceção, vedando a divulgação de dados estatísticos ao público."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -2884,9 +2884,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "legalidade, necessidade, razoabilidade e proporcionalidade.",
-        "B": "onerosidade e discricionariedade absoluta.",
+        "B": "onerosidade e discricionariedade absoluta em qualquer caso.",
         "C": "impunidade e oportunismo.",
-        "D": "informalidade e celeridade excessiva.",
+        "D": "informalidade e celeridade excessiva, em operações de urgência.",
         "E": "anterioridade e especialização."
       },
       "resposta_correta": "A",
@@ -2916,10 +2916,10 @@
       "enunciado": "<p>Um Estado alega que o Comitê Nacional de Monitoramento do Uso da Força viola sua autonomia por receber dados de suas polícias. A alegação</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "procede, pois a portaria revoga a Constituição.",
+        "A": "procede, pois a portaria revoga a Constituição no que tange à autonomia policial dos Estados e do Distrito Federal, por ser ato posterior.",
         "B": "procede, pois o Comitê pune policiais estaduais.",
         "C": "procede, pois a União nunca coopera com Estados.",
-        "D": "procede, pois o Comitê substitui as polícias estaduais.",
+        "D": "procede, pois o Comitê substitui as polícias estaduais na condução das investigações e das ocorrências de rotina.",
         "E": "não procede em si, pois o monitoramento nacional atua por articulação e cooperação, sem retirar competências estaduais."
       },
       "resposta_correta": "E",
@@ -2949,9 +2949,9 @@
       "enunciado": "<p>A Portaria de um Ministério, para ser válida, não pode inovar contra a lei; assim, a Portaria nº 855/2025, ao instituir o Comitê, deve</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "revogar a lei.",
+        "A": "revogar a lei e o decreto, por se tratar de ato posterior, editado por autoridade do Ministério da Justiça.",
         "B": "respeitar a Lei nº 13.060/2014 e o decreto regulamentador, sem criar sanções ou obrigações não previstas.",
-        "C": "aumentar a competência do STF.",
+        "C": "aumentar a competência do STF, ao permitir que o Tribunal julgue diretamente os casos de uso excessivo da força.",
         "D": "criar sanções penais.",
         "E": "substituir o decreto."
       },
@@ -2982,11 +2982,11 @@
       "enunciado": "<p>A existência do Comitê Nacional de Monitoramento do Uso da Força não elimina, perante o agente que cometeu excesso, a possibilidade de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "transferência da responsabilidade ao Comitê.",
+        "A": "transferência da responsabilidade ao Comitê, que passa a responder pelos atos.",
         "B": "imunidade absoluta.",
         "C": "exclusão de ilicitude automática.",
         "D": "responsabilização administrativa, civil e penal pelas vias próprias.",
-        "E": "aplicação apenas de advertência verbal."
+        "E": "aplicação apenas de advertência verbal, por tratar-se de infração leve."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -3015,11 +3015,11 @@
       "enunciado": "<p>Quanto à relação entre o Comitê e os órgãos de correição, é adequado afirmar que o Comitê</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "substitui o Ministério Público.",
+        "A": "substitui o Ministério Público no controle externo da atividade policial, nos Estados.",
         "B": "complementa o controle, sem substituir as corregedorias nem o Ministério Público.",
         "C": "substitui o Judiciário.",
         "D": "substitui o Tribunal de Contas.",
-        "E": "substitui as corregedorias."
+        "E": "substitui as corregedorias na apuração de infrações disciplinares praticadas."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -3048,9 +3048,9 @@
       "enunciado": "<p>O bloqueio, em defesa pessoal, é a técnica que consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "segurar o agressor pelas costas.",
+        "A": "segurar o agressor pelas costas, imobilizando-o antes de qualquer golpe contra o agente.",
         "B": "entregar objetos de valor.",
-        "C": "atacar primeiro, sem defesa.",
+        "C": "atacar primeiro, sem defesa, para neutralizar o agressor antes que ele atinja o agente.",
         "D": "fugir sem olhar para trás.",
         "E": "interceptar ou desviar um golpe do agressor, protegendo regiões vulneráveis."
       },
@@ -3081,11 +3081,11 @@
       "enunciado": "<p>O uso progressivo da força orienta o agente a escalar a intensidade da força</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "conforme a opinião das testemunhas.",
+        "A": "conforme a opinião das testemunhas presentes e a repercussão do fato.",
         "B": "sempre ao nível máximo desde o início.",
         "C": "sempre ao nível mínimo, em qualquer caso.",
         "D": "de acordo com o nível de resistência ou ameaça apresentado.",
-        "E": "a critério exclusivo do dignitário."
+        "E": "a critério exclusivo do dignitário, que avalia o risco."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -3115,8 +3115,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "intervenção que já pode dissuadir comportamentos ilícitos.",
-        "B": "força letal.",
-        "C": "tecnologia menos letal.",
+        "B": "força letal, aplicada ostensivamente por meio de arma exibida.",
+        "C": "tecnologia menos letal, empregada à distância pelo agente.",
         "D": "contenção física.",
         "E": "controle de contato."
       },
@@ -3147,11 +3147,11 @@
       "enunciado": "<p>A verbalização, no uso progressivo da força, corresponde à</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "emprego de armas.",
+        "A": "emprego de armas de fogo ou de instrumentos de menor potencial ofensivo.",
         "B": "detenção forçada.",
         "C": "emissão de comandos e orientações verbais claros, em tom firme.",
         "D": "fuga estratégica.",
-        "E": "aplicação de golpes."
+        "E": "aplicação de golpes controlados para conter a resistência do indivíduo."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -3182,8 +3182,8 @@
       "alternativas": {
         "A": "sempre fechar os olhos.",
         "B": "buscar manter uma distância segura do agressor, que facilite a reação e dificulte o ataque.",
-        "C": "esperar o agressor tocar primeiro.",
-        "D": "aproximar-se o máximo possível do agressor.",
+        "C": "esperar o agressor tocar primeiro, para que a reação seja legalmente justificada pelo contato.",
+        "D": "aproximar-se o máximo possível do agressor, para reduzir o espaço de que ele dispõe para agir.",
         "E": "manter-se sempre colado ao agressor."
       },
       "resposta_correta": "B",
@@ -3214,9 +3214,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a omissão total.",
-        "B": "o uso imediato de arma de fogo.",
+        "B": "o uso imediato de arma de fogo, para evitar que a resistência evolua para agressão.",
         "C": "o emprego de força letal.",
-        "D": "a retirada do agente do local.",
+        "D": "a retirada do agente do local, aguardando que a resistência do indivíduo cesse naturalmente.",
         "E": "o controle de contato ou técnicas de condução, com mínima força necessária."
       },
       "resposta_correta": "E",
@@ -3247,8 +3247,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o uso de força letal, quando estritamente necessário, em legítima defesa própria ou de terceiros.",
-        "B": "apenas verbalização.",
-        "C": "apenas presença policial.",
+        "B": "apenas verbalização, pois a ameaça pode ser contida por comandos firmes e uma advertência clara ao atirador.",
+        "C": "apenas presença policial, uma vez que a simples visibilidade do agente dissuade o atirador.",
         "D": "apenas spray de pimenta.",
         "E": "apenas fuga."
       },
@@ -3279,11 +3279,11 @@
       "enunciado": "<p>O bloqueio alto, em defesa pessoal, destina-se a proteger principalmente</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas as mãos.",
+        "A": "apenas as mãos e os antebraços, que são as regiões mais expostas aos golpes.",
         "B": "a região lombar.",
         "C": "as costas.",
         "D": "a cabeça e o pescoço, contra golpes direcionados à parte superior do corpo.",
-        "E": "as pernas e os pés."
+        "E": "as pernas e os pés, contra chutes e rasteiras direcionados à parte inferior do corpo."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -3312,9 +3312,9 @@
       "enunciado": "<p>O bloqueio baixo, em defesa pessoal, é utilizado para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "defender a região do pescoço.",
+        "A": "defender a região do pescoço e da cabeça contra golpes desferidos de cima para baixo, na altura do rosto.",
         "B": "desviar golpes direcionados à região inferior do corpo, como chutes à altura do abdômen e das pernas.",
-        "C": "defender-se de ataques por trás.",
+        "C": "defender-se de ataques por trás, protegendo a nuca e a região lombar do agente atingido.",
         "D": "proteger o rosto de socos.",
         "E": "proteger apenas a nuca."
       },
@@ -3346,10 +3346,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "mãos nos bolsos.",
-        "B": "pés unidos e mãos para baixo.",
+        "B": "pés unidos e mãos para baixo, a fim de não parecer ameaçador e não provocar o agressor.",
         "C": "base estável, com os pés afastados, joelhos levemente flexionados e mãos protegendo a face.",
         "D": "corpo rígido e olhar no chão.",
-        "E": "apoio em um só pé e braços abertos."
+        "E": "apoio em um só pé e braços abertos, para manter o equilíbrio durante a aproximação do agressor."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -3378,10 +3378,10 @@
       "enunciado": "<p>Em escolta de dignitário, a defesa pessoal do agente, além da proteção própria, orienta-se pela prioridade de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "enfrentar o agressor até a rendição.",
+        "A": "enfrentar o agressor até a rendição final.",
         "B": "perseguir o agressor, abandonando o dignitário.",
         "C": "aguardar a polícia sem se mover.",
-        "D": "dispensar a cobertura de colegas.",
+        "D": "dispensar a cobertura de colegas, para ganhar agilidade.",
         "E": "proteger e retirar o dignitário da área de risco."
       },
       "resposta_correta": "E",
@@ -3411,9 +3411,9 @@
       "enunciado": "<p>A transição entre os níveis de força é legítima quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o chefe se ausentar.",
+        "A": "o chefe se ausentar do local, por ter delegado a decisão ao agente de linha na ocorrência.",
         "B": "houver mudança no comportamento do indivíduo e na ameaça, impondo resposta adequada.",
-        "C": "o público se agitar.",
+        "C": "o público se agitar, passando a exigir resposta mais severa da equipe de segurança no local.",
         "D": "a imprensa chegar.",
         "E": "o agente se cansar."
       },
@@ -3447,8 +3447,8 @@
         "A": "é regular, se o agressor insultar.",
         "B": "é regular, se houver público.",
         "C": "é excessiva, pois a força deve cessar com a contenção do agressor.",
-        "D": "é proporcional, pois a agressão foi inicial.",
-        "E": "é obrigatória, para evitar nova agressão."
+        "D": "é proporcional, pois a agressão foi inicial e autoriza reação mais intensa.",
+        "E": "é obrigatória, para evitar nova agressão e preservar a autoridade do agente."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -3478,10 +3478,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "resistência verbal: bastão.",
-        "B": "cooperação: força letal.",
+        "B": "cooperação: força letal, medida exigida pela doutrina diante de qualquer sinal de risco ao próprio agente.",
         "C": "resistência passiva: arma de fogo.",
         "D": "resistência ativa, com tentativa de fuga ou esquiva física: controle físico e técnicas de contenção.",
-        "E": "agressão letal: apenas verbalização."
+        "E": "agressão letal: apenas verbalização, para evitar que a escalada da força agrave a situação."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -3511,8 +3511,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "legítima defesa, prevista no Código Penal (art. 25), desde que presentes seus requisitos.",
-        "B": "imunidade parlamentar.",
-        "C": "coisa julgada.",
+        "B": "imunidade parlamentar, prevista na Constituição Federal para os agentes públicos em geral, nas ações de força.",
+        "C": "coisa julgada, decorrente de decisão definitiva sobre a conduta do agente em ocasiões anteriores semelhantes.",
         "D": "prescrição.",
         "E": "anistia."
       },
@@ -3545,8 +3545,8 @@
       "alternativas": {
         "A": "imobilizar o dignitário.",
         "B": "fugir sozinho.",
-        "C": "evitar o contato visual com colegas.",
-        "D": "atrair o agressor para si, abandonando o dignitário.",
+        "C": "evitar o contato visual com colegas, para ocultar a posição da equipe ao agressor.",
+        "D": "atrair o agressor para si, deixando o dignitário sem proteção imediata.",
         "E": "interromper a linha de ataque e criar espaço para proteger o dignitário."
       },
       "resposta_correta": "E",

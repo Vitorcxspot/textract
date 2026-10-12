@@ -13,8 +13,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "retardar ou impedir o acesso não autorizado, ampliando o tempo de resposta da equipe de segurança.",
-        "B": "substituir integralmente a vigilância humana e eletrônica da área protegida.",
-        "C": "identificar a identidade do usuário por meio de dados biométricos coletados.",
+        "B": "substituir integralmente a vigilância humana e eletrônica da área protegida, reduzindo os custos da operação.",
+        "C": "identificar a identidade do usuário por meio de dados biométricos coletados na entrada.",
         "D": "registrar em vídeo todos os acessos ocorridos no perímetro da instalação.",
         "E": "eliminar a necessidade de procedimentos de segurança em áreas internas."
       },
@@ -48,8 +48,8 @@
         "A": "restringir a proteção apenas às áreas de maior circulação de pessoas.",
         "B": "reduzir o número de barreiras para agilizar a circulação dos usuários.",
         "C": "dispor camadas sucessivas de proteção entre o ambiente externo e o ativo a ser protegido.",
-        "D": "adotar um único controle, desde que seja de tecnologia avançada.",
-        "E": "concentrar todos os recursos de proteção em uma única barreira, na entrada principal."
+        "D": "adotar um único controle, desde que seja de tecnologia avançada e custo elevado.",
+        "E": "concentrar todos os recursos de proteção em uma única barreira, na entrada principal do prédio."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -78,9 +78,9 @@
       "enunciado": "<p>A biometria, como método de controle de acesso, baseia-se em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "listas de nomes previamente autorizados e conferidas por um porteiro.",
+        "A": "listas de nomes previamente autorizados e conferidas por um porteiro na portaria.",
         "B": "horários de entrada definidos pela chefia para cada servidor.",
-        "C": "informações que somente o usuário conhece, como senhas e códigos numéricos.",
+        "C": "informações que somente o usuário conhece, como senhas e códigos numéricos de acesso memorizados.",
         "D": "objetos que o usuário porta, como cartões magnéticos e chaves mecânicas.",
         "E": "características físicas ou comportamentais mensuráveis do indivíduo, como a impressão digital."
       },
@@ -144,7 +144,7 @@
       "enunciado": "<p>A cerca perimetral, em uma instalação sensível, tem como finalidade principal</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "garantir sozinha a segurança total contra qualquer tipo de intrusão.",
+        "A": "garantir sozinha a segurança total contra qualquer tipo de intrusão ou ataque.",
         "B": "delimitar a área protegida e dificultar a entrada de pessoas não autorizadas.",
         "C": "servir exclusivamente como elemento estético do conjunto arquitetônico.",
         "D": "substituir a iluminação de segurança durante o período noturno.",
@@ -212,7 +212,7 @@
       "alternativas": {
         "A": "registrar apenas veículos, sem controle de pessoas.",
         "B": "dispensar o cadastro dos usuários autorizados.",
-        "C": "liberar a passagem simultânea de grupos para agilizar o fluxo.",
+        "C": "liberar a passagem simultânea de grupos para agilizar o fluxo nas horas de pico.",
         "D": "permitir a passagem de uma pessoa por vez, mediante autorização prévia.",
         "E": "impedir toda e qualquer saída das pessoas que já ingressaram."
       },
@@ -244,10 +244,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "retenção definitiva do documento de identidade do visitante.",
-        "B": "entrada livre, desde que o visitante declare verbalmente o motivo da visita.",
+        "B": "entrada livre, desde que o visitante declare verbalmente o motivo da visita, sem necessidade de documento.",
         "C": "identificação, registro, autorização prévia e uso de identificação visível durante a permanência.",
         "D": "dispensa de registro quando a visita for de curta duração.",
-        "E": "circulação desacompanhada por todas as áreas, inclusive as restritas."
+        "E": "circulação desacompanhada por todas as áreas, inclusive as restritas, durante todo o expediente."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -276,9 +276,9 @@
       "enunciado": "<p>Em instalações de segurança, as áreas restritas caracterizam-se por</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "permitir a entrada de qualquer servidor, independentemente da função exercida.",
+        "A": "permitir a entrada de qualquer servidor, independentemente da função exercida ou do setor de lotação.",
         "B": "ter o acesso limitado às pessoas formalmente autorizadas, em razão da natureza do que abrigam.",
-        "C": "dispensar sinalização, para não chamar a atenção de terceiros.",
+        "C": "dispensar sinalização, para não chamar a atenção de terceiros e de pessoas estranhas ao órgão.",
         "D": "ser abertas ao público durante o horário de expediente.",
         "E": "não demandar nenhum tipo de registro de entrada e saída."
       },
@@ -309,10 +309,10 @@
       "enunciado": "<p>A iluminação de segurança contribui para a proteção patrimonial porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "elimina a necessidade de vigilantes e de câmeras de monitoramento.",
+        "A": "elimina a necessidade de vigilantes e de câmeras de monitoramento, em qualquer período do dia.",
         "B": "serve apenas para reduzir o consumo de energia da instalação.",
         "C": "impede que a equipe de segurança observe a área externa.",
-        "D": "torna dispensáveis as barreiras físicas e o controle de acesso.",
+        "D": "torna dispensáveis as barreiras físicas e o controle de acesso em áreas internas.",
         "E": "favorece a detecção de intrusos e o funcionamento da vigilância, inibindo ações criminosas."
       },
       "resposta_correta": "E",
@@ -345,8 +345,8 @@
         "A": "o cartão é perdido, emprestado ou clonado, pois o sistema autentica o objeto e não a pessoa.",
         "B": "o sistema é integrado a câmeras de monitoramento do local.",
         "C": "a leitora está instalada em local protegido por vigilância.",
-        "D": "o usuário utiliza a própria impressão digital para validar o acesso.",
-        "E": "há registro automático de todos os eventos de abertura de portas."
+        "D": "o usuário utiliza a própria impressão digital para validar o acesso ao ambiente restrito da instalação.",
+        "E": "há registro automático de todos os eventos de abertura de portas no servidor central."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -376,8 +376,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o percentual de usuários que não conseguem realizar o cadastro inicial.",
-        "B": "a probabilidade de o sistema rejeitar indevidamente uma pessoa devidamente cadastrada.",
-        "C": "o ponto em que as taxas de falsa aceitação e de falsa rejeição se igualam.",
+        "B": "a probabilidade de o sistema rejeitar indevidamente uma pessoa devidamente cadastrada, impedindo-a de entrar.",
+        "C": "o ponto em que as taxas de falsa aceitação e de falsa rejeição se igualam no gráfico de desempenho.",
         "D": "o tempo médio gasto pelo sistema para concluir cada leitura biométrica.",
         "E": "a probabilidade de o sistema aceitar indevidamente uma pessoa não cadastrada como se fosse autorizada."
       },
@@ -408,7 +408,7 @@
       "enunciado": "<p>Na biometria, a taxa de falsa rejeição (FRR) indica</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a frequência com que o sistema libera o acesso a pessoa não cadastrada.",
+        "A": "a frequência com que o sistema libera o acesso a pessoa não cadastrada como impostora.",
         "B": "a frequência com que o sistema nega o acesso a usuário legítimo e cadastrado.",
         "C": "a quantidade de usuários cadastrados por leitor instalado.",
         "D": "o índice de falhas de energia que afetam o equipamento de leitura.",
@@ -443,9 +443,9 @@
       "alternativas": {
         "A": "o sistema deixa de exigir autenticação para usuários frequentes.",
         "B": "a taxa de falsa rejeição atinge o valor máximo suportado pelo leitor.",
-        "C": "o número de usuários cadastrados iguala a capacidade da memória do sistema.",
+        "C": "o número de usuários cadastrados iguala a capacidade da memória do sistema, impedindo novos cadastros no equipamento.",
         "D": "a taxa de falsa aceitação se iguala à taxa de falsa rejeição, servindo de parâmetro para comparar sistemas.",
-        "E": "a taxa de falsa aceitação é sempre zero, em qualquer configuração do equipamento."
+        "E": "a taxa de falsa aceitação é sempre zero, em qualquer configuração do equipamento biométrico."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -474,10 +474,10 @@
       "enunciado": "<p>Ao aumentar o rigor (limiar de decisão) de um leitor biométrico, o efeito esperado é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "manter ambas as taxas inalteradas, pois independem do limiar.",
+        "A": "manter ambas as taxas inalteradas, pois independem do limiar de decisão do sistema.",
         "B": "eliminar a necessidade de cadastro prévio do usuário.",
         "C": "reduzir a falsa aceitação e, em contrapartida, aumentar a falsa rejeição.",
-        "D": "reduzir simultaneamente a falsa aceitação e a falsa rejeição.",
+        "D": "reduzir simultaneamente a falsa aceitação e a falsa rejeição do leitor.",
         "E": "aumentar a falsa aceitação e reduzir a falsa rejeição."
       },
       "resposta_correta": "C",
@@ -509,8 +509,8 @@
       "alternativas": {
         "A": "a uma representação matemática das características extraídas, e não à imagem integral do dado biométrico.",
         "B": "ao documento de identidade digitalizado do usuário.",
-        "C": "a uma fotografia completa da face, guardada sem qualquer tratamento.",
-        "D": "à senha numérica que o usuário escolhe no momento do cadastro.",
+        "C": "a uma fotografia completa da face, guardada sem qualquer tratamento e sem proteção criptográfica no servidor.",
+        "D": "à senha numérica que o usuário escolhe no momento do cadastro, associada ao número do crachá funcional.",
         "E": "ao registro dos horários em que o usuário acessou o local."
       },
       "resposta_correta": "A",
@@ -540,10 +540,10 @@
       "enunciado": "<p>A detecção de vivacidade (liveness detection) em leitores biométricos destina-se a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aumentar a velocidade de gravação dos eventos no servidor do sistema.",
+        "A": "aumentar a velocidade de gravação dos eventos no servidor do sistema e reduzir o espaço ocupado pelos registros.",
         "B": "verificar se a amostra provém de uma pessoa viva presente, dificultando fraudes com réplicas ou fotografias.",
         "C": "dispensar o cadastro prévio das características do usuário.",
-        "D": "substituir a necessidade de manutenção periódica dos equipamentos.",
+        "D": "substituir a necessidade de manutenção periódica dos equipamentos e de atualização do software.",
         "E": "garantir a autenticidade do crachá funcional do usuário."
       },
       "resposta_correta": "B",
@@ -574,9 +574,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a única que não exige nenhum equipamento de captura específico.",
-        "B": "a mais sujeita a alterações por pequenos cortes ou desgaste nas mãos.",
+        "B": "a mais sujeita a alterações por pequenos cortes ou desgaste nas mãos, o que a torna pouco confiável em trabalhadores manuais.",
         "C": "a que depende do timbre e da entonação do usuário.",
-        "D": "a de menor precisão, por variar de forma significativa com o envelhecimento.",
+        "D": "a de menor precisão, por variar de forma significativa com o envelhecimento e com a exposição do olho à luz do ambiente.",
         "E": "de alta precisão e baixa taxa de falsa aceitação, por conta da singularidade e estabilidade da estrutura ocular."
       },
       "resposta_correta": "E",
@@ -606,11 +606,11 @@
       "enunciado": "<p>A biometria de voz é considerada menos robusta que outras modalidades porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exige contato físico do usuário com o leitor para ser captada.",
+        "A": "exige contato físico do usuário com o leitor para ser captada e limpeza frequente do sensor.",
         "B": "apresenta características imutáveis ao longo de toda a vida.",
         "C": "sofre influência de ruído ambiente, estado de saúde do usuário e possibilidade de gravações.",
         "D": "depende exclusivamente do formato da palma da mão do usuário.",
-        "E": "não pode ser utilizada em conjunto com outros fatores de autenticação."
+        "E": "não pode ser utilizada em conjunto com outros fatores de autenticação, pois o sistema não aceita combinações."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -640,10 +640,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "uma sala de espera destinada a visitantes sem identificação.",
-        "B": "uma passagem aberta e contínua, sem barreiras entre o exterior e o interior.",
+        "B": "uma passagem aberta e contínua, sem barreiras entre o exterior e o interior da instalação protegida.",
         "C": "uma cerca elétrica instalada no topo do muro perimetral.",
         "D": "dois ou mais portas intertravadas, de modo que uma só se abre quando a outra está fechada.",
-        "E": "um sistema exclusivo de monitoramento de veículos em estacionamentos."
+        "E": "um sistema exclusivo de monitoramento de veículos em estacionamentos externos."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -673,8 +673,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "uma pessoa não autorizada ingressa logo atrás de outra autorizada, aproveitando a abertura da passagem.",
-        "B": "o usuário digita senha incorreta por três vezes consecutivas no leitor.",
-        "C": "o sistema registra automaticamente a saída de todos os usuários ao fim do expediente.",
+        "B": "o usuário digita senha incorreta por três vezes consecutivas no leitor, sendo bloqueado pelo sistema.",
+        "C": "o sistema registra automaticamente a saída de todos os usuários ao fim do expediente e bloqueia suas credenciais.",
         "D": "um cartão válido é desativado por fim da vigência do cadastro.",
         "E": "o vigilante realiza ronda em horário diferente do habitual."
       },
@@ -705,11 +705,11 @@
       "enunciado": "<p>A função anti-passback em sistemas de controle de acesso tem por objetivo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "liberar a porta automaticamente em caso de falha da leitora.",
+        "A": "liberar a porta automaticamente em caso de falha da leitora ou de interrupção do fornecimento de energia elétrica.",
         "B": "bloquear a entrada de visitantes em horário comercial.",
         "C": "impedir que um mesmo credencial seja usada para entrar duas vezes sem a correspondente saída registrada.",
         "D": "gravar imagens do usuário no momento da leitura.",
-        "E": "permitir que vários usuários utilizem a mesma credencial ao mesmo tempo."
+        "E": "permitir que vários usuários utilizem a mesma credencial ao mesmo tempo, dispensando o registro individual de cada passagem."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -772,8 +772,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "as permissões devem ser iguais para servidores e prestadores de serviço.",
-        "B": "todos os servidores devem ter acesso a todas as áreas após período de experiência.",
-        "C": "os gestores devem poder acessar qualquer área, sem registro, por sua posição hierárquica.",
+        "B": "todos os servidores devem ter acesso a todas as áreas após período de experiência de trabalho.",
+        "C": "os gestores devem poder acessar qualquer área, sem registro, por sua posição hierárquica no órgão.",
         "D": "o acesso deve ser concedido com validade indeterminada, para evitar retrabalho.",
         "E": "cada pessoa deve ter acesso apenas às áreas e horários necessários ao desempenho de suas funções."
       },
@@ -804,9 +804,9 @@
       "enunciado": "<p>Sobre o controle de acesso multifatorial, é correto afirmar que ele</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "consiste no uso de duas senhas diferentes, ambas do tipo conhecimento.",
+        "A": "consiste no uso de duas senhas diferentes, ambas do tipo conhecimento, digitadas em sequência no mesmo leitor.",
         "B": "combina ao menos dois fatores de categorias distintas, como cartão (posse) e impressão digital (inerência).",
-        "C": "dispensa a biometria, por ser incompatível com leitores eletrônicos.",
+        "C": "dispensa a biometria, por ser incompatível com leitores eletrônicos de cartão e de senha numérica.",
         "D": "é menos seguro que o uso de um único fator de autenticação.",
         "E": "combina dois cartões de proximidade emitidos para o mesmo usuário."
       },
@@ -838,10 +838,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "impedir o avanço de veículos contra edificações, preservando a circulação de pedestres.",
-        "B": "registrar placas de veículos por meio de leitura óptica de caracteres.",
+        "B": "registrar placas de veículos por meio de leitura óptica de caracteres nas vias de acesso.",
         "C": "substituir as cancelas em todos os acessos de pedestres.",
         "D": "permitir a passagem de veículos sem identificação prévia.",
-        "E": "controlar a temperatura do ambiente interno das edificações."
+        "E": "controlar a temperatura do ambiente interno das edificações e o fluxo de ar condicionado."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -872,9 +872,9 @@
       "alternativas": {
         "A": "o registro automático de cada abertura em log do sistema.",
         "B": "a dependência de energia elétrica para abrir a porta.",
-        "C": "a impossibilidade de ser utilizada em portas de áreas restritas.",
+        "C": "a impossibilidade de ser utilizada em portas de áreas restritas, por não admitir controle de duplicação.",
         "D": "a dificuldade de rastrear quem a utilizou e de revogar rapidamente o acesso em caso de perda.",
-        "E": "a necessidade de rede de dados para o funcionamento da fechadura."
+        "E": "a necessidade de rede de dados para o funcionamento da fechadura em tempo integral."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -905,9 +905,9 @@
       "alternativas": {
         "A": "irrelevante quando há sensores de intrusão na área protegida.",
         "B": "superior ao tempo necessário à detecção e à resposta, de modo que a resposta chegue antes da consumação da intrusão.",
-        "C": "inferior ao tempo de detecção, para não prejudicar o fluxo de usuários.",
+        "C": "inferior ao tempo de detecção, para não prejudicar o fluxo de usuários, mesmo nas áreas de maior criticidade e risco.",
         "D": "igual a zero nas áreas críticas, desde que haja câmeras instaladas.",
-        "E": "calculado sem considerar o tempo de deslocamento da equipe de resposta."
+        "E": "calculado sem considerar o tempo de deslocamento da equipe de resposta até o ponto em que ocorrer a tentativa de intrusão."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -936,11 +936,11 @@
       "enunciado": "<p>Quanto à relação entre sensibilidade do leitor biométrico e conveniência, ajustes para evitar a falsa aceitação em área crítica tendem a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "reduzir a falsa rejeição a zero, sem prejuízo para a segurança.",
+        "A": "reduzir a falsa rejeição a zero, sem prejuízo para a segurança do ambiente nem para a conveniência dos usuários.",
         "B": "tornar desnecessário qualquer procedimento de contingência.",
         "C": "elevar a falsa rejeição, exigindo procedimento alternativo para o usuário legítimo que for recusado.",
         "D": "eliminar o risco de fraude por apresentação de réplicas.",
-        "E": "diminuir a segurança do ambiente, por reduzir a exigência de similaridade."
+        "E": "diminuir a segurança do ambiente, por reduzir a exigência de similaridade entre as amostras."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -970,8 +970,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "dados anonimizados por natureza, excluídos do âmbito da lei.",
-        "B": "dados públicos, que podem ser compartilhados sem finalidade definida.",
-        "C": "dados de uso exclusivo da iniciativa privada, não alcançando o poder público.",
+        "B": "dados públicos, que podem ser compartilhados sem finalidade definida ou controle, por seu caráter institucional.",
+        "C": "dados de uso exclusivo da iniciativa privada, não alcançando o poder público nem as entidades da administração direta.",
         "D": "dados pessoais comuns, livres de qualquer restrição de tratamento.",
         "E": "dados pessoais sensíveis, cujo tratamento exige base legal específica e adoção de medidas de segurança adequadas."
       },
@@ -1005,8 +1005,8 @@
         "A": "combinar detecção de vivacidade com outro fator de autenticação e supervisão do ponto de acesso.",
         "B": "dispensar o cadastro de mais de um dedo por usuário.",
         "C": "retirar o leitor da vista da câmera de monitoramento.",
-        "D": "reduzir a resolução do sensor para diminuir o tempo de leitura.",
-        "E": "armazenar a imagem completa da digital em arquivo comum sem proteção."
+        "D": "reduzir a resolução do sensor para diminuir o tempo de leitura e o custo de manutenção do equipamento.",
+        "E": "armazenar a imagem completa da digital em arquivo comum sem proteção criptográfica, para facilitar auditorias."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1036,8 +1036,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "dificultar a visualização da área pelas câmeras de vigilância.",
-        "B": "permitir o plantio de vegetação densa próxima à cerca para fins paisagísticos.",
-        "C": "servir de depósito temporário de materiais da própria instalação.",
+        "B": "permitir o plantio de vegetação densa próxima à cerca para fins paisagísticos e sombreamento do local.",
+        "C": "servir de depósito temporário de materiais da própria instalação, como entulho e equipamentos.",
         "D": "reduzir a altura necessária da cerca a níveis simbólicos.",
         "E": "eliminar pontos de ocultação e facilitar a observação e a detecção de aproximações ao perímetro."
       },
@@ -1069,8 +1069,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "mantê-los em texto aberto, para facilitar a conferência pelos administradores.",
-        "B": "compartilhá-los livremente entre sistemas de órgãos distintos, sem finalidade definida.",
-        "C": "guardá-los indefinidamente, ainda que o vínculo do usuário tenha encerrado.",
+        "B": "compartilhá-los livremente entre sistemas de órgãos distintos, sem finalidade definida ou controle do titular dos dados.",
+        "C": "guardá-los indefinidamente, ainda que o vínculo do usuário tenha encerrado e a finalidade do tratamento tenha cessado.",
         "D": "protegê-los por criptografia e controle de acesso, evitando que o vazamento permita a reconstituição do dado original.",
         "E": "substituí-los por senhas fixas em caso de falha do leitor."
       },
@@ -1104,8 +1104,8 @@
         "A": "falha de energia, que manteve as fechaduras abertas.",
         "B": "erro de cadastro na base de visitantes eventuais.",
         "C": "carona (tailgating) associada à ausência de verificação individual de identidade no ponto de acesso.",
-        "D": "falsa aceitação decorrente de baixa resolução do leitor biométrico.",
-        "E": "falsa rejeição do leitor, que negou acesso a servidor autorizado."
+        "D": "falsa aceitação decorrente de baixa resolução do leitor biométrico instalado na portaria principal do órgão.",
+        "E": "falsa rejeição do leitor, que negou acesso a servidor autorizado durante o horário normal."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1134,10 +1134,10 @@
       "enunciado": "<p>Dentre os critérios de escolha de uma barreira física para uma área crítica, o que MENOS se relaciona com sua eficácia contra intrusão é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a integração com sensores de detecção de intrusão.",
+        "A": "a integração com sensores de detecção de intrusão e com o sistema de alarme da instalação.",
         "B": "a cor da pintura do elemento, desde que não haja exigência normativa específica.",
         "C": "a possibilidade de ser contornada ou transposta.",
-        "D": "a resistência do material ao corte, à escalada e ao impacto.",
+        "D": "a resistência do material ao corte, à escalada e ao impacto de ferramentas.",
         "E": "o tempo de retardo que oferece ao agressor."
       },
       "resposta_correta": "B",
@@ -1169,8 +1169,8 @@
       "alternativas": {
         "A": "compara a amostra apresentada com todos os templates da base, sem necessidade de informar previamente a identidade.",
         "B": "não pode ser aplicado a bases com mais de dez usuários.",
-        "C": "compara a amostra com um único template, previamente indicado por cartão ou código.",
-        "D": "dispensa a comparação, limitando-se a registrar o horário de entrada.",
+        "C": "compara a amostra com um único template, previamente indicado por cartão ou código pessoal do usuário no próprio leitor.",
+        "D": "dispensa a comparação, limitando-se a registrar o horário de entrada e o nome informado verbalmente ao vigilante.",
         "E": "exige sempre senha numérica antes da leitura biométrica."
       },
       "resposta_correta": "A",
@@ -1268,8 +1268,8 @@
       "alternativas": {
         "A": "a assinatura eletrônica gravada em cartão inteligente.",
         "B": "o código numérico impresso no crachá do servidor.",
-        "C": "o formato das veias dos dedos medido por leitura térmica.",
-        "D": "o ritmo de digitação do usuário em teclado numérico.",
+        "C": "o formato das veias dos dedos medido por leitura térmica feita por câmeras infravermelhas na portaria.",
+        "D": "o ritmo de digitação do usuário em teclado numérico ou em teclado convencional.",
         "E": "medidas e padrões do rosto, como a distância entre olhos, nariz e contorno do queixo."
       },
       "resposta_correta": "E",
@@ -1301,8 +1301,8 @@
       "alternativas": {
         "A": "abrir-se apenas mediante senha digitada pelo próprio ocupante.",
         "B": "permitir a evacuação rápida em caso de emergência, sem comprometer a segurança das pessoas.",
-        "C": "permanecer trancada por fora e por dentro durante todo o expediente.",
-        "D": "ser mantida bloqueada com correntes para evitar fugas.",
+        "C": "permanecer trancada por fora e por dentro durante todo o expediente, só sendo aberta pela chefia.",
+        "D": "ser mantida bloqueada com correntes para evitar fugas e o acesso de pessoas não autorizadas.",
         "E": "ser suprimida nas áreas restritas, por razões de segurança."
       },
       "resposta_correta": "B",
@@ -1333,8 +1333,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o registro de quem retira e devolve cada chave, com guarda em local seguro.",
-        "B": "a duplicação livre das chaves por qualquer servidor interessado.",
-        "C": "o armazenamento das chaves em local aberto, de fácil alcance.",
+        "B": "a duplicação livre das chaves por qualquer servidor interessado em seu setor.",
+        "C": "o armazenamento das chaves em local aberto, de fácil alcance dos usuários.",
         "D": "a manutenção de chaves reservas sem controle de numeração.",
         "E": "a entrega definitiva das chaves ao primeiro ocupante da sala."
       },
@@ -1398,11 +1398,11 @@
       "enunciado": "<p>O controle de acesso de veículos a uma instalação deve incluir</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o estacionamento irrestrito junto aos prédios mais sensíveis.",
+        "A": "o estacionamento irrestrito junto aos prédios mais sensíveis para qualquer tipo de veículo.",
         "B": "a liberação por simples sinal sonoro do motorista.",
         "C": "a entrada livre de veículos oficiais, sem nenhum registro.",
         "D": "a identificação do condutor, o registro da placa e a autorização prévia de entrada.",
-        "E": "a dispensa de inspeção para veículos de prestadores habituais."
+        "E": "a dispensa de inspeção para veículos de prestadores habituais de serviço."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1432,10 +1432,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "substituir o muro externo das instalações.",
-        "B": "identificar pessoas pela leitura da íris no momento da passagem.",
+        "B": "identificar pessoas pela leitura da íris no momento da passagem de cada usuário pelo portão.",
         "C": "ordenar e restringir a entrada e a saída de veículos em portarias e estacionamentos.",
         "D": "inspecionar bagagens por meio de raios X.",
-        "E": "monitorar a temperatura de equipamentos de informática."
+        "E": "monitorar a temperatura de equipamentos de informática nas salas de servidores."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -1466,8 +1466,8 @@
       "alternativas": {
         "A": "detectar a presença de objetos metálicos, como armas, portados por pessoas.",
         "B": "identificar o usuário por seu padrão de voz.",
-        "C": "verificar a validade do cartão de proximidade utilizado.",
-        "D": "medir a temperatura corporal das pessoas que ingressam.",
+        "C": "verificar a validade do cartão de proximidade utilizado pelo servidor na portaria.",
+        "D": "medir a temperatura corporal das pessoas que ingressam no edifício.",
         "E": "registrar o horário de entrada em livro de ocorrências."
       },
       "resposta_correta": "A",
@@ -1498,7 +1498,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ocultar dos usuários as regras de acesso da instalação.",
-        "B": "dispensar a verificação de identidade nos pontos de entrada.",
+        "B": "dispensar a verificação de identidade nos pontos de entrada e o registro dos visitantes eventuais.",
         "C": "facilitar a identificação das áreas sensíveis por pessoas mal-intencionadas, apenas.",
         "D": "substituir a necessidade de qualquer barreira física.",
         "E": "informar sobre restrições, orientar o fluxo e dissuadir tentativas de acesso indevido."
@@ -1533,8 +1533,8 @@
         "A": "a gravação contínua de imagens do pátio externo.",
         "B": "o processo de cadastro e autorização de pessoas para ingresso, com emissão de credencial.",
         "C": "o rodízio dos vigilantes entre os postos de serviço.",
-        "D": "o ato de impedir a entrada de qualquer pessoa estranha ao órgão.",
-        "E": "a vistoria periódica dos extintores de incêndio do prédio."
+        "D": "o ato de impedir a entrada de qualquer pessoa estranha ao órgão, mesmo que autorizada pela chefia.",
+        "E": "a vistoria periódica dos extintores de incêndio do prédio e das saídas de emergência."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1696,9 +1696,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a vida útil estimada do sensor biométrico.",
-        "B": "o número de vezes que o leitor aceita indevidamente um impostor.",
+        "B": "o número de vezes que o leitor aceita indevidamente um impostor como se fosse um usuário cadastrado e autorizado.",
         "C": "a quantidade de acessos negados a usuários cadastrados.",
-        "D": "o tempo de resposta do sistema à autenticação do usuário.",
+        "D": "o tempo de resposta do sistema à autenticação do usuário em condições normais de iluminação e temperatura.",
         "E": "o percentual de pessoas que não conseguem ter suas características biométricas registradas pelo sistema."
       },
       "resposta_correta": "E",
@@ -1728,11 +1728,11 @@
       "enunciado": "<p>A biometria multimodal é a que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "utiliza apenas a impressão digital com leituras em dois dedos da mesma mão.",
+        "A": "utiliza apenas a impressão digital com leituras em dois dedos da mesma mão, sem emprego de outra modalidade.",
         "B": "exige senha numérica e cartão, sem qualquer característica biológica.",
         "C": "combina duas ou mais modalidades biométricas, como face e impressão digital, para aumentar a confiabilidade.",
         "D": "substitui o sensor por vigilante que confere a identidade visualmente.",
-        "E": "aceita qualquer das modalidades isoladamente, reduzindo a segurança."
+        "E": "aceita qualquer das modalidades isoladamente, reduzindo a segurança do ambiente protegido pelo sistema."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1762,10 +1762,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não há comparação, apenas leitura do crachá do usuário.",
-        "B": "a comparação é realizada manualmente pelo vigilante da portaria.",
+        "B": "a comparação é realizada manualmente pelo vigilante da portaria mediante conferência visual do documento de identidade.",
         "C": "o resultado depende exclusivamente da senha digitada.",
         "D": "o usuário declara sua identidade (por cartão ou código) e o sistema compara a amostra com o template correspondente.",
-        "E": "o sistema compara a amostra com todos os registros da base para descobrir quem é a pessoa."
+        "E": "o sistema compara a amostra com todos os registros da base para descobrir quem é a pessoa que se apresentou ao leitor."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1795,10 +1795,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "serem internas ao corpo, o que dificulta a falsificação e a captura sem o conhecimento do usuário.",
-        "B": "serem alteradas por maquiagem e mudança de penteado.",
+        "B": "serem alteradas por maquiagem e mudança de penteado do usuário, o que reduz a confiabilidade da leitura.",
         "C": "dependerem do timbre da voz do usuário.",
         "D": "dependerem do estado de limpeza do dedo, como a digital tradicional.",
-        "E": "serem facilmente copiáveis por fotografia."
+        "E": "serem facilmente copiáveis por fotografia, o que torna o sistema mais vulnerável a fraudes de apresentação."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1829,8 +1829,8 @@
       "alternativas": {
         "A": "maior nível de segurança, por dificultarem pular ou passar por baixo do equipamento.",
         "B": "utilização restrita a ambientes domésticos.",
-        "C": "menor resistência à transposição, por serem mais baixas.",
-        "D": "maior fluxo de pessoas, mas sem ganho em segurança.",
+        "C": "menor resistência à transposição, por serem mais baixas, o que facilita pular o equipamento.",
+        "D": "maior fluxo de pessoas, mas sem ganho em segurança em relação às catracas de tripé.",
         "E": "a vantagem de dispensar qualquer integração com leitores."
       },
       "resposta_correta": "A",
@@ -1860,10 +1860,10 @@
       "enunciado": "<p>No controle de acesso de prestadores de serviço, é prática adequada</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "conceder credencial equivalente à de servidor efetivo desde o primeiro dia.",
+        "A": "conceder credencial equivalente à de servidor efetivo desde o primeiro dia, sem restrição de áreas.",
         "B": "limitar o acesso às áreas e horários da tarefa contratada e exigir identificação visível.",
         "C": "dispensar escolta nas áreas restritas, mediante confiança no empregador.",
-        "D": "permitir que o prestador conserve a credencial após o término do contrato.",
+        "D": "permitir que o prestador conserve a credencial após o término do contrato de prestação de serviço.",
         "E": "registrar apenas o nome da empresa, sem identificar os trabalhadores."
       },
       "resposta_correta": "B",
@@ -1894,10 +1894,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "desligamento de todas as câmeras do ambiente.",
-        "B": "supressão dos registros do sistema para evitar rastreamento.",
+        "B": "supressão dos registros do sistema para evitar rastreamento e dificultar a identificação posterior dos envolvidos.",
         "C": "senha ou gesto de coação que libera o acesso e, simultaneamente, envia alarme silencioso à central.",
         "D": "liberação da porta sem qualquer registro do evento.",
-        "E": "bloqueio permanente da porta, impedindo a saída do ameaçado."
+        "E": "bloqueio permanente da porta, impedindo a saída do ameaçado até a chegada da equipe de segurança."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1927,8 +1927,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "suprimir a necessidade de registro dos eventos de acesso.",
-        "B": "tornar o acesso irrestrito para chefias e prestadores.",
-        "C": "conceder a todos os usuários o mesmo conjunto de portas, por simplicidade.",
+        "B": "tornar o acesso irrestrito para chefias e prestadores em todas as áreas, inclusive as restritas.",
+        "C": "conceder a todos os usuários o mesmo conjunto de portas, por simplicidade de gestão e de cadastro.",
         "D": "atribuir a cada credencial apenas as portas e os horários compatíveis com a função do portador.",
         "E": "dispensar o cancelamento de credenciais de desligados."
       },
@@ -1961,8 +1961,8 @@
       "alternativas": {
         "A": "o uso restrito a veículos e cancelas.",
         "B": "o travamento permanente mesmo na ausência de energia, sem exceção.",
-        "C": "a impossibilidade de integração com o sistema de controle de acesso.",
-        "D": "a incompatibilidade com botoeiras de saída ou dispositivos de emergência.",
+        "C": "a impossibilidade de integração com o sistema de controle de acesso eletrônico da instalação.",
+        "D": "a incompatibilidade com botoeiras de saída ou dispositivos de emergência, o que impede seu uso nas saídas.",
         "E": "o desbloqueio quando cessa a energia, o que exige análise quanto à segurança e à rota de fuga."
       },
       "resposta_correta": "E",
@@ -1993,8 +1993,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "permitem auditar quem acessou determinada área e quando, apoiando investigações e a melhoria dos controles.",
-        "B": "substituem a necessidade de barreiras físicas e de vigilância.",
-        "C": "dispensam a guarda segura e o controle de acesso aos próprios registros.",
+        "B": "substituem a necessidade de barreiras físicas e de vigilância humana, reduzindo o custo de pessoal da instalação.",
+        "C": "dispensam a guarda segura e o controle de acesso aos próprios registros pelo gestor do sistema.",
         "D": "servem apenas para fins de contabilidade da frequência de servidores.",
         "E": "podem ser alterados livremente por qualquer usuário do sistema."
       },
@@ -2025,11 +2025,11 @@
       "enunciado": "<p>O guarda-corpo ou muro de alvenaria, comparado à cerca de tela, tende a oferecer como diferença</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "total transparência, permitindo observar a área adjacente.",
+        "A": "total transparência, permitindo observar a área adjacente e dificultando a ocultação de intrusos.",
         "B": "ausência de qualquer efeito de dissuasão visual.",
         "C": "maior resistência física e menor visibilidade do lado externo, o que pode exigir reforço de monitoramento.",
         "D": "vedação ao uso de sensores e câmeras em sua extensão.",
-        "E": "menor resistência à intrusão e maior visibilidade da área externa."
+        "E": "menor resistência à intrusão e maior visibilidade da área externa, sendo por isso a opção preferida em áreas de alto risco."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -2059,8 +2059,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "equivalente a um leitor de código de barras.",
-        "B": "totalmente imune a qualquer técnica de falsificação.",
-        "C": "menos seguro, por captar apenas a imagem bidimensional do dedo.",
+        "B": "totalmente imune a qualquer técnica de falsificação conhecida, inclusive a réplicas de silicone.",
+        "C": "menos seguro, por captar apenas a imagem bidimensional do dedo, o que facilita a falsificação com réplicas simples.",
         "D": "incapaz de operar com dedos limpos e secos.",
         "E": "mais resistente a fraudes simples, pois mede características elétricas da pele e não apenas a imagem."
       },
@@ -2091,8 +2091,8 @@
       "enunciado": "<p>Uma instalação adota leitor biométrico com FAR muito baixa e FRR elevada em sua entrada principal. O efeito prático mais provável é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a dispensa de manutenção e calibração do equipamento.",
-        "B": "a liberação frequente do acesso a impostores, sem recusa de usuários cadastrados.",
+        "A": "a dispensa de manutenção e calibração do equipamento, pois a taxa de falsa rejeição elevada indica desempenho ideal.",
+        "B": "a liberação frequente do acesso a impostores, sem recusa de usuários cadastrados, o que fragiliza o controle da entrada principal.",
         "C": "a ausência de qualquer impacto sobre o fluxo de pessoas.",
         "D": "a recusa frequente de usuários legítimos, exigindo procedimentos alternativos para evitar filas e fragilização do controle.",
         "E": "a impossibilidade de registrar eventos de acesso no sistema."
@@ -2124,10 +2124,10 @@
       "enunciado": "<p>Dois órgãos desejam compartilhar a base de templates biométricos de seus servidores. Segundo a lógica da LGPD, o compartilhamento</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é livre entre órgãos públicos, por se tratar de dado de domínio público.",
+        "A": "é livre entre órgãos públicos, por se tratar de dado de domínio público e de interesse institucional.",
         "B": "exige finalidade específica, base legal, necessidade e salvaguardas, não sendo livre nem automático.",
         "C": "é proibido em qualquer hipótese, inclusive com previsão legal.",
-        "D": "independe de avaliação de risco, desde que haja interesse do gestor.",
+        "D": "independe de avaliação de risco, desde que haja interesse do gestor e autorização verbal.",
         "E": "dispensa registro das operações de tratamento realizadas."
       },
       "resposta_correta": "B",
@@ -2192,9 +2192,9 @@
       "alternativas": {
         "A": "contratação de pessoal sem análise prévia de necessidades.",
         "B": "dispensa de planejamento quando houver tecnologia avançada.",
-        "C": "padronização absoluta de todas as áreas com o máximo de controles.",
+        "C": "padronização absoluta de todas as áreas com o máximo de controles disponíveis, independentemente do risco.",
         "D": "gestão de riscos, que fundamenta a escolha proporcional das barreiras e dos controles de acesso.",
-        "E": "adoção de controles apenas após ocorrência de incidente grave."
+        "E": "adoção de controles apenas após ocorrência de incidente grave no órgão ou em instalações similares."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -2224,9 +2224,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "uso de senhas de dois caracteres.",
-        "B": "redução do tamanho da base de templates apenas.",
+        "B": "redução do tamanho da base de templates apenas, o que não impede a apresentação de fotografias nem de máscaras.",
         "C": "detecção de vivacidade, câmeras 3D ou infravermelhas e fatores adicionais de autenticação.",
-        "D": "supressão da câmera do dispositivo de leitura.",
+        "D": "supressão da câmera do dispositivo de leitura e substituição por teclado numérico simples.",
         "E": "aumento da iluminação ambiente, apenas."
       },
       "resposta_correta": "C",
@@ -2256,9 +2256,9 @@
       "enunciado": "<p>Considere o enunciado: a eclusa de segurança com intertravamento falha ao liberar as duas portas simultaneamente. O risco principal é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "aumento da taxa de falsa rejeição do leitor biométrico.",
+        "A": "aumento da taxa de falsa rejeição do leitor biométrico, que passaria a negar acesso a todos os usuários cadastrados.",
         "B": "perda do efeito de contenção, permitindo passagem direta e possível carona de pessoas não autorizadas.",
-        "C": "erro de leitura da íris por excesso de iluminação.",
+        "C": "erro de leitura da íris por excesso de iluminação no ambiente externo ou na própria portaria.",
         "D": "perda dos registros de imagem das câmeras.",
         "E": "bloqueio das saídas de emergência do prédio."
       },
@@ -2289,10 +2289,10 @@
       "enunciado": "<p>Sobre o descarte de dados biométricos de servidor desligado do órgão, a conduta alinhada à LGPD é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "transferi-los a empresa terceira, para uso comercial livre.",
+        "A": "transferi-los a empresa terceira, para uso comercial livre e sem ciência do antigo servidor.",
         "B": "convertê-los em senhas para uso futuro do servidor.",
         "C": "publicá-los em cadastro aberto para consulta.",
-        "D": "mantê-los indefinidamente, por se tratar de dado de baixo risco.",
+        "D": "mantê-los indefinidamente, por se tratar de dado de baixo risco, cuja guarda dispensa justificativa e prazo.",
         "E": "eliminar os dados quando cessar a finalidade do tratamento, ressalvadas as hipóteses legais de conservação."
       },
       "resposta_correta": "E",
@@ -2323,8 +2323,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "indicar a capacidade da barreira de deter veículo de certa massa e velocidade, padronizando a especificação.",
-        "B": "definir o horário de funcionamento do estacionamento.",
-        "C": "classificar a cor e o acabamento da pintura da barreira.",
+        "B": "definir o horário de funcionamento do estacionamento e o número de vagas reservadas a cada categoria de usuário.",
+        "C": "classificar a cor e o acabamento da pintura da barreira e o tipo de material empregado em sua fabricação.",
         "D": "mensurar o tempo de resposta da equipe de segurança.",
         "E": "avaliar a taxa de erro de leitores biométricos."
       },
@@ -2355,8 +2355,8 @@
       "enunciado": "<p>Em relação ao desempenho de sistemas biométricos em diferentes grupos de pessoas, é correto reconhecer que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a variação de desempenho torna impossível o uso de biometria.",
-        "B": "o desempenho é invariavelmente idêntico para todos os usuários.",
+        "A": "a variação de desempenho torna impossível o uso de biometria em ambientes de acesso controlado ou público.",
+        "B": "o desempenho é invariavelmente idêntico para todos os usuários, independentemente de idade ou etnia.",
         "C": "o viés só existe em sistemas que não utilizam templates.",
         "D": "as taxas de erro independem da qualidade dos sensores.",
         "E": "a acurácia pode variar entre grupos, o que recomenda testes, monitoramento e alternativas de autenticação."
@@ -2388,9 +2388,9 @@
       "enunciado": "<p>Em um fórum, o controle de acesso do público, com detector de metais e identificação, tem por finalidade</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dificultar o acesso à justiça e restringir o atendimento ao público.",
+        "A": "dificultar o acesso à justiça e restringir o atendimento ao público nos horários de maior movimento e de demanda.",
         "B": "proteger magistrados, servidores e jurisdicionados, prevenindo a entrada de armas e de pessoas não autorizadas.",
-        "C": "substituir a atuação da equipe de segurança no interior do edifício.",
+        "C": "substituir a atuação da equipe de segurança no interior do edifício e nas áreas de circulação restrita.",
         "D": "registrar a opinião política dos visitantes que ingressam no prédio.",
         "E": "dispensar o uso de outras medidas de segurança no local."
       },
@@ -2421,9 +2421,9 @@
       "enunciado": "<p>A guarita ou portaria, em um sistema de segurança, exerce a função de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "espaço de convivência dos visitantes durante a espera.",
+        "A": "espaço de convivência dos visitantes durante a espera, com acesso livre às áreas internas e restritas do edifício.",
         "B": "ponto de controle de entrada e saída, onde se verifica a identificação e a autorização de pessoas e veículos.",
-        "C": "área de armazenamento de documentos sigilosos do órgão.",
+        "C": "área de armazenamento de documentos sigilosos do órgão e de arquivo morto da administração geral.",
         "D": "ambiente destinado exclusivamente à manutenção elétrica.",
         "E": "local de depósito de chaves mestras sem registro."
       },
@@ -2456,9 +2456,9 @@
       "alternativas": {
         "A": "identificar rapidamente a categoria do portador e as áreas a que pode ter acesso.",
         "B": "substituir os registros eletrônicos do sistema.",
-        "C": "ocultar o nome do portador mesmo dos agentes de segurança.",
+        "C": "ocultar o nome do portador mesmo dos agentes de segurança e dos visitantes.",
         "D": "dispensar a conferência da identidade do portador.",
-        "E": "autorizar o acesso a todas as áreas, independentemente da categoria."
+        "E": "autorizar o acesso a todas as áreas, independentemente da categoria funcional do portador."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -2488,9 +2488,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "sem qualquer critério ou procedimento pré-definido.",
-        "B": "de modo arbitrário, escolhendo livremente quem será revistado.",
+        "B": "de modo arbitrário, escolhendo livremente quem será revistado pelo vigilante.",
         "C": "com uso de força física, ainda que não haja resistência.",
-        "D": "mediante exposição pública da pessoa, para efeito de dissuasão.",
+        "D": "mediante exposição pública da pessoa, para efeito de dissuasão de futuros infratores no local.",
         "E": "de forma padronizada e respeitosa, observando a dignidade da pessoa e os limites legais."
       },
       "resposta_correta": "E",
@@ -2520,11 +2520,11 @@
       "enunciado": "<p>O scanner de raios X de bagagens serve para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autenticar a identidade do portador por meio de suas digitais.",
+        "A": "autenticar a identidade do portador por meio de suas digitais, cruzando-as com o cadastro de visitantes.",
         "B": "inspecionar o conteúdo de volumes sem abri-los, auxiliando na identificação de itens proibidos.",
         "C": "controlar a abertura de cancelas de estacionamento.",
         "D": "registrar o nome do visitante no livro de ocorrências.",
-        "E": "medir a temperatura corporal das pessoas na entrada."
+        "E": "medir a temperatura corporal das pessoas na entrada e verificar sinais de febre ou outros sintomas."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2553,8 +2553,8 @@
       "enunciado": "<p>A vegetação densa próxima ao muro e às janelas de uma instalação deve ser</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "cultivada rente aos muros, em substituição às barreiras físicas.",
-        "B": "mantida sem poda, para melhorar o aspecto paisagístico apenas.",
+        "A": "cultivada rente aos muros, em substituição às barreiras físicas e aos sensores.",
+        "B": "mantida sem poda, para melhorar o aspecto paisagístico apenas do local.",
         "C": "mantida aparada, para não servir de esconderijo nem de apoio à transposição.",
         "D": "usada como escada natural para acesso aos andares superiores.",
         "E": "ampliada, para proporcionar sombra aos invasores."
@@ -2620,8 +2620,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a impossibilidade de ser instalada em portas internas.",
-        "B": "a necessidade de que o usuário carregue um objeto físico.",
-        "C": "a dependência exclusiva de característica biológica do usuário.",
+        "B": "a necessidade de que o usuário carregue um objeto físico de identificação consigo.",
+        "C": "a dependência exclusiva de característica biológica do usuário, como impressão digital ou íris.",
         "D": "o impedimento de alterar a senha periodicamente.",
         "E": "o compartilhamento ou a observação da senha por terceiros, sem que o sistema perceba."
       },
@@ -2652,8 +2652,8 @@
       "enunciado": "<p>O alarme de intrusão acoplado a uma porta de acesso controlado é acionado, em regra, quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o usuário apresenta credencial válida e entra normalmente.",
-        "B": "o vigilante entrega a chave ao usuário no horário previsto.",
+        "A": "o usuário apresenta credencial válida e entra normalmente dentro do horário permitido.",
+        "B": "o vigilante entrega a chave ao usuário no horário previsto e registra a retirada no livro.",
         "C": "ocorre a leitura bem-sucedida da biometria do usuário.",
         "D": "a porta é aberta sem autorização válida ou permanece aberta além do tempo permitido.",
         "E": "a porta é fechada corretamente após a passagem."
@@ -2685,11 +2685,11 @@
       "enunciado": "<p>Em área de acesso controlado, a identificação visível do portador durante todo o período de permanência facilita</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o acesso a qualquer setor sem escolta ou controle.",
+        "A": "o acesso a qualquer setor sem escolta ou controle por parte dos agentes de segurança.",
         "B": "que os agentes de segurança e os demais presentes reconheçam quem está autorizado.",
         "C": "a dispensa de cadastro prévio dos visitantes.",
         "D": "a retirada das barreiras físicas da instalação.",
-        "E": "a anonimização completa dos visitantes no interior do prédio."
+        "E": "a anonimização completa dos visitantes no interior do prédio e a ocultação de cargos."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2719,10 +2719,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "tem cadastro de mais de um dedo no sistema.",
-        "B": "faz leitura com o sensor devidamente higienizado.",
+        "B": "faz leitura com o sensor devidamente higienizado e com os dedos limpos, secos e bem posicionados no leitor.",
         "C": "possui impressão digital bem definida e limpa.",
         "D": "tem a pele desgastada ou lesionada, o que pode dificultar a leitura e aumentar a falsa rejeição.",
-        "E": "utiliza o leitor em ambiente adequado e dedos secos."
+        "E": "utiliza o leitor em ambiente adequado e dedos secos, seguindo as orientações do equipamento."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -2917,10 +2917,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "desativar o controle de acesso para evitar filas.",
-        "B": "reduzir o limiar para aceitar qualquer imagem de baixa qualidade.",
+        "B": "reduzir o limiar para aceitar qualquer imagem de baixa qualidade, liberando o acesso a todos os usuários.",
         "C": "avaliar a modalidade mais compatível com o ambiente e prever método alternativo de autenticação.",
         "D": "retirar o registro de eventos para economizar espaço.",
-        "E": "restringir o uso apenas aos usuários com mãos limpas."
+        "E": "restringir o uso apenas aos usuários com mãos limpas e livres de qualquer ferimento."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -2951,8 +2951,8 @@
       "alternativas": {
         "A": "garantir que o código nunca seja registrado.",
         "B": "evitar a identificação do usuário nos logs.",
-        "C": "dispensar a atualização do cadastro de usuários.",
-        "D": "permitir que todos os servidores usem a mesma senha.",
+        "C": "dispensar a atualização do cadastro de usuários desligados ou transferidos do setor.",
+        "D": "permitir que todos os servidores usem a mesma senha em qualquer porta, para facilitar a gestão.",
         "E": "reduzir o risco decorrente de divulgação, observação ou compartilhamento indevido."
       },
       "resposta_correta": "E",
@@ -2985,8 +2985,8 @@
         "A": "contemplar passagens acessíveis a pessoas com deficiência, sem anular o controle de segurança.",
         "B": "impedir o ingresso de pessoas com cadeira de rodas.",
         "C": "ser substituídos por revista manual obrigatória a todos.",
-        "D": "ser dimensionados apenas para pessoas sem restrição de mobilidade.",
-        "E": "dispensar adaptações, pois a segurança prevalece sobre qualquer norma."
+        "D": "ser dimensionados apenas para pessoas sem restrição de mobilidade ou necessidade de apoio.",
+        "E": "dispensar adaptações, pois a segurança prevalece sobre qualquer norma de acessibilidade vigente."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -3016,9 +3016,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "impedir sempre o acesso do usuário legítimo.",
-        "B": "ser irrelevante, pois o sistema não considera características do rosto.",
+        "B": "ser irrelevante, pois o sistema não considera características do rosto, mas apenas o fundo da imagem capturada pela câmera.",
         "C": "eliminar totalmente a falsa rejeição.",
-        "D": "tornar obsoleta a base de dados em questão de horas.",
+        "D": "tornar obsoleta a base de dados em questão de horas, exigindo novo cadastro de todos os usuários.",
         "E": "afetar o desempenho, razão pela qual o cadastro deve ser atualizado e pode ser necessário fator adicional."
       },
       "resposta_correta": "E",
@@ -3049,8 +3049,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "único, com os mesmos procedimentos para qualquer fluxo.",
-        "B": "dispensado para veículos oficiais em qualquer circunstância.",
-        "C": "restrito aos pedestres, pois veículos não apresentam risco.",
+        "B": "dispensado para veículos oficiais em qualquer circunstância, dada a presunção de regularidade.",
+        "C": "restrito aos pedestres, pois veículos não apresentam risco relevante ao patrimônio.",
         "D": "diferenciado, com pontos, procedimentos e inspeções adequados à natureza de cada fluxo.",
         "E": "realizado apenas no período noturno."
       },
@@ -3081,11 +3081,11 @@
       "enunciado": "<p>A vistoria em veículos que ingressam em área sensível justifica-se pelo risco de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "excesso de ruído na área de estacionamento.",
+        "A": "excesso de ruído na área de estacionamento, o que pode perturbar o trabalho dos servidores nos prédios.",
         "B": "desgaste prematuro das cancelas e barreiras.",
         "C": "introdução de armas, explosivos ou materiais ilícitos e de saída não autorizada de bens.",
         "D": "alteração do paisagismo do entorno.",
-        "E": "perda de rendimento do combustível dos veículos."
+        "E": "perda de rendimento do combustível dos veículos que circulam dentro do perímetro."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -3116,9 +3116,9 @@
       "alternativas": {
         "A": "dispensar a revisão periódica das permissões.",
         "B": "atualizar automaticamente as permissões conforme admissões, transferências e desligamentos.",
-        "C": "ampliar automaticamente o acesso de todos os servidores.",
+        "C": "ampliar automaticamente o acesso de todos os servidores a todas as áreas após qualquer promoção.",
         "D": "manter permissões iguais após qualquer alteração funcional.",
-        "E": "excluir o registro do histórico de acessos dos desligados."
+        "E": "excluir o registro do histórico de acessos dos desligados após a data de saída."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -3149,8 +3149,8 @@
       "alternativas": {
         "A": "identificar e corrigir acessos excessivos, obsoletos ou indevidos, reforçando o menor privilégio.",
         "B": "reduzir o número de câmeras da instalação.",
-        "C": "ampliar as permissões de todos os usuários a cada ano.",
-        "D": "substituir o controle de acesso biométrico por senhas.",
+        "C": "ampliar as permissões de todos os usuários a cada ano, independentemente da função que exercem no órgão.",
+        "D": "substituir o controle de acesso biométrico por senhas fixas, compartilhadas entre os servidores.",
         "E": "eliminar a necessidade de registro de eventos."
       },
       "resposta_correta": "A",
@@ -3180,10 +3180,10 @@
       "enunciado": "<p>Sobre a gestão de visitantes, é medida compatível com boas práticas</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "autorizar a entrada pela simples declaração do visitante na portaria.",
+        "A": "autorizar a entrada pela simples declaração do visitante na portaria sobre o motivo da visita.",
         "B": "confirmar com o anfitrião a visita agendada e registrar entrada e saída com data e horário.",
         "C": "dispensar a conferência de documento oficial com foto.",
-        "D": "permitir a circulação livre desacompanhada em áreas restritas.",
+        "D": "permitir a circulação livre desacompanhada em áreas restritas durante todo o horário.",
         "E": "reter indefinidamente os dados de visitas sem finalidade."
       },
       "resposta_correta": "B",
@@ -3213,11 +3213,11 @@
       "enunciado": "<p>A porta com leitor biométrico e botoeira de saída facilita, em condições normais,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o travamento da porta mesmo em caso de emergência.",
+        "A": "o travamento da porta mesmo em caso de emergência ou de falta de energia.",
         "B": "a perda dos registros de acesso do sistema.",
         "C": "a anulação do alarme de arrombamento.",
         "D": "o fluxo de saída sem exigir nova autenticação, mantendo o controle da entrada.",
-        "E": "a entrada livre de qualquer pessoa sem leitura de credencial."
+        "E": "a entrada livre de qualquer pessoa sem leitura de credencial na área protegida."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -3249,8 +3249,8 @@
         "A": "apenas as barreiras novas precisam ser verificadas.",
         "B": "a inspeção só é necessária após a ocorrência de crime.",
         "C": "falhas, desgastes ou violações não percebidas reduzem o tempo de retardo e a eficácia da proteção.",
-        "D": "barreiras físicas não sofrem desgaste ao longo do tempo.",
-        "E": "a inspeção substitui o plano de segurança."
+        "D": "barreiras físicas não sofrem desgaste ao longo do tempo nem são afetadas por intempéries.",
+        "E": "a inspeção substitui o plano de segurança, o treinamento da equipe e as demais rotinas operacionais."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -3280,9 +3280,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a LGPD não se aplica aos órgãos do Poder Judiciário.",
-        "B": "a coleta é sempre livre, sem necessidade de informar os titulares.",
+        "B": "a coleta é sempre livre, sem necessidade de informar os titulares sobre o uso de seus dados.",
         "C": "o consentimento é irrelevante em qualquer caso de tratamento.",
-        "D": "o dado biométrico se equipara a nome e cargo, sem sensibilidade.",
+        "D": "o dado biométrico se equipara a nome e cargo, sem sensibilidade, pois ambos são dados cadastrais comuns de livre tratamento.",
         "E": "o tratamento de dados sensíveis exige justificativa, proporcionalidade e transparência quanto à finalidade."
       },
       "resposta_correta": "E",
@@ -3313,8 +3313,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a criação de exceções informais que fragilizam o controle e eliminam a rastreabilidade dos acessos.",
-        "B": "o aumento da falsa aceitação do equipamento por defeito do sensor.",
-        "C": "a elevação do tempo de resposta da equipe de emergência.",
+        "B": "o aumento da falsa aceitação do equipamento por defeito do sensor, que passa a liberar usuários não cadastrados.",
+        "C": "a elevação do tempo de resposta da equipe de emergência em ocorrências simultâneas no prédio.",
         "D": "o excesso de logs, que inviabiliza a auditoria.",
         "E": "a redução da vida útil do template armazenado."
       },
@@ -3346,10 +3346,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "são imunes a erros de FAR e FRR.",
-        "B": "dispensam o uso de sensores e algoritmos de comparação.",
+        "B": "dispensam o uso de sensores e algoritmos de comparação, pois a identidade é confirmada apenas pelo comportamento do usuário.",
         "C": "são biometrias comportamentais, mais sujeitas a variação (estado físico, emocional), em geral usadas como fator complementar.",
         "D": "são aplicáveis apenas a veículos.",
-        "E": "são biometrias físicas invariáveis, que substituem qualquer outro fator."
+        "E": "são biometrias físicas invariáveis, que substituem qualquer outro fator de autenticação, dispensando também o registro de eventos no sistema."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -3380,8 +3380,8 @@
       "alternativas": {
         "A": "divulgação em cadastro aberto para consulta geral.",
         "B": "prevenção à fraude e segurança do titular, nos termos do art. 11, II, g, da lei.",
-        "C": "aplicação de sanção disciplinar sem contraditório.",
-        "D": "existência de interesse comercial do controlador.",
+        "C": "aplicação de sanção disciplinar sem contraditório ao servidor que não se submeter à coleta.",
+        "D": "existência de interesse comercial do controlador em compartilhar os dados.",
         "E": "mera conveniência administrativa do gestor."
       },
       "resposta_correta": "B",
@@ -3411,10 +3411,10 @@
       "enunciado": "<p>Considere o cenário: o leitor de uma sala-cofre aceita a mesma digital em duas contas distintas. A falha mais condizente com o sintoma é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "desatualização do mapa de rondas da vigilância.",
+        "A": "desatualização do mapa de rondas da vigilância, que impede a conferência da identidade dos usuários nas leitoras de cada porta.",
         "B": "falha de iluminação do ambiente externo.",
         "C": "ausência de sinalização de saída de emergência.",
-        "D": "excesso de zona livre na cerca perimetral.",
+        "D": "excesso de zona livre na cerca perimetral, que facilita a duplicação das impressões digitais cadastradas.",
         "E": "base com cadastros duplicados ou comparação com limiar muito permissivo, comprometendo a unicidade da identidade."
       },
       "resposta_correta": "E",
@@ -3446,9 +3446,9 @@
       "alternativas": {
         "A": "confiar exclusivamente em câmera sem gravação.",
         "B": "adotar apenas uma fechadura mecânica de uso comum.",
-        "C": "manter a porta aberta e confiar na presença eventual de vigilante.",
+        "C": "manter a porta aberta e confiar na presença eventual de vigilante, dispensando fechaduras, registros e qualquer sistema de alarme.",
         "D": "combinar barreira física, autenticação multifator, registro de eventos e detecção de arrombamento com resposta definida.",
-        "E": "limitar o controle a uma placa indicativa de área restrita."
+        "E": "limitar o controle a uma placa indicativa de área restrita, complementada por orientação verbal dos servidores presentes."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -3478,10 +3478,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ponto de controle externo, área de recepção controlada, eclusa ou filtro e, por fim, a área restrita.",
-        "B": "recepção diretamente conectada à área crítica, sem filtros.",
+        "B": "recepção diretamente conectada à área crítica, sem filtros ou eclusas, com identificação apenas na saída do ambiente.",
         "C": "supressão de qualquer ponto de controle intermediário.",
         "D": "trânsito livre entre áreas de diferentes níveis.",
-        "E": "acesso direto à área restrita, com identificação posterior."
+        "E": "acesso direto à área restrita, com identificação posterior do visitante pelo anfitrião."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -3511,8 +3511,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ausência de registro dos eventos de abertura.",
-        "B": "incompatibilidade com qualquer outro fator de autenticação.",
-        "C": "total eliminação de riscos, por ser tecnologia recente.",
+        "B": "incompatibilidade com qualquer outro fator de autenticação, o que impede a combinação do aparelho com biometria ou senha de acesso.",
+        "C": "total eliminação de riscos, por ser tecnologia recente e dotada de criptografia, dispensando revogação e auditoria dos acessos.",
         "D": "riscos de perda do aparelho, clonagem e dependência de energia e conectividade, com revogação rápida de credenciais.",
         "E": "impossibilidade de revogar o acesso à distância."
       },
@@ -3543,8 +3543,8 @@
       "enunciado": "<p>Em termos de resiliência, é desejável que o sistema de controle de acesso, na falta de energia ou de rede,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dependa unicamente de servidor central sem redundância.",
-        "B": "libere todas as portas indefinidamente, sem qualquer registro.",
+        "A": "dependa unicamente de servidor central sem redundância de energia, de rede ou de armazenamento dos eventos de acesso e das credenciais.",
+        "B": "libere todas as portas indefinidamente, sem qualquer registro dos eventos ocorridos durante a falha.",
         "C": "tranque todas as portas, inclusive saídas de emergência.",
         "D": "perca as permissões cadastradas e exija novo cadastro.",
         "E": "tenha modo de contingência definido (bateria, operação local), equilibrando segurança, rotas de fuga e continuidade."
@@ -3576,11 +3576,11 @@
       "enunciado": "<p>O atributo do dado biométrico que o distingue de uma senha, do ponto de vista da gestão de incidentes, é que ele</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pode ser redefinido a qualquer momento pelo usuário.",
+        "A": "pode ser redefinido a qualquer momento pelo usuário, sem necessidade de novo cadastro nem de intervenção do administrador.",
         "B": "não pode ser facilmente substituído em caso de vazamento, o que eleva o impacto do comprometimento.",
         "C": "se renova automaticamente a cada leitura.",
         "D": "perde a validade ao ser comparado com o template.",
-        "E": "é gerado aleatoriamente pelo sistema a cada acesso."
+        "E": "é gerado aleatoriamente pelo sistema a cada acesso, dispensando o armazenamento de qualquer registro."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -3612,8 +3612,8 @@
         "A": "o tempo de operação da catraca por pessoa.",
         "B": "o tempo de cadastro do usuário no sistema.",
         "C": "o tempo mínimo que um agressor leva para superá-la com as ferramentas esperadas.",
-        "D": "o tempo de vida útil estimado do equipamento.",
-        "E": "o tempo de espera de um visitante em fila na recepção."
+        "D": "o tempo de vida útil estimado do equipamento segundo as especificações do fabricante.",
+        "E": "o tempo de espera de um visitante em fila na recepção durante o horário de maior movimento."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -3642,8 +3642,8 @@
       "enunciado": "<p>O portão de acesso de veículos a uma instalação deve permanecer, como regra,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "destravado para facilitar o fluxo de veículos de terceiros.",
-        "B": "sem operador, por ser acionado por qualquer pessoa.",
+        "A": "destravado para facilitar o fluxo de veículos de terceiros durante o expediente.",
+        "B": "sem operador, por ser acionado por qualquer pessoa que se aproxime do portão.",
         "C": "aberto durante todo o expediente, sem nenhum controle.",
         "D": "fechado, sendo aberto apenas após identificação e autorização do ingresso.",
         "E": "aberto à noite e fechado de dia, por razões de iluminação."
@@ -3678,8 +3678,8 @@
         "A": "um modelo matemático (template) com base em pontos característicos, chamados minúcias.",
         "B": "um registro de voz do usuário gravado durante a leitura.",
         "C": "uma senha numérica de seis dígitos escolhida pelo sistema.",
-        "D": "uma etiqueta de radiofrequência fixada ao dedo.",
-        "E": "uma fotografia colorida da mão inteira armazenada em papel."
+        "D": "uma etiqueta de radiofrequência fixada ao dedo do usuário durante a leitura.",
+        "E": "uma fotografia colorida da mão inteira armazenada em papel no cadastro funcional do servidor."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -3708,9 +3708,9 @@
       "enunciado": "<p>Sobre o cadastro (enrollment) biométrico, é correto afirmar que ele consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "excluir os dados do usuário após o primeiro acesso ao local.",
+        "A": "excluir os dados do usuário após o primeiro acesso ao local e exigir novo cadastro a cada visita.",
         "B": "coletar e registrar pela primeira vez a característica do usuário para futuras comparações.",
-        "C": "comparar a amostra do usuário com a de outro usuário aleatório.",
+        "C": "comparar a amostra do usuário com a de outro usuário aleatório cadastrado na base.",
         "D": "emitir a credencial física de proximidade do servidor.",
         "E": "gravar em vídeo a entrada diária de cada usuário."
       },

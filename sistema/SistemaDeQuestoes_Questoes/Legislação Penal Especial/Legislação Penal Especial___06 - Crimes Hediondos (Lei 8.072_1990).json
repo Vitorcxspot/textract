@@ -131,10 +131,10 @@
       "enunciado": "<p>De acordo com a Constituição Federal (art. 5º, XLIII), são considerados crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "crimes eleitorais, em qualquer circunstância.",
+        "A": "crimes eleitorais, em qualquer circunstância, por eles respondendo apenas os executores diretos dos atos.",
         "B": "crimes contra o patrimônio, quando praticados com violência.",
         "C": "crimes militares, em tempo de paz.",
-        "D": "contravenções penais, quando reiteradas.",
+        "D": "contravenções penais, quando reiteradas, por elas respondendo os executores e quem se omitir quando devia evitá-las.",
         "E": "crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem."
       },
       "resposta_correta": "E",
@@ -164,8 +164,8 @@
       "enunciado": "<p>São crimes equiparados a hediondos, para fins do tratamento dado pela Lei nº 8.072/1990, nos termos da Constituição Federal,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o furto qualificado e o estelionato.",
-        "B": "a corrupção passiva e o peculato.",
+        "A": "o furto qualificado, o estelionato e a receptação qualificada.",
+        "B": "a corrupção passiva, o peculato e a concussão cometidos por servidores.",
         "C": "a lesão corporal leve e a ameaça.",
         "D": "a tortura, o tráfico ilícito de entorpecentes e o terrorismo.",
         "E": "o roubo simples e a receptação."
@@ -197,9 +197,9 @@
       "enunciado": "<p>Nos termos do art. 1º da Lei nº 8.072/1990, é crime hediondo o homicídio</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "culposo, quando praticado na direção de veículo automotor.",
+        "A": "culposo, quando praticado na direção de veículo automotor, ainda que o agente esteja sob efeito de álcool ou participe de racha ilegal.",
         "B": "simples, quando praticado em atividade típica de grupo de extermínio, ainda que cometido por um só agente, e o homicídio qualificado.",
-        "C": "privilegiado, mesmo se também qualificado por motivo torpe.",
+        "C": "privilegiado, mesmo se também qualificado por motivo torpe, pois o privilégio não é incompatível com qualificadoras, tornando-se o crime hediondo.",
         "D": "praticado em legítima defesa, com excesso.",
         "E": "simples, em qualquer circunstância."
       },
@@ -231,9 +231,9 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "crime hediondo, sujeito às vedações e aos prazos especiais de progressão.",
-        "B": "crime de menor potencial ofensivo.",
+        "B": "crime de menor potencial ofensivo, processado no juizado especial criminal.",
         "C": "contravenção penal.",
-        "D": "crime comum, sem tratamento especial.",
+        "D": "crime comum, sem tratamento especial, aplicando-se as regras gerais do Código Penal.",
         "E": "crime equiparado a hediondo, e não hediondo."
       },
       "resposta_correta": "A",
@@ -330,10 +330,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "crime equiparado a hediondo.",
-        "B": "crime de menor potencial ofensivo.",
+        "B": "crime de menor potencial ofensivo, sujeito à transação penal e ao sursis.",
         "C": "contravenção penal.",
         "D": "crime hediondo, nos termos do art. 1º, IV, da Lei nº 8.072/1990.",
-        "E": "crime comum, sem tratamento especial."
+        "E": "crime comum, sem tratamento especial, submetido às regras gerais de progressão."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -396,8 +396,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "trinta dias, prorrogável por igual período, em caso de extrema e comprovada necessidade.",
-        "B": "sessenta dias, prorrogáveis por trinta.",
-        "C": "cinco dias, prorrogáveis por mais cinco.",
+        "B": "sessenta dias, prorrogáveis por mais trinta, em caso de extrema e comprovada necessidade.",
+        "C": "cinco dias, prorrogáveis por mais cinco, em caso de extrema e comprovada necessidade.",
         "D": "dez dias, prorrogáveis por dez.",
         "E": "quinze dias, improrrogáveis."
       },
@@ -461,10 +461,10 @@
       "enunciado": "<p>Em relação ao regime inicial de cumprimento de pena nos crimes hediondos, o Supremo Tribunal Federal declarou inconstitucional a obrigatoriedade de regime inicialmente fechado, de modo que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o regime aberto é obrigatório para crimes hediondos.",
+        "A": "o regime aberto é obrigatório para crimes hediondos, em razão da progressividade e da ressocialização do apenado primário.",
         "B": "o juiz da execução fixa o regime, e não o juiz da condenação.",
         "C": "o regime é definido por decreto presidencial.",
-        "D": "o regime fechado continua obrigatório em todos os casos.",
+        "D": "o regime fechado continua obrigatório em todos os casos, pois a lei especial prevalece sobre o Código Penal.",
         "E": "o juiz poderá fixar regime diverso, observados os critérios do art. 33 do Código Penal e a individualização da pena."
       },
       "resposta_correta": "E",
@@ -494,11 +494,11 @@
       "enunciado": "<p>Segundo o art. 112 da Lei de Execução Penal, com a redação da Lei nº 13.964/2019, a progressão de regime do condenado por crime hediondo ou equiparado, se primário, exige o cumprimento de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "três quartos da pena, em qualquer hipótese.",
+        "A": "três quartos da pena, mesmo que o apenado seja primário e o crime não tenha resultado morte.",
         "B": "metade da pena, em qualquer hipótese.",
         "C": "quarenta por cento da pena, se o apenado for primário e o crime não tiver resultado morte.",
         "D": "um sexto da pena, como nos crimes comuns.",
-        "E": "dois terços da pena, em qualquer hipótese."
+        "E": "dois terços da pena, se o apenado for primário e o crime não tiver resultado morte."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -561,10 +561,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal, integrantes do sistema prisional e da Força Nacional, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até terceiro grau.",
-        "B": "qualquer pessoa, independentemente da condição.",
-        "C": "apenas membros do Ministério Público.",
+        "B": "qualquer pessoa, independentemente da condição, desde que a lesão seja cometida com emprego de arma ou instrumento perigoso, ainda que não exista relação com o exercício de função pública ou com o vínculo familiar da vítima.",
+        "C": "apenas membros do Ministério Público e da magistratura, no exercício da função ou em decorrência dela, além de seus cônjuges, companheiros ou parentes consanguíneos até segundo grau, em razão dessa condição funcional.",
         "D": "apenas militares da ativa.",
-        "E": "apenas servidores civis do Poder Executivo."
+        "E": "apenas servidores civis do Poder Executivo, no exercício da função ou em decorrência dela, bem como seus cônjuges e filhos menores, ainda que a lesão corporal seja de natureza leve ou culposa."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -593,10 +593,10 @@
       "enunciado": "<p>Com o Pacote Anticrime (Lei nº 13.964/2019), passou a ser considerado hediondo, entre outros, o crime de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "estelionato qualificado.",
+        "A": "estelionato qualificado pelo emprego de fraude eletrônica, e a extorsão simples cometida mediante violência ou grave ameaça contra funcionário público.",
         "B": "receptação simples.",
         "C": "roubo circunstanciado pelo emprego de arma de fogo, e o furto qualificado pelo emprego de explosivo ou artefato análogo que cause perigo comum.",
-        "D": "dano ao patrimônio público.",
+        "D": "dano ao patrimônio público praticado em manifestações, e o furto de coisa comum avaliada em valor elevado, sem emprego de explosivo.",
         "E": "furto simples."
       },
       "resposta_correta": "C",
@@ -626,9 +626,9 @@
       "enunciado": "<p>Quanto ao crime de posse ou porte ilegal de arma de fogo de uso proibido (art. 16 da Lei nº 10.826/2003), a Lei nº 8.072/1990 o classifica como</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "crime de menor potencial ofensivo.",
+        "A": "crime de menor potencial ofensivo, assim como o comércio ilegal e o tráfico internacional de arma de fogo.",
         "B": "contravenção penal.",
-        "C": "crime comum, sem repercussão.",
+        "C": "crime comum, sem repercussão no rol dos hediondos, ainda que praticado por integrante de organização criminosa.",
         "D": "crime hediondo, assim como o comércio ilegal de arma de fogo e o tráfico internacional de arma de fogo.",
         "E": "crime equiparado a hediondo."
       },
@@ -659,10 +659,10 @@
       "enunciado": "<p>A organização criminosa, quando direcionada à prática de crime hediondo ou equiparado, é considerada hedionda (art. 1º, parágrafo único, V, da Lei nº 8.072/1990). Isso se dá em razão da</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "existência de arma de fogo, exclusivamente.",
+        "A": "existência de arma de fogo, exclusivamente, independentemente da finalidade da organização e do número de agentes.",
         "B": "natureza de qualquer organização criminosa, sempre.",
         "C": "quantidade de integrantes, superior a dez.",
-        "D": "transnacionalidade do crime, exclusivamente.",
+        "D": "transnacionalidade do crime, exclusivamente, ainda que o grupo não tenha estrutura ordenada nem divisão de tarefas.",
         "E": "finalidade da organização e da previsão do art. 2º da Lei nº 12.850/2013, que prevê pena de três a oito anos."
       },
       "resposta_correta": "E",
@@ -692,9 +692,9 @@
       "enunciado": "<p>Segundo a jurisprudência do STF, o tráfico privilegiado (art. 33, § 4º, da Lei nº 11.343/2006)</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "tem natureza hedionda, como o tráfico comum.",
+        "A": "tem natureza hedionda, como o tráfico comum, sujeitando-se à progressão de regime mais rigorosa.",
         "B": "não tem natureza hedionda, de modo que se submete às regras comuns de progressão de regime.",
-        "C": "é crime hediondo e insuscetível de graça.",
+        "C": "é crime hediondo e insuscetível de graça, indulto e anistia, tal como o tráfico comum.",
         "D": "é contravenção penal.",
         "E": "é crime inafiançável e imprescritível."
       },
@@ -727,9 +727,9 @@
       "alternativas": {
         "A": "é hediondo apenas nas hipóteses expressamente previstas, como o latrocínio e o roubo circunstanciado pelo emprego de arma de fogo.",
         "B": "nunca é hediondo, em nenhuma forma.",
-        "C": "é hediondo, se a vítima for idosa.",
+        "C": "é hediondo, se a vítima for idosa, em razão de sua maior vulnerabilidade, qualquer que seja a forma de execução e o meio empregado.",
         "D": "é hediondo, se cometido à noite.",
-        "E": "é sempre hediondo, em qualquer forma."
+        "E": "é sempre hediondo, em qualquer forma, pois a lei equipara o roubo ao latrocínio e ao roubo com restrição de liberdade."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -758,9 +758,9 @@
       "enunciado": "<p>Entre os efeitos da condenação por crime hediondo, o art. 9º da Lei nº 8.072/1990, na redação original, previa o aumento da pena nos crimes contra a pessoa quando a vítima não fosse maior de catorze anos. Esse dispositivo</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "foi substituído por pena de multa.",
+        "A": "foi substituído por pena de multa, cujo valor é fixado pelo juiz em cada caso.",
         "B": "foi estendido a todos os crimes contra o patrimônio.",
-        "C": "continua em vigor, inalterado.",
+        "C": "continua em vigor, inalterado, e se aplica a todos os crimes contra a pessoa.",
         "D": "foi revogado, e o aumento hoje consta de outras normas do Código Penal.",
         "E": "foi declarado constitucional pelo STF."
       },
@@ -791,10 +791,10 @@
       "enunciado": "<p>Em relação ao art. 10 da Lei nº 8.072/1990, que alterou a Lei nº 7.960/1989, o prazo especial da prisão temporária para hediondos</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é de quinze dias, prorrogáveis por quinze.",
+        "A": "é de quinze dias, prorrogáveis por quinze, e a prisão temporária é cabível apenas para a tortura.",
         "B": "é de trinta dias, prorrogáveis por igual período, e a prisão temporária é cabível para os crimes elencados.",
         "C": "é de dez dias, improrrogáveis.",
-        "D": "é de cinco dias, prorrogáveis por cinco.",
+        "D": "é de cinco dias, prorrogáveis por cinco, e a prisão temporária é cabível para os crimes comuns.",
         "E": "é de sessenta dias, improrrogáveis."
       },
       "resposta_correta": "B",
@@ -824,11 +824,11 @@
       "enunciado": "<p>Um réu primário é condenado por tráfico de drogas (art. 33, caput), a oito anos de reclusão. Sem reconhecimento do privilégio, segundo o art. 112, V, da LEP, a progressão exige</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "um sexto da pena, como nos crimes comuns.",
+        "A": "um sexto da pena, como nos crimes comuns, por inexistir equiparação a hediondo e por ser o réu primário, sem resultado morte.",
         "B": "dois terços da pena, em qualquer hipótese.",
         "C": "o cumprimento de quarenta por cento da pena, por se tratar de crime hediondo ou equiparado, sem resultado morte e réu primário.",
         "D": "metade da pena, em qualquer hipótese.",
-        "E": "setenta por cento da pena, em qualquer hipótese."
+        "E": "setenta por cento da pena, em qualquer hipótese, por se tratar de crime hediondo ou equiparado, ainda que o réu seja primário e não haja resultado morte."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -924,8 +924,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "setenta por cento da pena.",
-        "B": "dezesseis por cento da pena.",
-        "C": "vinte e cinco por cento da pena.",
+        "B": "dezesseis por cento da pena, por tratar-se de crime hediondo, primário, sem violência ou grave ameaça à pessoa.",
+        "C": "vinte e cinco por cento da pena, por tratar-se de crime hediondo, primário, e com resultado morte.",
         "D": "cinquenta por cento da pena.",
         "E": "quarenta por cento da pena, por tratar-se de crime hediondo, primário, sem resultado morte além do tipo."
       },
@@ -956,11 +956,11 @@
       "enunciado": "<p>O crime de epidemia com resultado morte (art. 267, § 1º, do Código Penal) é considerado, pela Lei nº 8.072/1990,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "crime comum, sem tratamento especial.",
+        "A": "crime comum, sem tratamento especial, ainda que praticado mediante falsificação de produto destinado a fins terapêuticos ou medicinais.",
         "B": "crime equiparado a hediondo.",
         "C": "crime hediondo, assim como a falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais.",
         "D": "contravenção penal.",
-        "E": "crime de menor potencial ofensivo."
+        "E": "crime de menor potencial ofensivo, ainda que praticado mediante corrupção ou adulteração de produto destinado a fins medicinais."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -989,11 +989,11 @@
       "enunciado": "<p>Uma associação criminosa de quatro pessoas é formada para praticar crimes de tráfico de drogas e de estupro de vulnerável.</p><p>À luz da legislação, a conduta pode configurar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas o crime de quadrilha do Código Penal, hoje revogado.",
+        "A": "apenas o crime de quadrilha do Código Penal, hoje revogado, não se aplicando a associação para o tráfico nem qualquer tipo penal da legislação especial aos fatos narrados.",
         "B": "associação para o tráfico (art. 35 da Lei nº 11.343/2006) e, quanto aos crimes hediondos, o crime do art. 8º da Lei nº 8.072/1990, com concurso, observadas as regras de absorção e de especialidade.",
         "C": "apenas infração disciplinar.",
-        "D": "nenhum crime, por ausência de fato concreto.",
-        "E": "apenas contravenção penal de associação."
+        "D": "nenhum crime, por ausência de fato concreto, já que a mera reunião de pessoas para a prática futura de delitos é fato atípico e penalmente irrelevante, ainda que reiterada.",
+        "E": "apenas contravenção penal de associação, de menor potencial ofensivo, sem tipificação autônoma na legislação de drogas e sem repercussão nos crimes hediondos, inclusive o estupro de vulnerável."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -1022,9 +1022,9 @@
       "enunciado": "<p>Em relação aos crimes hediondos, o STJ editou a Súmula 471, que tratava da aplicação do art. 112 da LEP aos crimes anteriores à Lei nº 11.464/2007. Hoje, com as alterações posteriores, prevalece que a lei processual penal</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "só se aplica aos crimes praticados após o trânsito em julgado.",
+        "A": "só se aplica aos crimes praticados após o trânsito em julgado da primeira condenação, razão pela qual não alcança os fatos anteriores à vigência da lei.",
         "B": "aplica-se somente aos reincidentes.",
-        "C": "retroage em qualquer caso, inclusive em prejuízo do réu.",
+        "C": "retroage em qualquer caso, inclusive em prejuízo do réu, pois as normas processuais têm aplicação imediata e irrestrita.",
         "D": "aplica-se de forma imediata, mas a norma mais gravosa de execução penal, por seu conteúdo material, não retroage em prejuízo do réu.",
         "E": "não se aplica a crimes hediondos."
       },
@@ -1055,8 +1055,8 @@
       "enunciado": "<p>Um agente é condenado por latrocínio consumado (art. 157, § 3º, II, do CP). Para fins de livramento condicional, é reincidente específico em crime hediondo.</p><p>Nessa situação, segundo o art. 83, V, do Código Penal,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é possível o livramento imediato, por se tratar de crime com morte.",
-        "B": "é possível o livramento após o cumprimento de um terço da pena.",
+        "A": "é possível o livramento imediato, por se tratar de crime com resultado morte e réu primário.",
+        "B": "é possível o livramento após o cumprimento de um terço da pena, por ser o crime hediondo e o réu primário.",
         "C": "é possível o livramento após o cumprimento de metade da pena.",
         "D": "é possível o livramento após dois terços da pena.",
         "E": "é vedado o livramento condicional, por ser reincidente específico em crimes hediondos."
@@ -1089,10 +1089,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "manifestações políticas, movimentos sociais, sindicais, religiosos, de classe ou de categoria profissional, direcionados por propósitos sociais ou reivindicatórios, visando a contestar, criticar, protestar ou apoiar, com o objetivo de defender direitos, garantias e liberdades constitucionais.",
-        "B": "qualquer ato de violência contra a população civil.",
-        "C": "manifestações em que houver destruição de patrimônio público.",
+        "B": "qualquer ato de violência contra a população civil, ainda que motivado por razões políticas, sociais ou reivindicatórias, desde que cause lesão grave a pessoa e seja praticado por mais de três agentes em local público, com emprego de explosivo.",
+        "C": "manifestações em que houver destruição de patrimônio público ou privado, ainda que realizadas por movimentos sociais, sindicais ou religiosos, com o objetivo de reivindicar direitos, pois a lei as considera atos de terrorismo.",
         "D": "atos de organizações criminosas transnacionais.",
-        "E": "ataques a autoridades, com finalidade política."
+        "E": "ataques a autoridades, com finalidade política, praticados no contexto de movimentos sociais ou sindicais, sempre que houver emprego de violência, ainda que o propósito seja reivindicatório e voltado à defesa de direitos constitucionais."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1124,8 +1124,8 @@
         "A": "crime de menor potencial ofensivo.",
         "B": "contravenção penal sujeita a multa.",
         "C": "crime hediondo, inclusive nas modalidades equiparadas do § 1º-B.",
-        "D": "crime equiparado, mas não hediondo.",
-        "E": "crime comum, sem tratamento diferenciado."
+        "D": "crime equiparado, mas não hediondo, sujeito ao regime comum de execução.",
+        "E": "crime comum, sem tratamento diferenciado, mesmo nas modalidades do § 1º-B."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1154,11 +1154,11 @@
       "enunciado": "<p>O crime de favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável (art. 218-B do Código Penal) é, segundo a Lei nº 8.072/1990,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "crime equiparado a hediondo, e não hediondo.",
+        "A": "crime equiparado a hediondo, e não hediondo, em suas modalidades.",
         "B": "crime de menor potencial ofensivo.",
         "C": "crime comum, sem repercussão no rol.",
         "D": "crime hediondo, nas modalidades do caput e dos §§ 1º e 2º.",
-        "E": "crime hediondo apenas se houver resultado morte."
+        "E": "crime hediondo apenas se houver resultado morte ou lesão grave."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1188,10 +1188,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "qualificado previsto no art. 121, § 2º, VII, do Código Penal.",
-        "B": "majorado pelo § 4º, sem qualificadora.",
+        "B": "majorado pelo § 4º, sem qualificadora, do art. 121 do Código Penal.",
         "C": "privilegiado previsto no art. 121, § 1º, do Código Penal.",
         "D": "culposo previsto no art. 121, § 3º, do Código Penal.",
-        "E": "simples previsto no art. 121, caput, do Código Penal."
+        "E": "simples previsto no art. 121, caput, do Código Penal, de forma dolosa."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1253,9 +1253,9 @@
       "enunciado": "<p>O prazo da prisão temporária nos crimes hediondos é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dez dias, sem prorrogação, a critério exclusivo do interessado.",
+        "A": "dez dias, sem possibilidade de prorrogação, ainda que haja extrema e comprovada necessidade.",
         "B": "sessenta dias, sem prorrogação, conforme a conveniência de cada caso.",
-        "C": "noventa dias, prorrogável por mais noventa.",
+        "C": "noventa dias, prorrogável por mais noventa, em caso de extrema e comprovada necessidade.",
         "D": "trinta dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
         "E": "cinco dias, prorrogável por mais cinco, de modo automático e sem fiscalização."
       },
@@ -1420,8 +1420,8 @@
       "alternativas": {
         "A": "dois terços da pena, se não for reincidente específico em crimes dessa natureza.",
         "B": "um quarto da pena, desde que haja simples concordância verbal.",
-        "C": "um décimo da pena.",
-        "D": "um terço da pena, ainda que contrarie a norma aplicável.",
+        "C": "um décimo da pena, se não for reincidente específico em crimes dessa natureza.",
+        "D": "um terço da pena, se o apenado for primário e de bons antecedentes, como nos crimes comuns.",
         "E": "metade da pena, mesmo na ausência de previsão normativa."
       },
       "resposta_correta": "A",
@@ -1683,10 +1683,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "inconstitucional, em controle incidental, por ofensa à individualização da pena.",
-        "B": "válida somente para latrocínio.",
+        "B": "válida somente para latrocínio, e inconstitucional para os demais crimes hediondos.",
         "C": "válida somente para estupro, sem possibilidade de revisão posterior.",
         "D": "constitucional por unanimidade, independentemente de qualquer exigência legal.",
-        "E": "válida somente para tráfico, sem necessidade de registro ou controle."
+        "E": "válida somente para o tráfico de drogas, que mantém o regime inicial fechado obrigatório."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1881,8 +1881,8 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a graça e a anistia, sendo o indulto tratado como espécie de graça.",
-        "B": "apenas do livramento condicional.",
-        "C": "apenas da fiança, por mera liberalidade do agente.",
+        "B": "apenas do livramento condicional, vedado em razão da gravidade do delito.",
+        "C": "apenas da fiança, e não da graça e da anistia, que continuam admitidas.",
         "D": "apenas do sursis, em caráter definitivo e irrevogável.",
         "E": "apenas da multa, sem a participação da autoridade competente."
       },
@@ -2012,9 +2012,9 @@
       "enunciado": "<p>A pena de associação criminosa para hediondo pode ser reduzida de um a dois terços para quem</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "fugir do país, em caráter definitivo e irrevogável.",
+        "A": "fugir do país, levando consigo o produto do crime e evitando a persecução.",
         "B": "denunciar o bando à autoridade, possibilitando seu desmantelamento.",
-        "C": "confessar crime diverso.",
+        "C": "confessar crime diverso daquele que lhe foi imputado, perante a autoridade.",
         "D": "pagar fiança, sem possibilidade de revisão posterior.",
         "E": "desistir da pena, mesmo na ausência de previsão normativa."
       },
@@ -2046,10 +2046,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "condenados de alta periculosidade, quando sua permanência em presídios estaduais ponha em risco a ordem ou a incolumidade pública.",
-        "B": "presos provisórios por contravenção.",
+        "B": "presos provisórios por contravenção penal, quando houver superlotação das carceragens e dos presídios estaduais de determinada região.",
         "C": "devedores de pensão, desde que haja simples concordância verbal.",
         "D": "estrangeiros em situação irregular, sem a participação da autoridade competente.",
-        "E": "menores infratores, em caráter definitivo e irrevogável."
+        "E": "menores infratores, desde que cumpram medida socioeducativa de internação em estabelecimento federal de segurança máxima."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
