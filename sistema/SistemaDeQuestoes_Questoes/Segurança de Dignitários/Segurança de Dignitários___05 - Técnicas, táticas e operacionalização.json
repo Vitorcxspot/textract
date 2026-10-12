@@ -1,5 +1,930 @@
 {
   "disciplina": "Segurança de Dignitários",
   "tema": "05 - Técnicas, táticas e operacionalização",
-  "questoes": []
+  "questoes": [
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Um traço de comportamento esperado do agente de segurança de dignitários é a</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "discrição, evitando chamar atenção e divulgar informações da missão.",
+        "B": "ostentação, para demonstrar autoridade ao público.",
+        "C": "distração, para parecer despreocupado.",
+        "D": "familiaridade excessiva com o público presente.",
+        "E": "divulgação do itinerário em conversas informais."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>discrição do agente</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> discrição do agente</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: discrição do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de discrição do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de discrição do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de discrição do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de discrição do agente.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Discrição do agente.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "5045026c-642a-4b72-a953-923ddbdc69d4",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>O estado de alerta situacional do agente de segurança significa</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "confiar exclusivamente no equipamento eletrônico.",
+        "B": "relaxar a atenção durante deslocamentos de rotina.",
+        "C": "perceber continuamente o ambiente, as pessoas e os comportamentos fora do padrão.",
+        "D": "concentrar-se somente na autoridade, ignorando o entorno.",
+        "E": "manter a atenção apenas no celular durante o serviço."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>consciência situacional</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> consciência situacional</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de consciência situacional.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de consciência situacional.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: consciência situacional.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de consciência situacional.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de consciência situacional.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Consciência situacional.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "27d11c5b-170a-4939-b430-b12564605255",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Em relação à postura do agente de segurança junto à autoridade, é adequado</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "usar o celular para fins pessoais durante o posto.",
+        "B": "manter atenção ao entorno, comunicação com a equipe e prontidão para reagir.",
+        "C": "abandonar a posição para atender solicitações triviais.",
+        "D": "conversar longamente com a autoridade durante a missão.",
+        "E": "afastar-se da autoridade para fotografias."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>postura do agente</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> postura do agente</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de postura do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: postura do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de postura do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de postura do agente.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de postura do agente.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Postura do agente.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "a65f39a5-de40-4c7e-9014-1ba55e5dc2f0",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>O modus operandi, em análise de ameaças, refere-se ao</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "valor de remuneração dos servidores.",
+        "B": "horário de expediente do órgão alvo.",
+        "C": "nome da autoridade potencialmente visada.",
+        "D": "uniforme usado pelos agentes de segurança.",
+        "E": "modo de agir característico do agressor, ou seja, seus métodos, meios e padrões de ação."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>conceito de modus operandi</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> conceito de modus operandi</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de conceito de modus operandi.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de conceito de modus operandi.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de conceito de modus operandi.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de conceito de modus operandi.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: conceito de modus operandi.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Conceito de modus operandi.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "0ff7b62d-af3f-47e2-a853-a9d558dc85bc",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>A vigilância hostil, que antecede muitos atentados, consiste em</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "observar a rotina da autoridade e as medidas de segurança para planejar a ação.",
+        "B": "executar o ataque de imediato, sem observação prévia.",
+        "C": "apoiar a proteção da autoridade em eventos públicos.",
+        "D": "recolher doações para a campanha eleitoral.",
+        "E": "promover pesquisas de opinião sobre o órgão."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>vigilância hostil</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> vigilância hostil</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância hostil.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Vigilância hostil.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "442571da-da18-4edd-bbcb-e4e9f852b8e5",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Para dificultar o planejamento de um agressor, a equipe de segurança deve evitar a previsibilidade, o que significa</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "divulgar o roteiro com antecedência.",
+        "B": "manter rotinas rígidas, para facilitar o controle.",
+        "C": "sinalizar publicamente os pontos de parada.",
+        "D": "repetir sempre o mesmo trajeto e horário.",
+        "E": "variar horários, rotas e procedimentos, quando possível."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>imprevisibilidade</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> imprevisibilidade</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de imprevisibilidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de imprevisibilidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de imprevisibilidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de imprevisibilidade.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: imprevisibilidade.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Imprevisibilidade.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "ae22e7bf-c63c-45e0-9466-94acfb23bebf",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>No embarque e desembarque de veículos, o agente de segurança deve ter atenção redobrada porque</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "os riscos nesses momentos são inexistentes.",
+        "B": "são momentos de maior vulnerabilidade, com a autoridade parada e exposta.",
+        "C": "o público tende a ser sempre amistoso nesses pontos.",
+        "D": "é o único momento em que a autoridade está presente.",
+        "E": "a autoridade permanece protegida por completo durante a manobra."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>embarque e desembarque</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> embarque e desembarque</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de embarque e desembarque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: embarque e desembarque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de embarque e desembarque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de embarque e desembarque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de embarque e desembarque.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Embarque e desembarque.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "c0b86d7d-349c-4d5b-8158-1b8afa4020a1",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>A conduta apropriada do agente ao perceber pessoa com comportamento suspeito próximo à autoridade é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "comunicar o fato à imprensa.",
+        "B": "ignorar o fato, por tratar-se de impressão pessoal.",
+        "C": "comunicar à equipe, aproximar-se com cautela, interpor-se e acionar o procedimento do plano.",
+        "D": "agredir imediatamente a pessoa sem avaliação.",
+        "E": "afastar-se da autoridade para investigar o suspeito."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>reação a comportamento suspeito</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> reação a comportamento suspeito</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a comportamento suspeito.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a comportamento suspeito.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: reação a comportamento suspeito.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a comportamento suspeito.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a comportamento suspeito.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Reação a comportamento suspeito.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "b8b72a3b-a223-4178-a55c-65cc5fae166f",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Em relação ao modus operandi de ataques a dignitários, é correto afirmar que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "ocorre sempre em locais com alto efetivo de segurança.",
+        "B": "é totalmente aleatório e sem padrão identificável.",
+        "C": "independe da coleta prévia de informações.",
+        "D": "costuma explorar momentos de exposição, rotinas previsíveis e falhas no controle de acesso.",
+        "E": "nunca envolve vigilância prévia da vítima."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>padrões de ataque</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> padrões de ataque</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de padrões de ataque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de padrões de ataque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de padrões de ataque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: padrões de ataque.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de padrões de ataque.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Padrões de ataque.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "d97f54a1-7071-42ce-a36e-4dd0c4febcce",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>O cuidado do agente com a sua própria exposição em redes sociais é relevante porque</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "a exposição valoriza a imagem da equipe sem riscos.",
+        "B": "publicações podem revelar rotinas, locais e dados da missão, favorecendo a ação hostil.",
+        "C": "postagens sobre escalas dispensam outros cuidados.",
+        "D": "informações publicadas sempre são verificadas e protegidas.",
+        "E": "as redes sociais são canais oficiais de comunicação operacional."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>exposição em redes sociais</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> exposição em redes sociais</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de exposição em redes sociais.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: exposição em redes sociais.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de exposição em redes sociais.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de exposição em redes sociais.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de exposição em redes sociais.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Exposição em redes sociais.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "c4e5c18e-b576-40d0-ac5f-1a32ddd0cd91",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Em relação ao uso progressivo da força pelo agente de segurança, é correto afirmar que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "o agente deve sempre abster-se de qualquer reação.",
+        "B": "a proporcionalidade é dispensável diante de autoridade protegida.",
+        "C": "a intensidade da reação deve ser proporcional à ameaça, respeitada a legalidade, a necessidade e a proporcionalidade.",
+        "D": "qualquer ameaça justifica o uso máximo da força.",
+        "E": "a força só pode ser usada após a morte da autoridade."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>uso progressivo da força</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> uso progressivo da força</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de uso progressivo da força.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de uso progressivo da força.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: uso progressivo da força.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de uso progressivo da força.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de uso progressivo da força.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Uso progressivo da força.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "b78b8a3b-08f9-4eba-adc4-a78e68cd37e2",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Dentre as ações que o agente de segurança deve evitar durante a missão, está</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "repassar o plano de contingência antes de iniciar.",
+        "B": "manter comunicação constante com a equipe.",
+        "C": "observar mãos e comportamentos de pessoas próximas.",
+        "D": "reconhecer saídas e rotas de escape em cada local.",
+        "E": "distrair-se com conversas ou aparelhos pessoais, perdendo a atenção ao ambiente."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>condutas a evitar</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> condutas a evitar</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de condutas a evitar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de condutas a evitar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de condutas a evitar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de condutas a evitar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: condutas a evitar.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Condutas a evitar.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "90e013c5-810c-4db9-b805-4e00050b876d",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Na doutrina de proteção, ao ocorrer um ataque contra o protegido, o procedimento prioritário da equipe é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "cobrir e evacuar a autoridade para local seguro, reagindo ao agressor conforme o plano.",
+        "B": "perseguir o agressor, deixando a autoridade exposta.",
+        "C": "manter a autoridade no local, para esperar o apoio.",
+        "D": "dispersar a equipe, para confundir o agressor.",
+        "E": "divulgar o ocorrido a quem estiver presente."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>cobrir e evacuar</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> cobrir e evacuar</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: cobrir e evacuar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de cobrir e evacuar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de cobrir e evacuar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de cobrir e evacuar.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de cobrir e evacuar.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Cobrir e evacuar.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "b97811c6-e453-43f7-bab5-02a003140d89",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>A respeito do comportamento do agente de segurança na formação de proteção aproximada, é correto que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "cada agente atue por conta própria, sem funções.",
+        "B": "os agentes se concentrem exclusivamente na autoridade.",
+        "C": "os agentes mantenham formação aleatória durante o deslocamento.",
+        "D": "os agentes mantenham posições e funções definidas, atentos a setores de observação distintos.",
+        "E": "todos olhem para o mesmo ponto, sem divisão de setores."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>setores de observação</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> setores de observação</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de setores de observação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de setores de observação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de setores de observação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: setores de observação.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de setores de observação.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Setores de observação.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "c2787967-f302-4097-8c8b-edada4f044cc",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Assinale a alternativa que NÃO apresenta indício de comportamento suspeito a ser observado pelo agente.</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pessoa que evita contato visual e tenta se aproximar da autoridade.",
+        "B": "Indivíduo que retorna várias vezes ao mesmo local sem motivo.",
+        "C": "Pessoa que aguarda em fila de atendimento do tribunal portando documentos e conversando normalmente.",
+        "D": "Indivíduo que filma de forma insistente os acessos e a equipe de segurança.",
+        "E": "Pessoa com roupas incompatíveis com o clima, ocultando volume."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>indícios de comportamento suspeito</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> indícios de comportamento suspeito</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>É a única afirmação incorreta, portanto é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Indícios de comportamento suspeito.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Em questões de exceção, procure a única afirmação falsa.</p></div></div>",
+      "id": "e40126cb-8aa8-4ddc-80d3-57eaec2c050e",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>O sigilo das informações da missão, no âmbito do comportamento do agente, determina que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "dados como rota, horários e composição da equipe sejam comunicados apenas a quem deles necessita.",
+        "B": "os dados fiquem registrados em aparelhos pessoais sem proteção.",
+        "C": "informações da missão sejam repassadas a familiares e amigos.",
+        "D": "o agente comente a missão em locais públicos.",
+        "E": "as informações sejam divulgadas após o fim do turno, sem restrições."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>sigilo da missão</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> sigilo da missão</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: sigilo da missão.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo da missão.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo da missão.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo da missão.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo da missão.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Sigilo da missão.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "a3c1bc86-22a9-40f9-8975-d033ee1fbb3b",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Sobre o comportamento e a atuação do agente de segurança de autoridades, analise as afirmativas.</p><p>I. O agente deve manter autocontrole e agir com profissionalismo, mesmo sob provocação.</p><p>II. O estado de alerta permite relaxar a atenção durante trechos de rotina.</p><p>III. A comunicação constante com a equipe contribui para a coordenação das ações.</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas I.",
+        "B": "Apenas III.",
+        "C": "Apenas I e II.",
+        "D": "Apenas I e III.",
+        "E": "Apenas II e III."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>comportamento do agente</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> comportamento do agente</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Combinação correta com a análise dos três itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Comportamento do agente.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Confira cada item com a norma antes de marcar.</p></div></div>",
+      "id": "e38859be-a57d-42fe-b277-b29033fbc3bf",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Acerca do modus operandi de ameaças contra dignitários, analise as afirmativas.</p><p>I. A vigilância prévia da rotina da vítima é comum em ataques planejados.</p><p>II. Ataques planejados dispensam a coleta de informações sobre a segurança do alvo.</p><p>III. Pontos de maior exposição, como embarque e desembarque, são frequentemente explorados.</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas II.",
+        "B": "Apenas III.",
+        "C": "Apenas I e II.",
+        "D": "Apenas I e III.",
+        "E": "Apenas II e III."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>modus operandi de ameaças</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> modus operandi de ameaças</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Combinação correta com a análise dos três itens.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Combinação incorreta: não coincide com a análise dos itens.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Modus operandi de ameaças.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Confira cada item com a norma antes de marcar.</p></div></div>",
+      "id": "945357b2-2959-49c6-8dcc-d748b67579e2",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Um agente nota que a mesma pessoa foi vista em três locais diferentes do roteiro da autoridade no mesmo dia, sempre observando a equipe. A hipótese mais coerente com o modus operandi é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "mera curiosidade de turista, sem possibilidade de risco.",
+        "B": "vigilância hostil, devendo o fato ser comunicado à coordenação e o plano reavaliado.",
+        "C": "procedimento regular de imprensa, sem necessidade de registro.",
+        "D": "coincidência sem relevância, que deve ser descartada.",
+        "E": "manifestação de apoio à autoridade, que dispensa atenção."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>identificação de vigilância hostil</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> identificação de vigilância hostil</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de identificação de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: identificação de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de identificação de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de identificação de vigilância hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de identificação de vigilância hostil.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Identificação de vigilância hostil.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "9859a7c1-1602-4491-9db6-e1dc829e7fb6",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>O agente de segurança percebe que um indivíduo, aparentemente descontrolado, grita ofensas à autoridade ao se aproximar. A conduta mais adequada é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "ignorar o fato, sem registrar a ocorrência.",
+        "B": "permitir a aproximação, por tratar-se de manifestação verbal.",
+        "C": "deixar a autoridade responder diretamente ao indivíduo.",
+        "D": "abandonar o posto para ouvir o indivíduo.",
+        "E": "interpor-se, manter a autoridade protegida, avaliar mãos e volumes e acionar apoio conforme o plano."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>abordagem de indivíduo hostil</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> abordagem de indivíduo hostil</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de abordagem de indivíduo hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de abordagem de indivíduo hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de abordagem de indivíduo hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de abordagem de indivíduo hostil.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: abordagem de indivíduo hostil.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Abordagem de indivíduo hostil.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "1d128422-b8ee-413e-aaa2-4408212c08c9",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Ao receber em campo uma ordem do coordenador que considera inadequada, o agente deve</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "cumprir a ordem legal, comunicar suas observações pelo canal adequado e registrar o fato.",
+        "B": "descumprir a ordem, por discordar dela.",
+        "C": "divulgar o desacordo na imprensa.",
+        "D": "agir de forma independente, sem informar.",
+        "E": "discutir publicamente com o coordenador durante a missão."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>hierarquia e disciplina</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> hierarquia e disciplina</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: hierarquia e disciplina.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de hierarquia e disciplina.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de hierarquia e disciplina.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de hierarquia e disciplina.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de hierarquia e disciplina.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Hierarquia e disciplina.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "63a4d7df-2ff4-4332-92f3-b6cf0edf23fc",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>A respeito do comportamento do agente em contato com o público durante eventos, a conduta recomendável é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "afastar-se da autoridade para conversar com populares.",
+        "B": "aceitar presentes de desconhecidos para evitar constrangimento.",
+        "C": "ser cortês e firme, sem perder a atenção, e evitar o fornecimento de informações operacionais.",
+        "D": "ignorar ostensivamente quem se aproxime, sem avaliar.",
+        "E": "revelar detalhes da escala para quem perguntar."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>contato com o público</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> contato com o público</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contato com o público.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contato com o público.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: contato com o público.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contato com o público.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contato com o público.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Contato com o público.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "7f221397-19fd-4fb0-ace2-ede7a57384da",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Em relação à análise de ameaças por tipo de agressor, é INCORRETO afirmar que</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "alguns exibem sinais de comportamento antes do ato.",
+        "B": "o perfil do agressor orienta as medidas de proteção.",
+        "C": "alguns agressores agem sozinhos, com motivação pessoal.",
+        "D": "todo agressor atua em grupo e jamais de forma isolada.",
+        "E": "alguns atuam em grupos organizados e com estrutura."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>tipos de agressores</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> tipos de agressores</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>É a única afirmação incorreta, portanto é a exceção pedida.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Afirmação correta, logo não é a exceção pedida.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Tipos de agressores.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Em questões de exceção, procure a única afirmação falsa.</p></div></div>",
+      "id": "f9bd7e12-301b-432a-bc62-04ec1ebce312",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>O reconhecimento de rota e de pontos de apoio, realizado pelo agente antes do deslocamento, serve principalmente para</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "estabelecer a ordem de entrada dos convidados.",
+        "B": "divulgar a rota ao público com antecedência.",
+        "C": "dispensar a vigilância durante o deslocamento.",
+        "D": "impedir que a autoridade saia do veículo.",
+        "E": "conhecer o ambiente e preparar reações, como pontos de refúgio e saídas alternativas."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>reconhecimento prévio</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> reconhecimento prévio</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reconhecimento prévio.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reconhecimento prévio.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reconhecimento prévio.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reconhecimento prévio.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: reconhecimento prévio.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Reconhecimento prévio.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "f95492b1-701f-42cb-8bd0-89d988b27c4f",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>A técnica de varredura visual constante do ambiente pelo agente, em setores, é denominada em segurança de dignitários,</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "leitura rápida de documentos durante a missão.",
+        "B": "vigilância ativa ou observação por setores, dirigida a mãos, volumes e movimentos atípicos.",
+        "C": "observação passiva do chão, sem foco em pessoas.",
+        "D": "contemplação ocasional do ambiente.",
+        "E": "atenção exclusiva à autoridade, sem olhar para os lados."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>vigilância ativa</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> vigilância ativa</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância ativa.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: vigilância ativa.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância ativa.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância ativa.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de vigilância ativa.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Vigilância ativa.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "3e19bcb0-a8b1-43bc-af55-8ad99c078a44",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Em abordagem de ameaça com arma, diante do risco para terceiros e para a autoridade, o agente deve</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "priorizar a proteção da vida, agindo de forma proporcional, com base no treinamento e na legalidade.",
+        "B": "recuar sem informar, abandonando a missão.",
+        "C": "aguardar o agressor disparar para então reagir.",
+        "D": "retirar a arma do coldre apenas após o encerramento da missão.",
+        "E": "atirar sempre primeiro, sem avaliar o risco."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>reação a ameaça armada</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> reação a ameaça armada</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: reação a ameaça armada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a ameaça armada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a ameaça armada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a ameaça armada.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de reação a ameaça armada.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Reação a ameaça armada.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "e94c79b7-3811-4a56-9352-1a4b11e7e737",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Um agente identifica, durante o turno, que um colega divulga em aplicativo de mensagens fotos do posto e da escala do dia. A atitude do agente que observa o fato deve ser</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "incentivar outros colegas a fazerem o mesmo.",
+        "B": "manter silêncio para preservar a amizade.",
+        "C": "ignorar, por tratar-se de comunicação privada.",
+        "D": "comunicar ao responsável, pois a divulgação compromete o sigilo e a segurança da missão.",
+        "E": "repostar as fotos, para dar transparência."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>sigilo e conduta dos colegas</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> sigilo e conduta dos colegas</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo e conduta dos colegas.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo e conduta dos colegas.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo e conduta dos colegas.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: sigilo e conduta dos colegas.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de sigilo e conduta dos colegas.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Sigilo e conduta dos colegas.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "bf359973-485e-4e82-a957-17b6b5fe055d",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    },
+    {
+      "banca": "IA - Claude Sonnet 5.5 (estilo FCC)",
+      "ano": 2026,
+      "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+      "disciplina": "Segurança de Dignitários",
+      "tema": "05 - Técnicas, táticas e operacionalização",
+      "subtema": "Comportamento e atuação do agente de segurança; objeto e modus operandi",
+      "enunciado": "<p>Ao deixar o local do evento, a equipe percebe veículo que a segue por vários quarteirões, imitando suas mudanças de trajeto. A conduta compatível com a doutrina é</p>",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "divulgar a placa do veículo em redes sociais.",
+        "B": "manter a calma, comunicar à coordenação, evitar ir ao destino final e seguir o procedimento de contravigilância.",
+        "C": "acelerar até o destino final e apresentar o veículo ao público.",
+        "D": "parar e confrontar o condutor com a autoridade a bordo.",
+        "E": "ignorar o fato e manter a rota habitual."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background:#ffffff;border:1px solid #ddd8d0;border-radius:6px;font-family:IBM Plex Sans,Arial,sans-serif;overflow:hidden;'><div style='padding:18px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Análise geral</p><p style='font-family:IBM Plex Serif,Georgia,serif;font-size:14px;line-height:1.7;color:#3d3630;margin:0;'>Questão sobre <strong>Comportamento e atuação do agente de segurança; objeto e modus operandi</strong>.<br>Ponto-chave: <strong>contravigilância em deslocamento</strong>.</p></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Conceitos cobrados</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li><strong>Tema:</strong> contravigilância em deslocamento</li><li><strong>Fonte:</strong> regramento do tema</li></ul></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 10px;'>Alternativas</p><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>A</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contravigilância em deslocamento.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #c8dbc5;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#e5efe3;color:#3a6b34;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>B</div><div style='flex:1;padding:9px 12px;background:#f5f8f4;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#3a6b34;margin:0 0 3px;'>Correta</p><p style='font-size:13px;line-height:1.55;color:#2d4f29;margin:0;'>Corresponde ao conceito técnico cobrado: contravigilância em deslocamento.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>C</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contravigilância em deslocamento.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>D</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contravigilância em deslocamento.</p></div></div><div style='display:flex;margin-bottom:6px;border:1px solid #e8ddd7;border-radius:4px;overflow:hidden;'><div style='width:34px;min-width:34px;background:#f5ece8;color:#b05040;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;'>E</div><div style='flex:1;padding:9px 12px;background:#fdf8f6;'><p style='font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:#b05040;margin:0 0 3px;'>Incorreta</p><p style='font-size:13px;line-height:1.55;color:#5a4038;margin:0;'>Contraria o conceito de contravigilância em deslocamento.</p></div></div></div><div style='padding:16px 22px;border-bottom:1px solid #ebe7e0;background:#faf9f7;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9c8f7e;margin:0 0 8px;'>Para memorizar</p><ul style='margin:0;padding-left:18px;font-size:13px;line-height:1.6;color:#3d3630;'><li>Contravigilância em deslocamento.</li></ul></div><div style='padding:14px 22px;background:#fdf6ec;'><p style='font-size:9px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#b07a2a;margin:0 0 6px;'>Pegadinha FCC</p><p style='font-size:13px;line-height:1.6;color:#5c4a2e;margin:0;font-style:italic;'>Atenção às afirmações absolutas e às que contrariam a lógica da norma.</p></div></div>",
+      "id": "f7350c52-7d4d-4ed5-bebd-cacce55c7710",
+      "ia_revisado": true,
+      "_corrigido": true,
+      "revisado_por": "Claude Sonnet 5.5 (gerador FCC)",
+      "revisado_em": "2026-10-12",
+      "_meta_correcao": {
+        "problemas_encontrados": [
+          "questão inédita elaborada para completar o déficit do subtema (formato FCC)"
+        ],
+        "gabarito_alterado": false,
+        "conteudo_desatualizado_corrigido": false,
+        "revisor": "Claude Sonnet 5.5"
+      }
+    }
+  ]
 }
