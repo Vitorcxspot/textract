@@ -144,7 +144,7 @@
       "enunciado": "<p>Durante a vistoria em um Tribunal, Carlos, agente de segurança, foi empurrado violentamente por um terceiro e, ao ser arremessado, quebrou uma vitrine de exposição, sem qualquer controle sobre o próprio movimento.</p><p>Segundo a teoria do crime, a situação descrita afasta a existência de crime porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "está excluída a culpabilidade, por inexigibilidade de conduta diversa.",
+        "A": "está excluída a culpabilidade, por inexigibilidade de conduta diversa, como ocorre na coação moral irresistível.",
         "B": "está excluída a ilicitude, por estado de necessidade.",
         "C": "há crime, mas o agente é isento de pena por ser inimputável.",
         "D": "está excluído apenas o dolo, subsistindo a punição a título de culpa.",
@@ -177,7 +177,7 @@
       "enunciado": "<p>Um agente inimputável por doença mental, ao tempo da ação, pratica fato típico e ilícito.</p><p>Sobre a consequência dessa situação na teoria do crime, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "para ambas as teorias há crime e o agente deve ser condenado à pena privativa de liberdade comum.",
+        "A": "para ambas as teorias há crime e o agente deve ser condenado à pena privativa de liberdade comum, ainda que haja prova de inimputabilidade.",
         "B": "para a teoria bipartida há crime, com isenção de pena, e para a tripartida não há crime, por faltar a culpabilidade.",
         "C": "para ambas as teorias não há crime, por ausência de fato típico.",
         "D": "para a teoria tripartida há crime, mas a pena é obrigatoriamente reduzida de um a dois terços.",
@@ -213,7 +213,7 @@
         "A": "sua conduta cria ou incrementa um risco juridicamente desaprovado e esse risco se realiza no resultado.",
         "B": "o agente podia prever o resultado, independentemente da criação de risco proibido.",
         "C": "o agente é imputável e tem potencial consciência da ilicitude.",
-        "D": "sua conduta é condição sem a qual o resultado não teria ocorrido, bastando a causalidade física.",
+        "D": "sua conduta é condição sem a qual o resultado não teria ocorrido, bastando a causalidade física, sem exigir a criação de risco juridicamente desaprovado.",
         "E": "houve dolo, ainda que a conduta se mantivesse dentro do risco permitido."
       },
       "resposta_correta": "A",
@@ -280,7 +280,7 @@
         "B": "configura homicídio culposo, pois era previsível que a chuva causasse a morte.",
         "C": "é atípica, porque não criou risco juridicamente desaprovado, embora tenha sido condição física do resultado.",
         "D": "configura tentativa de homicídio, pois houve ato idôneo e desejo de matar.",
-        "E": "configura homicídio doloso, pois a conduta foi condição sem a qual o resultado não teria ocorrido."
+        "E": "configura homicídio doloso, pois a conduta foi condição sem a qual o resultado não teria ocorrido, ainda que dentro do risco permitido."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",

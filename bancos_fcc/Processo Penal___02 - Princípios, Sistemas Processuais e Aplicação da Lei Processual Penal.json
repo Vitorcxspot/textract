@@ -13,7 +13,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ninguém será privado da liberdade ou de seus bens sem o devido processo legal, que compreende, entre outras garantias, o contraditório e a ampla defesa.",
-        "B": "a liberdade pode ser restringida por ato administrativo, desde que haja posterior controle judicial.",
+        "B": "a liberdade pode ser restringida por ato administrativo, desde que haja posterior controle judicial, independentemente de prévia observância do contraditório e da defesa.",
         "C": "a defesa técnica é facultativa em processos criminais, ainda que o acusado não tenha advogado.",
         "D": "o processo penal pode prescindir da fundamentação das decisões.",
         "E": "o devido processo legal aplica-se somente ao processo civil."
@@ -79,7 +79,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o acusado deve provar sua inocência durante a instrução.",
-        "B": "o acusado só pode ser considerado culpado após o julgamento do primeiro recurso.",
+        "B": "o acusado só pode ser considerado culpado após o julgamento do primeiro recurso, ainda que haja decisão condenatória em primeiro grau.",
         "C": "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória.",
         "D": "o acusado é considerado culpado a partir do recebimento da denúncia.",
         "E": "o acusado é considerado culpado após a condenação em primeira instância."
@@ -112,7 +112,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o princípio aplica-se somente aos crimes dolosos contra a vida.",
-        "B": "é permitida a criação de tribunal de exceção para o julgamento de crimes graves.",
+        "B": "é permitida a criação de tribunal de exceção para o julgamento de crimes graves, desde que instituído por lei posterior ao fato.",
         "C": "o juiz pode ser escolhido pelo Ministério Público para cada caso concreto.",
         "D": "a competência pode ser alterada livremente após o fato, a critério do julgador.",
         "E": "ninguém será processado nem sentenciado senão pela autoridade competente, e não haverá juízo ou tribunal de exceção."
@@ -211,7 +211,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não importará confissão e não poderá ser interpretado em prejuízo da defesa.",
-        "B": "somente pode ser exercido por acusados assistidos por advogado particular.",
+        "B": "somente pode ser exercido por acusados assistidos por advogado particular, sob pena de presunção de culpa.",
         "C": "depende de autorização do juiz para ser exercido.",
         "D": "importará confissão ficta dos fatos alegados na denúncia.",
         "E": "poderá ser interpretado em desfavor do acusado, como indício de culpa."
@@ -277,7 +277,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o direito de recorrer indefinidamente, sem limite de prazo.",
-        "B": "a prescrição automática de todos os processos com mais de cinco anos.",
+        "B": "a prescrição automática de todos os processos com mais de cinco anos, independentemente de culpa do réu ou do Estado.",
         "C": "a dispensa de prova pericial em processos criminais.",
         "D": "a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.",
         "E": "o julgamento em prazo máximo de trinta dias."
@@ -309,7 +309,7 @@
       "enunciado": "<p>O princípio da inércia da jurisdição (ne procedat iudex ex officio), aplicado ao processo penal, significa que o juiz</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "deve instaurar o processo sempre que tiver notícia do crime, independentemente de provocação.",
+        "A": "deve instaurar o processo sempre que tiver notícia do crime, independentemente de provocação, ainda que o Ministério Público não tenha se manifestado.",
         "B": "não pode iniciar o processo penal de ofício, dependendo da provocação do titular da ação, que, na ação penal pública, é o Ministério Público.",
         "C": "só atua quando a Polícia Judiciária o provocar.",
         "D": "pode decretar a perda de bens do réu sem pedido da acusação.",
@@ -377,7 +377,7 @@
       "alternativas": {
         "A": "a ação privada não admite renúncia nem perdão.",
         "B": "o querelante pode escolher livremente contra quem oferecer a queixa, excluindo os demais.",
-        "C": "o Ministério Público oferece a queixa contra todos os autores, em substituição ao querelante.",
+        "C": "o Ministério Público oferece a queixa contra todos os autores, em substituição ao querelante, cabendo ao juiz definir os autores contra quem prosseguir.",
         "D": "o perdão concedido a um dos querelados não se estende a nenhum dos demais.",
         "E": "a queixa contra qualquer dos autores do crime obrigará ao processo de todos, cabendo ao Ministério Público velar por essa indivisibilidade."
       },
@@ -445,7 +445,7 @@
         "B": "a regra é absoluta, e a sentença proferida por juiz diverso é sempre nula.",
         "C": "o princípio vale somente para o tribunal do júri.",
         "D": "o juiz que presidiu a instrução deverá proferir a sentença, princípio que, segundo a jurisprudência, não é absoluto.",
-        "E": "a sentença deve ser sempre proferida por outro juiz, a fim de garantir a imparcialidade."
+        "E": "a sentença deve ser sempre proferida por outro juiz, a fim de garantir a imparcialidade, sendo vedada a prolação por quem presidiu a instrução."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -540,7 +540,7 @@
       "enunciado": "<p>O princípio do favor rei (in dubio pro reo) tem aplicação em diversas passagens do Código de Processo Penal.</p><p>São exemplos dessa aplicação</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a condenação do réu em caso de dúvida e o agravamento da pena em recurso exclusivo da defesa.",
+        "A": "a condenação do réu em caso de dúvida e o agravamento da pena em recurso exclusivo da defesa, e a imposição de medidas cautelares a todo acusado, de forma automática.",
         "B": "a absolvição do réu quando não existir prova suficiente para a condenação e a vedação da reformatio in pejus nos recursos exclusivos da defesa.",
         "C": "a inversão do ônus da prova contra o réu e a prisão automática após a denúncia.",
         "D": "o aumento da pena em revisão criminal e a vedação do recurso à defesa.",
@@ -576,7 +576,7 @@
         "A": "o acusado condenado poderá ser processado novamente para agravar a pena.",
         "B": "a garantia aplica-se apenas a processos de natureza civil.",
         "C": "a garantia só vale para sentenças proferidas por tribunais superiores.",
-        "D": "o acusado absolvido poderá ser novamente processado pelos mesmos fatos, a critério do juiz.",
+        "D": "o acusado absolvido poderá ser novamente processado pelos mesmos fatos, a critério do juiz, em razão de nova prova favorável à acusação.",
         "E": "o acusado absolvido por sentença transitada em julgado não poderá ser submetido a novo processo pelos mesmos fatos."
       },
       "resposta_correta": "E",
@@ -675,7 +675,7 @@
         "A": "cabe ao réu provar sua inocência, sob pena de condenação.",
         "B": "o ônus da prova é do juiz, que deve produzir todas as provas.",
         "C": "cabe à acusação provar os fatos constitutivos da imputação, não sendo o acusado obrigado a demonstrar sua inocência.",
-        "D": "o ônus é compartilhado igualmente entre acusação e defesa, inclusive quanto à autoria.",
+        "D": "o ônus é compartilhado igualmente entre acusação e defesa, inclusive quanto à autoria, presumindo-se a culpa quando houver silêncio.",
         "E": "o ônus da prova é do réu quanto à materialidade do crime."
       },
       "resposta_correta": "C",
@@ -708,7 +708,7 @@
         "A": "será mantida e valorada apenas se corroborada por outras provas.",
         "B": "deverá ser desentranhada do processo e, preclusa a decisão, inutilizada por decisão judicial, facultado às partes acompanhar o incidente.",
         "C": "será enviada ao Ministério Público para uso exclusivo em outro processo.",
-        "D": "será mantida nos autos em segredo de justiça, sem possibilidade de desentranhamento.",
+        "D": "será mantida nos autos em segredo de justiça, sem possibilidade de desentranhamento, embora desprovida de qualquer valor probatório no processo.",
         "E": "permanecerá nos autos, mas sem valor probatório."
       },
       "resposta_correta": "B",
@@ -775,7 +775,7 @@
         "B": "é ilícita, mas somente a confissão deve ser desentranhada.",
         "C": "é lícita, pois o ingresso durante o dia dispensa mandado judicial.",
         "D": "é ilícita, mas a confissão e a apreensão derivadas são sempre válidas, por serem atos distintos.",
-        "E": "é lícita, pois a apreensão de drogas sempre autoriza o ingresso, independentemente de fundadas razões."
+        "E": "é lícita, pois a apreensão de drogas sempre autoriza o ingresso, independentemente de fundadas razões, pois o ingresso durante o dia dispensa mandado em qualquer caso."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -970,7 +970,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pela publicidade dos atos, oralidade e contraditório pleno entre as partes.",
-        "B": "pela existência de duas fases, sendo a primeira investigativa e a segunda, judicial e acusatória.",
+        "B": "pela existência de duas fases, sendo a primeira investigativa e a segunda, judicial e acusatória, e pela atuação do juiz instrutor desde o início.",
         "C": "pela gestão da prova nas mãos das partes e pela paridade de armas.",
         "D": "pela separação rígida entre as funções de acusar e julgar, com juiz inerte e imparcial.",
         "E": "pela concentração das funções de acusar, defender e julgar na figura do juiz, com procedimento em regra sigiloso, escrito e sem contraditório."
@@ -1005,7 +1005,7 @@
         "A": "a separação das funções de acusar, defender e julgar, o contraditório, a publicidade e a imparcialidade do juiz.",
         "B": "a acumulação, pelo juiz, das funções de acusação e julgamento.",
         "C": "a investigação conduzida sempre por juiz instrutor, em segredo.",
-        "D": "o sigilo dos atos, o procedimento escrito e a ausência de contraditório.",
+        "D": "o sigilo dos atos, o procedimento escrito e a ausência de contraditório, e a produção de provas exclusivamente pelo juiz.",
         "E": "a confissão como prova principal e a produção de provas tarifadas."
       },
       "resposta_correta": "A",
@@ -1138,7 +1138,7 @@
         "B": "o juiz deve acolher o parecer do Ministério Público, sem apreciação própria.",
         "C": "o juiz decide conforme sua consciência, sem necessidade de fundamentar.",
         "D": "o juiz forma sua convicção pela livre apreciação da prova produzida em contraditório judicial, devendo fundamentar sua decisão.",
-        "E": "o valor de cada prova é previamente fixado em lei, sem margem de apreciação pelo juiz."
+        "E": "o valor de cada prova é previamente fixado em lei, sem margem de apreciação pelo juiz, cabendo ao magistrado apenas ratificar a classificação."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1204,7 +1204,7 @@
         "B": "é livremente determinado pelo juiz, que deve fundamentar a decisão.",
         "C": "não precisa ser fundamentado nem tem critério legal.",
         "D": "é decidido pelas partes, mediante acordo.",
-        "E": "é definido por perito oficial que vincula o juiz em qualquer hipótese."
+        "E": "é definido por perito oficial que vincula o juiz em qualquer hipótese, sem possibilidade de valoração pelo juiz."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -1233,7 +1233,7 @@
       "enunciado": "<p>Historicamente, o sistema inquisitivo teve forte desenvolvimento a partir da Inquisição da Igreja Católica, na Idade Média, período em que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o juiz era sujeito imparcial e desinteressado, com a prova a cargo das partes.",
+        "A": "o juiz era sujeito imparcial e desinteressado, com a prova a cargo das partes, sendo a produção de provas limitada às partes e ao assistente.",
         "B": "a confissão do acusado era considerada prova de menor valor.",
         "C": "o processo era marcado pelo sigilo, pela ausência de contraditório e pela busca da confissão do acusado, inclusive por meio de tortura.",
         "D": "o acusado era tratado como sujeito de direitos processuais plenos.",
@@ -1267,7 +1267,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "decide sempre com base na confissão do acusado.",
-        "B": "tem poder de iniciar o processo sem provocação, em todos os casos.",
+        "B": "tem poder de iniciar o processo sem provocação, em todos os casos, ainda que não haja requerimento do Ministério Público ou do querelante.",
         "C": "investiga os fatos e acusa, para depois julgar o caso.",
         "D": "mantém posição de equidistância das partes e de inércia quanto à acusação, não acumulando as funções de acusar e julgar.",
         "E": "atua como parte, representando o interesse da acusação."
@@ -1300,7 +1300,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a Constituição Federal adotou o sistema acusatório, embora o Código de Processo Penal de 1941 contenha traços de natureza inquisitiva.",
-        "B": "a Constituição Federal é omissa quanto ao modelo, cabendo à lei ordinária defini-lo.",
+        "B": "a Constituição Federal é omissa quanto ao modelo, cabendo à lei ordinária defini-lo, sem qualquer parâmetro de natureza constitucional ou convencional.",
         "C": "o Brasil adota o sistema inquisitivo puro, em todas as fases da persecução.",
         "D": "o Brasil adota o sistema misto de modelo napoleônico, com juiz instrutor.",
         "E": "o CPP de 1941 consagrou o sistema acusatório puro, sem nenhum traço inquisitivo."
@@ -1334,7 +1334,7 @@
       "alternativas": {
         "A": "natureza da pena: no dispositivo, a pena é perpétua; no inquisitivo, é temporária.",
         "B": "gestão da prova: no dispositivo, a iniciativa probatória é das partes; no inquisitivo, concentra-se no juiz.",
-        "C": "competência territorial: no dispositivo, é do local da residência; no inquisitivo, do local do crime.",
+        "C": "competência territorial: no dispositivo, é do local da residência; no inquisitivo, do local do crime, em todos os casos e sem exceção.",
         "D": "forma de citação: no dispositivo é por edital; no inquisitivo, por mandado.",
         "E": "publicidade: no dispositivo, os atos são sempre sigilosos; no inquisitivo, públicos."
       },
@@ -1367,7 +1367,7 @@
       "alternativas": {
         "A": "o acusador, o jurado e a testemunha.",
         "B": "o juiz, o escrivão e o oficial de justiça.",
-        "C": "o acusado, a vítima e o assistente de acusação.",
+        "C": "o acusado, a vítima e o assistente de acusação, cada qual atuando em processo distinto.",
         "D": "o juiz, a autoridade policial e o perito.",
         "E": "o juiz, o acusador e o acusado (defesa), cada qual com função própria."
       },
@@ -1432,7 +1432,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "é válida desde que o juiz comunique ao Ministério Público no dia seguinte.",
-        "B": "é válida, pois o juiz pode decretar a preventiva de ofício em qualquer fase.",
+        "B": "é válida, pois o juiz pode decretar a preventiva de ofício em qualquer fase, bastando que haja posterior comunicação ao Ministério Público.",
         "C": "é válida somente se o investigado for reincidente.",
         "D": "é incompatível com o sistema acusatório e com o art. 311, que exige requerimento ou representação para a decretação da preventiva.",
         "E": "é válida, pois o inquérito é inquisitivo e dispensa o sistema acusatório."
@@ -1466,7 +1466,7 @@
       "alternativas": {
         "A": "não está adstrito a hierarquia legal entre as provas, mas deve fundamentar sua decisão nos elementos produzidos em contraditório judicial.",
         "B": "deve conferir à confissão valor superior às demais provas.",
-        "C": "pode condenar com base exclusiva nos elementos do inquérito policial, sem produção em juízo.",
+        "C": "pode condenar com base exclusiva nos elementos do inquérito policial, sem produção em juízo, desde que o acusado não tenha constituído advogado.",
         "D": "decide livremente, dispensada a fundamentação.",
         "E": "está vinculado ao laudo pericial, que sempre prevalece sobre as demais provas."
       },
@@ -1499,7 +1499,7 @@
       "alternativas": {
         "A": "parte equidistante, com paridade de armas em relação ao acusador.",
         "B": "objeto da investigação, sendo sua confissão o principal meio de prova buscado.",
-        "C": "testemunha obrigatória, que deve depor sob compromisso de dizer a verdade.",
+        "C": "testemunha obrigatória, que deve depor sob compromisso de dizer a verdade, cujo silêncio é considerado confissão.",
         "D": "terceiro desinteressado, sem relação com os fatos.",
         "E": "sujeito de direitos, com plenitude do contraditório."
       },
@@ -1534,7 +1534,7 @@
         "B": "for filiado a partido político, independentemente de qualquer relação com o caso.",
         "C": "ele próprio tiver desempenhado a função de órgão do Ministério Público, defensor, autoridade policial, auxiliar da justiça ou perito.",
         "D": "tiver mantido relações de cordialidade com o acusado.",
-        "E": "já tiver julgado outro processo envolvendo o mesmo acusado, ainda que por fato diverso."
+        "E": "já tiver julgado outro processo envolvendo o mesmo acusado, ainda que por fato diverso, mesmo que o julgamento anterior tenha sido arquivado."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1629,7 +1629,7 @@
       "enunciado": "<p>Uma corrente doutrinária sustenta que a iniciativa probatória supletiva do juiz, para dirimir dúvida sobre ponto relevante, é compatível com o sistema acusatório, desde que não substitua a atuação da acusação.</p><p>Já a corrente garantista, em sentido oposto, defende que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a iniciativa probatória do juiz é imprescindível, sendo vedada às partes a produção de provas.",
+        "A": "a iniciativa probatória do juiz é imprescindível, sendo vedada às partes a produção de provas, em todas as fases do processo penal.",
         "B": "o juiz não precisa fundamentar suas decisões quando produzir prova de ofício.",
         "C": "a iniciativa probatória de ofício é obrigatória em todos os casos de dúvida.",
         "D": "o juiz deve assumir integralmente a produção da prova, em substituição às partes.",
@@ -1665,7 +1665,7 @@
         "A": "o tipo de pena aplicada ao final do processo.",
         "B": "o local em que ocorre a audiência de instrução.",
         "C": "a gestão da prova: no inquisitivo, está nas mãos do juiz; no acusatório, nas mãos das partes.",
-        "D": "a competência territorial para o julgamento do crime.",
+        "D": "a competência territorial para o julgamento do crime, e a quantidade de instâncias recursais disponíveis.",
         "E": "o número de instâncias recursais disponíveis."
       },
       "resposta_correta": "C",
@@ -1699,7 +1699,7 @@
         "B": "o sistema misto não admite nenhum sistema de valoração da prova.",
         "C": "são sinônimos: todo sistema acusatório adota a prova tarifada.",
         "D": "a íntima convicção é característica exclusiva do sistema acusatório.",
-        "E": "o sistema inquisitivo adota necessariamente o livre convencimento motivado."
+        "E": "o sistema inquisitivo adota necessariamente o livre convencimento motivado, razão pela qual o júri adota a prova tarifada."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1728,7 +1728,7 @@
       "enunciado": "<p>No sistema acusatório, o interrogatório do acusado é considerado, predominantemente,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "meio exclusivo de prova, obrigatório e sem possibilidade de silêncio.",
+        "A": "meio exclusivo de prova, obrigatório e sem possibilidade de silêncio, realizado antes de qualquer instrução.",
         "B": "meio de defesa, por meio do qual o acusado exerce a autodefesa e pode optar por permanecer calado.",
         "C": "ato de confissão obrigatória, com valor superior às demais provas.",
         "D": "ato dispensável, que não integra as garantias do acusado.",
@@ -1762,7 +1762,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não pode ser suprida por nenhum meio de prova, impondo-se a absolvição.",
-        "B": "é irrelevante, pois a materialidade não precisa ser comprovada nos crimes de homicídio.",
+        "B": "é irrelevante, pois a materialidade não precisa ser comprovada nos crimes de homicídio, ainda que a infração deixe vestígios.",
         "C": "só pode ser suprida por decisão do Ministério Público, sem controle judicial.",
         "D": "pode ser suprida pela prova testemunhal, não podendo a confissão suprir o exame de corpo de delito.",
         "E": "pode ser suprida pela confissão do acusado, que tem valor superior às demais provas."
@@ -1829,7 +1829,7 @@
       "alternativas": {
         "A": "passou a ser a regra para os crimes de ação penal privada.",
         "B": "foi plenamente recepcionado, pois o juiz pode iniciar a ação penal por portaria.",
-        "C": "foi recepcionado apenas para as contravenções praticadas contra a Administração Pública.",
+        "C": "foi recepcionado apenas para as contravenções praticadas contra a Administração Pública, por tratar-se de procedimento anterior à Constituição.",
         "D": "não foi recepcionado, por violar a titularidade privativa da ação penal pública pelo Ministério Público e o sistema acusatório.",
         "E": "foi recepcionado, desde que o Ministério Público seja intimado do início do processo."
       },
@@ -1897,7 +1897,7 @@
         "B": "deve ter contato direto com as provas orais produzidas, como depoimentos e interrogatório, para formar sua convicção.",
         "C": "delega ao escrivão a colheita dos depoimentos das testemunhas.",
         "D": "julga o processo sem audiência, com base exclusivamente no inquérito.",
-        "E": "decide com base em relatórios elaborados por terceiros, sem contato com as provas."
+        "E": "decide com base em relatórios elaborados por terceiros, sem contato com as provas, sem participação das partes na audiência."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1993,7 +1993,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.",
-        "B": "somente se aplica aos processos iniciados após a sua entrada em vigor.",
+        "B": "somente se aplica aos processos iniciados após a sua entrada em vigor, ficando os atos anteriores sem qualquer validade.",
         "C": "retroage para anular todos os atos praticados sob a lei anterior.",
         "D": "só se aplica depois de decorrido um ano de sua publicação.",
         "E": "aplica-se apenas aos fatos ocorridos após sua vigência."
@@ -2029,7 +2029,7 @@
         "B": "admitirá interpretação extensiva e aplicação analógica, bem como o suplemento dos princípios gerais de direito.",
         "C": "não admitirá o suplemento dos princípios gerais de direito.",
         "D": "admitirá analogia apenas em favor do Ministério Público.",
-        "E": "vedará a interpretação extensiva e a analogia em qualquer hipótese."
+        "E": "vedará a interpretação extensiva e a analogia em qualquer hipótese, salvo para suprir lacunas em favor do Ministério Público."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2093,7 +2093,7 @@
       "alternativas": {
         "A": "o intérprete amplia o alcance da norma, por entender que o legislador disse menos do que queria dizer.",
         "B": "o próprio legislador edita lei posterior para esclarecer o sentido da anterior.",
-        "C": "o intérprete restringe o alcance da norma, por entender que o legislador disse mais do que queria.",
+        "C": "o intérprete restringe o alcance da norma, por entender que o legislador disse mais do que queria, razão pela qual é vedada no processo penal.",
         "D": "o intérprete aplica norma de caso semelhante a hipótese não prevista.",
         "E": "o intérprete se limita ao sentido literal das palavras."
       },
@@ -2124,7 +2124,7 @@
       "enunciado": "<p>A analogia, no direito processual penal, consiste em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "ampliar o alcance de norma já existente, por entender que o legislador disse menos do que queria.",
+        "A": "ampliar o alcance de norma já existente, por entender que o legislador disse menos do que queria, razão pela qual é vedada no processo penal.",
         "B": "interpretar a lei com base exclusivamente na vontade do legislador histórico.",
         "C": "recusar-se a julgar o caso por inexistência de norma expressa.",
         "D": "aplicar, a uma hipótese não prevista em lei, a norma que regula caso semelhante, como forma de integração da lacuna.",
@@ -2194,7 +2194,7 @@
         "B": "entrega, por um Estado a outro, de pessoa acusada ou condenada, para ser processada ou cumprir pena no Estado requerente.",
         "C": "cobrança de multa imposta por tribunal estrangeiro.",
         "D": "expulsão do estrangeiro condenado, por decisão do Ministro da Justiça.",
-        "E": "transferência de processo penal de um juiz para outro, dentro do mesmo Estado."
+        "E": "transferência de processo penal de um juiz para outro, dentro do mesmo Estado, mediante decisão do juiz da execução penal da comarca."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2224,7 +2224,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "não existem no ordenamento, pois toda norma é puramente processual ou puramente material.",
-        "B": "aplicam-se sempre imediatamente, como as normas puramente processuais, ainda que mais gravosas.",
+        "B": "aplicam-se sempre imediatamente, como as normas puramente processuais, ainda que mais gravosas, inclusive para prejudicar o réu.",
         "C": "são regidas exclusivamente pelo tempus regit actum.",
         "D": "só podem ser aplicadas aos processos iniciados após a vigência da norma.",
         "E": "sujeitam-se à regra do direito penal: a lei mais gravosa não retroage, e a mais benéfica retroage."
@@ -2258,7 +2258,7 @@
       "alternativas": {
         "A": "pela lei vigente na data do fato criminoso.",
         "B": "pela lei vigente na data do julgamento do recurso.",
-        "C": "sempre pela lei mais benéfica ao réu, qualquer que seja a data.",
+        "C": "sempre pela lei mais benéfica ao réu, qualquer que seja a data, independentemente do momento da decisão.",
         "D": "pela lei vigente na data da publicação (ou intimação) da decisão recorrida.",
         "E": "pela lei vigente na data do oferecimento da denúncia."
       },
@@ -2290,7 +2290,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "retroage para anular as sentenças proferidas pelo juízo anteriormente competente.",
-        "B": "não se aplica, devendo-se manter a competência original até o trânsito em julgado.",
+        "B": "não se aplica, devendo-se manter a competência original até o trânsito em julgado, ainda que a lei nova seja mais benéfica ao réu.",
         "C": "se aplica desde logo aos processos em curso, ressalvados os atos já praticados sob a lei anterior.",
         "D": "aplica-se somente se for mais benéfica ao réu.",
         "E": "somente se aplica aos processos iniciados após sua vigência."
@@ -2323,7 +2323,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "aplica-se a lei processual penal brasileira, pois o processo tramita no território nacional.",
-        "B": "aplica-se o Código de Processo Penal apenas se houver tratado.",
+        "B": "aplica-se o Código de Processo Penal apenas se houver tratado, ainda que o processo tramite no Brasil.",
         "C": "aplicam-se as normas do país com maior número de provas.",
         "D": "aplica-se a lei processual do país onde o crime foi cometido.",
         "E": "aplica-se a lei processual da nacionalidade da vítima."
@@ -2357,7 +2357,7 @@
       "alternativas": {
         "A": "tem imunidade apenas se for brasileiro naturalizado.",
         "B": "goza de imunidade de jurisdição penal, nos termos da Convenção de Viena sobre Relações Diplomáticas.",
-        "C": "responde ao processo penal brasileiro como qualquer cidadão, sem exceção.",
+        "C": "responde ao processo penal brasileiro como qualquer cidadão, sem exceção, mesmo em relação aos atos praticados em missão.",
         "D": "só é imune quando o crime for praticado fora da missão diplomática.",
         "E": "tem imunidade apenas para crimes de menor potencial ofensivo."
       },
@@ -2391,7 +2391,7 @@
         "A": "realizada pelo próprio legislador, por meio de lei que esclarece o sentido de outra.",
         "B": "realizada pelos doutrinadores, nos livros e artigos.",
         "C": "realizada pelos juízes e tribunais, ao decidir casos concretos.",
-        "D": "realizada exclusivamente pelo Ministério Público, ao oferecer a denúncia.",
+        "D": "realizada exclusivamente pelo Ministério Público, ao oferecer a denúncia, mediante representação do ofendido.",
         "E": "baseada exclusivamente no sentido literal das palavras."
       },
       "resposta_correta": "A",
@@ -2487,7 +2487,7 @@
       "enunciado": "<p>Quando o acusado estiver no estrangeiro, em lugar sabido, o Código de Processo Penal (art. 368) determina que a citação seja feita</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "por meio de mandado, expedido pelo oficial de justiça, no exterior.",
+        "A": "por meio de mandado, expedido pelo oficial de justiça, no exterior, nos termos da legislação do Estado estrangeiro.",
         "B": "por carta precatória, sem suspensão da prescrição.",
         "C": "por edital, sem necessidade de tentativa de citação pessoal.",
         "D": "por correspondência simples, dirigida ao acusado.",
@@ -2521,7 +2521,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "cuja competência é do Supremo Tribunal Federal, em qualquer hipótese.",
-        "B": "que dispensa qualquer controle jurisdicional, bastando a apresentação em cartório.",
+        "B": "que dispensa qualquer controle jurisdicional, bastando a apresentação em cartório, ainda que o juízo brasileiro nada decida.",
         "C": "cuja competência é do Superior Tribunal de Justiça, nos termos do art. 105, I, i, da Constituição Federal.",
         "D": "que compete ao juiz de primeiro grau do domicílio do condenado.",
         "E": "que compete ao Ministro da Justiça, por ato administrativo."
@@ -2586,7 +2586,7 @@
       "enunciado": "<p>Segundo a Lei de Introdução às Normas do Direito Brasileiro (LINDB), salvo disposição contrária, a lei começa a vigorar em todo o país</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "noventa dias depois de oficialmente publicada.",
+        "A": "noventa dias depois de oficialmente publicada, independentemente da data de publicação.",
         "B": "um ano depois de oficialmente publicada.",
         "C": "na data da publicação, em qualquer hipótese.",
         "D": "quarenta e cinco dias depois de oficialmente publicada.",
@@ -2688,7 +2688,7 @@
         "A": "três dias, por ser a lei processual mais benéfica à acusação.",
         "B": "oito dias, somando-se os dois prazos.",
         "C": "quatro dias, pela média entre os dois prazos.",
-        "D": "três dias, pois a lei processual nova se aplica desde logo a todos os recursos.",
+        "D": "três dias, pois a lei processual nova se aplica desde logo a todos os recursos, por força da retroatividade das leis processuais.",
         "E": "cinco dias, pois o recurso é regido pela lei vigente à data da publicação da decisão recorrida."
       },
       "resposta_correta": "E",
@@ -2719,7 +2719,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o fato que motivar o pedido não for considerado crime no Brasil ou no Estado requerente, ou constituir crime político ou de opinião.",
-        "B": "não houver tratado entre o Brasil e o Estado requerente, em nenhuma hipótese.",
+        "B": "não houver tratado entre o Brasil e o Estado requerente, em nenhuma hipótese, ainda que haja promessa de reciprocidade formalizada pelo Estado requerente.",
         "C": "a lei brasileira cominar ao crime pena de prisão superior a dois anos.",
         "D": "o extraditando for estrangeiro.",
         "E": "o crime for classificado como hediondo pela lei brasileira."
@@ -2785,7 +2785,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "também pode exercer esse direito, por meio de interpretação extensiva do dispositivo, que equipara a união estável ao casamento.",
-        "B": "não pode exercer o direito, pois a lei é taxativa e vedada qualquer interpretação.",
+        "B": "não pode exercer o direito, pois a lei é taxativa e vedada qualquer interpretação, sob o fundamento de que o rol da lei seria numerus clausus.",
         "C": "só pode exercer o direito se tiver filhos com o ofendido.",
         "D": "pode exercer o direito apenas por analogia in malam partem.",
         "E": "pode exercer o direito apenas por autorização do Ministério Público."

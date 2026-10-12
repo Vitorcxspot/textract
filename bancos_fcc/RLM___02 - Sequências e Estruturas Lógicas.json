@@ -6942,7 +6942,7 @@
       "alternativas": {
         "A": "Davi trabalha no 3º andar.",
         "B": "Ana trabalha no 3º andar.",
-        "C": "Caio trabalha em andar mais alto que o de Bia.",
+        "C": "Caio trabalha em andar mais alto que o de Bia, desde que Ana ocupe o 3º andar.",
         "D": "Ana e Davi trabalham em andares consecutivos.",
         "E": "Bia trabalha no andar imediatamente acima do de Davi."
       },
@@ -7043,7 +7043,7 @@
         "B": "violoncelo, por ser tocado sentado.",
         "C": "flauta, por ser instrumento de sopro, e não de cordas.",
         "D": "contrabaixo, por ser o mais grave.",
-        "E": "violino, por ser o menor instrumento do grupo."
+        "E": "violino, por ser o menor instrumento do grupo, ao lado do contrabaixo e da viola."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",

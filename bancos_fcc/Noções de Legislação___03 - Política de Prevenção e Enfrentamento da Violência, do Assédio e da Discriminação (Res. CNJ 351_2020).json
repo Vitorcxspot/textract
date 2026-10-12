@@ -47,7 +47,7 @@
       "alternativas": {
         "A": "decisão jurisdicional proferida em ação direta.",
         "B": "recomendação facultativa, sem caráter vinculante.",
-        "C": "norma restrita ao Conselho Nacional de Justiça, sem aplicação aos tribunais.",
+        "C": "norma restrita ao Conselho Nacional de Justiça, sem aplicação aos tribunais, razão pela qual não se aplica aos demais órgãos do Poder Judiciário.",
         "D": "lei complementar, aprovada pelo Congresso Nacional.",
         "E": "conjunto de diretrizes e ações voltadas à prevenção e ao enfrentamento de condutas de assédio e discriminação no Poder Judiciário."
       },
@@ -112,7 +112,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "só são consideradas quando a vítima é servidora pública federal.",
-        "B": "somente se caracterizam quando praticadas dentro das dependências do tribunal.",
+        "B": "somente se caracterizam quando praticadas dentro das dependências do tribunal, e nunca por meio de mensagens eletrônicas.",
         "C": "somente se caracterizam quando praticadas presencialmente.",
         "D": "não podem ser praticadas entre colegas de mesmo nível hierárquico.",
         "E": "podem ocorrer por qualquer meio, inclusive o virtual, como mensagens eletrônicas e redes sociais."
@@ -181,7 +181,7 @@
         "B": "transferir ao Poder Executivo a apuração das denúncias.",
         "C": "determinar a instituição de comissões de prevenção e enfrentamento em cada grau de jurisdição dos tribunais.",
         "D": "restringir a política aos magistrados.",
-        "E": "revogar integralmente a política de prevenção ao assédio."
+        "E": "revogar integralmente a política de prevenção ao assédio, substituindo-a por norma de caráter meramente recomendatório."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -211,7 +211,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "magistrados, servidores e trabalhadores terceirizados, assegurada a presença de mulheres e de pessoas LGBTQIA+.",
-        "B": "exclusivamente representantes de empresas terceirizadas.",
+        "B": "exclusivamente representantes de empresas terceirizadas, sem qualquer participação de magistrados ou de servidores do tribunal.",
         "C": "somente servidores da área de tecnologia da informação.",
         "D": "apenas magistrados do sexo masculino.",
         "E": "apenas membros do Ministério Público."
@@ -276,7 +276,7 @@
       "enunciado": "<p>Em regra, as denúncias de assédio e discriminação devem ser apuradas com observância do sigilo, o que significa que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "os nomes dos envolvidos devem ser divulgados em mural para conhecimento geral.",
+        "A": "os nomes dos envolvidos devem ser divulgados em mural para conhecimento geral, independentemente de autorização das partes.",
         "B": "a vítima não pode ter ciência do andamento da apuração.",
         "C": "a denúncia só pode ser apresentada por escrito, vedada a oral.",
         "D": "a identidade da vítima e dos envolvidos deve ser preservada, evitando-se exposição desnecessária.",
@@ -410,7 +410,7 @@
       "alternativas": {
         "A": "deve ser acolhida e apurada, pois a política protege também os trabalhadores terceirizados, independentemente do vínculo.",
         "B": "não está abrangida, pois a política protege apenas servidores efetivos.",
-        "C": "deve ser encaminhada exclusivamente à empresa contratada, sem atuação do tribunal.",
+        "C": "deve ser encaminhada exclusivamente à empresa contratada, sem atuação do tribunal, cabendo a ela apurar e punir o servidor autor das condutas.",
         "D": "somente será apurada se o terceirizado for contratado por concurso.",
         "E": "depende de decisão judicial prévia para ser apurada."
       },
@@ -510,7 +510,7 @@
         "A": "a vítima ou qualquer pessoa que tenha conhecimento dos fatos pode levá-los ao conhecimento dos órgãos competentes.",
         "B": "a comunicação depende de autorização prévia do acusado.",
         "C": "somente a vítima pode apresentar denúncia.",
-        "D": "somente o superior hierárquico da vítima pode comunicar os fatos.",
+        "D": "somente o superior hierárquico da vítima pode comunicar os fatos, sob pena de responsabilização pela divulgação indevida.",
         "E": "somente o Ministério Público pode dar início à apuração."
       },
       "resposta_correta": "A",
@@ -576,7 +576,7 @@
         "A": "configura mero exercício regular do direito de petição.",
         "B": "não gera consequências, desde que o denunciado seja absolvido.",
         "C": "somente gera consequência civil, vedada a responsabilização penal.",
-        "D": "é protegida pela política, que veda qualquer responsabilização do denunciante.",
+        "D": "é protegida pela política, que veda qualquer responsabilização do denunciante, mesmo quando a denúncia for sabidamente falsa.",
         "E": "pode configurar o crime de denunciação caluniosa (art. 339 do Código Penal), além de infração funcional."
       },
       "resposta_correta": "E",
@@ -741,7 +741,7 @@
         "A": "a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
         "B": "o PAD somente pode ser instaurado após condenação criminal.",
         "C": "a defesa técnica por advogado é vedada no PAD.",
-        "D": "a presença de advogado é obrigatória no PAD, sob pena de nulidade.",
+        "D": "a presença de advogado é obrigatória no PAD, sob pena de nulidade, ficando dispensado o contraditório e a ampla defesa do acusado.",
         "E": "o PAD dispensa o contraditório e a ampla defesa."
       },
       "resposta_correta": "A",
@@ -773,7 +773,7 @@
       "alternativas": {
         "A": "da regulamentação do estágio probatório.",
         "B": "da política de sustentabilidade do Poder Judiciário.",
-        "C": "da política judiciária de tratamento adequado dos conflitos.",
+        "C": "da política judiciária de tratamento adequado dos conflitos, instituída pela Resolução CNJ nº 125/2010.",
         "D": "da adoção de perspectiva de gênero nos julgamentos do Poder Judiciário.",
         "E": "da regulamentação do teletrabalho dos servidores."
       },
@@ -808,7 +808,7 @@
         "B": "configura assédio moral, pois toda cobrança de resultados é abusiva.",
         "C": "configura assédio sexual, por envolver subordinação hierárquica.",
         "D": "configura discriminação, por tratar igualmente os servidores.",
-        "E": "configura assédio moral institucional, por existir meta de produtividade."
+        "E": "configura assédio moral institucional, por existir meta de produtividade, e não por exercício legítimo do poder diretivo."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1070,7 +1070,7 @@
       "alternativas": {
         "A": "a absolvição criminal por insuficiência de provas não impede a punição administrativa, em razão da independência das instâncias.",
         "B": "a absolvição criminal vincula a esfera administrativa, impedindo qualquer punição.",
-        "C": "a esfera administrativa fica sobrestada até o trânsito em julgado da ação penal, em qualquer hipótese.",
+        "C": "a esfera administrativa fica sobrestada até o trânsito em julgado da ação penal, em qualquer hipótese, mesmo quando houver absolvição por negativa de autoria.",
         "D": "a servidora deve ser demitida automaticamente, sem processo.",
         "E": "a decisão administrativa depende de homologação do juízo criminal."
       },
@@ -1169,7 +1169,7 @@
       "alternativas": {
         "A": "a realização de campanhas de conscientização e de capacitação de magistrados, servidores e demais colaboradores.",
         "B": "a substituição de todas as chefias a cada seis meses.",
-        "C": "a restrição de acesso dos servidores às redes sociais durante o expediente, como única medida.",
+        "C": "a restrição de acesso dos servidores às redes sociais durante o expediente, como única medida, sem qualquer ação educativa complementar.",
         "D": "a vedação de contato entre colegas do mesmo setor.",
         "E": "o encerramento das comissões após o primeiro ano de funcionamento."
       },
@@ -1237,7 +1237,7 @@
         "B": "sejam acompanhadas de laudo pericial.",
         "C": "sejam endereçadas diretamente ao Ministro do STF.",
         "D": "contenham a identificação e o endereço do denunciante e sejam formuladas por escrito, confirmada a autenticidade.",
-        "E": "sejam formuladas verbalmente, sem identificação do denunciante."
+        "E": "sejam formuladas verbalmente, sem identificação do denunciante, sem necessidade de qualquer outra formalidade, nem de autenticidade."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1530,7 +1530,7 @@
       "enunciado": "<p>O assédio moral vertical ascendente caracteriza-se por ser praticado</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "pela organização, por meio de política de gestão abusiva.",
+        "A": "pela organização, por meio de política de gestão abusiva, em desfavor de toda a coletividade de trabalhadores.",
         "B": "por terceiros contra a vítima fora do trabalho.",
         "C": "pelo chefe contra seus subordinados.",
         "D": "por um ou mais subordinados contra o superior hierárquico.",
@@ -1598,7 +1598,7 @@
       "alternativas": {
         "A": "cumprimentar os colegas de forma cordial ao iniciar o expediente.",
         "B": "enviar reiteradamente mensagens de conteúdo sexual a colega que já manifestou não desejá-las.",
-        "C": "convidar a equipe para confraternização com todos os integrantes.",
+        "C": "convidar a equipe para confraternização com todos os integrantes, e distribuir lembranças institucionais a todos.",
         "D": "elogiar a qualidade técnica do trabalho de um colega.",
         "E": "solicitar a revisão de um documento a outro servidor."
       },
@@ -1629,7 +1629,7 @@
       "enunciado": "<p>A Constituição Federal estabelece, entre os objetivos fundamentais da República (art. 3º, IV), o de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "permitir tratamento diferenciado de acordo com a origem social.",
+        "A": "permitir tratamento diferenciado de acordo com a origem social, em atenção à autonomia dos entes federados e dos grupos sociais.",
         "B": "limitar a liberdade de crença religiosa.",
         "C": "promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.",
         "D": "restringir a participação de mulheres em cargos de chefia.",
@@ -1663,7 +1663,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
-        "B": "de menor potencial ofensivo, sujeito apenas a multa.",
+        "B": "de menor potencial ofensivo, sujeito apenas a multa, afiançável e prescritível em vinte anos.",
         "C": "de ação penal privada, dependente de queixa.",
         "D": "afiançável e prescritível em vinte anos.",
         "E": "inafiançável, mas prescritível."
@@ -1728,7 +1728,7 @@
       "enunciado": "<p>O Código Penal tipifica como crime de assédio sexual (art. 216-A) o ato de constranger alguém com o intuito de obter vantagem ou favorecimento sexual,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "independentemente de qualquer relação de hierarquia ou ascendência entre os envolvidos.",
+        "A": "independentemente de qualquer relação de hierarquia ou ascendência entre os envolvidos, bastando a mera insistência após a recusa verbal.",
         "B": "prevalecendo-se o agente da sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função.",
         "C": "somente se houver violência física contra a vítima.",
         "D": "somente quando praticado em ambiente privado, fora do trabalho.",
@@ -1764,7 +1764,7 @@
         "A": "mantém conjunção carnal com alguém, mediante violência ou grave ameaça.",
         "B": "critica publicamente o desempenho de colega.",
         "C": "recusa-se a contratar candidato por motivo de raça.",
-        "D": "constrange alguém com o intuito de obter favorecimento sexual, prevalecendo-se de ascendência.",
+        "D": "constrange alguém com o intuito de obter favorecimento sexual, prevalecendo-se de ascendência, mediante violência ou grave ameaça à pessoa.",
         "E": "pratica contra alguém, sem sua anuência, ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro."
       },
       "resposta_correta": "E",
@@ -1828,7 +1828,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a ameaça reiterada de demissão sem motivo funcional.",
-        "B": "a exposição de servidor ao ridículo, de forma reiterada, perante a equipe.",
+        "B": "a exposição de servidor ao ridículo, de forma reiterada, perante a equipe, como ocorre em qualquer relação de trabalho.",
         "C": "o isolamento deliberado e sistemático de colega.",
         "D": "o conflito eventual e pontual de opiniões entre colegas, tratado com respeito.",
         "E": "a retirada injustificada e punitiva de atribuições do servidor."
@@ -1897,7 +1897,7 @@
         "B": "há tratamento preferencial temporário para corrigir desigualdades históricas.",
         "C": "o tratamento desfavorável é dispensado de forma explícita a uma pessoa ou grupo em razão de característica como raça, sexo ou religião.",
         "D": "o tratamento igual é aplicado a todos, sem distinção.",
-        "E": "a norma é aparentemente neutra, mas produz efeitos desproporcionalmente prejudiciais a um grupo."
+        "E": "a norma é aparentemente neutra, mas produz efeitos desproporcionalmente prejudiciais a um grupo, sem qualquer intenção declarada de discriminar o grupo."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -1927,7 +1927,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "exige que o autor seja sempre superior hierárquico.",
-        "B": "impede a apuração, pois fatos antigos não podem ser investigados.",
+        "B": "impede a apuração, pois fatos antigos não podem ser investigados, e a vítima perde o direito de recorrer da decisão.",
         "C": "é irrelevante, pois qualquer discordância caracteriza assédio.",
         "D": "evidencia a degradação progressiva do ambiente de trabalho e a violação continuada da dignidade da vítima.",
         "E": "somente é considerada quando a vítima adoece, por laudo médico."
@@ -1960,7 +1960,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a vítima oferece vantagem em troca de promoção.",
-        "B": "ocorre ambiente de trabalho hostil, sem qualquer condicionamento de vantagem.",
+        "B": "ocorre ambiente de trabalho hostil, sem qualquer condicionamento de vantagem, pois a conduta não se vincula a qualquer exigência.",
         "C": "há relacionamento consensual entre colegas.",
         "D": "o autor se limita a dirigir elogios técnicos à vítima.",
         "E": "o autor condiciona a manutenção do emprego, uma promoção ou outra vantagem funcional ao atendimento de favores sexuais."
@@ -1996,7 +1996,7 @@
         "B": "exercício regular do poder diretivo da chefia.",
         "C": "conflito normal, sem qualquer relevância disciplinar.",
         "D": "discriminação positiva, destinada a corrigir desigualdades.",
-        "E": "ato sem repercussão, por ocorrer dentro da unidade de trabalho."
+        "E": "ato sem repercussão, por ocorrer dentro da unidade de trabalho, já que não houve vantagem funcional condicionada."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -2029,7 +2029,7 @@
         "B": "pode configurar assédio sexual por criação de ambiente hostil e discriminação de gênero, ainda que não haja chantagem.",
         "C": "somente é relevante se as colegas pedirem demissão.",
         "D": "configura exercício regular de liberdade de expressão no trabalho.",
-        "E": "é mera brincadeira, irrelevante para a política de prevenção ao assédio."
+        "E": "é mera brincadeira, irrelevante para a política de prevenção ao assédio, pois o ambiente de trabalho admite brincadeiras de qualquer natureza."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -2060,7 +2060,7 @@
       "alternativas": {
         "A": "a pessoa é beneficiada por ação afirmativa.",
         "B": "há apenas divergência de opinião entre colegas.",
-        "C": "o tratamento desfavorável é explicitamente dirigido a determinada pessoa em razão de sua raça.",
+        "C": "o tratamento desfavorável é explicitamente dirigido a determinada pessoa em razão de sua raça, tratando de modo desigual quem ocupa a mesma posição jurídica.",
         "D": "uma regra ou prática aparentemente neutra produz efeito desproporcionalmente prejudicial a determinado grupo, sem justificativa razoável.",
         "E": "a regra é aplicada de forma igual e é justificada por critério legítimo."
       },
@@ -2092,7 +2092,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ação afirmativa, compatível com o princípio da igualdade material e com os objetivos de combate à discriminação.",
-        "B": "violação ao princípio do concurso público, que exige igualdade formal absoluta.",
+        "B": "violação ao princípio do concurso público, que exige igualdade formal absoluta, a ser extinta pelo Congresso Nacional.",
         "C": "discriminação inconstitucional, por tratar candidatos de forma diferenciada.",
         "D": "discriminação indireta, vedada pela Constituição.",
         "E": "privilégio sem fundamento constitucional."
@@ -2159,7 +2159,7 @@
       "alternativas": {
         "A": "são tratadas apenas como infração administrativa.",
         "B": "são tipificadas pelo Estatuto do Idoso.",
-        "C": "são crimes de menor potencial ofensivo, sujeitos a transação penal.",
+        "C": "são crimes de menor potencial ofensivo, sujeitos a transação penal, independentemente da gravidade concreta das condutas.",
         "D": "são atípicas, por inexistência de lei específica.",
         "E": "se enquadram nos tipos penais definidos na Lei nº 7.716/1989, por configurarem racismo em sua dimensão social."
       },
@@ -2193,7 +2193,7 @@
         "A": "prova de conhecimentos técnicos para o cargo.",
         "B": "teste, exame, perícia, laudo, atestado ou declaração relativos à esterilização ou ao estado de gravidez.",
         "C": "comprovante de quitação eleitoral para posse.",
-        "D": "diploma de nível superior para cargo que o exija legalmente.",
+        "D": "diploma de nível superior para cargo que o exija legalmente, e a aprovação em concurso público para cargos efetivos.",
         "E": "aprovação prévia em concurso público para cargo efetivo."
       },
       "resposta_correta": "B",
@@ -2223,7 +2223,7 @@
       "enunciado": "<p>A Convenção nº 111 da Organização Internacional do Trabalho (OIT), ratificada pelo Brasil, trata</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "da segurança e saúde dos trabalhadores.",
+        "A": "da segurança e saúde dos trabalhadores, em convenções de caráter meramente facultativo.",
         "B": "do trabalho forçado.",
         "C": "do trabalho infantil.",
         "D": "da liberdade sindical.",
@@ -2390,7 +2390,7 @@
       "alternativas": {
         "A": "é punido com reclusão de seis meses a um ano e multa.",
         "B": "é punido apenas com multa.",
-        "C": "é punido com reclusão de dez a vinte anos.",
+        "C": "é punido com reclusão de dez a vinte anos e, no caso de reincidência, é inafiançável.",
         "D": "é de ação penal privada.",
         "E": "não existe no ordenamento brasileiro."
       },
@@ -2457,7 +2457,7 @@
         "A": "caracteriza discriminação, por tratar dois servidores de forma especial.",
         "B": "somente é lícita se aprovada pela corregedoria.",
         "C": "não caracteriza assédio sexual, pois a conduta é consentida e desejada por ambos.",
-        "D": "caracteriza assédio sexual, por haver relação afetiva no local de trabalho.",
+        "D": "caracteriza assédio sexual, por haver relação afetiva no local de trabalho, ainda que a relação seja consentida por ambos.",
         "E": "caracteriza assédio moral, por ocorrer entre servidores."
       },
       "resposta_correta": "C",
@@ -2488,7 +2488,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a conduta só pode ser apurada na esfera penal.",
-        "B": "a conduta não pode ser apurada, pois o assédio só pode ser praticado por superior hierárquico.",
+        "B": "a conduta não pode ser apurada, pois o assédio só pode ser praticado por superior hierárquico, ainda que a vítima seja estagiária e o autor, colega de trabalho.",
         "C": "a conduta é lícita, por ter sido praticada por mulher.",
         "D": "a conduta só pode ser apurada se a vítima pedir exoneração.",
         "E": "a conduta pode ser apurada como assédio sexual, pois o assédio no âmbito administrativo não depende de a autora ser superior hierárquica."
@@ -2520,7 +2520,7 @@
       "enunciado": "<p>Nos crimes contra a dignidade sexual, geralmente praticados sem testemunhas, a jurisprudência do Superior Tribunal de Justiça tem entendido que a palavra da vítima</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é irrelevante, devendo ser desconsiderada na ausência de testemunhas.",
+        "A": "é irrelevante, devendo ser desconsiderada na ausência de testemunhas, que só é aceita quando confirmada pelo acusado.",
         "B": "possui especial relevância probatória, desde que coerente e corroborada pelos demais elementos dos autos.",
         "C": "é prova absoluta, dispensando a análise dos demais elementos.",
         "D": "só pode ser valorada se houver confissão do acusado.",
@@ -2554,7 +2554,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "é sempre legítima, por decorrer do poder hierárquico.",
-        "B": "é medida de proteção à servidora, sem possibilidade de abuso.",
+        "B": "é medida de proteção à servidora, sem possibilidade de abuso, e atende ao interesse público de forma genérica.",
         "C": "pode configurar desvio de finalidade e conduta abusiva, caracterizadora de assédio moral.",
         "D": "somente pode ser questionada na esfera penal.",
         "E": "é ato discricionário insuscetível de qualquer controle."
@@ -2589,7 +2589,7 @@
         "A": "assédio moral organizacional, pois decorre de método de gestão que humilha coletivamente os trabalhadores.",
         "B": "discriminação positiva.",
         "C": "medida de transparência, inatacável.",
-        "D": "forma legítima de gestão por resultados, pois estimula a competitividade.",
+        "D": "forma legítima de gestão por resultados, pois estimula a competitividade, dispensada a observância da dignidade humana.",
         "E": "assédio sexual, por exposição pública."
       },
       "resposta_correta": "A",
@@ -2686,7 +2686,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "exclusivamente prova pericial médica.",
-        "B": "somente testemunhas presenciais, sendo vedados documentos e mensagens.",
+        "B": "somente testemunhas presenciais, sendo vedados documentos e mensagens, ainda que as mensagens eletrônicas comprovem a conduta narrada.",
         "C": "apenas a palavra do denunciado, sem valoração das demais provas.",
         "D": "apenas confissão do acusado, sendo irrelevantes os demais elementos.",
         "E": "mensagens eletrônicas, documentos, registros de atribuições e depoimentos de testemunhas e da vítima, analisados em conjunto."
@@ -2785,7 +2785,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "importunação sexual (art. 215-A do CP), pois não se exige relação hierárquica, além de infração disciplinar.",
-        "B": "assédio sexual (art. 216-A do CP), pois a hierarquia é irrelevante ao tipo.",
+        "B": "assédio sexual (art. 216-A do CP), pois a hierarquia é irrelevante ao tipo, sendo desnecessária a ascendência.",
         "C": "injúria racial.",
         "D": "calúnia.",
         "E": "constrangimento ilegal, com exclusão de qualquer crime sexual."
@@ -2853,7 +2853,7 @@
         "A": "assédio sexual, por isolamento.",
         "B": "conduta irrelevante, por não envolver agressão verbal.",
         "C": "assédio moral, por desqualificação funcional e esvaziamento de atribuições, com propósito punitivo.",
-        "D": "exercício regular do poder diretivo, pois cabe à chefia distribuir tarefas livremente.",
+        "D": "exercício regular do poder diretivo, pois cabe à chefia distribuir tarefas livremente, ainda que a finalidade seja punir o servidor.",
         "E": "medida de proteção ao servidor, sem natureza abusiva."
       },
       "resposta_correta": "C",
@@ -3116,7 +3116,7 @@
       "alternativas": {
         "A": "dez anos, contados da data do ato.",
         "B": "cinco anos, contados da data do ato ou fato do qual se originou.",
-        "C": "vinte anos, contados da data do ato.",
+        "C": "vinte anos, contados da data do ato, independentemente da ciência do fato.",
         "D": "três anos, contados da data do ato.",
         "E": "dois anos, contados da data do ato."
       },
@@ -3148,7 +3148,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "discriminação indireta, por existir regra neutra.",
-        "B": "exercício regular do poder diretivo, pois a fixação de prazos é prerrogativa da chefia.",
+        "B": "exercício regular do poder diretivo, pois a fixação de prazos é prerrogativa da chefia, pois a chefia não se submete a controle quanto à finalidade.",
         "C": "assédio moral vertical descendente, por sobrecarga abusiva de tarefas com propósito de constranger e forçar o desligamento.",
         "D": "assédio moral horizontal, por envolver servidores de mesmo órgão.",
         "E": "assédio sexual, por envolver constrangimento."
@@ -3184,7 +3184,7 @@
         "B": "reduzir a remuneração dos servidores que forem denunciados.",
         "C": "restringir a liberdade de manifestação em reuniões de trabalho.",
         "D": "dispensar a apuração de denúncias por intermédio de órgãos disciplinares.",
-        "E": "transferir às empresas terceirizadas toda a responsabilidade pela política."
+        "E": "transferir às empresas terceirizadas toda a responsabilidade pela política, ficando o tribunal isento de qualquer dever."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -3217,7 +3217,7 @@
         "B": "princípio aplicável apenas aos servidores efetivos.",
         "C": "princípio sem relevância para as relações funcionais.",
         "D": "princípio que fundamenta a política de prevenção ao assédio, por impor o respeito à integridade e ao valor de cada pessoa.",
-        "E": "princípio que admite a relativização completa em ambiente de trabalho hierarquizado."
+        "E": "princípio que admite a relativização completa em ambiente de trabalho hierarquizado, por se tratar de relação fundada na autoridade da chefia."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -3281,7 +3281,7 @@
       "alternativas": {
         "A": "restrição das ações a magistrados.",
         "B": "campanhas esporádicas, apenas em momentos de crise.",
-        "C": "silêncio institucional sobre o tema para evitar conflitos.",
+        "C": "silêncio institucional sobre o tema para evitar conflitos, mesmo diante de denúncias concretas e reiteradas.",
         "D": "apuração exclusiva de casos já ocorridos, sem prevenção.",
         "E": "ações permanentes de educação, sensibilização e informação sobre o tema."
       },
@@ -3314,7 +3314,7 @@
       "alternativas": {
         "A": "a pessoa não seja submetida a repetições desnecessárias do relato dos fatos nem a exposição que amplie seu sofrimento.",
         "B": "a vítima repita o relato a cada novo órgão que participe da apuração.",
-        "C": "os fatos sejam divulgados amplamente para reforçar a responsabilização.",
+        "C": "os fatos sejam divulgados amplamente para reforçar a responsabilização, ainda que isso exponha a identidade da vítima e das testemunhas.",
         "D": "a vítima seja afastada de suas funções como medida protetiva.",
         "E": "a apuração seja dispensada se a vítima se mostrar abalada."
       },
@@ -3346,7 +3346,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a autoridade apuradora seja amiga íntima da vítima, para garantir empatia.",
-        "B": "a decisão seja tomada com base apenas na palavra do denunciante, sem outras provas.",
+        "B": "a decisão seja tomada com base apenas na palavra do denunciante, sem outras provas, dispensando o contraditório e a ampla defesa do acusado.",
         "C": "o acusado seja informado dos fatos e tenha oportunidade de defesa, e que a decisão seja tomada por autoridade imparcial.",
         "D": "o sigilo seja absoluto, inclusive em relação ao acusado e a seu defensor.",
         "E": "o acusado seja punido sem ser ouvido, pela gravidade da acusação."
@@ -3378,7 +3378,7 @@
       "enunciado": "<p>A Constituição Federal assegura a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação (art. 5º, LXXVIII).</p><p>Aplicada à apuração de assédio, essa garantia implica</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o arquivamento automático das denúncias após prazo fixo, sem apuração.",
+        "A": "o arquivamento automático das denúncias após prazo fixo, sem apuração, ainda que a causa seja complexa e o acusado resida no exterior.",
         "B": "que as denúncias sejam apuradas sem demora injustificada, respeitadas as garantias do contraditório e da ampla defesa.",
         "C": "a apuração apenas após a saída da vítima do órgão.",
         "D": "a dispensa da fase de defesa, para acelerar a conclusão.",
@@ -3413,7 +3413,7 @@
       "alternativas": {
         "A": "excluam pessoas com deficiência de funções de maior responsabilidade.",
         "B": "uniformizem as características pessoais dos trabalhadores.",
-        "C": "tolerem piadas depreciativas em razão de características pessoais, por serem informais.",
+        "C": "tolerem piadas depreciativas em razão de características pessoais, por serem informais, sob o argumento da liberdade de expressão no ambiente de trabalho.",
         "D": "considerem a orientação religiosa na distribuição de funções.",
         "E": "respeitem as diferenças de gênero, raça, orientação sexual, religião, idade, deficiência e outras características pessoais."
       },
@@ -3445,7 +3445,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "são de acesso público irrestrito.",
-        "B": "podem ser divulgadas livremente, por serem de interesse público.",
+        "B": "podem ser divulgadas livremente, por serem de interesse público, sem necessidade de qualquer ressalva legal ou prazo.",
         "C": "terão acesso restrito por prazo máximo de cinco anos.",
         "D": "terão acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de cem anos.",
         "E": "só podem ser acessadas pelos próprios denunciados."
@@ -3478,7 +3478,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "resguardar sua identidade e protegê-lo contra retaliações decorrentes da denúncia.",
-        "B": "transferi-lo compulsoriamente, como regra, para evitar conflitos.",
+        "B": "transferi-lo compulsoriamente, como regra, para evitar conflitos, sem lhe garantir o sigilo da identidade.",
         "C": "exigir comprovação plena dos fatos antes de qualquer proteção.",
         "D": "negar-lhe acesso ao resultado da apuração em qualquer hipótese.",
         "E": "divulgar seu nome aos demais servidores do setor."
@@ -3576,7 +3576,7 @@
       "enunciado": "<p>Durante o processo disciplinar para apurar assédio, o acusado requer a oitiva de testemunhas de defesa, que é indeferida sob o argumento de que o sigilo e a proteção à vítima impedem a produção de qualquer prova pela defesa.</p><p>Essa decisão</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é válida, pois a proteção à vítima prevalece de forma absoluta sobre a defesa.",
+        "A": "é válida, pois a proteção à vítima prevalece de forma absoluta sobre a defesa, ficando a defesa impedida de produzir provas durante a apuração.",
         "B": "viola o contraditório e a ampla defesa, pois o sigilo e a proteção à vítima não suprimem o direito do acusado de produzir prova.",
         "C": "é válida, pois no processo disciplinar não há direito à produção de provas.",
         "D": "é válida, desde que a vítima concorde.",

@@ -14,7 +14,7 @@
       "alternativas": {
         "A": "procedimento administrativo de natureza inquisitiva, dispensável e destinado a reunir elementos para a formação da opinião do titular da ação penal.",
         "B": "processo judicial presidido pelo juiz, com contraditório e ampla defesa obrigatórios.",
-        "C": "fase processual indispensável, sem a qual a denúncia não pode ser oferecida em nenhuma hipótese.",
+        "C": "fase processual indispensável, sem a qual a denúncia não pode ser oferecida em nenhuma hipótese, ainda que o Ministério Público disponha de elementos suficientes.",
         "D": "procedimento exclusivo do Ministério Público, vedada a participação da autoridade policial.",
         "E": "ato de natureza jurisdicional, com a prolação de sentença ao final."
       },
@@ -144,7 +144,7 @@
       "enunciado": "<p>Nos crimes de ação penal pública incondicionada, o inquérito policial poderá ser instaurado</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente por requisição do Ministério Público, sendo vedada a instauração de ofício.",
+        "A": "somente por requisição do Ministério Público, sendo vedada a instauração de ofício, ainda que o ofendido tenha manifestado desinteresse na apuração.",
         "B": "somente por requerimento do ofendido, que é condição de procedibilidade.",
         "C": "exclusivamente por ordem do Delegado-Geral, em qualquer caso.",
         "D": "apenas após a propositura da ação penal pelo Ministério Público.",
@@ -213,7 +213,7 @@
         "A": "não poderá ser iniciado sem a representação do ofendido ou de seu representante legal, nos termos do art. 5º, § 4º, do CPP.",
         "B": "depende de requerimento do Ministério Público, apenas.",
         "C": "é vedado, pois nesses crimes não há investigação.",
-        "D": "pode ser instaurado de ofício, independentemente de representação.",
+        "D": "pode ser instaurado de ofício, independentemente de representação, ainda que o ofendido não tenha manifestado qualquer interesse na apuração.",
         "E": "só pode ser instaurado por requisição do juiz."
       },
       "resposta_correta": "A",
@@ -410,7 +410,7 @@
       "alternativas": {
         "A": "poderão ser realizadas ou não, a juízo da autoridade, salvo o exame de corpo de delito.",
         "B": "serão obrigatoriamente realizadas, em qualquer hipótese.",
-        "C": "dependem de autorização judicial prévia para serem realizadas.",
+        "C": "dependem de autorização judicial prévia para serem realizadas, sob pena de nulidade do inquérito.",
         "D": "só podem ser requeridas pelo Ministério Público.",
         "E": "são vedadas durante o inquérito, por ser inquisitorial."
       },
@@ -476,7 +476,7 @@
       "alternativas": {
         "A": "arquivar a requisição, comunicando ao Ministério Público.",
         "B": "aguardar a representação do ofendido, que é condição necessária em qualquer crime.",
-        "C": "recusar-se, sempre que discordar do mérito, pois tem plena independência para decidir se instaura.",
+        "C": "recusar-se, sempre que discordar do mérito, pois tem plena independência para decidir se instaura, ainda que a requisição não seja manifestamente ilegal.",
         "D": "encaminhar a requisição ao juiz para que este decida se o inquérito será instaurado.",
         "E": "instaurar o inquérito, pois a requisição possui caráter de exigência legal, só podendo deixar de cumpri-la se for manifestamente ilegal."
       },
@@ -510,7 +510,7 @@
         "A": "o indiciamento não implica juízo de condenação e, segundo a jurisprudência, em regra não se justifica após o recebimento da denúncia.",
         "B": "o indiciamento é vedado se o investigado estiver solto.",
         "C": "o indiciamento equivale à declaração judicial de culpa e produz efeitos de reincidência.",
-        "D": "o indiciamento pode ser exigido pelo juiz, vinculando o Delegado, por ser ato jurisdicional.",
+        "D": "o indiciamento pode ser exigido pelo juiz, vinculando o Delegado, por ser ato jurisdicional, independentemente de fundamentação técnico-jurídica.",
         "E": "o indiciamento deve ocorrer após o trânsito em julgado da sentença condenatória."
       },
       "resposta_correta": "A",

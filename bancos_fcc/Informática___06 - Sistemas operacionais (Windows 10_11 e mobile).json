@@ -80,7 +80,7 @@
       "alternativas": {
         "A": "esvaziar a Lixeira restaura os arquivos às suas pastas de origem.",
         "B": "a Lixeira ocupa espaço ilimitado e nunca elimina arquivos automaticamente.",
-        "C": "todo arquivo excluído, de qualquer unidade, vai obrigatoriamente para a Lixeira.",
+        "C": "todo arquivo excluído, de qualquer unidade, vai obrigatoriamente para a Lixeira, inclusive os de unidades removíveis e de rede, sem exceção.",
         "D": "Shift+Delete envia o arquivo para a Lixeira e permite restaurá-lo.",
         "E": "arquivos excluídos de pen drives e de unidades de rede, em regra, não vão para a Lixeira, e a exclusão com Shift+Delete é permanente."
       },
@@ -146,7 +146,7 @@
       "alternativas": {
         "A": "excluir somente o atalho da área de trabalho, pois ele contém todos os arquivos do programa.",
         "B": "desinstalá-lo pelo recurso Aplicativos das Configurações (ou pelo Painel de Controle), em vez de apenas excluir sua pasta ou atalho.",
-        "C": "excluir a pasta do programa em Program Files e esvaziar a Lixeira, o que remove todas as entradas do registro.",
+        "C": "excluir a pasta do programa em Program Files e esvaziar a Lixeira, o que remove todas as entradas do registro, conforme o procedimento padrão do fabricante.",
         "D": "renomear a pasta do programa, o que o desinstala automaticamente.",
         "E": "mover o programa para outra unidade, pois isso o desinstala do sistema."
       },
@@ -181,7 +181,7 @@
         "B": "fica oculta e só pode ser exibida pelo Prompt de Comando.",
         "C": "é um programa de edição de imagens integrado ao Explorador de Arquivos.",
         "D": "lista apenas os arquivos de uma pasta aberta no Explorador de Arquivos.",
-        "E": "serve exclusivamente para armazenar os arquivos excluídos pelo usuário."
+        "E": "serve exclusivamente para armazenar os arquivos excluídos pelo usuário, localizando-se no canto superior direito da tela."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -212,7 +212,7 @@
       "alternativas": {
         "A": "renomear a pasta do aplicativo no Explorador de Arquivos.",
         "B": "usar a Lupa do Windows para reiniciar o aplicativo.",
-        "C": "abrir as Configurações (Win+I) e alterar o plano de fundo da área de trabalho.",
+        "C": "abrir as Configurações (Win+I) e alterar o plano de fundo da área de trabalho, o que encerra o processo travado de imediato.",
         "D": "abrir o Gerenciador de Tarefas (Ctrl+Shift+Esc) e finalizar a tarefa correspondente.",
         "E": "esvaziar a Lixeira para liberar o aplicativo."
       },
@@ -276,7 +276,7 @@
       "enunciado": "<p>No Explorador de Arquivos do Windows, ao arrastar um arquivo com o mouse, sem pressionar nenhuma tecla, de uma pasta do disco C: para um pen drive (unidade E:), o resultado é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a movimentação do arquivo, com remoção do original em C:.",
+        "A": "a movimentação do arquivo, com remoção do original em C:, por padrão do Explorador de Arquivos.",
         "B": "a criação de um atalho para o arquivo no pen drive.",
         "C": "a cópia do arquivo, pois o arrasto entre unidades diferentes copia por padrão.",
         "D": "a exclusão definitiva do arquivo em C:.",

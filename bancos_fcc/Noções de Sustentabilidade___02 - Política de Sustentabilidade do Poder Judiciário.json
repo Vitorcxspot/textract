@@ -13,7 +13,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a política de sustentabilidade no âmbito do Poder Judiciário, revogando a Resolução CNJ nº 201/2015.",
-        "B": "a política de prevenção e enfrentamento do assédio moral e sexual no Poder Judiciário.",
+        "B": "a política de prevenção e enfrentamento do assédio moral e sexual no Poder Judiciário, instituída pelo Conselho Nacional de Justiça em 2020.",
         "C": "a política de acessibilidade e inclusão das pessoas com deficiência no Judiciário.",
         "D": "a regulamentação do teletrabalho dos magistrados e servidores.",
         "E": "a organização dos juizados especiais cíveis e criminais."
@@ -45,7 +45,7 @@
       "enunciado": "<p>De acordo com a Resolução CNJ nº 400/2021, os órgãos do Poder Judiciário devem adotar modelos de gestão organizacional e de processos estruturados que promovam a sustentabilidade, com base em ações</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exclusivamente ambientais, sem relação com aspectos econômicos ou sociais.",
+        "A": "exclusivamente ambientais, sem relação com aspectos econômicos ou sociais, segundo a visão tradicional do setor público.",
         "B": "voltadas somente à redução de despesas de custeio.",
         "C": "opcionais, a critério de cada magistrado.",
         "D": "apenas economicamente viáveis, sem considerar o impacto ambiental.",
@@ -114,7 +114,7 @@
         "A": "a aprovação prévia pelo Congresso Nacional.",
         "B": "apenas diretrizes genéricas, sem metas ou prazos.",
         "C": "somente o orçamento anual do órgão.",
-        "D": "a lista de magistrados responsáveis pelas decisões ambientais.",
+        "D": "a lista de magistrados responsáveis pelas decisões ambientais, e a relação de empresas que prestam serviços de limpeza.",
         "E": "indicadores de desempenho, metas, prazos de execução e mecanismos de monitoramento e avaliação."
       },
       "resposta_correta": "E",
@@ -146,7 +146,7 @@
       "alternativas": {
         "A": "a aterros sanitários, sem separação prévia.",
         "B": "às associações e cooperativas de catadores de materiais recicláveis.",
-        "C": "a empresas privadas escolhidas livremente, mediante pagamento.",
+        "C": "a empresas privadas escolhidas livremente, mediante pagamento, em substituição à destinação social dos resíduos.",
         "D": "ao descarte em lixões a céu aberto.",
         "E": "exclusivamente à incineração dos resíduos."
       },
@@ -181,7 +181,7 @@
         "B": "compras realizadas por servidores com recursos próprios.",
         "C": "aquisições conjuntas de bens e serviços por órgãos ou unidades, buscando escala e menor impacto ambiental.",
         "D": "contratações que dispensam critérios de sustentabilidade.",
-        "E": "contratações realizadas sem licitação, por dispensa em todas as hipóteses."
+        "E": "contratações realizadas sem licitação, por dispensa em todas as hipóteses, em substituição ao planejamento da contratação."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -247,7 +247,7 @@
         "B": "a uma seção de almoxarifado.",
         "C": "diretamente à Presidência, à Secretaria-Geral ou à Diretoria-Geral.",
         "D": "a uma empresa terceirizada contratada.",
-        "E": "a uma unidade de limpeza e conservação."
+        "E": "a uma unidade de limpeza e conservação, sem relação com a alta administração do tribunal."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -411,7 +411,7 @@
         "A": "as contratações dispensam planejamento, pois o PLS as substitui.",
         "B": "as contratações do órgão devem considerar critérios de sustentabilidade alinhados às metas e aos indicadores do PLS.",
         "C": "o PLS vincula apenas contratações de obras, e não de bens e serviços.",
-        "D": "as contratações devem priorizar sempre o menor preço, ainda que sem critérios de sustentabilidade.",
+        "D": "as contratações devem priorizar sempre o menor preço, ainda que sem critérios de sustentabilidade, desde que o contrato seja de pequeno valor.",
         "E": "o PLS é de uso restrito à área jurídica."
       },
       "resposta_correta": "B",
@@ -477,7 +477,7 @@
         "A": "o número de audiências realizadas por vara.",
         "B": "a quantidade de recursos distribuídos por mês.",
         "C": "energia elétrica, água e esgoto, gestão de resíduos e qualidade de vida no ambiente de trabalho.",
-        "D": "a produtividade dos magistrados e a taxa de congestionamento processual.",
+        "D": "a produtividade dos magistrados e a taxa de congestionamento processual, além do valor arrecadado em custas judiciais.",
         "E": "a arrecadação de custas judiciais e a receita de multas."
       },
       "resposta_correta": "C",
@@ -542,7 +542,7 @@
       "alternativas": {
         "A": "a leilão público, para arrecadação de receitas.",
         "B": "às associações e cooperativas de catadores de materiais recicláveis.",
-        "C": "a aterros sanitários, mediante contratação de empresa.",
+        "C": "a aterros sanitários, mediante contratação de empresa, sem separação prévia na fonte geradora.",
         "D": "à incineração em usinas privadas.",
         "E": "ao descarte em lixões."
       },
@@ -608,7 +608,7 @@
       "alternativas": {
         "A": "preservá-lo apenas para as gerações presentes.",
         "B": "delegá-lo exclusivamente aos Estados-membros.",
-        "C": "explorá-lo livremente, em benefício exclusivo do mercado.",
+        "C": "explorá-lo livremente, em benefício exclusivo do mercado, ainda que em prejuízo das futuras gerações.",
         "D": "defendê-lo e preservá-lo para as presentes e futuras gerações.",
         "E": "defendê-lo, vedada a participação da coletividade."
       },
@@ -673,7 +673,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "apenas o preço de aquisição, desconsiderados os custos de manutenção.",
-        "B": "o preço de aquisição acrescido da preferência por fornecedores locais, em qualquer caso.",
+        "B": "o preço de aquisição acrescido da preferência por fornecedores locais, em qualquer caso, mesmo que a escolha seja desvinculada do critério de menor dispêndio.",
         "C": "os custos indiretos relativos ao ciclo de vida do objeto, como manutenção, utilização, reposição, depreciação e impacto ambiental.",
         "D": "somente a marca do produto ofertado.",
         "E": "o prestígio do fornecedor no mercado."
@@ -709,7 +709,7 @@
         "B": "quem causa a degradação ambiental deve arcar com os custos de sua prevenção, reparação e controle.",
         "C": "somente o Estado pode ser responsabilizado por danos ambientais.",
         "D": "o dano ambiental só é reparável com prova de culpa.",
-        "E": "a coletividade deve arcar, em regra, com os custos da poluição causada por particulares."
+        "E": "a coletividade deve arcar, em regra, com os custos da poluição causada por particulares, sem responsabilização do causador do dano."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -805,7 +805,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a ampliação do uso de processos eletrônicos e de documentos digitais, com impressão apenas quando necessária.",
-        "B": "a ampliação da impressão em cores de todos os documentos, para facilitar a leitura.",
+        "B": "a ampliação da impressão em cores de todos os documentos, para facilitar a leitura, e a aquisição de grande estoque de cartuchos.",
         "C": "a aquisição de grande estoque de cartuchos, independentemente da demanda.",
         "D": "a proibição de uso de qualquer meio digital.",
         "E": "a exigência de impressão em cada despacho, com cópia para todos os setores."
@@ -837,7 +837,7 @@
       "enunciado": "<p>No tocante ao consumo de energia elétrica, uma ação alinhada à política de sustentabilidade do Poder Judiciário é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a substituição de equipamentos eficientes por modelos de maior consumo.",
+        "A": "a substituição de equipamentos eficientes por modelos de maior consumo, sem qualquer medida de monitoramento do consumo mensal.",
         "B": "a vedação do monitoramento de consumo, para evitar custos.",
         "C": "a adoção de equipamentos mais eficientes, de iluminação eficiente e de fontes renováveis, com monitoramento do consumo.",
         "D": "a ampliação do uso de aparelhos de climatização sem manutenção.",
@@ -1069,7 +1069,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a prática contraria a coleta seletiva solidária, que prevê a destinação dos recicláveis descartados às associações e cooperativas de catadores.",
-        "B": "a prática é obrigatória, pois a venda a empresas privadas é a única forma de destinação.",
+        "B": "a prática é obrigatória, pois a venda a empresas privadas é a única forma de destinação, ainda que a destinação a catadores seja possível e disponível.",
         "C": "a prática é regular, pois o decreto autoriza a venda a qualquer interessado.",
         "D": "a prática é irrelevante, pois resíduos recicláveis não possuem regulamentação.",
         "E": "a prática é vedada apenas em tribunais de pequeno porte."
@@ -1136,7 +1136,7 @@
       "alternativas": {
         "A": "dispensa de indicadores de desempenho para as ações educativas.",
         "B": "capacitação voltada exclusivamente a terceirizados.",
-        "C": "restrição da sustentabilidade a uma única unidade técnica, sem envolvimento dos demais.",
+        "C": "restrição da sustentabilidade a uma única unidade técnica, sem envolvimento dos demais, reservando a capacitação a magistrados.",
         "D": "substituição das ações de gestão por palestras eventuais.",
         "E": "sensibilização e capacitação de magistrados e servidores, para a incorporação de práticas sustentáveis ao cotidiano."
       },
@@ -1201,7 +1201,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "atende às necessidades do presente sem comprometer a capacidade das futuras gerações de atenderem às suas próprias necessidades.",
-        "B": "prioriza o crescimento econômico, ainda que haja esgotamento dos recursos naturais.",
+        "B": "prioriza o crescimento econômico, ainda que haja esgotamento dos recursos naturais, em prejuízo das necessidades das futuras gerações.",
         "C": "restringe o uso dos recursos naturais a um grupo seleto de países.",
         "D": "proíbe qualquer atividade econômica que utilize recursos naturais.",
         "E": "prioriza as necessidades das futuras gerações em detrimento das atuais."
@@ -1270,7 +1270,7 @@
         "B": "proibir o uso de energia renovável.",
         "C": "regular a exploração de petróleo em águas profundas.",
         "D": "fortalecer a resposta global à ameaça das mudanças climáticas, limitando o aumento da temperatura média global.",
-        "E": "estabelecer regras do comércio internacional de alimentos."
+        "E": "estabelecer regras do comércio internacional de alimentos, em conformidade com o tratado firmado em Paris no ano de 2015."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1303,7 +1303,7 @@
         "B": "não influenciam o clima do planeta.",
         "C": "são produzidos exclusivamente por vulcões.",
         "D": "destroem a camada de ozônio de forma exclusiva.",
-        "E": "são emitidos somente por indústrias de grande porte."
+        "E": "são emitidos somente por indústrias de grande porte, e por nenhuma outra fonte natural."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -1398,7 +1398,7 @@
       "enunciado": "<p>Qualidade de vida no ambiente de trabalho, um dos temas do Plano de Logística Sustentável, relaciona-se a</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exclusivamente a destinação dos resíduos recicláveis.",
+        "A": "exclusivamente a destinação dos resíduos recicláveis, ao contrário da saúde e da segurança dos trabalhadores.",
         "B": "apenas a quantidade de processos por servidor.",
         "C": "condições de saúde, segurança, ergonomia e bem-estar dos trabalhadores.",
         "D": "apenas o valor da remuneração dos servidores.",
@@ -1465,7 +1465,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "o papel é feito de plástico reciclado.",
-        "B": "o papel é obrigatoriamente branco e de alta gramatura.",
+        "B": "o papel é obrigatoriamente branco e de alta gramatura, e nunca de origem reciclada em processo industrial.",
         "C": "o papel é isento de qualquer impacto ambiental.",
         "D": "a matéria-prima provém de florestas manejadas de forma responsável, ambiental e socialmente.",
         "E": "o papel pode ser descartado em qualquer local."
@@ -1531,7 +1531,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "implementar plano de redução e compensação das emissões, com meta para o ano de 2030.",
-        "B": "transferir ao CNJ a obrigação de compensar as emissões do órgão.",
+        "B": "transferir ao CNJ a obrigação de compensar as emissões do órgão, dispensado o plano de redução.",
         "C": "proibir o uso de energia elétrica nas edificações.",
         "D": "dispensar qualquer plano, bastando o levantamento.",
         "E": "compensar as emissões apenas após o ano de 2050."
@@ -1565,7 +1565,7 @@
       "alternativas": {
         "A": "Pacto Nacional pela Primeira Infância.",
         "B": "Justiça Carbono Zero, com ações voltadas à redução e à compensação de emissões no âmbito do Poder Judiciário.",
-        "C": "Justiça Itinerante, voltado ao atendimento em localidades remotas.",
+        "C": "Justiça Itinerante, voltado ao atendimento em localidades remotas, programa do Tribunal Regional Federal da 1ª Região.",
         "D": "Justiça Restaurativa, voltado à resolução de conflitos.",
         "E": "Justiça 4.0, voltado à transformação digital."
       },
@@ -1633,7 +1633,7 @@
         "B": "propor diretrizes nacionais, impulsionar sua implementação, monitorar e divulgar os resultados das ações de sustentabilidade.",
         "C": "elaborar o PLS de cada tribunal, substituindo as unidades locais.",
         "D": "fiscalizar a execução orçamentária dos tribunais.",
-        "E": "julgar os recursos contra decisões dos tribunais em matéria ambiental."
+        "E": "julgar os recursos contra decisões dos tribunais em matéria ambiental, além de aplicar penalidades disciplinares aos tribunais inadimplentes."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1729,7 +1729,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "os riscos de dano ambiental são conhecidos, impondo-se a adoção de medidas para evitá-lo.",
-        "B": "os riscos são desconhecidos, impondo-se a inércia até a comprovação científica.",
+        "B": "os riscos são desconhecidos, impondo-se a inércia até a comprovação científica, sendo vedado qualquer ato preventivo.",
         "C": "já ocorreu o dano, limitando-se a medidas de reparação.",
         "D": "a atividade é lícita, dispensando-se qualquer cuidado.",
         "E": "o poluidor já foi identificado, aplicando-se apenas a multa."
@@ -1797,7 +1797,7 @@
         "A": "aplicados apenas a obras de grande porte.",
         "B": "definidos de forma subjetiva pelo pregoeiro.",
         "C": "objetivamente definidos no instrumento convocatório e justificados nos autos do processo.",
-        "D": "omitidos do instrumento convocatório, para ampliar a competição.",
+        "D": "omitidos do instrumento convocatório, para ampliar a competição, fixados livremente pelo pregoeiro na sessão.",
         "E": "fixados livremente após o julgamento das propostas."
       },
       "resposta_correta": "C",
@@ -1893,7 +1893,7 @@
       "enunciado": "<p>O PLS do Poder Judiciário foi alinhado, entre outros, aos ODS 8 e 16 da Agenda 2030, que tratam, respectivamente, de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "energia limpa e acessível e indústria, inovação e infraestrutura.",
+        "A": "energia limpa e acessível e indústria, inovação e infraestrutura (ODS 7 e ODS 9, respectivamente).",
         "B": "igualdade de gênero e redução das desigualdades.",
         "C": "vida na água e vida terrestre.",
         "D": "fome zero e agricultura sustentável e educação de qualidade.",
@@ -1930,7 +1930,7 @@
         "B": "exclusivamente o relato de ocorrências ambientais.",
         "C": "apenas relatórios narrativos, sem dados quantitativos.",
         "D": "metas, série histórica e metodologia de monitoramento dos indicadores.",
-        "E": "somente depoimentos de servidores sobre as práticas adotadas."
+        "E": "somente depoimentos de servidores sobre as práticas adotadas, sem dados quantitativos ou série histórica."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1996,7 +1996,7 @@
         "B": "abandonar o monitoramento, pois a queda já demonstra a eficácia do PLS.",
         "C": "adotar apenas indicadores qualitativos, sem dados numéricos.",
         "D": "suprimir a série histórica, para simplificar a análise.",
-        "E": "comparar o consumo do tribunal com o de órgãos de outros Poderes, sem ajuste."
+        "E": "comparar o consumo do tribunal com o de órgãos de outros Poderes, sem ajuste, incluindo o de empresas privadas do setor."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -2094,7 +2094,7 @@
         "A": "delegação da gestão do PLS a empresa terceirizada.",
         "B": "sigilo absoluto das informações de sustentabilidade.",
         "C": "substituição do PLS por relatório narrativo.",
-        "D": "dispensa de indicadores locais, por serem definidos apenas pelo CNJ.",
+        "D": "dispensa de indicadores locais, por serem definidos apenas pelo CNJ, sendo vedada a análise do desempenho em nível local.",
         "E": "governança e transparência, com monitoramento e prestação de contas sobre o desempenho do PLS."
       },
       "resposta_correta": "E",
@@ -2224,7 +2224,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "ao custo anual de energia elétrica.",
-        "B": "à área de terra necessária para produzir os alimentos consumidos por seus servidores.",
+        "B": "à área de terra necessária para produzir os alimentos consumidos por seus servidores, ao longo do ciclo de vida de cada produto adquirido.",
         "C": "ao volume de água consumido em suas edificações.",
         "D": "ao total de emissões de gases de efeito estufa, diretas e indiretas, associadas às suas atividades, expresso em CO₂ equivalente.",
         "E": "ao total de resíduos sólidos enviados a aterros."
@@ -2259,7 +2259,7 @@
         "A": "Agenda 21, plano de ação para o desenvolvimento sustentável.",
         "B": "Agenda 2030, com os dezessete ODS.",
         "C": "criação do Tribunal Penal Internacional.",
-        "D": "Declaração Universal dos Direitos Humanos.",
+        "D": "Declaração Universal dos Direitos Humanos, em substituição à Agenda 21 e à Agenda 2030.",
         "E": "Acordo de Paris, de metas de temperatura."
       },
       "resposta_correta": "A",
@@ -2324,7 +2324,7 @@
       "alternativas": {
         "A": "coleta seletiva solidária.",
         "B": "reutilização de materiais.",
-        "C": "reciclagem de resíduos recicláveis.",
+        "C": "reciclagem de resíduos recicláveis, em qualquer circunstância e por qualquer agente.",
         "D": "lançamento in natura a céu aberto, ou seja, o uso de lixões.",
         "E": "compostagem de resíduos orgânicos."
       },
@@ -2356,7 +2356,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "triagem de materiais metálicos.",
-        "B": "queima de resíduos orgânicos em altas temperaturas.",
+        "B": "queima de resíduos orgânicos em altas temperaturas, com liberação de gases e posterior descarte em aterro.",
         "C": "armazenamento de resíduos em local aberto.",
         "D": "mistura de resíduos recicláveis com rejeitos.",
         "E": "decomposição controlada de resíduos orgânicos, gerando composto utilizável como adubo."
@@ -2425,7 +2425,7 @@
         "B": "a realização de reuniões e audiências por videoconferência, quando possível.",
         "C": "a eliminação do transporte coletivo.",
         "D": "a substituição de videoconferências por viagens.",
-        "E": "a ampliação do uso de veículos individuais movidos a combustíveis fósseis."
+        "E": "a ampliação do uso de veículos individuais movidos a combustíveis fósseis e a manutenção de viagens presenciais para qualquer ato."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -2454,7 +2454,7 @@
       "enunciado": "<p>O Protocolo de Quioto (1997) estabeleceu</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "regras sobre a organização do Poder Judiciário.",
+        "A": "regras sobre a organização do Poder Judiciário, e a obrigatoriedade de criação de tribunais especializados.",
         "B": "a extinção do efeito estufa natural.",
         "C": "a criação dos dezessete ODS.",
         "D": "a proibição do uso de energia elétrica.",
@@ -2523,7 +2523,7 @@
         "A": "a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados.",
         "B": "apenas à obrigação de reparar o dano, vedada a sanção penal.",
         "C": "a sanção penal, apenas se forem pessoas físicas.",
-        "D": "à reparação do dano somente se houver condenação criminal prévia.",
+        "D": "à reparação do dano somente se houver condenação criminal prévia, e as sanções administrativas ficam suspensas até lá.",
         "E": "a sanções exclusivamente administrativas."
       },
       "resposta_correta": "A",
@@ -2554,7 +2554,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a responsabilização penal apenas de entes públicos.",
-        "B": "a exclusão da responsabilidade da pessoa física quando houver condenação da jurídica.",
+        "B": "a exclusão da responsabilidade da pessoa física quando houver condenação da jurídica, em razão da natureza coletiva e da autonomia da empresa condenada.",
         "C": "a ausência de sanção para o dano ambiental culposo.",
         "D": "a responsabilização penal da pessoa jurídica pelos crimes ambientais, sem excluir a das pessoas físicas autoras, coautoras ou partícipes.",
         "E": "a responsabilização apenas das pessoas físicas, vedada a da pessoa jurídica."
@@ -2752,7 +2752,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "restrição das práticas sustentáveis às atividades-fim do tribunal.",
-        "B": "afastamento dos critérios ambientais das contratações de serviços.",
+        "B": "afastamento dos critérios ambientais das contratações de serviços, por se tratar de atividade-meio dos órgãos do Poder Judiciário.",
         "C": "dispensa de fiscalização contratual.",
         "D": "contratações sustentáveis, que incorporam critérios ambientais, sociais e econômicos aos contratos administrativos.",
         "E": "exclusividade de contratação de empresas estrangeiras."
@@ -2786,7 +2786,7 @@
       "alternativas": {
         "A": "emissões indiretas decorrentes da aquisição de energia elétrica, vapor, calor ou refrigeração consumidos pela organização.",
         "B": "emissões diretas de fontes que pertencem ou são controladas pela organização.",
-        "C": "demais emissões indiretas da cadeia de valor, como viagens e transporte terceirizado.",
+        "C": "demais emissões indiretas da cadeia de valor, como viagens e transporte terceirizado, e as emissões diretas de fontes controladas pela organização.",
         "D": "emissões de resíduos sólidos urbanos exclusivamente.",
         "E": "emissões que não precisam ser contabilizadas."
       },
@@ -2820,7 +2820,7 @@
         "A": "a ampliação do estoque de papel, para evitar falta.",
         "B": "a suspensão do monitoramento, por ser irrelevante.",
         "C": "sensibilização, parametrização das impressoras para impressão frente e verso e monitoramento do consumo com metas de redução.",
-        "D": "a impressão de todos os documentos em cores, para facilitar a leitura.",
+        "D": "a impressão de todos os documentos em cores, para facilitar a leitura, com cópia para todos os setores do tribunal e arquivamento físico.",
         "E": "a proibição imediata de qualquer impressão, sem alternativas."
       },
       "resposta_correta": "C",
@@ -2853,7 +2853,7 @@
         "A": "os critérios ambientais se apliquem somente às contratações de bens.",
         "B": "as contratações observem critérios ambientais e sociais, inclusive o respeito aos direitos trabalhistas dos terceirizados.",
         "C": "a fiscalização dos contratos seja dispensada.",
-        "D": "os terceirizados sejam excluídos das ações de sensibilização e capacitação.",
+        "D": "os terceirizados sejam excluídos das ações de sensibilização e capacitação, por serem trabalhadores sem vínculo estatutário com o tribunal.",
         "E": "os direitos trabalhistas sejam desconsiderados, para reduzir custos."
       },
       "resposta_correta": "B",
@@ -2951,7 +2951,7 @@
       "alternativas": {
         "A": "é adequada, pois a lei não regulamenta esse tipo de resíduo.",
         "B": "é adequada, desde que o tribunal pague taxa de descarte.",
-        "C": "é irrelevante, pois a política de sustentabilidade não trata de resíduos perigosos.",
+        "C": "é irrelevante, pois a política de sustentabilidade não trata de resíduos perigosos, pois a norma se destina apenas a resíduos de natureza doméstica.",
         "D": "é adequada, pois todos os resíduos podem ser misturados na coleta comum.",
         "E": "é inadequada, pois tais produtos estão sujeitos à logística reversa e contêm substâncias que exigem destinação ambientalmente adequada."
       },
@@ -2986,7 +2986,7 @@
         "B": "é adequada se o percentual for superior a 10%.",
         "C": "é deficiente, pois sem a linha de base e a metodologia de medição não é possível monitorar nem avaliar seu cumprimento.",
         "D": "é adequada, pois a mera declaração de percentual dispensa a medição.",
-        "E": "é adequada, pois a linha de base é irrelevante para metas de redução."
+        "E": "é adequada, pois a linha de base é irrelevante para metas de redução, desde que o percentual de redução seja superior a dez por cento."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -3017,7 +3017,7 @@
       "alternativas": {
         "A": "transferindo ao Poder Executivo a responsabilidade pela Agenda 2030.",
         "B": "integrando as metas dos ODS ao seu planejamento estratégico e aos seus planos de logística sustentável.",
-        "C": "afastando as metas dos ODS do planejamento estratégico, por serem estranhas à função judicial.",
+        "C": "afastando as metas dos ODS do planejamento estratégico, por serem estranhas à função judicial, limitando a sustentabilidade às varas ambientais.",
         "D": "restringindo o tema às varas ambientais, sem aplicação à gestão administrativa.",
         "E": "dispensando indicadores, por serem os ODS princípios abstratos."
       },
@@ -3116,7 +3116,7 @@
       "alternativas": {
         "A": "a remuneração dos magistrados e a dos servidores.",
         "B": "o prestígio institucional e a imagem do tribunal.",
-        "C": "a arrecadação de receitas e a redução da carga tributária dos tribunais.",
+        "C": "a arrecadação de receitas e a redução da carga tributária dos tribunais, sem qualquer relação com o meio ambiente ou com a qualidade de vida.",
         "D": "o meio ambiente e a qualidade de vida do quadro de pessoal e auxiliar do Poder Judiciário, da comunidade local e da sociedade.",
         "E": "a produtividade processual e a taxa de congestionamento."
       },

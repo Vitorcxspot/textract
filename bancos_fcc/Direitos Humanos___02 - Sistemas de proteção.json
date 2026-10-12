@@ -48,7 +48,7 @@
         "A": "a Corte Internacional de Justiça e o Tribunal Penal Internacional.",
         "B": "a Comissão Interamericana de Direitos Humanos e a Corte Interamericana de Direitos Humanos.",
         "C": "a Assembleia Geral da ONU e o Conselho de Segurança.",
-        "D": "o Comitê contra a Tortura e o Comitê sobre os Direitos da Criança.",
+        "D": "o Comitê contra a Tortura e o Comitê sobre os Direitos da Criança, ambos vinculados à Organização dos Estados Americanos.",
         "E": "o Conselho de Direitos Humanos e o Comitê de Direitos Humanos."
       },
       "resposta_correta": "B",
@@ -81,7 +81,7 @@
         "A": "global é de âmbito universal e vinculado à ONU, enquanto o interamericano é regional e vinculado à OEA.",
         "B": "global e o interamericano são excludentes, e o Estado só pode integrar um deles.",
         "C": "interamericano é universal, por abranger todos os Estados-membros da ONU.",
-        "D": "global é regional e vinculado à OEA, enquanto o interamericano é universal e vinculado à ONU.",
+        "D": "global é regional e vinculado à OEA, enquanto o interamericano é universal e vinculado à ONU, conforme a Carta da Organização dos Estados Americanos.",
         "E": "global e o interamericano são vinculados à ONU, diferindo apenas na sede dos órgãos."
       },
       "resposta_correta": "A",
@@ -112,7 +112,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reservado ao Conselho de Segurança da ONU.",
-        "B": "facultado a qualquer indivíduo vítima de violação, que pode peticionar diretamente à Corte.",
+        "B": "facultado a qualquer indivíduo vítima de violação, que pode peticionar diretamente à Corte, sem passar pela Comissão Interamericana.",
         "C": "exclusivo dos Estados-partes, sem participação da Comissão.",
         "D": "permitido apenas às organizações não governamentais legalmente reconhecidas.",
         "E": "restrito aos Estados-partes e à Comissão Interamericana, não alcançando os indivíduos diretamente."
@@ -145,7 +145,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "foi adotada em 1969, no âmbito da OEA, e prevê a Comissão e a Corte Interamericanas como órgãos de supervisão.",
-        "B": "foi adotada em 1966, no âmbito da ONU, e instituiu o Comitê de Direitos Humanos.",
+        "B": "foi adotada em 1966, no âmbito da ONU, e instituiu o Comitê de Direitos Humanos, com sede em Genebra, na Suíça, por meio do Conselho.",
         "C": "foi adotada em 1948, na mesma ocasião que a Carta da ONU.",
         "D": "não possui órgãos de supervisão, limitando-se a declarar direitos.",
         "E": "aplica-se apenas aos Estados que não são membros da OEA."
@@ -179,7 +179,7 @@
       "alternativas": {
         "A": "apresentar petição ao Conselho de Segurança da ONU, que decide sobre violações de direitos humanos.",
         "B": "aguardar o prazo de dois anos para apresentar a petição à Comissão.",
-        "C": "apresentar reclamação à Corte Internacional de Justiça, que julga conflitos entre indivíduos e Estados.",
+        "C": "apresentar reclamação à Corte Internacional de Justiça, que julga conflitos entre indivíduos e Estados, em razão de sua competência para dirimir litígios individuais.",
         "D": "ajuizar ação diretamente na Corte Interamericana, por ser o órgão jurisdicional do sistema.",
         "E": "apresentar petição à Comissão Interamericana de Direitos Humanos, dentro do prazo de seis meses a partir da notificação da decisão definitiva."
       },
@@ -279,7 +279,7 @@
         "A": "comporta apelação ao Conselho de Segurança da ONU.",
         "B": "é definitiva e inapelável, e os Estados-partes comprometem-se a cumpri-la nos casos em que forem partes.",
         "C": "tem natureza meramente recomendatória, sem obrigatoriedade ao Estado.",
-        "D": "depende de homologação pelo Supremo Tribunal Federal para produzir efeitos no Brasil.",
+        "D": "depende de homologação pelo Supremo Tribunal Federal para produzir efeitos no Brasil, mesmo quando condenar o Estado a reparar o dano.",
         "E": "pode ser revista por recurso ordinário à Comissão Interamericana."
       },
       "resposta_correta": "B",
@@ -312,7 +312,7 @@
         "A": "julga criminalmente indivíduos acusados de crimes contra a humanidade.",
         "B": "integra a estrutura da OEA, com sede em San José, Costa Rica.",
         "C": "é órgão de supervisão da Convenção Americana de Direitos Humanos.",
-        "D": "indivíduos e organizações podem ajuizar ações contra Estados por violação de direitos humanos.",
+        "D": "indivíduos e organizações podem ajuizar ações contra Estados por violação de direitos humanos, sem necessidade de intermediação da Comissão.",
         "E": "somente Estados podem ser partes nos casos submetidos à Corte, não se admitindo ações propostas por indivíduos."
       },
       "resposta_correta": "E",
@@ -376,7 +376,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "incorporou a Convenção por emenda constitucional aprovada pelo rito do art. 5º, § 3º.",
-        "B": "aderiu à Convenção Americana em 1969, na elaboração do tratado, e reconheceu a Corte em 1978.",
+        "B": "aderiu à Convenção Americana em 1969, na elaboração do tratado, e reconheceu a Corte em 1978, sendo esta adesão feita em decorrência da EC nº 45/2004.",
         "C": "não reconhece a competência contenciosa da Corte até o momento.",
         "D": "aderiu à Convenção Americana em 1992 (Decreto nº 678/1992) e reconheceu a competência contenciosa da Corte Interamericana em 1998.",
         "E": "reconheceu a competência da Corte antes de aderir à Convenção Americana."
@@ -443,7 +443,7 @@
       "alternativas": {
         "A": "a Corte tem jurisdição contenciosa automática, pois a Carta da OEA vincula todos os Estados-membros.",
         "B": "a Comissão Interamericana pode examinar a petição com fundamento na Declaração Americana, mas o caso não pode ser submetido à Corte em sua competência contenciosa.",
-        "C": "a associação civil deve ajuizar a ação diretamente na Corte, pois a Comissão não tem competência sobre Estados não signatários.",
+        "C": "a associação civil deve ajuizar a ação diretamente na Corte, pois a Comissão não tem competência sobre Estados não signatários, sem apreciação prévia pelos órgãos nacionais competentes.",
         "D": "o Conselho de Direitos Humanos da ONU substitui a Comissão, que não pode atuar.",
         "E": "a petição é inadmissível, pois a Comissão só examina Estados que ratificaram a Convenção."
       },
@@ -478,7 +478,7 @@
         "B": "o Comitê julga a responsabilidade penal individual dos agentes do Estado.",
         "C": "o Comitê supervisiona o PIDESC, e não o PIDCP.",
         "D": "o Comitê é tribunal da OEA, e suas decisões são sentenças inapeláveis.",
-        "E": "qualquer indivíduo pode apresentar comunicação, mesmo que o Estado não seja parte do Protocolo Facultativo."
+        "E": "qualquer indivíduo pode apresentar comunicação, mesmo que o Estado não seja parte do Protocolo Facultativo, desde que seja maior de idade e plenamente capaz."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -509,7 +509,7 @@
       "alternativas": {
         "A": "não existe, na legislação interna, o devido processo legal para a proteção do direito violado, ou houve demora injustificada na decisão.",
         "B": "a violação ocorreu há mais de um ano, ainda que existam recursos internos disponíveis.",
-        "C": "o peticionário prefere a via internacional por entender que a justiça nacional é lenta, sem comprovação de demora injustificada.",
+        "C": "o peticionário prefere a via internacional por entender que a justiça nacional é lenta, sem comprovação de demora injustificada, ainda que existam recursos internos eficazes.",
         "D": "o Estado é de grande porte e possui muitos tribunais.",
         "E": "o valor da causa é inferior ao mínimo exigido pelo regulamento da Comissão."
       },

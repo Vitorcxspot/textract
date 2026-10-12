@@ -13,7 +13,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "volátil, armazenando temporariamente dados e instruções em uso, que são perdidos quando o computador é desligado.",
-        "B": "não volátil, mantendo o conteúdo mesmo sem energia, e usada para guardar o sistema de forma permanente.",
+        "B": "não volátil, mantendo o conteúdo mesmo sem energia, e usada para guardar o sistema de forma permanente, ao contrário da memória cache do processador.",
         "C": "somente de leitura, gravada de fábrica e usada para inicializar o computador.",
         "D": "mais lenta que o disco rígido, razão pela qual é usada apenas como memória de reserva.",
         "E": "integrada ao disco rígido, dele dependendo para funcionar."
@@ -113,7 +113,7 @@
       "alternativas": {
         "A": "memória ROM, que executa as operações lógicas.",
         "B": "Unidade de Controle (UC), que executa cálculos e comparações.",
-        "C": "memória cache, responsável por todas as operações matemáticas.",
+        "C": "memória cache, responsável por todas as operações matemáticas, além de executar as instruções de modo isolado do processador.",
         "D": "Unidade Lógica e Aritmética (ULA), enquanto a Unidade de Controle coordena a execução das instruções.",
         "E": "placa de vídeo, que realiza os cálculos do processador."
       },
@@ -146,7 +146,7 @@
       "alternativas": {
         "A": "não possuir partes móveis, ser mais rápida no acesso aos dados e mais resistente a impactos.",
         "B": "utilizar discos magnéticos giratórios com cabeças de leitura e gravação.",
-        "C": "perder todos os dados quando o computador é desligado, por ser memória volátil.",
+        "C": "perder todos os dados quando o computador é desligado, por ser memória volátil, motivo pelo qual é inadequado para guardar arquivos permanentes.",
         "D": "ser sempre mais barato por gigabyte que o HDD.",
         "E": "ser usado exclusivamente como memória cache do processador."
       },
@@ -180,7 +180,7 @@
         "A": "a ROM é volátil e perde o firmware ao ser desligada.",
         "B": "o firmware serve para executar editores de texto e planilhas.",
         "C": "a ROM é a memória usada para gravar documentos do usuário.",
-        "D": "o firmware é armazenado na memória RAM e apagado a cada desligamento.",
+        "D": "o firmware é armazenado na memória RAM e apagado a cada desligamento, exigindo reinstalação após cada inicialização do sistema.",
         "E": "o firmware que inicializa o hardware e carrega o sistema operacional fica gravado em memória não volátil."
       },
       "resposta_correta": "E",
@@ -213,7 +213,7 @@
         "A": "é memória exclusivamente de leitura, gravada na fábrica com o firmware.",
         "B": "é uma memória de alta velocidade e pequena capacidade, situada entre o processador e a RAM, que guarda dados e instruções acessados com frequência.",
         "C": "só existe em computadores com disco rígido mecânico, para compensar a lentidão do HD.",
-        "D": "é uma memória de grande capacidade e baixa velocidade, usada para armazenar arquivos permanentes.",
+        "D": "é uma memória de grande capacidade e baixa velocidade, usada para armazenar arquivos permanentes, localizada fora do computador e conectada por porta USB.",
         "E": "é uma memória externa ao computador, conectada por porta USB para ampliar a RAM."
       },
       "resposta_correta": "B",
@@ -276,7 +276,7 @@
       "enunciado": "<p>Sobre o desempenho de processadores, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o clock é medido em bytes por segundo e indica a capacidade de armazenamento do processador.",
+        "A": "o clock é medido em bytes por segundo e indica a capacidade de armazenamento do processador, como ocorre com a velocidade de leitura dos discos.",
         "B": "processadores com mais núcleos sempre têm clock maior que os de menos núcleos.",
         "C": "o desempenho depende exclusivamente do clock, sendo irrelevante o número de núcleos.",
         "D": "o clock, medido em hertz (GHz), indica a frequência de ciclos, e a existência de vários núcleos permite executar tarefas em paralelo.",
@@ -313,7 +313,7 @@
         "B": "utiliza parte do armazenamento secundário como extensão da RAM, sendo mais lenta que a memória física.",
         "C": "armazena permanentemente os arquivos do usuário na nuvem.",
         "D": "só pode ser usada em computadores sem disco rígido ou SSD.",
-        "E": "amplia fisicamente a RAM por meio de módulos adicionais instalados na placa-mãe."
+        "E": "amplia fisicamente a RAM por meio de módulos adicionais instalados na placa-mãe, sendo mais rápida que a memória principal."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -346,7 +346,7 @@
         "B": "DVD, Blu-ray e CD.",
         "C": "CD (cerca de 700 MB), DVD (cerca de 4,7 GB) e Blu-ray (cerca de 25 GB).",
         "D": "Blu-ray, DVD e CD.",
-        "E": "DVD, CD e Blu-ray."
+        "E": "DVD, CD e Blu-ray, em função da capacidade de camada simples, e não de camada dupla."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -376,7 +376,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "USB é interface exclusiva para vídeo analógico em monitores antigos.",
-        "B": "VGA transmite vídeo digital e áudio no mesmo cabo, sendo a sucessora da HDMI.",
+        "B": "VGA transmite vídeo digital e áudio no mesmo cabo, sendo a sucessora da HDMI, e carrega energia para o monitor sem cabo adicional.",
         "C": "HDMI transmite apenas vídeo analógico, sem suporte a áudio.",
         "D": "RJ-45 é a principal interface de vídeo digital para monitores.",
         "E": "HDMI transmite áudio e vídeo digitais em um único cabo, enquanto a VGA transmite apenas vídeo analógico."
@@ -412,7 +412,7 @@
         "B": "HDD, por possuir discos giratórios que o tornam mais resistente a quedas.",
         "C": "HDD, por ser mais rápido que o SSD em leitura e gravação.",
         "D": "CD-ROM interno, por ser regravável e de alta capacidade.",
-        "E": "pen drive como único armazenamento do sistema, por ser mais rápido que o SSD interno."
+        "E": "pen drive como único armazenamento do sistema, por ser mais rápido que o SSD interno, conforme as especificações do fabricante."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -476,7 +476,7 @@
       "alternativas": {
         "A": "a arquitetura define a velocidade do disco rígido, e não a memória endereçável.",
         "B": "os dois tipos de sistema endereçam exatamente a mesma quantidade de memória.",
-        "C": "sistemas de 64 bits têm limite de 4 GB de RAM, e os de 32 bits suportam terabytes.",
+        "C": "sistemas de 64 bits têm limite de 4 GB de RAM, e os de 32 bits suportam terabytes, conforme a configuração padrão dos processadores atuais.",
         "D": "a arquitetura de 32 bits é mais moderna e substituiu a de 64 bits.",
         "E": "sistemas de 32 bits endereçam, em regra, no máximo 4 GB de memória RAM, ao passo que os de 64 bits suportam quantidade muito maior."
       },
@@ -544,7 +544,7 @@
         "B": "trocar o processador por outro de maior clock, pois a CPU é o gargalo.",
         "C": "substituir o monitor, pois sua resolução limita o desempenho da memória virtual.",
         "D": "aumentar a capacidade do pen drive, pois ele é a memória principal do sistema.",
-        "E": "desativar a memória cache do processador, para liberar espaço para o arquivo de paginação."
+        "E": "desativar a memória cache do processador, para liberar espaço para o arquivo de paginação, reduzindo o consumo de memória física."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -675,7 +675,7 @@
         "A": "serve apenas para criar documentos de texto e planilhas.",
         "B": "só pode ser instalado depois dos aplicativos, que dependem dele para serem criados.",
         "C": "substitui o hardware, dispensando a necessidade de processador e memória.",
-        "D": "é um programa de proteção contra vírus, não sendo necessário ao funcionamento do computador.",
+        "D": "é um programa de proteção contra vírus, não sendo necessário ao funcionamento do computador, razão pela qual pode ser dispensado em computadores modernos.",
         "E": "gerencia os recursos de hardware e fornece a base sobre a qual os aplicativos são executados."
       },
       "resposta_correta": "E",
@@ -708,7 +708,7 @@
         "A": "usar o programa apenas por trinta dias, mediante pagamento posterior.",
         "B": "executar o programa para qualquer propósito, estudar e modificar o código-fonte, redistribuir cópias e distribuir versões modificadas.",
         "C": "usar o programa somente em um computador, vedada a redistribuição.",
-        "D": "modificar o programa, desde que o código-fonte permaneça fechado e sob propriedade exclusiva do fabricante.",
+        "D": "modificar o programa, desde que o código-fonte permaneça fechado e sob propriedade exclusiva do fabricante, vedada a redistribuição de cópias a terceiros.",
         "E": "usar o programa gratuitamente, sem acesso ao código-fonte."
       },
       "resposta_correta": "B",
@@ -741,7 +741,7 @@
         "A": "distribuído gratuitamente para uso, em regra sem acesso ao código-fonte e sem garantir as liberdades do software livre.",
         "B": "vendido apenas por assinatura mensal.",
         "C": "obtido apenas em mídias físicas, como CD e DVD.",
-        "D": "distribuído com o código-fonte aberto para estudo e modificação, como todo software livre.",
+        "D": "distribuído com o código-fonte aberto para estudo e modificação, como todo software livre, sem direito autoral reconhecido ao autor.",
         "E": "disponibilizado por período de teste, findo o qual exige pagamento."
       },
       "resposta_correta": "A",
@@ -773,7 +773,7 @@
       "alternativas": {
         "A": "é o software embutido na ROM do equipamento.",
         "B": "é obrigatoriamente software livre, com código-fonte aberto.",
-        "C": "é distribuído exclusivamente de forma gratuita e ilimitada, sem qualquer restrição.",
+        "C": "é distribuído exclusivamente de forma gratuita e ilimitada, sem qualquer restrição, sendo vedada a cobrança em qualquer momento.",
         "D": "é aquele cujo uso é permitido apenas em computadores sem acesso à internet.",
         "E": "pode ser testado gratuitamente por tempo ou com recursos limitados, devendo-se adquirir a licença para uso integral."
       },
@@ -807,7 +807,7 @@
         "A": "permitem ao sistema operacional comunicar-se com um dispositivo de hardware, como uma impressora ou uma placa de vídeo.",
         "B": "protegem o computador contra vírus e programas maliciosos.",
         "C": "compactam arquivos para reduzir o espaço ocupado.",
-        "D": "traduzem o código-fonte de uma linguagem de programação para código de máquina.",
+        "D": "traduzem o código-fonte de uma linguagem de programação para código de máquina, sem relação com o hardware do computador ou com periféricos.",
         "E": "editam textos e planilhas."
       },
       "resposta_correta": "A",
@@ -873,7 +873,7 @@
         "A": "o compilador é um aplicativo de edição de textos usado para escrever o código-fonte.",
         "B": "o compilador traduz todo o código-fonte para código de máquina antes da execução, enquanto o interpretador traduz e executa o programa instrução por instrução.",
         "C": "o interpretador é um driver que habilita a impressora.",
-        "D": "o compilador executa o programa instrução por instrução, sem gerar executável, e o interpretador traduz todo o código antes da execução.",
+        "D": "o compilador executa o programa instrução por instrução, sem gerar executável, e o interpretador traduz todo o código antes da execução, segundo a doutrina clássica de linguagens.",
         "E": "tanto o compilador quanto o interpretador gravam o código na memória ROM do equipamento."
       },
       "resposta_correta": "B",
@@ -904,7 +904,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "é aplicável somente a software de domínio público.",
-        "B": "autoriza a livre instalação em qualquer número de computadores, sem restrição.",
+        "B": "autoriza a livre instalação em qualquer número de computadores, sem restrição, independentemente do equipamento em que foi originalmente instalada.",
         "C": "é, em regra, vinculada ao equipamento no qual o software foi originalmente instalado, não sendo transferível a outro computador.",
         "D": "é a licença que torna obrigatório o código-fonte aberto.",
         "E": "permite o uso do software por apenas trinta dias."
@@ -937,7 +937,7 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "proíbe o acesso ao código-fonte, protegendo a propriedade exclusiva do autor.",
-        "B": "permite que o derivado seja redistribuído como software proprietário, com código fechado.",
+        "B": "permite que o derivado seja redistribuído como software proprietário, com código fechado, afastando o acesso do usuário ao código-fonte original.",
         "C": "limita o uso do programa a um único computador.",
         "D": "exige que as versões modificadas e distribuídas do programa mantenham a mesma licença, preservando as liberdades do software livre.",
         "E": "restringe o uso do software a fins não comerciais."
@@ -969,7 +969,7 @@
       "enunciado": "<p>No modelo de software como serviço (SaaS), como o de aplicativos de escritório acessados por navegador e pagos por assinatura,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exige o pagamento de licença perpétua única, mesmo quando o acesso é feito apenas pelo navegador.",
+        "A": "exige o pagamento de licença perpétua única, mesmo quando o acesso é feito apenas pelo navegador, sem acesso a qualquer funcionalidade offline.",
         "B": "o aplicativo é executado no provedor e acessado pela internet, dispensando a instalação local completa e o licenciamento perpétuo.",
         "C": "o código-fonte do aplicativo é obrigatoriamente aberto ao usuário.",
         "D": "o aplicativo funciona exclusivamente como firmware gravado na ROM do equipamento.",
@@ -1004,7 +1004,7 @@
       "alternativas": {
         "A": "por volume, que autoriza múltiplas instalações conforme o número de licenças contratadas.",
         "B": "de teste (trial), que expira após o período de avaliação.",
-        "C": "de domínio público, que não exige contrato, mas o aplicativo seria proprietário.",
+        "C": "de domínio público, que não exige contrato, mas o aplicativo seria proprietário, cuja instalação independe de aquisição.",
         "D": "OEM, que acompanha cada equipamento adquirido e é transferível.",
         "E": "de uso individual, restrita a uma única instalação."
       },
@@ -1038,7 +1038,7 @@
         "A": "restringe-se a armazenar documentos do usuário em nuvem.",
         "B": "tem como única função proteger o computador contra vírus.",
         "C": "compila o código-fonte de todos os aplicativos antes de sua execução.",
-        "D": "é um aplicativo opcional, dispensável ao funcionamento do computador moderno.",
+        "D": "é um aplicativo opcional, dispensável ao funcionamento do computador moderno, cuja ausência não compromete a execução dos programas.",
         "E": "gerencia processos, memória, arquivos e dispositivos de entrada e saída, além de fornecer interface ao usuário."
       },
       "resposta_correta": "E",
@@ -1136,7 +1136,7 @@
       "alternativas": {
         "A": "só podem ser aplicadas em equipamentos sem conexão com a internet.",
         "B": "substituem a necessidade de antivírus e de backup.",
-        "C": "devem ser evitadas, pois sempre reduzem o desempenho do equipamento e não corrigem falhas.",
+        "C": "devem ser evitadas, pois sempre reduzem o desempenho do equipamento e não corrigem falhas, sendo recomendável adiar sua instalação por anos.",
         "D": "servem apenas para alterar a aparência dos ícones do sistema.",
         "E": "corrigem vulnerabilidades e falhas identificadas, reduzindo os riscos de exploração por programas maliciosos."
       },
@@ -1202,7 +1202,7 @@
       "alternativas": {
         "A": "é objeto de contrato de licença, e a tutela dos direitos relativos ao programa é assegurada pelo prazo de cinquenta anos.",
         "B": "independe de licença, pois todos os programas são de domínio público.",
-        "C": "é protegido pelo prazo de dez anos, findo o qual o programa se torna livre.",
+        "C": "é protegido pelo prazo de dez anos, findo o qual o programa se torna livre, contados da data de assinatura do contrato de licença.",
         "D": "é vedado a pessoas jurídicas de direito público.",
         "E": "só pode ocorrer com a entrega obrigatória do código-fonte ao usuário."
       },
@@ -1269,7 +1269,7 @@
         "A": "programas de 64 bits são obrigatoriamente software livre.",
         "B": "um sistema operacional de 64 bits consegue executar programas de 32 bits, mas um sistema de 32 bits não executa programas de 64 bits.",
         "C": "a arquitetura do programa independe da do processador e do sistema operacional.",
-        "D": "um sistema de 32 bits executa programas de 64 bits, mas o contrário não ocorre.",
+        "D": "um sistema de 32 bits executa programas de 64 bits, mas o contrário não ocorre, conforme a compatibilidade retroativa de todas as arquiteturas.",
         "E": "nenhum sistema de 64 bits executa programas de 32 bits."
       },
       "resposta_correta": "B",
@@ -1299,7 +1299,7 @@
       "enunciado": "<p>Sobre as noções de programa e processo, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "programa é uma parte do hardware gravada na ROM, e processo é uma parte da fonte de alimentação.",
+        "A": "programa é uma parte do hardware gravada na ROM, e processo é uma parte da fonte de alimentação, respectivamente, conforme a arquitetura do processador.",
         "B": "processo é um arquivo armazenado no disco, e programa é a execução desse arquivo na memória.",
         "C": "programa e processo são sinônimos, sem qualquer diferença técnica.",
         "D": "programa é um conjunto de instruções armazenado, e processo é o programa em execução, gerenciado pelo sistema operacional.",
