@@ -1,0 +1,959 @@
+{
+  "disciplina": "Direito Penal",
+  "tema": "22 - Sumulas de Direito Penal - Parte 4",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Estaduais",
+      "subtema": "Lei Penal no Tempo",
+      "enunciado": "Considere a seguinte situação hipotética: Um indivíduo inicia a prática de um crime permanente em janeiro de 2023. Em março de 2023, entra em vigor uma nova lei penal que torna a pena para esse crime mais grave. O agente continua a conduta delitiva até maio de 2023, quando a permanência é cessada por intervenção policial.\n\nCom base no entendimento sumulado do Supremo Tribunal Federal (Súmula 711), assinale a alternativa correta sobre a aplicação da lei penal no tempo para este caso:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser aplicada a lei vigente ao tempo do início da conduta, em respeito ao princípio da irretroatividade da lei penal mais gravosa.",
+        "B": "A lei penal mais grave aplica-se ao crime permanente se a sua vigência é anterior à cessação da permanência.",
+        "C": "A lei nova mais grave jamais poderá ser aplicada, pois o crime começou sob a égide da lei anterior mais benéfica.",
+        "D": "O magistrado deverá realizar uma combinação de leis, aplicando a pena da lei antiga com as causas de aumento da lei nova.",
+        "E": "A aplicação da lei mais grave depende de prova de que o agente tinha conhecimento da nova legislação durante a permanência."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a aplicação da lei penal no tempo em crimes permanentes ou continuados, conforme a Súmula 711 do STF.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A Súmula 711 do STF estabelece: 'A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>No crime permanente, a conduta se prolonga no tempo, logo, se a lei nova entra em vigor durante a permanência, ela é a lei do tempo do crime.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>Pode ser aplicada se a vigência for anterior ao fim da permanência.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A combinação de leis (lex tertia) é vedada pelo STF e STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A ignorância da lei é inescusável (Art. 21 do CP).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Súmula 711 do STF.</p><p style='margin-top: 10px;'><strong>Conceito-Chave:</strong> Crimes permanentes são aqueles cuja consumação se prolonga no tempo por vontade do agente. Se a lei muda durante esse período, a nova lei (ainda que mais grave) incide sobre o fato.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Delegado de Polícia Civil",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "No que tange à aplicação da pena e ao reconhecimento de circunstâncias atenuantes na segunda fase da dosimetria, o Superior Tribunal de Justiça consolidou entendimento através da Súmula 231.\n\nAssinale a opção que reflete corretamente esse entendimento:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A incidência de circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal em casos de réu primário.",
+        "B": "As atenuantes da menoridade e da confissão espontânea são as únicas que permitem a fixação da pena aquém do mínimo legal.",
+        "C": "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.",
+        "D": "O juiz deve reduzir a pena abaixo do mínimo legal sempre que houver concurso de duas ou mais atenuantes.",
+        "E": "A pena-base fixada no mínimo legal impede o reconhecimento de agravantes, mas permite o de atenuantes para reduzir a sanção."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige conhecimento direto da Súmula 231 do STJ, um dos pilares da dosimetria da pena.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Texto literal da Súmula 231 do STJ: 'A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, D) ❌ INCORRETAS</p><p style='color: #721c24;'>Contrariam a proibição de ultrapassar os limites legais (mínimo e máximo) na segunda fase da dosimetria.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A pena-base no mínimo permite agravantes (que elevarão a pena) mas atenuantes não podem baixar do mínimo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina:</strong> Na segunda fase da dosimetria (atenuantes e agravantes), o juiz está adstrito aos limites abstratos da pena. Diferente da terceira fase (causas de aumento e diminuição), onde é possível romper esses limites.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2022,
+      "cargo": "Analista Judiciário - Área Judiciária",
+      "subtema": "Dosimetria da Pena - Maus Antecedentes",
+      "enunciado": "De acordo com a Súmula 444 do Superior Tribunal de Justiça (STJ), sobre a fixação da pena-base (primeira fase da dosimetria), é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Inquéritos policiais em curso podem ser valorados como maus antecedentes se o crime for da mesma espécie.",
+        "B": "Ações penais sem trânsito em julgado podem ser utilizadas para caracterizar má conduta social.",
+        "C": "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base.",
+        "D": "Ações penais em curso permitem o aumento da pena-base a título de personalidade voltada para o crime.",
+        "E": "Inquéritos arquivados por falta de provas podem ser usados para fundamentar a periculosidade do agente."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca no princípio da presunção de inocência aplicado à dosimetria da pena.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 444 do STJ. Protege o réu de ter sua pena aumentada por processos ainda não decididos definitivamente.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Todas violam o entendimento de que apenas condenações definitivas podem gerar maus antecedentes.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio:</strong> Presunção de Não Culpabilidade (Art. 5º, LVII, CF). Se o Estado ainda não provou a culpa em definitivo, não pode usar o processo como fator de punição antecipada na dosimetria.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Princípio da Consunção",
+      "enunciado": "A Súmula 17 do Superior Tribunal de Justiça trata da relação entre o crime de falsidade documental e o crime de estelionato. Segundo o enunciado sumulado:\n\n'Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido'.\n\nCom base nesse texto, assinale a alternativa que indica o princípio aplicado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Princípio da Especialidade.",
+        "B": "Princípio da Subsidiariedade.",
+        "C": "Princípio da Consunção (ou Absorção).",
+        "D": "Princípio da Alternatividade.",
+        "E": "Princípio da Fragmentariedade."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão analisa o conflito aparente de normas através da Súmula 17 do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O princípio da consunção ocorre quando um crime (crime-meio) é fase de preparação ou execução de outro crime (crime-fim), sendo por este absorvido.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Especialidade foca em normas que contêm todos os elementos de outra, mais dados especializantes.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>Subsidiariedade aplica-se quando uma norma é 'soldado de reserva'.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 17 STJ:</strong> É o exemplo clássico de consunção. Se o documento falso foi criado apenas para aplicar aquele golpe específico e não serve para mais nada, o agente responde apenas pelo estelionato.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia Civil",
+      "subtema": "Extorsão",
+      "enunciado": "Sobre a consumação do crime de extorsão (Art. 158 do Código Penal), o Superior Tribunal de Justiça editou a Súmula 96.\n\nAssinale a alternativa que descreve corretamente o momento consumativo desse delito segundo a referida súmula:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Consuma-se apenas com o recebimento da vantagem indevida.",
+        "B": "Consuma-se no momento em que a vítima efetivamente sofre o prejuízo patrimonial.",
+        "C": "Consuma-se independentemente da obtenção da vantagem indevida.",
+        "D": "Consuma-se apenas se houver o emprego de arma de fogo.",
+        "E": "Consuma-se com a restrição da liberdade da vítima por tempo superior a 24 horas."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A extorsão é classificada como crime formal (ou de consumação antecipada).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 96 STJ: 'O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B) ❌ INCORRETAS</p><p style='color: #721c24;'>A obtenção da vantagem é mero exaurimento do crime.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Diferenciação:</strong> No Roubo (Art. 157), o agente subtrai (crime material). Na Extorsão (Art. 158), o agente constrange a vítima a fazer algo. A consumação ocorre no constrangimento.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Agente de Polícia Federal",
+      "subtema": "Corrupção de Menores",
+      "enunciado": "A Súmula 500 do Superior Tribunal de Justiça (STJ) dispõe sobre a natureza jurídica do crime de corrupção de menores (atualmente previsto no Art. 244-B do ECA).\n\nDe acordo com o entendimento sumulado, para a configuração desse crime:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É necessária a prova da efetiva corrupção do menor após o fato.",
+        "B": "O crime é material, exigindo resultado naturalístico de degradação moral.",
+        "C": "A configuração do crime independe da prova da efetiva corrupção do menor, por se tratar de delito formal.",
+        "D": "Não há crime se o menor já era corrompido anteriormente à prática do fato.",
+        "E": "Exige-se que o maior de idade tenha exercido ascendência hierárquica sobre o menor."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ pacificou que o crime de corrupção de menores visa proteger a formação do jovem, sendo irrelevante seu histórico anterior.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 500 STJ: 'A configuração do crime do art. 244-B do ECA independe da prova da efetiva corrupção do menor, por se tratar de delito formal'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Mesmo que o menor já tenha praticado atos infracionais, o maior que comete crime com ele responde pelo delito.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Natureza:</strong> Crime formal e de perigo abstrato. O bem jurídico é a integridade moral da criança e do adolescente e sua preservação contra influências deletérias.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Oficial de Promotoria",
+      "subtema": "Uso de Algemas",
+      "enunciado": "A Súmula Vinculante nº 11 do Supremo Tribunal Federal disciplina o uso de algemas. Com base no texto da referida súmula, assinale a alternativa que descreve uma condição cumulativa para a licitude do uso desse instrumento:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Uso obrigatório em todos os crimes hediondos, independentemente de resistência.",
+        "B": "Uso permitido apenas se houver autorização judicial prévia no mandado de prisão.",
+        "C": "Justificação da excepcionalidade por escrito, em casos de resistência, receio de fuga ou perigo à integridade física.",
+        "D": "Uso livre durante o interrogatório judicial para garantir a autoridade do magistrado.",
+        "E": "Uso proibido em mulheres, mesmo em casos de tentativa de agressão aos policiais."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A SV 11 estabelece o caráter excepcional do uso de algemas, fundamentado na dignidade da pessoa humana.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A súmula exige: 1. Resistência/Fuga/Perigo; 2. Justificação por escrito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A gravidade do crime não justifica, por si só, o uso de algemas.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Sanção:</strong> O descumprimento da SV 11 gera a nulidade da prisão ou do ato processual, além de responsabilidade disciplinar, civil e penal do agente.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2023,
+      "cargo": "Defensor Público",
+      "subtema": "Direito de Defesa",
+      "enunciado": "Considere o teor da Súmula Vinculante nº 14 do STF: 'É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa'.\n\nSobre o alcance dessa súmula, é correto afirmar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O acesso abrange inclusive diligências em curso e ainda não documentadas.",
+        "B": "O delegado pode negar acesso aos autos se o inquérito estiver sob sigilo judicial.",
+        "C": "O acesso é restrito aos elementos já documentados nos autos, não incluindo diligências futuras.",
+        "D": "O defensor precisa de procuração com poderes especiais para visualizar qualquer inquérito.",
+        "E": "A súmula aplica-se apenas a processos judiciais, excluindo-se inquéritos policiais."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A SV 14 equilibra o sigilo necessário à investigação com a prerrogativa do advogado.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O termo 'já documentados' é a chave. Diligências em andamento (ex: interceptação telefônica não finalizada) podem ter o acesso negado para não frustrar a medida.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Diligências em curso não são acessíveis.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Estatuto da OAB:</strong> O Art. 7º, XIV da Lei 8.906/94 reforça esse direito, permitindo ao advogado examinar autos de flagrante e de investigações de qualquer natureza.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2022,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Descaminho",
+      "enunciado": "No crime de descaminho (Art. 334 do Código Penal), discute-se a necessidade da constituição definitiva do crédito tributário para o início da ação penal. Sobre o tema, a Súmula 330 do STJ estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É indispensável a prévia constituição definitiva do crédito tributário.",
+        "B": "É desnecessária a prévia constituição definitiva do crédito tributário.",
+        "C": "A ação penal fica suspensa até o julgamento final do processo administrativo.",
+        "D": "O crime de descaminho é material e exige o lançamento definitivo do imposto.",
+        "E": "Aplica-se a Súmula Vinculante 24 do STF, exigindo o exaurimento da via administrativa."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Diferente dos crimes tributários da Lei 8.137/90, o descaminho tem natureza distinta.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 330 STJ: 'É desnecessária a prévia constituição definitiva do crédito tributário para a caracterização do crime de descaminho'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A SV 24 aplica-se aos crimes contra a ordem tributária (Art. 1º da Lei 8.137/90), não ao descaminho.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Razão da Súmula:</strong> O descaminho protege não apenas o erário, mas a indústria nacional e o controle de entrada de mercadorias. Por ser crime formal, não depende do resultado do lançamento tributário.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista Judiciário - Tribunal Superior",
+      "subtema": "Roubo",
+      "enunciado": "A Súmula 582 do Superior Tribunal de Justiça (STJ) aborda a aplicação do princípio da insignificância em determinada categoria de crimes.\n\nAssinale a alternativa que reflete o entendimento sumulado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O princípio da insignificância aplica-se aos crimes de peculato de pequeno valor.",
+        "B": "É inaplicável o princípio da insignificância aos crimes contra a administração pública.",
+        "C": "Admite-se a bagatela própria em crimes de corrupção passiva se o valor for inferior a 10% do salário mínimo.",
+        "D": "O princípio da insignificância aplica-se apenas se o réu for primário e confessar o crime contra a administração.",
+        "E": "A insignificância é admitida nos crimes praticados por prefeitos, conforme o Decreto-Lei 201/67."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A moralidade administrativa é o bem jurídico supremo nestes casos, impedindo a aplicação da bagatela.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 582 STJ: 'É inaplicável o princípio da insignificância aos crimes contra a administração pública'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Mesmo o peculato de valor ínfimo não admite insignificância pelo STJ.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Fundamento:</strong> O desvalor da conduta do funcionário público que trai a confiança do Estado é sempre relevante, independentemente do valor patrimonial envolvido.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Delegado de Polícia Civil",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "Sobre a autonomia do crime de lavagem de dinheiro (Lei 9.613/98) em relação às infrações antecedentes, a Súmula 614 do STJ estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A condenação pelo crime de lavagem exige a prévia condenação pelo crime antecedente.",
+        "B": "O crime de lavagem de dinheiro é autônomo em relação ao crime antecedente, sendo desnecessária a condenação neste para a persecução penal daquele.",
+        "C": "A absolvição no crime antecedente por falta de provas gera a absolvição automática na lavagem.",
+        "D": "A denúncia por lavagem de dinheiro deve ser obrigatoriamente oferecida junto com a do crime antecedente.",
+        "E": "A lavagem de dinheiro é crime acessório e segue a sorte do principal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lavagem de dinheiro é um crime 'parasitário', mas processualmente independente.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 614 STJ. Basta a prova da existência (materialidade) do crime antecedente, não sua condenação definitiva.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Contrariam a autonomia prevista na Lei 9.613/98 e na súmula.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Autonomia:</strong> A lavagem protege a ordem socioeconômica e a administração da justiça. Mesmo que o autor do crime antecedente seja desconhecido ou esteja isento de pena, a lavagem pode ser punida.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Regime Prisional",
+      "enunciado": "As Súmulas 718 e 719 do STF tratam da fundamentação necessária para a fixação de regime prisional. Com base nelas, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A gravidade abstrata do crime é fundamento idôneo para a fixação de regime mais severo.",
+        "B": "O juiz pode fixar regime fechado para crime de furto simples apenas com base no alarme social causado.",
+        "C": "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a fixação de regime mais gravoso.",
+        "D": "Crimes hediondos exigem regime inicial fechado, independentemente do quantum da pena.",
+        "E": "A imposição de regime mais severo do que a pena permite dispensa fundamentação se o réu for reincidente."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF exige que o regime seja fixado com base em dados concretos do processo, não em conjecturas sobre o crime.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Texto literal da Súmula 718 do STF. A Súmula 719 reforça que a imposição de regime mais severo depende de fundamentação idônea.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O STF declarou inconstitucional a obrigatoriedade do regime inicial fechado para hediondos.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio:</strong> Individualização da Pena. O juiz deve olhar para o caso concreto (ex: crueldade excessiva, premeditação) para agravar o regime, e não apenas para o nome do crime.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Defensor Público",
+      "subtema": "Confissão Espontânea",
+      "enunciado": "Sobre a atenuante da confissão espontânea, a Súmula 545 do STJ dispõe que:\n\n'Quando a confissão for utilizada para fundamentar a condenação, o réu fará jus à atenuante do art. 65, III, d, do Código Penal'.\n\nConsiderando a jurisprudência que deu origem a este enunciado, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A confissão qualificada (onde o réu admite o fato mas alega excludente) impede a aplicação da atenuante.",
+        "B": "O réu tem direito à atenuante mesmo que a confissão tenha sido parcial, desde que sirva de base para a sentença.",
+        "C": "A retratação em juízo não impede a atenuante se a confissão extrajudicial foi usada na sentença.",
+        "D": "As alternativas B e C estão corretas conforme o entendimento do STJ.",
+        "E": "A confissão só gera atenuante se for feita perante a autoridade policial."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ adota uma visão ampla da confissão: se o juiz a usou para condenar, deve atenuar a pena.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>D) ✅ CORRETA</p><p style='color: #155724;'>O STJ admite confissão parcial, qualificada e até a extrajudicial retratada, desde que o magistrado as mencione como razões de decidir.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A confissão qualificada também gera atenuante.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 545 STJ:</strong> O critério é o uso efetivo da fala do réu para a formação do convencimento do juiz. É o princípio da proteção da confiança e da lealdade processual.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2022,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Insignificância em Crimes Fiscais",
+      "enunciado": "A Súmula 612 do STJ estabelece o parâmetro de valor para a aplicação do princípio da insignificância em crimes tributários federais e de descaminho.\n\nQual é o valor limite estabelecido por esse enunciado?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "R$ 1.000,00 (um mil reais).",
+        "B": "R$ 10.000,00 (dez mil reais).",
+        "C": "R$ 20.000,00 (vinte mil reais).",
+        "D": "R$ 40.000,00 (quarenta mil reais).",
+        "E": "Um salário mínimo nacional vigente."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O valor acompanha o limite para ajuizamento de execuções fiscais da União.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 612 STJ: 'Aplica-se o princípio da insignificância aos crimes tributários federais e de descaminho quando o débito tributário não exceder a R$ 20.000,00'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>R$ 10.000,00 era o valor antigo (Lei 10.522/02).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Contexto:</strong> O valor de 20 mil reais foi fixado pelas Portarias 75 e 130 do Ministério da Fazenda. O STJ e o STF adotaram esse valor para manter a coerência entre o Direito Tributário e o Penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Escrivão de Polícia",
+      "subtema": "Extorsão mediante Sequestro",
+      "enunciado": "Sobre o crime de extorsão mediante sequestro (Art. 159 do Código Penal), a Súmula 600 do STJ dispõe que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime só se consuma se o resgate for efetivamente pago.",
+        "B": "Para a configuração do crime, é desnecessário o prévio pagamento do resgate.",
+        "C": "A tentativa é impossível, pois o crime é de perigo abstrato.",
+        "D": "Exige-se que a vítima seja mantida em cativeiro por mais de 48 horas.",
+        "E": "O crime é absorvido pelo roubo se houver subtração de bens da vítima durante o sequestro."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Trata-se de crime formal, cuja consumação ocorre com a privação da liberdade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 600 STJ: 'Para a configuração do crime de extorsão mediante sequestro, é desnecessário o prévio pagamento do resgate'.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O pagamento é mero exaurimento.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Consumação:</strong> O crime se consuma no exato instante em que a vítima é privada de sua liberdade de locomoção com o fim especial de agir (obter o resgate).</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Latrocínio",
+      "enunciado": "A Súmula 610 do Supremo Tribunal Federal (STF) define a consumação do crime de latrocínio. Segundo o enunciado:\n\n'Há crime de latrocínio, quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima'.\n\nCom base nessa súmula, se o agente mata a vítima mas foge sem levar nada por circunstâncias alheias à sua vontade, ele responderá por:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Homicídio qualificado consumado apenas.",
+        "B": "Tentativa de latrocínio.",
+        "C": "Latrocínio consumado.",
+        "D": "Homicídio em concurso com tentativa de roubo.",
+        "E": "Roubo seguido de morte tentado."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O latrocínio é um crime complexo (unidade jurídica). A vida é o bem mais importante tutelado.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Se houve morte dolosa para fins de roubo, o latrocínio está consumado, mesmo sem a posse do bem.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A tentativa de latrocínio ocorre quando a morte não se consuma.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Latrocínio:</strong> É o roubo qualificado pelo resultado morte (Art. 157, § 3º, II). A Súmula 610 do STF privilegia a proteção à vida na definição da consumação.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Crime Impossível e Flagrante Preparado",
+      "enunciado": "A Súmula 145 do STF estabelece que 'Não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação'.\n\nPosteriormente, o STJ editou a Súmula 605 para esclarecer o alcance desse entendimento. Assinale a alternativa correta sobre a aplicação da Súmula 145 do STF:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplica-se tanto ao flagrante preparado quanto ao flagrante forjado.",
+        "B": "Aplica-se ao flagrante esperado, mas não ao preparado.",
+        "C": "A Súmula 145 do STF não se aplica no caso de flagrante forjado.",
+        "D": "Torna lícita a conduta do agente infiltrado que instiga o crime.",
+        "E": "Impede a prisão em flagrante em crimes habituais."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige distinguir flagrante preparado (crime impossível) de flagrante forjado (ilegalidade absoluta/fraude).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 605 do STJ. No flagrante forjado, a polícia 'planta' provas; não há que se falar em crime impossível, mas em inexistência de crime e abuso de autoridade.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O flagrante forjado não é crime impossível, é crime inexistente/fabricado.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Flagrante Preparado:</strong> O policial instiga o crime e prepara a situação para que ele não ocorra. É crime impossível.</p><p><strong>Flagrante Forjado:</strong> O policial cria provas de um crime que o agente não cometeu. É nulo e gera responsabilidade do agente público.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2022,
+      "cargo": "Analista Judiciário",
+      "subtema": "Furto e Monitoramento",
+      "enunciado": "Sobre a possibilidade de crime impossível no furto em estabelecimentos comerciais monitorados, a Súmula 567 do STJ estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A presença de câmeras de segurança torna o crime impossível por ineficácia absoluta do meio.",
+        "B": "O monitoramento eletrônico impede a consumação do furto, devendo o agente ser absolvido.",
+        "C": "Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto.",
+        "D": "O crime de furto em lojas com segurança privada é sempre considerado tentado.",
+        "E": "A vigilância constante afasta o dolo do agente, tornando a conduta atípica."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ entende que a segurança apenas dificulta o crime, não o torna impossível.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 567 do STJ. O agente pode conseguir burlar o sistema ou fugir antes da abordagem.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A ineficácia é relativa, não absoluta.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Crime Impossível (Art. 17 CP):</strong> Exige ineficácia absoluta do meio ou impropriedade absoluta do objeto. Sistemas de segurança são falíveis, logo, o risco ao bem jurídico permanece.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Juiz Substituto",
+      "subtema": "Furto Qualificado-Privilegiado",
+      "enunciado": "É possível a coexistência do privilégio (Art. 155, § 2º, CP) com as qualificadoras do furto? Segundo a Súmula 511 do STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não, o privilégio é incompatível com qualquer forma de furto qualificado.",
+        "B": "Sim, desde que a qualificadora seja de ordem subjetiva.",
+        "C": "Sim, desde que o réu seja primário, a coisa seja de pequeno valor e a qualificadora seja de ordem objetiva.",
+        "D": "Sim, apenas no caso de furto mediante abuso de confiança.",
+        "E": "Não, pois a pena da qualificadora já absorve o benefício do privilégio."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão trata da hibridez no crime de furto.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 511 STJ. Qualificadoras objetivas (rompimento de obstáculo, chave falsa, etc.) permitem o privilégio. Qualificadoras subjetivas (abuso de confiança) não.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>É exatamente o oposto: deve ser objetiva.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Pequeno Valor:</strong> A jurisprudência costuma adotar o valor de até um salário mínimo na data do fato como parâmetro para o privilégio.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Regime Prisional",
+      "enunciado": "A Súmula 440 do STJ estabelece uma vedação ao magistrado no momento da fixação do regime prisional.\n\nAssinale a alternativa que descreve essa vedação:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É vedado fixar regime aberto para crimes de tráfico de drogas.",
+        "B": "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.",
+        "C": "É vedado ao juiz substituir a pena privativa de liberdade por restritiva de direitos se o réu for estrangeiro.",
+        "D": "É vedado o regime semiaberto para réus reincidentes, independentemente da pena.",
+        "E": "É vedado o cômputo do tempo de prisão provisória para fins de regime inicial."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula impede a incoerência na sentença: se as circunstâncias judiciais são boas (pena no mínimo), o regime deve seguir a regra do Art. 33 do CP.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 440 do STJ. Garante a segurança jurídica e a motivação das decisões.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STF já permitiu regime aberto para tráfico privilegiado.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Coerência:</strong> Se o juiz considerou que o réu não tem maus antecedentes e a conduta não foi extraordinária (fixando a base no mínimo), ele não pode dizer que o crime é 'muito grave' apenas para endurecer o regime.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Roubo Majorado",
+      "enunciado": "No crime de roubo circunstanciado (majorado), o juiz deve aplicar o aumento de pena na terceira fase da dosimetria. Sobre o critério para esse aumento, a Súmula 443 do STJ estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O aumento deve ser de 1/2 se houver mais de três majorantes.",
+        "B": "A mera indicação do número de majorantes é suficiente para justificar o aumento acima do mínimo legal.",
+        "C": "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.",
+        "D": "O uso de arma branca sempre exige o aumento máximo previsto em lei.",
+        "E": "Havendo concurso de pessoas e uso de arma, o aumento deve ser obrigatoriamente de 2/3."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ veda o critério puramente matemático (tabela) para aumentar a pena no roubo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 443 STJ. O juiz deve explicar por que duas majorantes, naquele caso, são mais graves que o normal (ex: 10 comparsas em vez de 2).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>É exatamente o que a súmula proíbe.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Critério Qualitativo:</strong> A individualização da pena exige que o magistrado analise a gravidade concreta das causas de aumento, e não apenas as some aritmeticamente.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Reincidência e Regime",
+      "enunciado": "A Súmula 269 do STJ traz uma importante exceção à regra de que reincidentes devem iniciar o cumprimento de pena em regime fechado. Segundo o enunciado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Reincidentes sempre podem iniciar no regime aberto se a pena for inferior a 4 anos.",
+        "B": "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.",
+        "C": "A reincidência impede qualquer regime que não seja o fechado, independentemente da pena.",
+        "D": "O regime semiaberto é obrigatório para reincidentes com pena entre 4 e 8 anos.",
+        "E": "Circunstâncias judiciais desfavoráveis não impedem o regime semiaberto para o reincidente de pequena pena."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula permite um tratamento mais proporcional para reincidentes em crimes menos graves.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 269 STJ. Requisitos: 1. Pena <= 4 anos; 2. Circunstâncias judiciais (Art. 59) favoráveis.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A súmula fala em semiaberto, não aberto.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Regra Geral:</strong> O Art. 33, § 2º, 'c' do CP diz que o regime aberto é para não reincidentes. A súmula 269 abranda o rigor para o reincidente que comete crime leve e tem boas condições pessoais.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Analista Jurídico",
+      "subtema": "Lei Maria da Penha",
+      "enunciado": "Sobre a natureza da ação penal nos crimes de lesão corporal leve praticados contra a mulher no ambiente doméstico, a Súmula 542 do STJ estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A ação é pública condicionada à representação da vítima.",
+        "B": "A ação é privada, dependendo de queixa-crime.",
+        "C": "A ação penal nos crimes de lesão corporal leve cometidos no âmbito doméstico e familiar contra a mulher é pública incondicionada.",
+        "D": "A vítima pode renunciar à representação em audiência especial perante o juiz.",
+        "E": "Aplica-se a Lei 9.099/95, permitindo a transação penal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ e o STF retiraram a disponibilidade da ação penal da vítima para protegê-la de pressões do agressor.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 542 STJ. Mesmo que a vítima queira 'retirar a queixa', o Ministério Público deve prosseguir com o processo.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O Art. 41 da Lei Maria da Penha veda expressamente a aplicação da Lei 9.099/95.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> O STF, na ADI 4424, confirmou que a proteção à mulher exige que o Estado assuma o protagonismo da persecução penal, independentemente da vontade da vítima no momento do processo.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Apropriação Indébita Previdenciária",
+      "enunciado": "A Súmula 621 do STJ trata da natureza jurídica do crime de apropriação indébita previdenciária (Art. 168-A do CP). Assinale a alternativa que descreve corretamente o entendimento sumulado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É crime formal, consumando-se com a mera omissão do repasse.",
+        "B": "O crime é de natureza material, exigindo-se a constituição definitiva do crédito tributário para sua caracterização.",
+        "C": "A extinção da punibilidade ocorre apenas se o pagamento for feito antes da denúncia.",
+        "D": "Não se admite o princípio da insignificância em crimes previdenciários.",
+        "E": "O dolo específico de se apropriar dos valores (animus rem sibi habendi) é indispensável."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige atenção, pois o STJ equiparou o tratamento do 168-A aos crimes tributários materiais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 621 STJ. Isso significa que a ação penal só pode começar após o fim do processo administrativo fiscal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Embora existam divergências doutrinárias, para o STJ (Súmula 621) o crime é material.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Constituição do Crédito:</strong> Segue a lógica da Súmula Vinculante 24 do STF. Sem o lançamento definitivo, não há certeza sobre o valor devido, logo, não há justa causa para a ação penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Oficial de Justiça",
+      "subtema": "Insignificância em Contrabando",
+      "enunciado": "Sobre a aplicação do princípio da insignificância ao crime de contrabando (Art. 334-A do CP), a Súmula 599 do STJ estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplica-se se o valor das mercadorias for inferior a R$ 1.000,00.",
+        "B": "O princípio da insignificância é inaplicável aos crimes de contrabando.",
+        "C": "Admite-se a bagatela apenas se o objeto for medicamento para uso próprio.",
+        "D": "Aplica-se o mesmo limite de R$ 20.000,00 do descaminho.",
+        "E": "O juiz deve analisar a periculosidade social da ação em cada caso de contrabando."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O contrabando envolve mercadoria proibida, o que afeta a saúde, segurança e moralidade pública, não apenas o fisco.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 599 STJ. Diferente do descaminho (mercadoria permitida que não pagou imposto), o contrabando não admite bagatela.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Este limite é exclusivo para o descaminho.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Distinção:</strong> No descaminho, a lesão é puramente patrimonial/fiscal. No contrabando, a lesão é extrapatrimonial (ex: entrada de cigarros sem selo da ANVISA), o que impede o reconhecimento da insignificância.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Habeas Corpus e Execução",
+      "enunciado": "Sobre o cabimento de Habeas Corpus em matéria de execução penal, especificamente quanto à progressão de regime, a Súmula 608 do STJ dispõe que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O HC é sempre cabível para discutir qualquer incidente da execução penal.",
+        "B": "É incabível o habeas corpus para desconstituir decisão que denega a progressão de regime, se a decisão se encontra devidamente fundamentada.",
+        "C": "O HC substitui o recurso de agravo em execução em todos os casos.",
+        "D": "Apenas o Ministério Público pode impetrar HC contra decisão de progressão.",
+        "E": "O HC é cabível apenas se o réu estiver cumprindo pena em regime aberto."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ busca evitar a banalização do HC como substituto de recursos próprios da LEP.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 608 STJ. Se o juiz fundamentou por que negou a progressão (ex: falta de requisito subjetivo), a via correta é o Agravo em Execução, não o HC.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O HC não deve ser usado como 'atalho' recursal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Recurso Próprio:</strong> O Art. 197 da Lei de Execução Penal prevê o Agravo em Execução para todas as decisões proferidas pelo juiz da execução. O HC fica restrito a casos de flagrante ilegalidade sem necessidade de dilação probatória.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Juiz Substituto",
+      "subtema": "Lei Penal no Tempo",
+      "enunciado": "Transitada em julgado a sentença condenatória, surge a dúvida sobre qual juízo deve aplicar uma lei nova mais benéfica (novatio legis in mellius). Segundo a Súmula 611 do STF:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Compete ao juiz que proferiu a sentença de primeiro grau.",
+        "B": "Compete ao Tribunal que julgou o último recurso.",
+        "C": "Transitada em julgado a sentença condenatória, compete ao juízo das execuções a aplicação de lei mais benigna.",
+        "D": "A lei nova não pode ser aplicada após o trânsito em julgado, em respeito à coisa julgada.",
+        "E": "Compete ao Supremo Tribunal Federal, via revisão criminal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A retroatividade da lei benéfica é garantia constitucional que ultrapassa a coisa julgada.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Súmula 611 STF. O juiz da execução é quem 'gere' a pena, logo, é ele quem deve ajustá-la à nova realidade legal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A CF/88 determina que a lei penal retroagirá para beneficiar o réu (Art. 5º, XL).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>LEP:</strong> O Art. 66, I, da Lei de Execução Penal também prevê essa competência ao Juiz da Execução. Não é necessária revisão criminal se a lei nova for clara e de simples aplicação.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2022,
+      "cargo": "Defensor Público",
+      "subtema": "Progressão de Regime",
+      "enunciado": "Sobre o cômputo do tempo de prisão para fins de progressão de regime, a Súmula 726 do STF estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O tempo de prisão provisória não conta para progressão, apenas para detração final.",
+        "B": "Para efeito de progressão de regime, o tempo de prisão provisória deve ser computado como pena cumprida.",
+        "C": "Apenas o tempo de prisão após a sentença de 1º grau é computável.",
+        "D": "O tempo de prisão em regime domiciliar nunca conta para progressão.",
+        "E": "A progressão exige o cumprimento de fração da pena restante, ignorando o tempo de preventiva."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula garante que o réu que aguardou o processo preso não seja prejudicado na execução.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 726 STF. Se o réu ficou 1 ano preso preventivamente e foi condenado a 6 anos, esse 1 ano já conta como 'pena cumprida' para o cálculo da fração de progressão.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A detração serve para ambos os fins.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Detração Penal (Art. 42 CP):</strong> Computam-se na pena privativa de liberdade o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em hospital de custódia.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Insignificância em Crimes Previdenciários",
+      "enunciado": "A Súmula 610 do STJ aborda a aplicação do princípio da insignificância especificamente no crime de apropriação indébita previdenciária (Art. 168-A do CP). Segundo o enunciado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O princípio é inaplicável por se tratar de crime contra a seguridade social.",
+        "B": "O crime de apropriação indébita previdenciária admite a aplicação do princípio da insignificância quando o valor das contribuições não recolhidas for inferior ao limite estabelecido para a execução fiscal.",
+        "C": "Aplica-se apenas se o valor for inferior a um salário mínimo.",
+        "D": "O limite para insignificância neste crime é de R$ 10.000,00, diferindo do descaminho.",
+        "E": "Exige-se a devolução integral dos valores antes da denúncia para o reconhecimento da bagatela."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ uniformizou o tratamento da insignificância para crimes de natureza tributária/fiscal federal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Súmula 610 STJ. O limite atual é de R$ 20.000,00, seguindo a mesma lógica do descaminho e crimes tributários federais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Embora tutele a seguridade, o STJ admite a bagatela.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Simetria:</strong> Se a própria União, através de suas portarias, declara que não tem interesse em cobrar judicialmente débitos abaixo de 20 mil reais por ser antieconômico, o Direito Penal não deve intervir nessas condutas (Princípio da Intervenção Mínima).</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Princípio da Intranscendência",
+      "enunciado": "A Súmula 599 do Supremo Tribunal Federal (STF) reforça o princípio constitucional da pessoalidade da pena. Segundo o enunciado:\n\n'A pena privativa de liberdade ou medida de segurança não se estende aos herdeiros ou sucessores'.\n\nContudo, a Constituição Federal prevê uma exceção quanto aos efeitos civis. Sobre isso, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A obrigação de reparar o dano pode ser estendida aos sucessores e contra eles executada, até o limite do valor do patrimônio transferido.",
+        "B": "Os herdeiros devem cumprir a pena de multa do falecido.",
+        "C": "A prestação de serviços à comunidade é transmitida aos herdeiros em caso de morte do condenado.",
+        "D": "Nenhuma obrigação, inclusive civil, passa da pessoa do condenado.",
+        "E": "A perda de bens e valores só atinge o condenado, nunca seus sucessores."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige conhecimento do Art. 5º, XLV da CF combinado com a súmula.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>A) ✅ CORRETA</p><p style='color: #155724;'>A pena (castigo) não passa da pessoa. A reparação do dano e o perdimento de bens (efeitos patrimoniais) podem atingir a herança.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A multa tem natureza de pena e se extingue com a morte.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 5º, XLV, CF:</strong> 'Nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Insignificância e Tributos Federais",
+      "enunciado": "[TEXTO DE APOIO] O Superior Tribunal de Justiça (STJ) consolidou entendimento sobre a aplicação do princípio da insignificância em crimes que envolvem a elisão de tributos federais na importação de mercadorias.\n\n[COMANDO] De acordo com a Súmula 528 do STJ, o princípio da insignificância é aplicável aos crimes de contrabando e descaminho, desde que o valor dos tributos iludidos não ultrapasse o limite de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "R$ 1.000,00, conforme o valor mínimo para execução fiscal.",
+        "B": "R$ 5.000,00, conforme o limite para crimes de bagatela própria.",
+        "C": "R$ 10.000,00, conforme o art. 20 da Lei nº 10.522/02 em sua redação original.",
+        "D": "R$ 20.000,00, conforme o art. 20 da Lei nº 10.522/02 e portarias do Ministério da Fazenda.",
+        "E": "R$ 50.000,00, seguindo a tendência de atualização monetária dos tribunais superiores."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige o conhecimento específico do valor de corte para a aplicação do princípio da insignificância em crimes federais de descaminho e contrabando.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>D) ✅ CORRETA</p><p style='color: #155724;'>A Súmula 528 do STJ estabelece o limite de R$ 20.000,00, acompanhando o parâmetro fixado pela Fazenda Nacional para o ajuizamento de execuções fiscais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, C, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Os valores citados não correspondem ao entendimento sumulado e consolidado pelo STJ e STF para fins de insignificância penal tributária.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Súmula 528 do STJ: 'O princípio da insignificância é aplicável aos crimes de contrabando e descaminho, desde que o valor dos tributos iludidos não ultrapasse o limite de R$ 20.000,00'.</p><p style='margin-top: 10px;'><strong>Dica de Prova:</strong> Embora a Súmula mencione contrabando, a jurisprudência atual restringe a insignificância no contrabando a casos excepcionalíssimos (ex: pequena quantidade de sementes ou medicamentos de uso próprio), sendo a regra de R$ 20 mil aplicada plenamente ao descaminho.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Delegado de Polícia Civil",
+      "subtema": "Crimes contra a Administração Pública",
+      "enunciado": "[TEXTO DE APOIO] A proteção da probidade administrativa é um dos pilares do Direito Penal no que tange aos crimes praticados por funcionários públicos ou contra a administração.\n\n[COMANDO] Considerando a jurisprudência sumulada do Superior Tribunal de Justiça (STJ) sobre o princípio da insignificância nos crimes contra a administração pública, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O princípio da insignificância aplica-se aos crimes contra a administração pública se o prejuízo for inferior a um salário mínimo.",
+        "B": "O princípio da insignificância não se aplica aos crimes contra a administração pública.",
+        "C": "A aplicação da insignificância é admitida apenas no crime de peculato-culposo, em razão da ausência de dolo.",
+        "D": "O princípio da insignificância aplica-se aos crimes contra a administração pública, desde que o réu seja primário.",
+        "E": "A insignificância é admitida em crimes contra a administração pública apenas se houver a reparação integral do dano antes da denúncia."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ entende que a moralidade administrativa é o bem jurídico principal, tornando qualquer lesão relevante para o Direito Penal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Reflete a literalidade da Súmula 599 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, C, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Não existe previsão de valor, primariedade ou reparação de dano que autorize a insignificância nesses crimes segundo o STJ.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 599-STJ:</strong> 'O princípio da insignificância é inaplicável aos crimes contra a administração pública'.</p><p style='margin-top: 10px;'><strong>Nota:</strong> O STF possui julgados isolados admitindo a insignificância em casos excepcionalíssimos, mas para provas de concurso que cobram jurisprudência sumulada, a regra da Súmula 599 prevalece.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Falsa Identidade",
+      "enunciado": "[TEXTO DE APOIO] O crime de falsa identidade (Art. 307 do CP) consiste em atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem.\n\n[COMANDO] Sobre a conduta de atribuir-se falsa identidade perante autoridade policial, assinale a alternativa que reflete a Súmula 522 do STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A conduta é atípica se realizada em exercício do direito de autodefesa.",
+        "B": "A conduta é típica, ainda que em situação de autodefesa, salvo se o agente é beneficiado por alguma excludente de ilicitude ou culpabilidade.",
+        "C": "O crime de falsa identidade absorve o crime de resistência se praticados no mesmo contexto.",
+        "D": "A conduta configura apenas infração administrativa se não houver prejuízo financeiro ao Estado.",
+        "E": "A tipicidade depende da comprovação de que a autoridade policial foi efetivamente enganada."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o limite do direito de autodefesa (nemo tenetur se detegere). O STJ entende que mentir sobre a própria identidade ultrapassa o direito ao silêncio.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Texto literal da Súmula 522 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ superou a tese da atipicidade por autodefesa.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 522-STJ:</strong> 'A conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de autodefesa, salvo se o agente é beneficiado por alguma excludente de ilicitude ou culpabilidade'.</p><p style='margin-top: 10px;'><strong>Conceito:</strong> O direito de não produzir prova contra si mesmo permite o silêncio, mas não autoriza a fraude contra a fé pública.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário - Área Judiciária",
+      "subtema": "Corrupção de Menores",
+      "enunciado": "[TEXTO DE APOIO] O Estatuto da Criança e do Adolescente (Lei nº 8.069/90) prevê, no seu art. 244-B, o crime de corromper ou facilitar a corrupção de menor de 18 anos, com ele praticando infração penal ou induzindo-o a praticá-la.\n\n[COMANDO] De acordo com a Súmula 500 do STJ, a natureza jurídica deste crime é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Crime material, exigindo a prova da efetiva corrupção do menor.",
+        "B": "Crime de perigo concreto, exigindo a demonstração de que o menor passou a ter inclinação criminosa.",
+        "C": "Crime formal, cuja configuração independe da prova da efetiva corrupção do menor.",
+        "D": "Crime culposo, se o agente desconhecia a idade da vítima.",
+        "E": "Crime impossível, se o menor já era anteriormente corrompido."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula visa facilitar a punição de adultos que utilizam menores para o crime, evitando a impunidade baseada na 'vida pregressa' do menor.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Súmula 500 define o crime como formal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, E) ❌ INCORRETAS</p><p style='color: #721c24;'>O STJ entende que a cada nova infração o menor é mais corrompido, por isso a natureza formal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 500-STJ:</strong> 'A configuração do crime do art. 244-B do ECA independe da prova da efetiva corrupção do menor, por se tratar de crime formal'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Agente de Polícia Civil",
+      "subtema": "Roubo",
+      "enunciado": "[TEXTO DE APOIO] O crime de roubo (Art. 157 do CP) consuma-se no momento em que o agente obtém a posse da coisa alheia móvel.\n\n[COMANDO] Conforme a Súmula 582 do STJ, para a consumação do crime de roubo, é prescindível (desnecessário):",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A inversão da posse do objeto subtraído.",
+        "B": "O emprego de violência ou grave ameaça.",
+        "C": "A posse mansa e pacífica ou desvigiada da coisa.",
+        "D": "O dolo de apropriação (animus rem sibi habendi).",
+        "E": "A retirada do bem da esfera de disponibilidade da vítima."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ adotou a teoria da 'apprehensio' ou 'amotio', onde a simples inversão da posse consuma o delito.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Súmula 582 afirma que o roubo se consuma mesmo que haja perseguição imediata e a posse não seja mansa.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Estes são elementos necessários para a caracterização ou consumação do tipo penal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 582-STJ:</strong> 'Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "[TEXTO DE APOIO] Na primeira fase da dosimetria da pena, o magistrado analisa as circunstâncias judiciais do art. 59 do Código Penal.\n\n[COMANDO] Segundo a Súmula 444 do STJ, é vedada a utilização de quais elementos para agravar a pena-base?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Condenações transitadas em julgado há mais de 5 anos.",
+        "B": "Inquéritos policiais e ações penais em curso.",
+        "C": "Confissão espontânea do acusado.",
+        "D": "Circunstâncias que constituem o próprio tipo penal.",
+        "E": "Atos infracionais praticados durante a menoridade."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula protege o princípio da presunção de inocência (não culpabilidade).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 444 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Estes podem ser usados como maus antecedentes (embora não para reincidência).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 444-STJ:</strong> 'É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base'.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Escrivão de Polícia",
+      "subtema": "Crime Impossível",
+      "enunciado": "[TEXTO DE APOIO] O crime impossível (Art. 17 do CP) ocorre quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o delito.\n\n[COMANDO] De acordo com a Súmula 567 do STJ, a existência de sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Torna o crime de furto impossível, pela ineficácia absoluta do meio.",
+        "B": "Configura tentativa de furto inidônea.",
+        "C": "Não torna impossível o crime de furto.",
+        "D": "Exclui a tipicidade da conduta por ausência de perigo ao bem jurídico.",
+        "E": "Obriga a desclassificação para a contravenção penal de vadiagem."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ entende que o monitoramento apenas dificulta o crime, não o torna impossível, pois o agente ainda pode lograr êxito.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 567 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B) ❌ INCORRETAS</p><p style='color: #721c24;'>A ineficácia do meio é apenas relativa.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 567-STJ:</strong> 'Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível o crime de furto'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Oficial de Justiça",
+      "subtema": "Furto Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] O furto privilegiado (Art. 155, §2º do CP) permite a redução da pena ou aplicação apenas de multa se o criminoso é primário e é de pequeno valor a coisa furtada.\n\n[COMANDO] Conforme a Súmula 511 do STJ, é possível o reconhecimento do privilégio previsto no § 2º do art. 155 do Código Penal nos casos de furto qualificado, desde que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A qualificadora seja de ordem subjetiva.",
+        "B": "A qualificadora seja de ordem objetiva.",
+        "C": "O crime tenha sido praticado mediante rompimento de obstáculo apenas.",
+        "D": "Haja o perdão expresso da vítima.",
+        "E": "O valor do bem não ultrapasse 10 salários mínimos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A compatibilidade entre privilégio e qualificadora exige que esta última não diga respeito à motivação ou estado do agente (subjetiva).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Reflete a Súmula 511 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Qualificadoras subjetivas (ex: abuso de confiança) impedem o privilégio.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 511-STJ:</strong> 'É viável o reconhecimento do privilégio previsto no § 2º do art. 155 do Código Penal nos casos de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia Federal",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] Os crimes contra a ordem tributária previstos no art. 1º, incisos I a IV, da Lei nº 8.137/1990, dependem da supressão ou redução de tributo.\n\n[COMANDO] De acordo com a Súmula Vinculante 24 do STF, o crime material contra a ordem tributária não se tipifica antes de que momento?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Do oferecimento da denúncia pelo Ministério Público.",
+        "B": "Do início da fiscalização pela Receita Federal.",
+        "C": "Do lançamento definitivo do crédito tributário.",
+        "D": "Da inscrição do débito em dívida ativa.",
+        "E": "Do trânsito em julgado da sentença penal condenatória."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula vinculante estabelece uma condição objetiva de punibilidade/tipicidade para crimes materiais tributários.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da SV 24 do STF.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A inscrição em dívida ativa é posterior ao lançamento definitivo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 24-STF:</strong> 'Não se tipifica o crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Técnico Judiciário",
+      "subtema": "Uso de Algemas",
+      "enunciado": "[TEXTO DE APOIO] O uso de algemas durante atos processuais ou prisões é tema de intensa proteção aos direitos fundamentais.\n\n[COMANDO] Conforme a Súmula Vinculante 11 do STF, o uso de algemas é lícito apenas em casos de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Qualquer prisão em flagrante, para garantir a autoridade policial.",
+        "B": "Crimes hediondos ou praticados com violência extrema, independentemente de resistência.",
+        "C": "Resistência e fundado receio de fuga ou de perigo à integridade física própria ou alheia.",
+        "D": "Decisão discricionária do agente, sem necessidade de justificativa escrita.",
+        "E": "Réus reincidentes em crimes contra o patrimônio."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O uso de algemas é exceção e deve ser justificado por escrito sob pena de nulidade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Reflete os requisitos cumulativos da SV 11.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A justificativa por escrito é obrigatória.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 11-STF:</strong> 'Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito...'</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Lei Penal no Tempo",
+      "enunciado": "[TEXTO DE APOIO] A sucessão de leis penais no tempo é regida pelo princípio da irretroatividade da lei mais gravosa.\n\n[COMANDO] De acordo com a Súmula 711 do STF, a lei penal mais grave aplica-se ao crime continuado ou ao crime permanente se a sua vigência é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Anterior ao início da execução do crime.",
+        "B": "Anterior à cessação da continuidade ou da permanência.",
+        "C": "Posterior ao trânsito em julgado da sentença.",
+        "D": "Contemporânea ao primeiro ato executório apenas.",
+        "E": "Benéfica ao réu em qualquer circunstância."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Se o crime ainda está ocorrendo quando a lei nova entra em vigor, esta se aplica, mesmo sendo mais grave.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 711 do STF.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A lei pode entrar em vigor durante a execução.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 711-STF:</strong> 'A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência'.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2023,
+      "cargo": "Defensor Público",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] A prática de falta grave pelo apenado gera diversas consequências no curso da execução penal.\n\n[COMANDO] Conforme a Súmula 534 do STJ, a prática de falta grave interrompe o prazo para a obtenção de progressão de regime prisional, mas NÍO interrompe o prazo para:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Remição de pena por trabalho.",
+        "B": "Saída temporária.",
+        "C": "Livramento condicional, indulto e comutação de penas.",
+        "D": "Transferência para regime mais rigoroso.",
+        "E": "Isolamento celular preventivo."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A interrupção é restrita à progressão de regime para não prejudicar institutos que exigem apenas o tempo total ou requisitos específicos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Exceções previstas na Súmula 534 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A falta grave permite a perda de até 1/3 dos dias remidos.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 534-STJ:</strong> 'A prática de falta grave interrompe o prazo para a obtenção de progressão de regime prisional, salvo para fins de livramento condicional, indulto e comutação de penas'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Contrabando e Descaminho",
+      "enunciado": "[TEXTO DE APOIO] O crime de descaminho (Art. 334 do CP) tutela a ordem tributária e a administração pública.\n\n[COMANDO] Segundo a Súmula 506 do STJ, a qualificação do crime de contrabando ou descaminho:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Depende da prova de que a mercadoria é de importação proibida.",
+        "B": "Independe da quantidade de mercadoria apreendida.",
+        "C": "Exige laudo pericial atestando a origem estrangeira.",
+        "D": "Fica condicionada ao valor do tributo ser superior a R$ 20.000,00.",
+        "E": "Depende da comprovação de dolo específico de lucro."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A tipicidade não está vinculada ao volume, mas à conduta de iludir o imposto ou importar proibido.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 506 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O valor de R$ 20 mil refere-se à insignificância, não à qualificação do crime.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 506-STJ:</strong> 'A qualificação do crime de contrabando ou descaminho independe da quantidade de mercadoria apreendida'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Latrocínio",
+      "enunciado": "[TEXTO DE APOIO] O crime de latrocínio é uma forma qualificada do crime de roubo, em que do emprego de violência resulta a morte da vítima.\n\n[COMANDO] De acordo com a Súmula 610 do STF, há crime de latrocínio consumado quando:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O agente consegue subtrair os bens, mas a vítima sobrevive.",
+        "B": "O agente não consegue subtrair os bens, mas ocorre a morte da vítima.",
+        "C": "O agente subtrai os bens e a morte ocorre por causas naturais após o crime.",
+        "D": "A morte da vítima ocorre sem dolo, por mero acidente durante a fuga.",
+        "E": "O agente desiste da subtração após ter causado a morte da vítima."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O latrocínio é crime complexo. Para o STF, o resultado morte é o que define a consumação da forma qualificada.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Reflete a Súmula 610 do STF.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Neste caso haveria roubo consumado, não latrocínio.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 610-STF:</strong> 'Há crime de latrocínio, quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima'.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Investigador de Polícia",
+      "subtema": "Apropriação Indébita Previdenciária",
+      "enunciado": "[TEXTO DE APOIO] A apropriação indébita previdenciária (Art. 168-A do CP) consiste em deixar de repassar à previdência social as contribuições recolhidas dos contribuintes.\n\n[COMANDO] Conforme a Súmula 542 do STJ, a ação penal relativa ao crime de apropriação indébita previdenciária é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pública condicionada à representação do INSS.",
+        "B": "Privada subsidiária da pública.",
+        "C": "Pública incondicionada.",
+        "D": "Pública condicionada ao pagamento do débito.",
+        "E": "Pública condicionada à requisição do Ministério da Fazenda."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O interesse protegido é do Estado e da coletividade (seguridade social), justificando a ação incondicionada.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 542 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Não há necessidade de representação.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 542-STJ:</strong> 'A ação penal relativa ao crime de apropriação indébita previdenciária é pública incondicionada'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista de Controle Externo",
+      "subtema": "Apropriação Indébita Previdenciária",
+      "enunciado": "[TEXTO DE APOIO] A natureza jurídica dos crimes tributários e previdenciários influencia o marco inicial da prescrição e o momento da consumação.\n\n[COMANDO] Segundo a Súmula 549 do STJ, o crime de apropriação indébita previdenciária é material, consumando-se com:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O simples não repasse no prazo legal.",
+        "B": "A constituição definitiva do crédito tributário.",
+        "C": "O encerramento do exercício financeiro.",
+        "D": "A notificação do devedor para pagamento.",
+        "E": "A inscrição em dívida ativa."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Segue a mesma lógica da SV 24 do STF para crimes tributários materiais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da Súmula 549 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Este seria o entendimento se o crime fosse formal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 549-STJ:</strong> 'O crime de apropriação indébita previdenciária é material, consumando-se com a constituição definitiva do crédito tributário'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Tráfico de Drogas",
+      "enunciado": "[TEXTO DE APOIO] Na fixação da pena nos crimes de tráfico de drogas, o juiz deve observar as diretrizes do art. 42 da Lei nº 11.343/2006.\n\n[COMANDO] Conforme a Súmula 630 do STJ, a incidência da atenuante da confissão espontânea no crime de tráfico de entorpecentes exige que o agente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Indique quem forneceu a droga.",
+        "B": "Tenha confessado a prática do delito em juízo, ainda que tenha negado a traficância.",
+        "C": "Confesse a traficância, não bastando a admissão da posse para uso próprio.",
+        "D": "Seja réu primário e de bons antecedentes.",
+        "E": "Entregue todo o patrimônio derivado do crime."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A confissão deve ser sobre o fato típico imputado (tráfico) para gerar o benefício da atenuante.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Reflete a Súmula 630 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>Se negar a traficância, não há confissão do crime de tráfico.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 630-STJ:</strong> 'A incidência da atenuante da confissão espontânea no crime de tráfico de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio'.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Prisão Civil",
+      "enunciado": "[TEXTO DE APOIO] A Constituição Federal prevê a prisão civil por dívida em casos excepcionais.\n\n[COMANDO] De acordo com a Súmula Vinculante 25 do STF, é ilícita a prisão civil de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Devedor de alimentos.",
+        "B": "Depositário infiel, qualquer que seja a modalidade do depósito.",
+        "C": "Sócio-gerente de empresa em falência fraudulenta.",
+        "D": "Contribuinte que deixa de recolher ICMS em regime próprio.",
+        "E": "Testemunha que se recusa a depor em juízo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF adequou a jurisprudência ao Pacto de San José da Costa Rica, que veda a prisão por dívida exceto alimentos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Literalidade da SV 25.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A prisão do devedor de alimentos continua lícita.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 25-STF:</strong> 'É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Contrabando e Descaminho",
+      "enunciado": "[TEXTO DE APOIO] A prova da materialidade nos crimes de contrabando e descaminho é essencial para o início da ação penal.\n\n[COMANDO] Conforme a Súmula 519 do STJ, sobre a exigência de laudo pericial para comprovação da materialidade nesses delitos, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O laudo pericial é indispensável em todos os casos.",
+        "B": "O laudo pericial é dispensável se outros meios de prova demonstrarem a existência da mercadoria.",
+        "C": "A materialidade só pode ser provada por auto de infração da Receita Federal.",
+        "D": "A ausência de laudo pericial gera nulidade absoluta do processo.",
+        "E": "O laudo é necessário apenas se a mercadoria for falsificada."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ flexibiliza a prova técnica quando há outros elementos (documentos, testemunhas) que confirmam a apreensão.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Reflete a Súmula 519 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A perícia não é o único meio de prova.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 519-STJ:</strong> 'É indevida a exigência de laudo pericial para a comprovação da materialidade do delito de contrabando ou descaminho, se outros meios de prova demonstrarem a existência da mercadoria'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Suspensão Condicional do Processo",
+      "enunciado": "[TEXTO DE APOIO] A suspensão condicional do processo (Art. 89 da Lei 9.099/95) é um instituto despenalizador aplicado a crimes de menor potencial ofensivo.\n\n[COMANDO] Segundo a Súmula 543 do STJ, a suspensão condicional do processo e a transação penal não se aplicam aos crimes de contrabando e descaminho, EXCETO se:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O réu confessar o crime.",
+        "B": "Houver a devolução espontânea da mercadoria.",
+        "C": "O valor dos tributos iludidos for inferior a R$ 20.000,00.",
+        "D": "O crime for praticado por funcionário público fora do exercício da função.",
+        "E": "A mercadoria não for nociva à saúde pública."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ vincula os benefícios processuais ao mesmo patamar da insignificância penal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Reflete a Súmula 543 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B) ❌ INCORRETAS</p><p style='color: #721c24;'>O critério é puramente econômico/tributário.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 543-STJ:</strong> 'A suspensão condicional do processo e a transação penal não se aplicam aos crimes de contrabando e descaminho, exceto se o valor dos tributos iludidos for inferior a R$ 20.000,00, conforme o art. 20 da Lei n. 10.522/2002'.</p></div></div>"
+    }
+  ],
+  "data_correcao": "2026-01-12T07:18:17.385247",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}

@@ -1,0 +1,959 @@
+{
+  "disciplina": "Direito Penal",
+  "tema": "25 - Informativo Jurisprudencia 777 STJ",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Busca e Apreensão Domiciliar",
+      "enunciado": "[TEXTO DE APOIO] Segundo o entendimento do Superior Tribunal de Justiça (STJ) no Informativo 777 (RHC 175.787/RJ), a realização de busca e apreensão domiciliar exige a presença de 'fundadas razões'. A corte estabeleceu que tais razões devem ser objetivas e indicar elementos concretos da existência do crime e da justa causa, não se admitindo meras conjecturas ou denúncias anônimas desacompanhadas de diligências prévias.\n\n[COMANDO] Com base nesse entendimento, assinale a alternativa correta sobre a validade da prova obtida em domicílio:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A denúncia anônima, por si só, é fundamento idôneo para a expedição de mandado de busca e apreensão, independentemente de outras provas.",
+        "B": "A prova é considerada lícita se, após a invasão baseada em suspeita subjetiva, os policiais efetivamente encontrarem objetos ilícitos no local.",
+        "C": "As 'fundadas razões' exigem que a autoridade demonstre, com base em dados objetivos e concretos, a probabilidade de que a diligência resultará na colheita de provas.",
+        "D": "O mandado de busca domiciliar pode ser genérico, autorizando a entrada em qualquer residência de um determinado bairro onde se suspeite haver crimes.",
+        "E": "A ratificação judicial posterior supre a ausência de fundadas razões no momento da realização da busca domiciliar sem mandado."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda os requisitos para a busca domiciliar conforme o Informativo 777 do STJ. O tribunal reforça a proteção ao domicílio (Art. 5º, XI, CF), exigindo que a medida seja pautada em elementos objetivos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STJ exige que as 'fundadas razões' sejam objetivas e concretas, afastando o subjetivismo policial.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Denúncia anônima isolada não autoriza busca domiciliar.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O sucesso da diligência (encontrar drogas) não convalida a ilegalidade da entrada sem justa causa prévia.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 240, § 1º do CPP e Informativo 777 STJ.</p><p><strong>Dica de Prova:</strong> Lembre-se que o STJ adota a teoria dos frutos da árvore envenenada: se a entrada foi ilegal, tudo o que for apreendido é nulo.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] No julgamento do HC 802.408/SP, veiculado no Informativo 777, o STJ analisou a relação entre os crimes de receptação e lavagem de dinheiro. A corte decidiu que, se as condutas forem autônomas e distintas, é possível o reconhecimento de concurso material entre ambos.\n\n[COMANDO] Considere que um agente adquire um veículo sabendo ser produto de crime (receptação) e, posteriormente, realiza uma série de transferências bancárias e trocas de placas para ocultar a origem ilícita do bem (lavagem). De acordo com o STJ, essa situação configura:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Crime único de receptação, sendo a lavagem mero exaurimento do delito anterior.",
+        "B": "Concurso material entre receptação e lavagem de dinheiro, dada a autonomia das condutas e dos bens jurídicos protegidos.",
+        "C": "Concurso formal próprio, pois houve uma única ação com dois resultados distintos.",
+        "D": "Crime continuado, por serem delitos da mesma espécie praticados em condições semelhantes.",
+        "E": "Absorção da receptação pela lavagem de dinheiro, pelo princípio da consunção."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ entende que a lavagem de dinheiro não é mero exaurimento da receptação. São crimes autônomos que protegem bens jurídicos diferentes (patrimônio vs. ordem financeira/administração da justiça).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Havendo autonomia nas condutas (uma para adquirir o bem e outra para ocultar sua origem), aplica-se o concurso material (Art. 69 CP).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Não há consunção porque os crimes não são fases de preparação um do outro, mas delitos independentes.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> HC 802.408/SP (Info 777 STJ). A lavagem pressupõe um crime antecedente, mas se a conduta de ocultar for distinta da conduta de obter, ambos são punidos.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "[TEXTO DE APOIO] O Informativo 777 do STJ, ao tratar do REsp 2.050.963/RJ, reiterou os vetores para aplicação do princípio da insignificância: (I) mínima ofensividade da conduta; (II) nenhuma periculosidade social da ação; (III) reduzidíssimo grau de reprovabilidade do comportamento; e (IV) inexpressividade da lesão jurídica.\n\n[COMANDO] Sobre a aplicação desse princípio a réus reincidentes, assinale a opção que reflete o entendimento atual do STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A reincidência, por si só, é irrelevante para a análise da insignificância, devendo o juiz focar apenas no valor do bem.",
+        "B": "A reincidência, seja ela específica ou genérica, em regra, afasta a aplicação do princípio da insignificância por demonstrar maior reprovabilidade.",
+        "C": "O princípio da insignificância deve ser aplicado obrigatoriamente se o valor do bem for inferior a 10% do salário mínimo, mesmo para reincidentes.",
+        "D": "Apenas a reincidência em crimes violentos afasta a insignificância em crimes patrimoniais.",
+        "E": "O STJ proíbe terminantemente a aplicação da insignificância para qualquer réu que possua inquéritos em andamento."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ consolidou que a insignificância não é apenas o valor do bem, mas a análise do comportamento do agente. Reincidentes mostram que a conduta não é um fato isolado e inexpressivo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A reincidência indica que o comportamento tem alto grau de reprovabilidade, o que fere um dos vetores da insignificância.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Princípio da Insignificância (Bagatela). <strong>Jurisprudência:</strong> REsp 2.050.963/RJ. A reincidência obsta o benefício, salvo situações excepcionalíssimas de furto famélico.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Tributário",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.748/MG (Informativo 777), o STJ discutiu o concurso formal impróprio. Este ocorre quando o agente, mediante uma única ação, pratica dois ou mais crimes com desígnios autônomos.\n\n[COMANDO] Se um indivíduo, em um único ato de abordagem, subtrai mediante grave ameaça os celulares de três vítimas diferentes que estavam em um ponto de ônibus, ciente de que os patrimônios eram distintos e desejando lesar cada um individualmente, ocorrerá:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Concurso formal próprio, com aumento de pena de um sexto até a metade.",
+        "B": "Crime único, pois a ação foi uma só.",
+        "C": "Concurso formal impróprio, aplicando-se a regra do concurso material (soma das penas).",
+        "D": "Crime continuado, pois as condições de tempo e lugar são idênticas.",
+        "E": "Concurso formal próprio, mas sem qualquer aumento de pena."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A chave aqui é o 'desígnio autônomo'. Quando o agente quer atingir múltiplos patrimônios de forma consciente e independente em uma só ação, a lei pune com mais rigor.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Art. 70, parte final, do CP determina que, se houver desígnios autônomos, as penas devem ser somadas (regra do concurso material).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 70 do Código Penal. <strong>Dica:</strong> Se a questão mencionar que o agente sabia que os bens eram de pessoas diferentes e quis lesar todas, marque concurso formal impróprio.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Fiscal de Tributos",
+      "subtema": "Lei de Drogas - Tráfico Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] O art. 33, § 4º, da Lei 11.343/2006 prevê a causa de diminuição de pena para o tráfico privilegiado. No Informativo 777 (HC 793.005/SP), o STJ debateu os requisitos impeditivos desse benefício.\n\n[COMANDO] De acordo com a lei e a jurisprudência do STJ, o benefício do tráfico privilegiado deve ser afastado se ficar comprovado que o agente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É primário e possui bons antecedentes, mas a droga apreendida é de natureza nociva.",
+        "B": "Não integra organização criminosa, mas confessou o crime espontaneamente.",
+        "C": "Se dedica a atividades criminosas ou integra organização criminosa.",
+        "D": "Praticou o crime em período noturno ou em local de difícil acesso.",
+        "E": "É usuário de drogas e comercializou apenas para sustentar o próprio vício."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Os requisitos para o privilégio são cumulativos. A falta de qualquer um (primariedade, bons antecedentes, não dedicação a crimes, não integrar ORCRIM) impede a redução.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 33, § 4º da Lei 11.343/06. <strong>Dica:</strong> A dedicação a atividades criminosas pode ser provada por histórico de atos infracionais ou investigações em curso.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Estelionato",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.751/SP, veiculado no Informativo 777, o STJ tratou da reparação do dano no crime de estelionato.\n\n[COMANDO] Assinale a alternativa que descreve corretamente o efeito do pagamento integral do prejuízo causado pela fraude, realizado antes do recebimento da denúncia, conforme o entendimento do STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não produz qualquer efeito jurídico, pois o crime de estelionato é de ação pública incondicionada.",
+        "B": "Configura apenas arrependimento posterior, reduzindo a pena de um a dois terços.",
+        "C": "Pode levar à extinção da punibilidade, por analogia aos crimes tributários, se o prejuízo for integralmente reparado antes do recebimento da denúncia.",
+        "D": "Impede a prisão preventiva, mas não interfere na aplicação da pena final.",
+        "E": "Gera a absolvição sumária por atipicidade da conduta, independentemente do valor."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ tem admitido que a reparação total do dano no estelionato, antes da denúncia, possa extinguir a punibilidade, seguindo a lógica de que o interesse estatal na reparação patrimonial foi satisfeito.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> REsp 2.052.751/SP. <strong>Nota:</strong> Este entendimento é uma evolução jurisprudencial importante para crimes patrimoniais sem violência.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] Conforme o Informativo 777 do STJ (REsp 2.051.488/SP), a lavagem de dinheiro é um crime acessório ou derivado, mas possui autonomia processual.\n\n[COMANDO] Para que alguém seja processado e condenado por lavagem de dinheiro, é necessário que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Haja condenação com trânsito em julgado da infração penal antecedente.",
+        "B": "O agente da lavagem seja o mesmo autor da infração penal antecedente.",
+        "C": "Existam indícios suficientes da existência da infração penal antecedente, sendo desnecessária a condenação prévia por esta.",
+        "D": "A infração antecedente seja obrigatoriamente um crime contra a Administração Pública.",
+        "E": "O valor lavado seja superior a 100 salários mínimos para justificar a intervenção penal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A Lei 9.613/98 estabelece a autonomia do processo de lavagem. Não se exige que o crime anterior já tenha sido julgado, apenas que sua ocorrência seja provável (indícios).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 2º, II, da Lei 9.613/98. <strong>Dica:</strong> A autonomia é o tema preferido das bancas em lavagem de dinheiro.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Acordo de Não Persecução Penal (ANPP)",
+      "enunciado": "[TEXTO DE APOIO] O Acordo de Não Persecução Penal (ANPP) é um instituto despenalizador introduzido pelo Pacote Anticrime. No Informativo 777 (RHC 175.760/MG), o STJ definiu limites para sua aplicação.\n\n[COMANDO] Assinale a alternativa correta sobre a aplicação do ANPP em crimes militares:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O ANPP é plenamente aplicável aos crimes militares, desde que a pena mínima seja inferior a 4 anos.",
+        "B": "O ANPP não se aplica aos crimes militares, em razão da especialidade da legislação penal militar e da preservação da hierarquia e disciplina.",
+        "C": "Cabe ANPP apenas em crimes militares extravagantes, não previstos no Código Penal Militar.",
+        "D": "A aplicação do ANPP em crimes militares depende de autorização expressa do Comandante da guarnição.",
+        "E": "O ANPP é obrigatório em crimes militares culposos, independentemente da pena."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ entende que a lógica do ANPP (consenso) conflita com os pilares das forças armadas (hierarquia e disciplina), por isso excluiu sua aplicação no âmbito militar.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> RHC 175.760/MG. <strong>Dica:</strong> Fique atento, pois o ANPP também não se aplica a crimes de violência doméstica.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Confissão Espontânea",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.062.883/RS (Informativo 777), o STJ discutiu a atenuante da confissão espontânea e a Súmula 231.\n\n[COMANDO] Sobre a confissão qualificada (aquela em que o agente admite o fato, mas alega uma excludente de ilicitude, como legítima defesa), assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não permite o reconhecimento da atenuante, pois a confissão deve ser pura e simples.",
+        "B": "Permite o reconhecimento da atenuante, desde que tenha sido utilizada para fundamentar a condenação, mas não pode reduzir a pena abaixo do mínimo legal.",
+        "C": "Permite reduzir a pena abaixo do mínimo legal, superando a Súmula 231 do STJ.",
+        "D": "Só é válida se feita perante a autoridade policial, sendo irrelevante a confissão em juízo.",
+        "E": "Equivale à confissão ficta, não gerando efeitos na dosimetria da pena."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A confissão qualificada é aceita para atenuar a pena (Súmula 545 STJ). Contudo, a Súmula 231 continua firme: nenhuma atenuante (circunstância da 2ª fase) pode baixar a pena do mínimo fixado em lei.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmulas:</strong> 231 e 545 do STJ. <strong>Conceito:</strong> Confissão Qualificada é o 'sim, mas...'. Ex: 'Atirei, mas foi para me defender'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] No HC 831.334/SP (Informativo 777), o STJ analisou o impacto da unificação de penas no cálculo da progressão de regime.\n\n[COMANDO] Quando ocorre a unificação de penas em razão de nova condenação durante a execução, o termo inicial para a contagem do prazo de nova progressão de regime é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A data do trânsito em julgado da última condenação.",
+        "B": "A data em que o juiz assina a decisão de unificação das penas.",
+        "C": "A data da última prisão ou da última interrupção do cumprimento da pena (como uma falta grave), não sendo alterada pela simples unificação.",
+        "D": "O dia 1º de janeiro do ano subsequente à nova condenação.",
+        "E": "A data em que o sentenciado atingir o exame criminológico favorável."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A unificação de penas é um procedimento aritmético. O STJ decidiu que ela não 'zera' o relógio da progressão. O que zera o relógio é a falta grave ou uma nova prisão.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Súmula 715 STF e Informativo 777 STJ. <strong>Dica:</strong> A unificação serve para fixar o limite de 40 anos e o novo montante para cálculo de frações.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Corrupção Passiva",
+      "enunciado": "[TEXTO DE APOIO] O crime de corrupção passiva (Art. 317 CP) foi objeto de análise no REsp 2.025.437/SP (Informativo 777).\n\n[COMANDO] Um servidor público solicita vantagem indevida para praticar ato de ofício, mas o particular não aceita e denuncia o fato. Sobre a consumação desse crime, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime é tentado, pois a vantagem não foi efetivamente recebida.",
+        "B": "O crime é consumado no momento da solicitação, por ser um delito formal que dispensa o recebimento do valor.",
+        "C": "Não há crime, pois a solicitação não foi aceita (fato atípico).",
+        "D": "O crime só se consuma se o servidor efetivamente praticar o ato de ofício prometido.",
+        "E": "Trata-se de crime impossível, dada a integridade do particular que denunciou."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A corrupção passiva, na modalidade 'solicitar', é crime formal. O ato de pedir já lesa a moralidade administrativa.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 317 do Código Penal. <strong>Dica:</strong> Se o servidor 'receber', também é consumado. A tentativa é raríssima (ex: carta interceptada).</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Sigilo Bancário",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.051/SC (Informativo 777), o STJ discutiu a quebra de sigilo bancário e fiscal em investigações administrativas.\n\n[COMANDO] De acordo com o STJ, a quebra de sigilo bancário e fiscal para instruir Processo Administrativo Disciplinar (PAD) ou Inquérito Policial:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pode ser determinada diretamente pelo Delegado de Polícia ou Presidente da Comissão do PAD.",
+        "B": "Exige, obrigatoriamente, prévia autorização judicial, sob pena de nulidade das provas.",
+        "C": "É dispensável se o investigado for servidor público de cargo comissionado.",
+        "D": "Pode ser feita pelo Ministério Público sem intervenção do Judiciário.",
+        "E": "Só é permitida em casos de crimes hediondos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O sigilo bancário é protegido pela cláusula de reserva de jurisdição. Apenas juízes (e CPIs, com limites) podem quebrá-lo.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Lei Complementar 105/2001 e Art. 5º, XII, CF. <strong>Dica:</strong> O Fisco pode acessar dados sem juiz para fins tributários (RE 601.314), mas para fins penais/PAD, a regra do STJ exige o juiz.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lei de Drogas - Tráfico Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.072.096/SC (Informativo 777), o STJ analisou se inquéritos em curso podem afastar o tráfico privilegiado.\n\n[COMANDO] Assinale a alternativa que reflete o entendimento do STJ sobre o uso de investigações em andamento para negar a redução de pena do tráfico privilegiado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Inquéritos policiais e ações penais em curso são provas absolutas de dedicação a atividades criminosas.",
+        "B": "A existência de inquéritos em curso, por si só, não é suficiente para afastar o benefício, exigindo-se outros elementos concretos de dedicação ao crime.",
+        "C": "O juiz deve obrigatoriamente suspender o processo de tráfico até que os outros inquéritos sejam julgados.",
+        "D": "Basta uma única anotação na folha de antecedentes para que o réu seja considerado reincidente para fins de tráfico.",
+        "E": "Inquéritos em curso só podem ser usados se o crime investigado for também de tráfico."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Pelo princípio da presunção de inocência, processos sem sentença não podem ser usados como maus antecedentes ou reincidência. O STJ aplica essa lógica para evitar o afastamento automático do privilégio.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula:</strong> 444 do STJ. <strong>Dica:</strong> Para afastar o privilégio, o MP deve provar a dedicação com fotos, mensagens, balanças de precisão ou testemunhas de habitualidade.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Busca e Apreensão Domiciliar",
+      "enunciado": "[TEXTO DE APOIO] No RHC 175.787/RJ (Informativo 777), o STJ discutiu a validade da busca domiciliar baseada em 'atitude suspeita'.\n\n[COMANDO] Policiais militares, ao avistarem um indivíduo que demonstrou nervosismo e correu para dentro de sua casa, decidem invadir a residência sem mandado judicial. No local, encontram armas ilegais. Segundo o STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A busca é válida, pois o nervosismo e a fuga configuram fundada suspeita de flagrante delito.",
+        "B": "A busca é inválida, pois o nervosismo e a fuga, por si sós, não constituem 'fundadas razões' para a invasão do domicílio.",
+        "C": "A prova é válida apenas se o crime for permanente, como a posse de arma.",
+        "D": "A validade da busca depende de os policiais terem filmado a ação.",
+        "E": "O domicílio perde sua proteção constitucional se o morador estiver em liberdade condicional."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ tem sido rigoroso: 'correr da polícia' ou 'nervosismo' são elementos subjetivos. Sem investigação prévia ou mandado, a invasão é nula.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 5º, XI, CF. <strong>Dica:</strong> O flagrante deve ser 'evidente' antes da entrada, e não descoberto 'por sorte' após a entrada.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] O Informativo 777 do STJ (REsp 2.067.702/DF) abordou a autolavagem (self-laundering).\n\n[COMANDO] Sobre a possibilidade de o autor do crime antecedente responder também pelo crime de lavagem de dinheiro, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É impossível, pois ninguém pode ser punido duas vezes pelo mesmo proveito econômico (bis in idem).",
+        "B": "É possível, desde que o agente pratique atos de ocultação ou dissimulação que ultrapassem o mero usufruto do produto do crime.",
+        "C": "Só é possível se houver um coautor que não participou do crime antecedente.",
+        "D": "A autolavagem só é punida se o crime antecedente for tráfico de drogas.",
+        "E": "O autor do crime antecedente só responde por lavagem se o valor for enviado ao exterior."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Gastar o dinheiro do crime é 'exaurimento'. Criar empresas de fachada para esconder esse dinheiro é 'lavagem'. O STJ admite a punição de ambos.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Autolavagem. <strong>Dica:</strong> A conduta de lavagem deve ser autônoma em relação à conduta de obtenção do capital ilícito.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "[TEXTO DE APOIO] No Informativo 777 (REsp 2.050.963/RJ), o STJ discutiu a aplicação da insignificância no crime de furto qualificado.\n\n[COMANDO] Segundo o entendimento do STJ, o princípio da insignificância:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É incompatível com o furto qualificado pelo concurso de agentes, pois este revela maior periculosidade social.",
+        "B": "Pode ser aplicado ao furto qualificado, desde que o valor seja inferior a 1% do salário mínimo.",
+        "C": "É aplicado automaticamente a qualquer furto de objeto que não tenha valor de mercado.",
+        "D": "Não se aplica se o crime for cometido contra idoso, independentemente do valor.",
+        "E": "Só se aplica se o réu confessar o crime e devolver o objeto."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Qualificadoras de ordem subjetiva ou que indicam maior audácia (como concurso de pessoas ou rompimento de obstáculo) costumam afastar a insignificância por ferirem o vetor da 'reprovabilidade do comportamento'.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Informativo 777 STJ. <strong>Dica:</strong> A insignificância exclui a tipicidade material do crime.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Estelionato",
+      "enunciado": "[TEXTO DE APOIO] A Lei 13.964/2019 alterou a natureza da ação penal no crime de estelionato (Art. 171, § 5º, CP). O Informativo 777 do STJ trouxe reflexos sobre a reparação do dano.\n\n[COMANDO] Atualmente, a regra geral é que o crime de estelionato se processa mediante:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Ação penal pública incondicionada, em todos os casos.",
+        "B": "Ação penal pública condicionada à representação da vítima.",
+        "C": "Ação penal privada, mediante queixa-crime.",
+        "D": "Ação penal pública condicionada à requisição do Ministro da Justiça.",
+        "E": "Ação penal pública incondicionada, mas apenas se o valor for superior a 10 salários mínimos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O Pacote Anticrime mudou a regra: agora a vítima deve dizer que quer processar (representação). Há exceções (criança, idoso, administração pública).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 171, § 5º do CP. <strong>Dica:</strong> Se a vítima for a Administração Pública, a ação continua sendo incondicionada.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Acordo de Não Persecução Penal (ANPP)",
+      "enunciado": "[TEXTO DE APOIO] O ANPP exige a confissão formal e circunstanciada. O Informativo 777 do STJ (RHC 175.760/MG) reforçou as vedações ao instituto.\n\n[COMANDO] O ANPP é vedado quando:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime for culposo com resultado morte.",
+        "B": "O investigado for reincidente ou houver elementos que indiquem conduta criminal habitual.",
+        "C": "O dano causado for inferior a 1 salário mínimo.",
+        "D": "O crime for praticado sem violência ou grave ameaça.",
+        "E": "A pena mínima for exatamente de 4 anos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O ANPP é para quem 'errou uma vez'. Se o sujeito é criminoso habitual ou reincidente, o Estado não oferece o acordo.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 28-A, § 2º do CPP. <strong>Dica:</strong> A pena mínima deve ser inferior a 4 anos.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "[TEXTO DE APOIO] No Informativo 777 (REsp 2.062.883/RS), o STJ reafirmou a impossibilidade de redução da pena abaixo do mínimo legal na segunda fase da dosimetria.\n\n[COMANDO] Se um réu possui pena-base fixada no mínimo legal e o juiz reconhece a atenuante da menoridade relativa (agente com menos de 21 anos na data do fato), a pena final na segunda fase será:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Reduzida em 1/6, obrigatoriamente.",
+        "B": "Mantida no mínimo legal, em observância à Súmula 231 do STJ.",
+        "C": "Reduzida até o limite de 1 ano de detenção.",
+        "D": "Substituída por pena restritiva de direitos imediatamente.",
+        "E": "Anulada, devendo o processo retornar à fase de instrução."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A Súmula 231 do STJ é um dogma dos tribunais superiores. Atenuantes não rompem o piso da pena cominada pelo legislador.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula:</strong> 231 STJ. <strong>Dica:</strong> Apenas causas de aumento ou diminuição (3ª fase) podem levar a pena para fora dos limites legais.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] No HC 831.334/SP (Informativo 777), o STJ tratou da falta grave na execução penal.\n\n[COMANDO] A prática de falta grave pelo condenado durante o cumprimento da pena produz, entre outros, o seguinte efeito:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Interrompe o prazo para livramento condicional.",
+        "B": "Interrompe o prazo para progressão de regime, iniciando-se nova contagem sobre o saldo da pena.",
+        "C": "Gera a perda automática de todos os dias remidos anteriormente.",
+        "D": "Impede a saída temporária pelo resto da vida do condenado.",
+        "E": "Aumenta a pena total em 1/3, por decisão do diretor do presídio."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A falta grave 'reseta' o cronômetro da progressão de regime. No entanto, o STJ e o STF entendem que ela NÍO interrompe o prazo para o livramento condicional (Súmula 441 STJ).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 112 da LEP e Súmula 441 STJ. <strong>Dica:</strong> A perda de dias remidos é limitada a 1/3 do total.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Corrupção Passiva",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.025.437/SP (Informativo 777), o STJ discutiu a causa de aumento do Art. 317, § 1º, do CP.\n\n[COMANDO] Se o servidor público, em consequência da vantagem ou promessa, retarda ou deixa de praticar qualquer ato de ofício ou o pratica infringindo dever funcional, a pena é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aumentada de um terço.",
+        "B": "Aumentada da metade.",
+        "C": "Dobrada.",
+        "D": "Diminuída de um terço, se ele se arrepender.",
+        "E": "Mantida a mesma, pois o ato de ofício é mero exaurimento."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O crime de corrupção passiva é formal (consuma-se com o pedido/recebimento). Se o servidor efetivamente faz a 'sujeira' (retarda ou omite o ato), ele recebe um aumento de pena (exaurimento qualificado).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 317, § 1º do Código Penal. <strong>Dica:</strong> Memorize a fração de 1/3 para crimes contra a administração pública.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Sigilo Bancário",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.051/SC (Informativo 777), o STJ tratou da prova emprestada de quebra de sigilo.\n\n[COMANDO] É lícita a utilização de dados obtidos por meio de quebra de sigilo bancário regularmente autorizada em processo penal para instruir processo administrativo disciplinar (PAD)?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não, pois o sigilo bancário é absoluto e só serve para o processo penal.",
+        "B": "Sim, desde que haja autorização do juiz que presidiu a investigação penal para o compartilhamento da prova.",
+        "C": "Sim, independentemente de autorização, pois o PAD é público.",
+        "D": "Não, pois fere o princípio da não autoincriminação.",
+        "E": "Apenas se o servidor concordar expressamente com o uso da prova."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A 'prova emprestada' é amplamente aceita pelos tribunais superiores, desde que a origem seja lícita e o juiz autorize o compartilhamento.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Tema 683 STJ. <strong>Dica:</strong> A prova emprestada deve respeitar o contraditório no destino (PAD).</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lei de Drogas - Tráfico Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] No HC 793.005/SP (Informativo 777), o STJ discutiu a natureza hedionda do tráfico.\n\n[COMANDO] Sobre o tráfico privilegiado (Art. 33, § 4º da Lei 11.343/06), assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É crime hediondo, assim como o tráfico comum.",
+        "B": "Não é crime hediondo, conforme entendimento consolidado do STF e STJ.",
+        "C": "Só deixa de ser hediondo se a pena for substituída por restritiva de direitos.",
+        "D": "É hediondo apenas se envolver drogas sintéticas.",
+        "E": "A hediondez depende da quantidade de droga apreendida."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O tráfico privilegiado não é hediondo. Isso tem reflexos gigantescos na execução penal (progressão mais rápida, possibilidade de indulto, etc.).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 112, § 5º da LEP (incluído pelo Pacote Anticrime). <strong>Dica:</strong> O tráfico privilegiado é uma causa de diminuição de pena.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.748/MG (Informativo 777), o STJ tratou do roubo contra diferentes vítimas no mesmo contexto.\n\n[COMANDO] Se o agente pratica o crime de roubo contra várias vítimas, mas não tinha consciência de que os bens pertenciam a pessoas distintas (acreditando ser tudo de um único dono), o concurso será:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Formal impróprio, com soma de penas.",
+        "B": "Formal próprio, com aumento de pena de um sexto até a metade.",
+        "C": "Material, obrigatoriamente.",
+        "D": "Crime único, pois não houve dolo de lesar múltiplos patrimônios.",
+        "E": "Crime continuado qualificado."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Sem o 'desígnio autônomo' (vontade deliberada de atingir várias pessoas), o concurso formal é o 'próprio' ou 'perfeito', que beneficia o réu com o sistema da exasperação (aumento de pena) em vez da soma.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 70, primeira parte, CP. <strong>Dica:</strong> O número de aumentos (1/6 a 1/2) depende da quantidade de crimes praticados.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.051.488/SP (Informativo 777), o STJ discutiu a denúncia por lavagem de dinheiro.\n\n[COMANDO] A denúncia por lavagem de dinheiro é considerada apta quando contém:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A descrição minuciosa e a prova cabal do crime antecedente.",
+        "B": "A indicação de indícios da infração antecedente, ainda que o autor desta seja desconhecido ou isento de pena.",
+        "C": "A prova de que o dinheiro foi depositado em conta no exterior.",
+        "D": "A assinatura de pelo menos três peritos criminais.",
+        "E": "A demonstração de que o agente pretendia financiar o terrorismo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lei de lavagem exige apenas a 'justa causa' relativa ao crime antecedente. Não precisa provar tudo do crime anterior logo na denúncia da lavagem.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 2º, § 1º da Lei 9.613/98. <strong>Dica:</strong> A lavagem é crime de 'infração parasitária'.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Inviolabilidade de Domicílio",
+      "enunciado": "[TEXTO DE APOIO] No RHC 175.787/RJ (Informativo 777), o STJ tratou do consentimento do morador para entrada em domicílio.\n\n[COMANDO] Para que o consentimento do morador valide a entrada de policiais em sua residência sem mandado judicial, o STJ exige que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O consentimento seja apenas verbal, bastando o testemunho dos policiais.",
+        "B": "O consentimento seja voluntário e livre de qualquer coação, devendo ser comprovado pelo Estado, preferencialmente por escrito e com testemunhas, ou gravação audiovisual.",
+        "C": "O morador esteja acompanhado de advogado no momento do consentimento.",
+        "D": "O consentimento seja dado por qualquer vizinho, caso o morador não esteja.",
+        "E": "O consentimento seja desnecessário se a polícia estiver em 'patrulhamento de rotina'."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O ônus de provar que o morador deixou a polícia entrar 'porque quis' é do Estado. O STJ tem anulado muitas provas onde os policiais dizem que o morador autorizou, mas não há registro disso.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> HC 598.051/SP (precedente da 6ª Turma). <strong>Dica:</strong> A gravação da autorização por câmera corporal é a recomendação atual.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.050.963/RJ (Informativo 777), o STJ analisou a insignificância em crimes contra a Administração Pública.\n\n[COMANDO] É possível aplicar o princípio da insignificância aos crimes contra a Administração Pública (como o peculato)?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Sim, se o valor desviado for inferior a 100 reais.",
+        "B": "Não, conforme a Súmula 599 do STJ, pois o bem jurídico protegido é a moralidade administrativa, que é indisponível.",
+        "C": "Sim, desde que o servidor seja primário e devolva o bem.",
+        "D": "Apenas no crime de corrupção passiva.",
+        "E": "Sim, mas apenas se o crime for praticado por prefeito."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Para o STJ, não importa se o servidor roubou um clipe de papel ou um milhão: a confiança pública foi quebrada. Por isso, a Súmula 599 veda a insignificância aqui.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula:</strong> 599 STJ. <strong>Exceção:</strong> O STF, em casos raríssimos, já aplicou a insignificância a crimes contra a administração, mas para o STJ (e para sua prova), a regra é a Súmula 599.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.751/SP (Informativo 777), o STJ discutiu a aplicação do princípio da insignificância no estelionato.\n\n[COMANDO] Para que o estelionato seja considerado insignificante, o valor do prejuízo deve ser:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Inferior a um salário mínimo, obrigatoriamente.",
+        "B": "Irrisório (geralmente inferior a 10% do salário mínimo), além de estarem presentes os demais vetores (mínima ofensividade, etc.).",
+        "C": "Qualquer valor, desde que a vítima seja rica.",
+        "D": "Inferior a 50% do salário mínimo.",
+        "E": "O STJ proíbe a insignificância no estelionato por ser crime de fraude."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O parâmetro de 10% do salário mínimo é uma construção jurisprudencial para definir o que é 'valor inexpressivo'.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Informativo 777 STJ. <strong>Dica:</strong> Não confunda 'pequeno valor' (Art. 171, § 1º) com 'valor insignificante'. O primeiro reduz a pena, o segundo exclui o crime.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Acordo de Não Persecução Penal (ANPP)",
+      "enunciado": "[TEXTO DE APOIO] No Informativo 777 (RHC 175.760/MG), o STJ tratou da retroatividade do ANPP.\n\n[COMANDO] O ANPP pode ser aplicado a processos que já estavam em curso antes da vigência do Pacote Anticrime (Lei 13.964/2019)?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não, pois a lei penal mais benéfica não retroage em normas processuais.",
+        "B": "Sim, desde que a denúncia ainda não tenha sido recebida.",
+        "C": "Sim, mesmo após a sentença, se o réu for primário.",
+        "D": "Apenas se o Ministério Público e o Juiz concordarem por escrito.",
+        "E": "Sim, mas apenas para crimes com pena máxima de 2 anos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF e o STJ definiram que o marco interruptivo para a retroatividade do ANPP é o recebimento da denúncia. Se o processo já 'andou' além disso, não cabe mais o acordo.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Informativo 777 STJ. <strong>Dica:</strong> O ANPP tem natureza híbrida (penal e processual), por isso retroage, mas com limites temporais.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.062.883/RS (Informativo 777), o STJ discutiu a compensação de agravantes e atenuantes.\n\n[COMANDO] Na segunda fase da dosimetria da pena, é possível compensar integralmente a atenuante da confissão espontânea com a agravante da reincidência?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não, a reincidência sempre deve prevalecer sobre a confissão.",
+        "B": "Sim, pois ambas são consideradas circunstâncias igualmente preponderantes, segundo o entendimento consolidado do STJ.",
+        "C": "Apenas se a reincidência for genérica; se for específica, ela prevalece.",
+        "D": "Sim, mas apenas em crimes cometidos sem violência.",
+        "E": "A compensação é proibida pelo Código Penal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ entende que a confissão (personalidade) e a reincidência (multirreincidência pode ser diferente) se anulam na balança da pena.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Tema Repetitivo 585 do STJ. <strong>Dica:</strong> Se o réu for multirreincidente, a agravante pode prevalecer sobre a confissão.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Competência Processual",
+      "enunciado": "Considere a seguinte situação hipotética: Um correntista de uma agência bancária situada em Belo Horizonte/MG teve sua conta esvaziada após criminosos, localizados em São Paulo/SP, realizarem diversas transações fraudulentas via internet banking, induzindo o sistema a erro para desviar os valores. Com base no entendimento firmado pelo Superior Tribunal de Justiça no Informativo 777 (REsp 2.054.492-MG), qual o foro competente para processar e julgar o crime de estelionato virtual nessa modalidade?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O local onde os criminosos realizaram a conduta, em São Paulo/SP, seguindo a regra geral do local da ação.",
+        "B": "O local da sede da instituição financeira, por ser a responsável pela segurança do sistema invadido.",
+        "C": "O local da agência bancária da vítima, em Belo Horizonte/MG, onde o prejuízo efetivamente se concretizou.",
+        "D": "O domicílio dos réus, caso sejam identificados, em observância ao princípio do juiz natural.",
+        "E": "Qualquer comarca do território nacional, por se tratar de crime praticado em ambiente virtual de alcance global."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a fixação de competência em crimes de estelionato praticados em ambiente virtual. O STJ consolidou que o local do prejuízo (agência da vítima) deve prevalecer.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 777 do STJ, no estelionato com esvaziamento de conta via transações fraudulentas virtuais, a competência é do local da agência da vítima.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O local da ação é mitigado em fraudes virtuais para privilegiar o local do resultado patrimonial.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 70 do CPP e REsp 2.054.492-MG.</p><p><strong>Conceito:</strong> A jurisprudência busca facilitar a instrução probatória e proteger a vítima, fixando o foro onde o dano ao patrimônio ocorreu.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Estelionato",
+      "enunciado": "Um agente utiliza um software especializado para gerar aleatoriamente números de cartões de crédito válidos. Sem qualquer interação com os titulares dos cartões, ele realiza diversas compras em sites de e-commerce, recebendo as mercadorias em seu endereço. De acordo com o entendimento do STJ no Informativo 777 (HC 810.706-PR), essa conduta tipifica o crime de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Estelionato (art. 171, CP), pois houve o emprego de fraude para induzir o sistema ao erro.",
+        "B": "Furto mediante fraude (art. 155, § 4º, II, CP), pois a fraude foi usada para subtrair valores sem o consentimento da vítima.",
+        "C": "Apropriação indébita (art. 168, CP), pois o agente inverteu a posse de valores que não lhe pertenciam.",
+        "D": "Falsificação de documento particular (art. 298, CP), pela criação de números de cartões inexistentes.",
+        "E": "Fraude eletrônica qualificada (art. 171, § 2º-A, CP), por ser a norma específica para crimes via internet."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A distinção entre furto mediante fraude e estelionato reside no consentimento. No furto, a fraude visa burlar a vigilância para subtrair; no estelionato, a fraude visa enganar para que a vítima entregue o bem.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que o uso de dados de cartão sem conhecimento da vítima configura furto mediante fraude, pois não há entrega voluntária (consentimento viciado).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Diferenciação:</strong> No furto mediante fraude, a vítima não sabe que está sendo desapossada. No estelionato, ela entrega o bem acreditando em uma mentira.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Fiscal de Tributos Municipais",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "A respeito da persecução penal nos crimes materiais contra a ordem tributária (art. 1º da Lei nº 8.137/1990), o Superior Tribunal de Justiça, no Informativo 777 (AgRg no REsp 2.049.200-SP), reafirmou a aplicação da Súmula Vinculante 24 do STF. Segundo esse entendimento, é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A ação penal pode ser iniciada logo após a lavratura do auto de infração, para evitar a prescrição.",
+        "B": "O crime se consuma com a mera omissão de informações na declaração de imposto, independentemente do lançamento.",
+        "C": "A constituição definitiva do crédito tributário é condição objetiva de procedibilidade para a persecução penal.",
+        "D": "A pendência de recurso administrativo não impede o oferecimento da denúncia pelo Ministério Público.",
+        "E": "O parcelamento do débito após o recebimento da denúncia não suspende a pretensão punitiva estatal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Trata-se da relação entre o processo administrativo fiscal e a ação penal. Nos crimes materiais, o resultado (supressão de tributo) só é certo após o fim da via administrativa.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Súmula Vinculante 24 impede a tipificação do crime antes do lançamento definitivo do tributo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 24:</strong> 'Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo'.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Reincidência e Regime",
+      "enunciado": "Um réu reincidente foi condenado a uma pena de 3 anos de reclusão por crime de furto simples. Na sentença, o magistrado verificou que todas as circunstâncias judiciais do art. 59 do Código Penal eram favoráveis ao sentenciado. Com base na Súmula 269 do STJ, reafirmada no Informativo 777 (REsp 2.051.487-SC), qual o regime inicial de cumprimento de pena adequado?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Regime Fechado, obrigatoriamente, em razão da reincidência.",
+        "B": "Regime Aberto, pois a pena é inferior a 4 anos e as circunstâncias são favoráveis.",
+        "C": "Regime Semiaberto, sendo admissível ao reincidente com pena até 4 anos e circunstâncias favoráveis.",
+        "D": "Regime Fechado, pois a reincidência impede qualquer regime diverso do inicial mais gravoso.",
+        "E": "Substituição por pena restritiva de direitos, independentemente da reincidência."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A reincidência geralmente agrava o regime, mas o STJ possui entendimento sumulado que abranda essa regra para penas baixas com boas circunstâncias.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Súmula 269 do STJ permite o regime semiaberto nessas condições específicas.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 269 STJ:</strong> 'É admissível a fixação do regime prisional semi-aberto ao reincidente condenado a pena igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Estupro de Vulnerável",
+      "enunciado": "No crime de estupro de vulnerável (art. 217-A do CP), praticado contra vítima menor de 14 anos, o Superior Tribunal de Justiça, no Informativo 777 (AgRg no HC 804.839-SC), consolidou o entendimento sobre a natureza da presunção de vulnerabilidade. Assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A presunção é relativa (iuris tantum), admitindo prova de que a vítima já possuía experiência sexual.",
+        "B": "A presunção é absoluta, sendo irrelevante o eventual consentimento da vítima ou sua maturidade sexual.",
+        "C": "A vulnerabilidade deve ser comprovada por laudo psicossocial em cada caso concreto.",
+        "D": "O erro de tipo sobre a idade da vítima sempre exclui o dolo, independentemente das circunstâncias.",
+        "E": "A presunção torna-se relativa se houver união estável ou casamento entre o autor e a vítima."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A proteção ao menor de 14 anos é rígida. O legislador e os tribunais entendem que, abaixo dessa idade, não há capacidade plena de autodeterminação sexual.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A Súmula 593 do STJ e o Informativo 777 reafirmam que a presunção é absoluta.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 593 STJ:</strong> 'O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevante eventual consentimento da vítima para a prática do ato, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "Sobre o instituto da colaboração premiada e os requisitos para a concessão de benefícios ao colaborador, o STJ, no Informativo 777 (AgRg no REsp 2.052.756-SP), diferenciou os conceitos de voluntariedade e espontaneidade. De acordo com a decisão, para a redução da pena, exige-se que a colaboração seja:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Estritamente espontânea, partindo da iniciativa única do réu sem qualquer provocação estatal.",
+        "B": "Voluntária e eficaz, não sendo necessário que a iniciativa tenha partido do próprio colaborador.",
+        "C": "Apenas voluntária, sendo irrelevante se os resultados práticos foram alcançados.",
+        "D": "Realizada obrigatoriamente antes da fase de instrução processual.",
+        "E": "Acompanhada de confissão integral de todos os crimes praticados pelo agente ao longo da vida."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A colaboração premiada é um negócio jurídico processual. A lei exige que o agente queira colaborar (voluntariedade) e que isso traga resultados (eficácia), mas não exige que ele tenha tido a ideia sozinho (espontaneidade).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ esclareceu que a lei não exige espontaneidade, apenas voluntariedade e eficácia.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Diferença:</strong> Espontaneidade é agir por impulso próprio. Voluntariedade é agir sem coação. A Lei 12.850/13 foca na voluntariedade.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "Em relação ao crime de lavagem de dinheiro (Lei nº 9.613/1998), o Superior Tribunal de Justiça, no Informativo 777 (HC 775.485-RJ), tratou da relação entre o crime de lavagem e a infração penal antecedente. Assinale a alternativa que reflete o entendimento da Corte:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A condenação pelo crime antecedente é pressuposto indispensável para a denúncia por lavagem.",
+        "B": "É necessária a prova da materialidade da infração antecedente, embora não se exija a condenação prévia.",
+        "C": "O crime de lavagem é acessório e se extingue caso o crime antecedente prescreva.",
+        "D": "Basta a mera suspeita de origem ilícita dos valores para a condenação por lavagem, dispensando-se prova do antecedente.",
+        "E": "A lavagem de dinheiro só admite como crime antecedente delitos praticados contra a Administração Pública."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lavagem de dinheiro é um crime acessório ou derivado, mas possui autonomia processual. Isso significa que o processo de lavagem pode seguir sozinho, desde que se prove que o dinheiro veio de um crime.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Exige-se prova da existência (materialidade) do crime anterior, mas não sentença condenatória.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Autonomia:</strong> Art. 2º, II, da Lei 9.613/98. O processo e julgamento dos crimes de lavagem independem do processo e julgamento das infrações antecedentes.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Progressão de Regime",
+      "enunciado": "A Lei nº 13.964/2019 (Pacote Anticrime) alterou os lapsos para progressão de regime, tornando-os mais rigorosos para crimes hediondos com resultado morte. Sobre a aplicação dessa lei no tempo, o STJ, no Informativo 777 (HC 800.704-PR), decidiu que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "As novas regras retroagem para atingir todos os presos, por se tratar de norma de execução penal.",
+        "B": "A lei nova só se aplica a fatos ocorridos após sua vigência, por ser norma penal mais gravosa (lex gravior).",
+        "C": "A retroatividade é permitida apenas se o condenado for reincidente específico.",
+        "D": "O juiz da execução pode escolher qual lei aplicar com base no comportamento do preso.",
+        "E": "A lei nova retroage apenas para beneficiar o réu primário em crimes sem violência."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O princípio da irretroatividade da lei penal maléfica é pilar do Direito Penal. Se a lei nova aumenta o tempo de prisão necessário para progredir, ela não pode ser aplicada a crimes antigos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Normas que alteram lapsos de progressão têm natureza penal e seguem a regra da anterioridade.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio:</strong> Art. 5º, XL, da CF: 'a lei penal não retroagirá, salvo para beneficiar o réu'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Furto",
+      "enunciado": "João, agindo com dolo, envia um e-mail falso para uma vítima simulando ser do suporte técnico de um banco. A vítima, acreditando na fraude, clica em um link e digita sua senha. João então acessa a conta e transfere os valores. De acordo com a jurisprudência mencionada no Informativo 777 do STJ, a conduta de João configura:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Furto mediante fraude, pois a senha foi obtida para subtrair os valores sem que a vítima percebesse a transferência no momento.",
+        "B": "Estelionato, pois a vítima foi induzida a erro e entregou voluntariamente (ainda que por meio eletrônico) o acesso aos seus bens.",
+        "C": "Invasão de dispositivo informático, apenas.",
+        "D": "Extorsão indireta, pelo uso de dados privados.",
+        "E": "Apropriação indébita digital."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Diferente do caso de gerar números de cartão (furto), aqui a vítima participa ativamente entregando a senha ao estelionatário.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O engodo faz a vítima entregar o bem ou o acesso a ele. Isso é a essência do estelionato.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Estelionato:</strong> Art. 171 do CP. Exige: 1) Fraude; 2) Erro; 3) Vantagem Ilícita; 4) Prejuízo Alheio.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Competência Processual",
+      "enunciado": "No crime de estelionato cometido mediante transferência de valores (PIX ou TED) em ambiente virtual, o STJ (Informativo 777) estabelece que a competência será determinada pelo local do prejuízo. Se a vítima possui conta em agência de Curitiba/PR e o autor recebe o valor em conta de Manaus/AM, o foro competente é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Manaus/AM, local da obtenção da vantagem.",
+        "B": "Curitiba/PR, local da agência bancária da vítima.",
+        "C": "Brasília/DF, por ser sede do Banco Central.",
+        "D": "O local onde o autor da fraude foi preso.",
+        "E": "O domicílio da vítima, independentemente de onde esteja sua agência bancária."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A Lei 14.155/2021 alterou o art. 70 do CPP para estelionatos mediante transferência, e o STJ confirmou que o local da agência da vítima é o critério chave.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O local da agência da vítima define a competência para facilitar a prova do prejuízo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 70, § 4º do CPP:</strong> Nos crimes de estelionato mediante depósito ou transferência, a competência será definida pelo domicílio da vítima.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Prescrição",
+      "enunciado": "Sobre a prescrição nos crimes contra a ordem tributária, considerando o Informativo 777 do STJ, assinale a alternativa correta sobre o termo inicial do prazo prescricional nos crimes previstos no art. 1º da Lei 8.137/90:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O prazo começa a correr na data da conduta omissiva ou comissiva.",
+        "B": "O prazo começa a correr apenas após a constituição definitiva do crédito tributário.",
+        "C": "O prazo começa a correr na data da descoberta da fraude pelo fisco.",
+        "D": "A prescrição é suspensa indefinidamente enquanto durar o processo administrativo.",
+        "E": "O termo inicial é a data do encerramento do exercício financeiro correspondente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Se o crime não existe juridicamente antes do lançamento (Súmula Vinculante 24), a prescrição também não pode correr antes disso.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A consumação e o início da prescrição coincidem com o lançamento definitivo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> O STJ e o STF entendem que a prescrição da pretensão punitiva só se inicia com a constituição definitiva do crédito.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Progressão de Regime",
+      "enunciado": "Um sentenciado cumpre pena por crime hediondo com resultado morte cometido em 2018. Em 2024, ele pleiteia progressão de regime. O Ministério Público opina pela aplicação dos novos percentuais da Lei 13.964/2019 (50% da pena). Com base no Informativo 777 do STJ, o juiz deve:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplicar a lei nova, pois normas de execução penal têm aplicação imediata.",
+        "B": "Aplicar a lei anterior (lapsos de 2/5 ou 3/5), pois a lei nova é mais gravosa e o crime é anterior.",
+        "C": "Aplicar a lei nova apenas se o sentenciado for reincidente.",
+        "D": "Declarar a inconstitucionalidade do Pacote Anticrime.",
+        "E": "Aplicar a lei nova, mas reduzir o percentual para 40% por equidade."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lei penal mais grave não retroage. Como o crime foi em 2018 e a lei é de 2019, prevalece a regra antiga se for mais benéfica.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Garante-se a aplicação da lei vigente ao tempo do crime (tempus regit actum) quando a nova é pior.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Irretroatividade:</strong> A CF veda a retroatividade in pejus. O STJ reafirmou isso no Informativo 777.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista de Controle",
+      "subtema": "Furto",
+      "enunciado": "A conduta de 'phishing', onde o agente cria uma página falsa de banco para capturar dados de usuários e posteriormente realizar transferências sem o consentimento destes, é classificada pelo STJ (Informativo 777) predominantemente como:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Furto mediante fraude, se o agente subtrai os valores sem que a vítima perceba a ação de desapossamento.",
+        "B": "Estelionato, se a vítima, enganada, realiza ela mesma a transferência para a conta do agente.",
+        "C": "Dano qualificado pelo uso de meio eletrônico.",
+        "D": "Apropriação indébita previdenciária.",
+        "E": "As alternativas A e B estão corretas, dependendo de quem executa o ato de transferência (agente ou vítima)."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A jurisprudência do STJ é sutil: se a fraude faz a vítima entregar, é estelionato. Se a fraude faz o agente tirar sem a vítima ver, é furto.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>E) ✅ CORRETA</p><p style='color: #155724;'>A classificação depende do papel da vítima no desapossamento do bem.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina:</strong> No furto, a fraude serve para distrair a vítima. No estelionato, a fraude serve para convencer a vítima.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "No crime de lavagem de dinheiro, o STJ (Informativo 777) entende que para a prolação de uma sentença condenatória:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É indispensável a identificação de todos os coautores do crime antecedente.",
+        "B": "Basta a prova da materialidade do crime antecedente e indícios de que os bens derivam dessa infração.",
+        "C": "O crime antecedente deve ter sido julgado pelo mesmo juízo da lavagem.",
+        "D": "A absolvição no crime antecedente por falta de provas não impede a condenação por lavagem.",
+        "E": "O crime de lavagem absorve o crime antecedente pelo princípio da consunção."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A autonomia do crime de lavagem permite a punição mesmo sem a punição do autor do crime principal, desde que o crime principal tenha ocorrido.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A lei exige apenas a prova da existência da infração antecedente.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 9.613/98:</strong> Art. 2º, § 1º: A denúncia será instruída com indícios suficientes da existência da infração antecedente.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Competência Processual",
+      "enunciado": "Considere que um estelionatário, mediante fraude eletrônica, induz uma vítima a transferir R$ 50.000,00 para uma conta de 'laranja'. A vítima reside em Natal/RN, mas sua agência bancária está vinculada a uma unidade em Recife/PE. O autor da fraude reside em Fortaleza/CE. Segundo o Informativo 777 do STJ, a competência é de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Natal/RN, domicílio da vítima.",
+        "B": "Recife/PE, local da agência da vítima.",
+        "C": "Fortaleza/CE, domicílio do réu.",
+        "D": "Brasília/DF, competência federal.",
+        "E": "Qualquer uma das cidades, por prevenção."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ foca no local onde o patrimônio da vítima sofreu o desfalque, que é a agência detentora da conta.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O local da agência bancária da vítima é o critério ratificado pelo Informativo 777.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> REsp 2.054.492-MG. A competência é do local da agência onde a vítima mantém a conta esvaziada.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Estupro de Vulnerável",
+      "enunciado": "No crime de estupro de vulnerável, a defesa alega que a vítima, de 13 anos, já era emancipada e vivia em união estável com o réu, o que afastaria a tipicidade pela ausência de vulnerabilidade real. Com base no Informativo 777 do STJ, tal argumento:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser acolhido, pois a emancipação civil gera capacidade penal plena.",
+        "B": "Não deve ser acolhido, pois a presunção de vulnerabilidade é absoluta e independe da situação civil ou social da vítima.",
+        "C": "Deve ser acolhido apenas se houver autorização dos pais para o relacionamento.",
+        "D": "Leva à desclassificação para o crime de sedução.",
+        "E": "Extingue a punibilidade pelo casamento superveniente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O Direito Penal protege o menor de 14 anos de forma intransigente, não admitindo que condições externas afastem a proteção legal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A presunção absoluta visa evitar que o agressor utilize justificativas sociais para abusar de menores.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 593 STJ:</strong> Reitera que o consentimento ou relacionamento amoroso são irrelevantes para a configuração do crime.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "A colaboração premiada, como meio de obtenção de prova, exige voluntariedade. Se um investigado decide colaborar após ser orientado por seu advogado sobre os benefícios da lei, mas sem que ele mesmo tenha tido a iniciativa inicial, o benefício da redução de pena:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser negado, pois faltou espontaneidade.",
+        "B": "Pode ser concedido, pois a lei exige voluntariedade e não espontaneidade (Informativo 777 STJ).",
+        "C": "Deve ser reduzido pela metade, por ser colaboração induzida.",
+        "D": "Só é válido se houver entrega de valores em espécie.",
+        "E": "Depende de autorização expressa do Conselho Superior do Ministério Público."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ protege a utilidade do instituto. Se o réu aceita colaborar livremente, o Estado ganha a prova e o réu o benefício.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A distinção entre voluntariedade e espontaneidade é crucial para a validade dos acordos.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Voluntário é o que se faz sem coação. Espontâneo é o que nasce do próprio íntimo sem sugestão externa.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "Nos crimes materiais contra a ordem tributária, a Súmula Vinculante 24 do STF, citada no Informativo 777 do STJ, produz qual efeito prático sobre a denúncia oferecida antes do término do processo administrativo?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A denúncia deve ser recebida, mas o julgamento suspenso.",
+        "B": "A denúncia deve ser rejeitada por falta de justa causa (atipicidade temporária).",
+        "C": "O Ministério Público pode aditar a denúncia após o lançamento.",
+        "D": "O juiz deve condenar o réu, mas perdoar a pena se ele pagar.",
+        "E": "A denúncia interrompe a prescrição mesmo sem o lançamento."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Sem o lançamento definitivo, não há crime consumado. Sem crime consumado, não há justa causa para a ação penal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A rejeição da denúncia é a consequência processual da falta de condição de procedibilidade.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Processo Penal:</strong> Art. 395, III do CPP. A denúncia será rejeitada quando faltar justa causa para o exercício da ação penal.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Reincidência e Regime",
+      "enunciado": "Um indivíduo reincidente é condenado a 2 anos de reclusão. O juiz fixa o regime inicial fechado alegando apenas a reincidência. De acordo com o Informativo 777 do STJ e a Súmula 269, se as circunstâncias judiciais forem favoráveis, o regime deve ser alterado para:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aberto.",
+        "B": "Semiaberto.",
+        "C": "Mantido no fechado.",
+        "D": "Substituído por multa apenas.",
+        "E": "Livramento condicional imediato."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A Súmula 269 do STJ é um importante instrumento de individualização da pena, evitando o rigor excessivo para crimes de menor gravidade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O regime semiaberto é o teto para o reincidente nessas condições.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 269 STJ:</strong> Permite o semiaberto para reincidentes com pena até 4 anos e circunstâncias favoráveis.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Furto",
+      "enunciado": "No crime de furto mediante fraude praticado por meio de dispositivo eletrônico (art. 155, § 4º-B do CP), o STJ (Informativo 777) destaca que o elemento subjetivo que o diferencia do estelionato é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A intenção de devolver o bem após o uso.",
+        "B": "A ausência de vontade da vítima em transferir o patrimônio (subtração vs entrega).",
+        "C": "O valor do prejuízo causado.",
+        "D": "O horário em que o crime foi praticado.",
+        "E": "A utilização de criptomoedas para ocultar o rastro."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A chave para não errar essa distinção é olhar para a vítima: ela entregou (estelionato) ou o ladrão tirou (furto)?</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>No furto, a fraude serve para que o agente consiga subtrair sem resistência.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina Clássica:</strong> No furto mediante fraude, o dissenso da vítima é presumido. No estelionato, o consenso é viciado.</p></div></div>"
+    }
+  ],
+  "data_correcao": "2026-01-12T07:19:33.313307",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}

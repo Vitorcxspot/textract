@@ -1,0 +1,908 @@
+{
+  "disciplina": "Direito Penal",
+  "tema": "26 - Informativo Jurisprudencia 778 STJ",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] O Código Penal brasileiro, em seu art. 70, trata do concurso formal, estabelecendo que ocorre quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes. A jurisprudência do Superior Tribunal de Justiça (STJ), consolidada no Informativo 778 (REsp 2.057.420-SP), debruçou-se sobre a aplicação da pena quando há desígnios autônomos em crimes dolosos contra vítimas diferentes.\n\n[COMANDO] Diante de uma situação em que o agente, com uma única conduta, mas agindo com desígnios autônomos (vontades independentes para cada resultado), comete dois crimes de homicídio doloso contra vítimas distintas, assinale a regra de aplicação da pena correta segundo o STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplica-se a pena do crime mais grave, aumentada de um sexto até a metade (exasperação).",
+        "B": "Aplica-se a regra do concurso material, realizando-se o cúmulo (soma) das penas.",
+        "C": "Aplica-se a pena do crime mais grave aumentada de um terço, em razão da pluralidade de vítimas.",
+        "D": "Aplica-se a regra do crime continuado, com aumento de um sexto a dois terços sobre a pena mais grave.",
+        "E": "Aplica-se a pena de apenas um dos crimes, ficando o outro absorvido pelo princípio da consunção."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>concurso formal impróprio</strong>. O ponto central é que, havendo <strong>desígnios autônomos</strong> (vontade de produzir cada um dos resultados separadamente), a lei e o STJ determinam o cúmulo material.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Conforme o REsp 2.057.420-SP, nos crimes dolosos contra vítimas diferentes, praticados com desígnios autônomos, aplica-se a regra do concurso material (soma das penas), conforme a parte final do art. 70 do CP.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A exasperação aplica-se ao concurso formal próprio (sem desígnios autônomos).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 70, parte final, do Código Penal.</p><p><strong>Dica de Prova:</strong> Falou em 'desígnios autônomos', esqueça o aumento de fração (exasperação) e vá direto na soma (cúmulo material).</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Lei de Drogas - Tráfico Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] O art. 33, § 4º, da Lei n. 11.343/2006 prevê a causa de diminuição de pena para o tráfico de drogas (tráfico privilegiado). O STJ, no Informativo 778 (REsp 2.055.932-SP), definiu critérios para o cálculo da prescrição nesses casos.\n\n[COMANDO] Sobre o cálculo do prazo prescricional da pretensão punitiva retroativa no crime de tráfico privilegiado, assinale a alternativa que reflete o entendimento do STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve-se considerar a pena máxima em abstrato do crime de tráfico (15 anos), ignorando a causa de diminuição.",
+        "B": "O prazo prescricional deve ser calculado com base na pena concretamente aplicada na sentença, já computada a redução pelo privilégio.",
+        "C": "A prescrição retroativa não se aplica ao crime de tráfico de drogas por ser este equiparado a hediondo.",
+        "D": "O termo inicial da prescrição é sempre a data do recebimento da denúncia, independentemente do trânsito em julgado para a acusação.",
+        "E": "A causa de diminuição do § 4º só deve ser considerada para fins de prescrição se o réu for primário e possuir bons antecedentes no momento do fato."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prescrição retroativa (art. 110, § 1º, CP) regula-se pela pena aplicada. O STJ reafirmou que o privilégio integra esse cálculo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A pena concreta, após a incidência da minorante do tráfico privilegiado, é o parâmetro para aferir o prazo prescricional retroativo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> A prescrição retroativa ocorre entre o recebimento da denúncia e a sentença, baseando-se na pena fixada pelo juiz.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] O livramento condicional é um benefício da execução penal que exige o cumprimento de frações da pena. O STJ, no REsp 2.053.840-SP (Inf. 778), analisou a situação do condenado por crime hediondo que é reincidente específico.\n\n[COMANDO] De acordo com o entendimento do STJ, para a concessão de livramento condicional ao condenado por crime hediondo ou equiparado que seja reincidente específico em crimes dessa natureza, a fração de pena a ser cumprida é de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Mais de 1/3 da pena.",
+        "B": "Mais de 1/2 da pena.",
+        "C": "Mais de 2/3 da pena.",
+        "D": "Mais de 3/5 da pena.",
+        "E": "O benefício é vedado ao reincidente específico em crime hediondo."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ decidiu que a reincidência específica em crime hediondo não impede o livramento, nem gera fração maior que 2/3, pois o art. 83, V, do CP já prevê essa fração como teto para crimes hediondos.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 83, inciso V, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] A Lei n. 9.613/1998 dispõe sobre os crimes de lavagem ou ocultação de bens, direitos e valores. Um dos temas mais debatidos é a relação entre a lavagem e a infração penal antecedente.\n\n[COMANDO] Conforme o entendimento do STJ no Informativo 778 (AgRg no REsp 2.052.029-SP), assinale a alternativa correta sobre a autonomia do crime de lavagem de dinheiro:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A prescrição da infração penal antecedente impede a persecução penal do crime de lavagem de dinheiro.",
+        "B": "O crime de lavagem de dinheiro é acessório e depende da punibilidade do crime antecedente.",
+        "C": "A prescrição da infração penal antecedente não obsta a persecução penal do crime de lavagem de dinheiro, dada a sua autonomia.",
+        "D": "É necessária a condenação transitada em julgado pelo crime antecedente para iniciar a ação penal por lavagem.",
+        "E": "A extinção da punibilidade do crime antecedente por qualquer motivo sempre se estende ao crime de lavagem."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O crime de lavagem é derivado (acessório em relação ao objeto), mas autônomo (independente quanto à punibilidade do antecedente).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 2º, II, da Lei 9.613/98.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Tráfico de Drogas",
+      "enunciado": "[TEXTO DE APOIO] A condenação concomitante pelos crimes de tráfico de drogas (art. 33) e associação para o tráfico (art. 35) da Lei n. 11.343/2006 é objeto de frequentes questionamentos sobre a ocorrência de bis in idem.\n\n[COMANDO] Segundo o STJ (Informativo 778, HC 787.054-RJ), a condenação pelos dois crimes:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Configura bis in idem em qualquer hipótese, pois a associação é fase do tráfico.",
+        "B": "Não configura bis in idem, desde que demonstrada a estabilidade e permanência do vínculo associativo.",
+        "C": "Somente é permitida se houver mais de cinco agentes envolvidos na organização.",
+        "D": "Depende da apreensão de balanças de precisão e anotações de contabilidade.",
+        "E": "Configura bis in idem apenas se as penas somadas ultrapassarem 20 anos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A associação para o tráfico exige o 'animus' associativo estável. Se provado, o crime é autônomo em relação ao tráfico em si.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito-Chave:</strong> Estabilidade e Permanência são os requisitos do art. 35 da Lei de Drogas.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] A prática de falta grave durante o cumprimento da pena gera diversas consequências jurídicas ao apenado.\n\n[COMANDO] Conforme o entendimento do STJ (Informativo 778, AgRg no REsp 2.046.035-SC), a prática de novo crime doloso no curso da execução da pena, caracterizada como falta grave:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não interrompe o prazo para progressão de regime, mas impede o indulto.",
+        "B": "Interrompe o prazo para a aquisição de novos benefícios executórios, inclusive para a progressão de regime.",
+        "C": "Apenas acarreta a perda de 1/6 dos dias remidos, sem afetar prazos.",
+        "D": "Interrompe apenas o prazo para o livramento condicional.",
+        "E": "Não possui reflexos na execução penal antes do trânsito em julgado do novo crime."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A falta grave (novo crime) 'zera' o cronômetro para a progressão de regime, reiniciando a contagem do tempo necessário.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 52 da Lei de Execução Penal (LEP) e Súmula 534 do STJ.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Princípio da Consunção",
+      "enunciado": "[TEXTO DE APOIO] O princípio da consunção (ou absorção) resolve conflitos aparentes de normas quando um crime é meio necessário para outro.\n\n[COMANDO] No caso de falsificação de documento público utilizado exclusivamente para a prática de um estelionato, exaurindo-se nele sua potencialidade lesiva, o STJ (Inf. 778, REsp 2.057.487-DF) entende que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O agente responde por ambos os crimes em concurso material.",
+        "B": "O estelionato é absorvido pela falsificação, por ser esta mais grave.",
+        "C": "A falsificação é absorvida pelo estelionato.",
+        "D": "O agente responde apenas por falsificação, sendo o estelionato post-factum impunível.",
+        "E": "Aplica-se a pena da falsificação aumentada de um sexto."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Súmula 17 do STJ: Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 17 STJ:</strong> 'Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido.'</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Concussão",
+      "enunciado": "[TEXTO DE APOIO] O crime de concussão (art. 316, CP) consiste em exigir vantagem indevida em razão da função pública.\n\n[COMANDO] Sobre o momento consumativo do crime de concussão, conforme o Informativo 778 do STJ (REsp 2.083.673-SP), assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Consuma-se apenas com o efetivo recebimento da vantagem indevida.",
+        "B": "Consuma-se no momento da exigência, sendo o recebimento mero exaurimento.",
+        "C": "Consuma-se quando a vítima efetivamente sofre o prejuízo patrimonial.",
+        "D": "É crime material, exigindo resultado naturalístico para a punição.",
+        "E": "Consuma-se apenas se a exigência for feita por escrito."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A concussão é crime formal (de consumação antecipada). O verbo 'exigir' marca a consumação.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina:</strong> Crimes formais não dependem do resultado para estarem perfeitos.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Peculato",
+      "enunciado": "[TEXTO DE APOIO] O peculato-desvio (art. 312, CP) ocorre quando o funcionário público dá destino diverso ao bem de que tem a posse em razão do cargo.\n\n[COMANDO] Segundo o STJ (REsp 2.068.749-RS, Inf. 778), o servidor que recebe valores de particulares para repassar a terceiros e os desvia em proveito próprio:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não comete peculato se o dinheiro não pertencia ao erário público.",
+        "B": "Comete peculato-desvio, pois o bem estava sob sua guarda em razão do cargo.",
+        "C": "Comete apenas apropriação indébita comum.",
+        "D": "Comete crime de concussão, pois houve exigência implícita.",
+        "E": "É isento de pena se restituir o valor antes da denúncia."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O peculato protege a moralidade administrativa. Não importa se o dinheiro é público ou particular, desde que o servidor tenha a posse por causa do cargo.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 312, caput, 2ª parte, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] A Lei n. 8.137/1990 define crimes contra a ordem tributária.\n\n[COMANDO] Para a configuração do crime de sonegação fiscal (art. 1º), o STJ (REsp 2.070.089-SC, Inf. 778) reafirmou ser indispensável:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas a prova do inadimplemento do tributo.",
+        "B": "O dolo específico de suprimir ou reduzir tributo.",
+        "C": "A prova de que o agente é o proprietário majoritário da empresa.",
+        "D": "A prévia condenação em processo administrativo disciplinar.",
+        "E": "O dolo eventual, sendo desnecessária a intenção de fraude."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Mero inadimplemento não é crime. É preciso o 'animus' de fraudar o fisco para reduzir ou suprimir o imposto.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Dica:</strong> Sonegação exige fraude/dolo. Inadimplemento é questão cível/administrativa.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Moeda Falsa",
+      "enunciado": "[TEXTO DE APOIO] O crime de moeda falsa (art. 289, CP) possui várias modalidades de conduta.\n\n[COMANDO] Na modalidade 'guardar' moeda falsa, o STJ (REsp 2.062.593-SP, Inf. 778) entende que o crime é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Instantâneo, consumando-se no momento da aquisição.",
+        "B": "Permanente, cuja consumação se prolonga enquanto a moeda estiver sob posse do agente.",
+        "C": "Culposo, se o agente não verificou a autenticidade imediatamente.",
+        "D": "Impossível, se a falsificação for grosseira.",
+        "E": "Dependente da efetiva circulação da moeda no comércio."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Crimes permanentes permitem a prisão em flagrante a qualquer tempo enquanto durar a conduta.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Crime permanente é aquele cujo momento consumativo se protrai no tempo por vontade do agente.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Abuso de Autoridade",
+      "enunciado": "[TEXTO DE APOIO] A Lei n. 13.869/2019 disciplina os crimes de abuso de autoridade.\n\n[COMANDO] De acordo com o STJ (REsp 2.067.892-SP, Inf. 778), para a configuração desses crimes, exige-se dolo específico, o qual NÍO se caracteriza por:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Finalidade de prejudicar outrem.",
+        "B": "Finalidade de beneficiar a si mesmo ou a terceiro.",
+        "C": "Mero capricho ou satisfação pessoal.",
+        "D": "Divergência na interpretação de lei ou na avaliação de fatos e provas.",
+        "E": "Vontade consciente de usar o poder de forma excessiva."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lei de abuso de autoridade veda o chamado 'crime de hermenêutica'. Divergir na interpretação não é crime.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 1º, § 2º, da Lei 13.869/2019.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Princípio da Consunção",
+      "enunciado": "[TEXTO DE APOIO] O princípio da consunção pode ocorrer entre crimes de falsidade e uso de documento.\n\n[COMANDO] Quando o agente pratica falsidade ideológica com o único objetivo de usar o documento e a potencialidade lesiva se esgota nesse uso, o STJ (REsp 2.070.814-SC, Inf. 778) entende que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O uso absorve a falsidade.",
+        "B": "A falsidade absorve o uso.",
+        "C": "Há concurso material obrigatório.",
+        "D": "Ambos os crimes são nulos por falta de objeto.",
+        "E": "O crime de uso é considerado post-factum impunível."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Na relação entre falsificação e uso pelo próprio falsário, a jurisprudência majoritária indica que o uso é mero exaurimento do falso.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Entendimento:</strong> O falsário que usa o documento responde apenas pela falsificação (crime-meio que absorve o uso).</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] No concurso formal impróprio, o agente possui desígnios autônomos.\n\n[COMANDO] Em relação ao concurso formal impróprio, assinale a alternativa que descreve corretamente a consequência jurídica para a pena, conforme o Informativo 778 do STJ:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "As penas devem ser somadas (cúmulo material).",
+        "B": "A pena mais grave é aumentada de metade.",
+        "C": "A pena mais leve é desprezada.",
+        "D": "As penas são somadas, mas o total não pode exceder o dobro da mais grave.",
+        "E": "Aplica-se a média aritmética das penas."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O concurso formal impróprio é tratado pelo legislador como se fosse concurso material devido à maior reprovabilidade da conduta (múltiplos dolo).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 70, caput, final, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Prescrição",
+      "enunciado": "[TEXTO DE APOIO] A prescrição retroativa é contada após o trânsito em julgado para a acusação.\n\n[COMANDO] No crime de tráfico privilegiado, se a pena final fixada for de 1 ano e 8 meses, o prazo prescricional (que para essa pena é de 4 anos) deve ser contado a partir de qual marco inicial, segundo o STJ (Inf. 778)?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Do trânsito em julgado para a acusação.",
+        "B": "Da data do fato.",
+        "C": "Do recebimento da denúncia.",
+        "D": "Da publicação da sentença em cartório.",
+        "E": "Do trânsito em julgado para a defesa."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prescrição retroativa baseia-se na pena 'in concreto'. O termo inicial para o cálculo é o trânsito em julgado para o MP.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 110, § 1º, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] O livramento condicional para crimes hediondos exige 2/3 da pena.\n\n[COMANDO] O STJ decidiu que a reincidência específica em crime hediondo não afasta a fração de 2/3 para o livramento condicional. Isso ocorre porque:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A lei é omissa quanto ao reincidente específico.",
+        "B": "A fração de 2/3 já é a mais severa prevista no Código Penal para esse benefício.",
+        "C": "O reincidente específico tem direito a fração menor (1/2).",
+        "D": "A reincidência específica só gera efeitos na progressão de regime, nunca no livramento.",
+        "E": "Houve revogação tácita do dispositivo que tratava de reincidência específica."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Não há previsão de fração superior a 2/3 no art. 83 do CP. Logo, mesmo o reincidente específico 'estaciona' nesse patamar.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lógica:</strong> O sistema penal não pode criar frações sem base legal expressa (princípio da legalidade).</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] A prova da infração antecedente é necessária para a denúncia de lavagem.\n\n[COMANDO] Segundo o STJ (REsp 2.066.012-SP, Inf. 778), para a condenação por lavagem de dinheiro, é imprescindível:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A condenação prévia pelo crime antecedente.",
+        "B": "A demonstração de que os bens são provenientes de infração penal.",
+        "C": "Que o crime antecedente seja um crime hediondo.",
+        "D": "Que o valor lavado seja superior a 100 salários mínimos.",
+        "E": "A confissão do réu quanto à origem dos valores."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Embora autônomo, o crime de lavagem exige a prova de que o objeto material (dinheiro/bem) tem origem ilícita.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 1º da Lei 9.613/98.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Progressão de Regime",
+      "enunciado": "[TEXTO DE APOIO] A progressão de regime exige requisitos objetivos e subjetivos.\n\n[COMANDO] A prática de falta grave (novo crime doloso) interrompe o prazo para progressão de regime. Qual o novo termo inicial para contagem do prazo, segundo o STJ?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A data do trânsito em julgado do novo crime.",
+        "B": "A data da prática do fato (falta grave).",
+        "C": "A data do início do cumprimento da pena original.",
+        "D": "A data da última progressão obtida.",
+        "E": "A data do recebimento da denúncia do novo crime."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O marco interruptivo é o dia em que a falta foi cometida, retroagindo a essa data após o reconhecimento judicial.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 534 STJ:</strong> 'A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena...'</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Concussão",
+      "enunciado": "[TEXTO DE APOIO] A concussão diferencia-se da corrupção passiva pelo verbo núcleo do tipo.\n\n[COMANDO] Na concussão, o agente 'exige'. Na corrupção passiva, o agente 'solicita, recebe ou aceita promessa'. Sobre a concussão, o STJ (Inf. 778) reafirmou que se trata de crime:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Material.",
+        "B": "Formal.",
+        "C": "De mera conduta.",
+        "D": "Próprio e material.",
+        "E": "Vago."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Crime formal é aquele em que o tipo descreve conduta e resultado, mas o resultado não é necessário para a consumação.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 316 do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Peculato",
+      "enunciado": "[TEXTO DE APOIO] O peculato-desvio tutela o patrimônio e a probidade administrativa.\n\n[COMANDO] No caso de um servidor que desvia valores que estavam sob sua guarda, mas que eram de origem particular (ex: fianças ou depósitos de terceiros), o STJ entende que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não há crime contra a administração, pois o dinheiro não é público.",
+        "B": "Configura-se o crime de peculato, pois o servidor detinha a posse em razão do cargo.",
+        "C": "O crime é de estelionato qualificado.",
+        "D": "O fato é atípico se houver ressarcimento integral.",
+        "E": "Configura-se crime de prevaricação."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O art. 312 do CP menciona 'dinheiro, valor ou qualquer outro bem móvel, público ou particular'.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 312, caput, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Dolo nos Crimes Tributários",
+      "enunciado": "[TEXTO DE APOIO] O dolo é elemento subjetivo do tipo penal.\n\n[COMANDO] No crime de sonegação fiscal, a negligência do empresário em conferir os livros contábeis, resultando em supressão de tributo, acarreta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Condenação por crime culposo.",
+        "B": "Condenação por crime doloso (dolo eventual).",
+        "C": "Absolvição, pois o tipo exige dolo específico de fraudar.",
+        "D": "Condenação com pena reduzida de um terço.",
+        "E": "Substituição da pena privativa de liberdade por multa."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Não existe crime de sonegação fiscal culposo. Sem a intenção deliberada de enganar o fisco, a conduta é atípica na esfera penal.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio:</strong> Excepcionalidade do crime culposo (art. 18, parágrafo único, CP).</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Moeda Falsa",
+      "enunciado": "[TEXTO DE APOIO] Crimes permanentes permitem a prisão em flagrante enquanto não cessar a permanência.\n\n[COMANDO] O indivíduo que mantém em seu cofre cédulas falsas, sabendo da falsidade, comete o crime de moeda falsa na modalidade 'guardar'. Sobre o flagrante, é correto afirmar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Só pode ocorrer no momento em que ele recebeu as notas.",
+        "B": "Pode ocorrer a qualquer momento enquanto as notas estiverem guardadas.",
+        "C": "Depende de autorização judicial prévia para o cofre.",
+        "D": "É ilegal se ele não tentou gastar as notas.",
+        "E": "Prescreve em 2 anos após a guarda inicial."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A guarda é conduta que se prolonga. Enquanto guarda, o crime está sendo cometido (consumação prolongada).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 303 do Código de Processo Penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Abuso de Autoridade",
+      "enunciado": "[TEXTO DE APOIO] A Lei de Abuso de Autoridade exige um elemento subjetivo especial.\n\n[COMANDO] Se um fiscal de rendas interpreta uma norma tributária de forma rigorosa e, posteriormente, o tribunal decide que aquela interpretação estava errada, o fiscal:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Responde por abuso de autoridade automaticamente.",
+        "B": "Não responde por abuso, pois a divergência na interpretação de lei não configura o crime.",
+        "C": "Responde por prevaricação.",
+        "D": "Deve ser exonerado do cargo imediatamente.",
+        "E": "Responde por abuso se o contribuinte for pessoa influente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O art. 1º, § 2º da Lei 13.869/19 protege a atividade interpretativa do agente público.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Ausência de dolo específico afasta a tipicidade nos crimes de abuso.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Falsidade Ideológica vs Crime Tributário",
+      "enunciado": "[TEXTO DE APOIO] A consunção ocorre quando o crime-fim absorve o crime-meio.\n\n[COMANDO] No caso de falsidade ideológica em notas fiscais para viabilizar uma sonegação fiscal, o STJ entende que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A falsidade absorve a sonegação.",
+        "B": "A sonegação absorve a falsidade, se esta foi apenas o meio para o crime tributário.",
+        "C": "Sempre haverá concurso material.",
+        "D": "O crime de falsidade é inexistente.",
+        "E": "A pena da sonegação é dobrada."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Aplicação do princípio da consunção em crimes tributários complexos.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 17 STJ (Adaptada):</strong> O falso é absorvido pelo crime-fim quando nele se exaure.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] O concurso formal próprio gera exasperação da pena.\n\n[COMANDO] Um motorista, agindo com imprudência (culpa), atropela e mata duas pessoas com uma única manobra. Segundo o Código Penal e o STJ, a regra de pena é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Soma das penas (cúmulo material).",
+        "B": "Pena de um dos crimes aumentada de um sexto até a metade.",
+        "C": "Pena do crime mais grave diminuída de um terço.",
+        "D": "Apenas uma pena, sem aumentos.",
+        "E": "Pena de um dos crimes multiplicada por dois."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Crimes culposos não admitem desígnios autônomos. Logo, o concurso formal será sempre próprio (exasperação).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 70, caput, 1ª parte, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lei de Drogas - Tráfico Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] O tráfico privilegiado não é crime hediondo.\n\n[COMANDO] Em virtude de não ser hediondo, o prazo prescricional do tráfico privilegiado segue as regras comuns do Código Penal. Se a pena aplicada for de 2 anos, a prescrição ocorre em:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "2 anos.",
+        "B": "4 anos.",
+        "C": "8 anos.",
+        "D": "12 anos.",
+        "E": "16 anos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Pena superior a 1 ano e não excedente a 2 prescreve em 4 anos (Art. 109, V, CP).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 109 do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] O livramento condicional exige bom comportamento.\n\n[COMANDO] Além do requisito objetivo (tempo de pena), o condenado por crime hediondo deve cumprir qual requisito para o livramento condicional, segundo o Código Penal?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não ser reincidente em qualquer crime.",
+        "B": "Não ser reincidente específico em crimes da mesma natureza.",
+        "C": "Ter reparado o dano, salvo impossibilidade de fazê-lo.",
+        "D": "Ter curso superior completo.",
+        "E": "Ter idade superior a 60 anos."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A reparação do dano é requisito genérico do livramento condicional (Art. 83, IV, CP).</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 83, inciso IV, do Código Penal.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] A denúncia por lavagem de dinheiro deve ser instruída com indícios da infração antecedente.\n\n[COMANDO] Se o crime antecedente (ex: corrupção) for anistiado pelo Congresso Nacional, o crime de lavagem de dinheiro derivado dele:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser extinto imediatamente.",
+        "B": "Prossegue normalmente, pois a autonomia impede que a extinção da punibilidade do antecedente afete a lavagem.",
+        "C": "Fica suspenso por 5 anos.",
+        "D": "É convertido em crime de favorecimento real.",
+        "E": "Depende de nova denúncia."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A autonomia da lavagem (Art. 2º, II, Lei 9.613) é o pilar que sustenta a punição mesmo quando o crime 'pai' não pode mais ser punido.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Autonomia processual e material da lavagem de dinheiro.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Tráfico de Drogas",
+      "enunciado": "[TEXTO DE APOIO] A associação para o tráfico exige o concurso de duas ou mais pessoas.\n\n[COMANDO] Dois indivíduos que se reúnem uma única vez para vender drogas em um festival, sem qualquer vínculo prévio ou intenção de manter a parceria, cometem:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Tráfico de drogas e associação para o tráfico.",
+        "B": "Apenas tráfico de drogas em coautoria.",
+        "C": "Apenas associação para o tráfico.",
+        "D": "Crime de organização criminosa.",
+        "E": "Fato atípico."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Sem estabilidade e permanência, não há o crime do art. 35 da Lei de Drogas, apenas o concurso eventual de pessoas no tráfico.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Diferenciação:</strong> Coautoria (concurso eventual) vs. Associação (concurso estável).</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Progressão de Regime",
+      "enunciado": "[TEXTO DE APOIO] A falta grave na execução penal deve ser apurada em procedimento próprio.\n\n[COMANDO] Para que a prática de novo crime doloso interrompa o prazo de progressão de regime, o STJ exige:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O trânsito em julgado da sentença condenatória do novo crime.",
+        "B": "Apenas a instauração de inquérito policial.",
+        "C": "A decisão do juiz da execução, após audiência de justificação e defesa técnica.",
+        "D": "A confissão do preso perante o diretor do presídio.",
+        "E": "O indiciamento pela autoridade policial."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O reconhecimento da falta grave é ato judicial que exige o contraditório, mesmo que o crime ainda esteja sendo processado.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 526 STJ:</strong> 'O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato...'</p></div></div>"
+    },
+    {
+      "numero_questao": 31,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "Conforme o entendimento consolidado pelo Superior Tribunal de Justiça, inclusive no Informativo 778, acerca do concurso formal impróprio (ou imperfeito), assinale a opção correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O concurso formal impróprio se configura pela prática de duas ou mais ações que produzem dois ou mais resultados, independentemente do elemento subjetivo do agente.",
+        "B": "A mera previsão dos múltiplos resultados, ainda que não desejados, é suficiente para caracterizar o concurso formal impróprio, aplicando-se a regra da exasperação da pena.",
+        "C": "Para a configuração do concurso formal impróprio, exige-se que o agente tenha desígnios autônomos para a prática de cada um dos crimes, aplicando-se a regra do cúmulo material das penas.",
+        "D": "O concurso formal impróprio é sinônimo de concurso material, diferenciando-se apenas pelo fato de as condutas serem praticadas em um único contexto fático.",
+        "E": "No concurso formal impróprio, a pena aplicável é sempre a mais grave, aumentada de um sexto até metade, independentemente da quantidade de crimes."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>concurso de crimes, com foco no Informativo 778 do STJ</strong>. O ponto-chave é a <strong>distinção entre concurso formal próprio e impróprio e a necessidade de desígnios autônomos</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A configuração do concurso formal impróprio depende do elemento subjetivo do agente, ou seja, da existência de desígnios autônomos, não sendo uma mera questão objetiva de pluralidade de ações e resultados.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O Informativo 778 do STJ deixa claro que a mera previsão dos múltiplos resultados (dolo eventual) ou um dolo intenso não são suficientes. Exige-se a intenção de praticar cada um dos crimes, ou seja, desígnios autônomos. A regra da exasperação é do concurso formal próprio.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 778 do STJ, para a configuração do concurso formal impróprio (ou imperfeito), é imprescindível a existência de desígnios autônomos para cada crime. Nesses casos, a pena é aplicada pela regra do cúmulo material, ou seja, somam-se as penas de cada crime, nos termos do art. 70, segunda parte, do Código Penal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A diferença entre concurso formal e material reside na unidade ou pluralidade de ações. No concurso formal (próprio ou impróprio), há uma única ação ou omissão que produz múltiplos resultados. No concurso material, há pluralidade de ações. A confusão entre eles é um erro comum, mas o STJ distingue claramente.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A regra da exasperação (aumento de um sexto até metade da pena mais grave) é aplicada ao concurso formal próprio. No concurso formal impróprio, aplica-se o cúmulo material, ou seja, a soma das penas.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se que a principal diferença entre o concurso formal próprio e o impróprio reside no elemento subjetivo do agente: no próprio, há um único desígnio; no impróprio, há desígnios autônomos para cada crime, mesmo que a ação seja única.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 32,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "Segundo o entendimento do Superior Tribunal de Justiça, conforme o Informativo 778, o concurso formal impróprio se caracteriza pela prática de uma única ação ou omissão que produz dois ou mais resultados, sendo suficiente, para sua configuração, que o agente tenha agido com dolo intenso ou com a mera previsão dos resultados, ainda que não os tenha desejado autonomamente.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>o critério distintivo do concurso formal impróprio, conforme o Informativo 778 do STJ</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o STJ reforça que a pluralidade de desígnios autônomos é essencial, distinguindo-a de um mero dolo intenso ou previsão</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O enunciado está incorreto. O Informativo 778 do STJ é claro ao reafirmar que, para a configuração do concurso formal impróprio, é indispensável a existência de desígnios autônomos para cada um dos crimes praticados. A mera previsão dos resultados (dolo eventual) ou um dolo intenso não são suficientes para afastar o concurso formal próprio e aplicar a regra do cúmulo material. O agente deve ter a intenção de produzir cada um dos resultados criminosos de forma independente.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O elemento subjetivo (dolo) é o grande divisor de águas entre o concurso formal próprio e o impróprio. Memorize: desígnios autônomos = concurso formal impróprio = cúmulo material das penas.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 33,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Tributário da Receita Federal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "Um servidor público, no exercício de sua função, falsifica um documento para obter vantagem indevida para si e, com a mesma ação de falsificação, causa prejuízo ao erário público e a um particular. Constatou-se que o agente tinha a intenção específica de obter a vantagem indevida, de prejudicar o erário e de lesar o particular. De acordo com o entendimento do STJ (Informativo 778) sobre o concurso formal impróprio, qual será a regra de aplicação da pena?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Será aplicada a pena do crime mais grave, aumentada de um sexto até metade, por se tratar de concurso formal próprio.",
+        "B": "As penas de todos os crimes serão somadas, pois a pluralidade de desígnios autônomos configura o concurso formal impróprio.",
+        "C": "Será aplicada apenas a pena do crime de falsificação, absorvendo os demais delitos, pelo princípio da consunção.",
+        "D": "O agente responderá por crime continuado, aplicando-se a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada de um sexto a dois terços.",
+        "E": "Será aplicada a pena do crime mais grave, sem qualquer aumento, pois os demais crimes são considerados meros exaurimentos da conduta principal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Alta",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre a <strong>aplicação das regras do concurso de crimes, especificamente o concurso formal impróprio, conforme o Informativo 778 do STJ, em um caso prático</strong>. O ponto-chave é a <strong>consequência penal da existência de desígnios autônomos</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A regra da exasperação (pena do crime mais grave aumentada) é aplicada no concurso formal próprio (art. 70, primeira parte, CP), quando há um único desígnio. O caso hipotético descreve desígnios autônomos.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O enunciado descreve uma situação em que, com uma única ação (falsificação), o agente busca resultados distintos com desígnios autônomos (vantagem indevida, prejuízo ao erário e lesão a particular). Conforme o Informativo 778 do STJ, a existência de desígnios autônomos para cada crime configura o concurso formal impróprio, cuja consequência é a aplicação da regra do cúmulo material das penas, ou seja, as penas de todos os crimes são somadas (art. 70, segunda parte, CP).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O princípio da consunção se aplica quando um crime é meio necessário ou fase normal de preparação ou execução de outro crime mais grave. No caso, os crimes (falsificação, peculato, estelionato, etc.) são autônomos e com desígnios próprios, não havendo relação de consunção que os absorva.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O crime continuado (art. 71 CP) exige pluralidade de ações ou omissões, da mesma espécie e nas mesmas condições de tempo, lugar e modo de execução. O caso descreve uma única ação, o que afasta o crime continuado.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Esta alternativa não corresponde a nenhuma regra de concurso de crimes. A mera consideração de exaurimento não se aplica quando há desígnios autônomos e resultados criminosos distintos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Em questões que envolvem concurso de crimes, sempre analise primeiro a unidade ou pluralidade de ações (concurso formal vs. material) e, em caso de concurso formal, a unidade ou pluralidade de desígnios (próprio vs. impróprio). O Informativo 778 STJ reforça a importância do elemento subjetivo.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 34,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Estado",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "O Superior Tribunal de Justiça, no Informativo 778, reafirmou que a principal diferença entre o concurso formal próprio e o impróprio reside no critério objetivo da pluralidade de ações e resultados, sendo o elemento subjetivo do agente irrelevante para essa distinção.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a distinção entre concurso formal próprio e impróprio, conforme o Informativo 778 do STJ</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o elemento subjetivo (desígnios autônomos) é, na verdade, o critério distintivo fundamental</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O enunciado está incorreto. O Informativo 778 do STJ, ao tratar do concurso formal impróprio, reforça justamente que o critério distintivo entre o concurso formal próprio e o impróprio é o elemento subjetivo do agente. No concurso formal próprio, há um único desígnio (dolo ou culpa), enquanto no concurso formal impróprio, há desígnios autônomos para cada crime. Portanto, o elemento subjetivo é crucial, e não irrelevante, para essa distinção.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Não confunda os critérios! O número de ações define concurso formal (uma ação) ou material (várias ações). O número de desígnios (elemento subjetivo) define se o concurso formal é próprio (um desígnio) ou impróprio (vários desígnios).</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 35,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Fiscal de Rendas",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "Um agente, com a intenção de matar seu desafeto 'A', atira contra ele, mas, por erro na execução (aberratio ictus), atinge e mata 'A' e também 'B', um transeunte que passava no local. Se ficar demonstrado que o agente, ao atirar, assumiu o risco de matar 'B' e, mais do que isso, agiu com desígnio autônomo em relação à morte de 'B' (ou seja, desejou também a morte de 'B'), conforme a jurisprudência do STJ (Informativo 778), como será a imputação penal?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O agente responderá por homicídio doloso consumado contra 'A' e homicídio culposo contra 'B', em concurso formal próprio, com exasperação da pena.",
+        "B": "O agente responderá por homicídio doloso consumado contra 'A' e homicídio doloso consumado contra 'B', em concurso formal impróprio, com cúmulo material das penas.",
+        "C": "O agente responderá por homicídio doloso consumado contra 'A' e lesão corporal culposa contra 'B', aplicando-se o concurso material.",
+        "D": "O agente responderá apenas pelo crime de homicídio doloso contra 'A', sendo a morte de 'B' considerada caso fortuito.",
+        "E": "O agente responderá por homicídio doloso consumado contra 'A' e tentado contra 'B', em concurso formal próprio, com exasperação da pena."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Alta",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>erro na execução (aberratio ictus) com resultado duplo, em conjunto com o entendimento do Informativo 778 do STJ sobre concurso formal impróprio</strong>. O ponto-chave é a <strong>aplicação da regra do cúmulo material quando há desígnios autônomos</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A questão afirma que o agente agiu com desígnio autônomo em relação à morte de 'B', o que afasta a culpa e configura dolo. Além disso, havendo desígnios autônomos, não se trata de concurso formal próprio, mas sim impróprio, com cúmulo material.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Conforme o art. 73, segunda parte, do Código Penal, quando há erro na execução e o agente atinge pessoa diversa da pretendida, aplicando-se as regras do art. 70 (concurso formal). No caso, a premissa é que o agente agiu com desígnios autônomos em relação a ambos os crimes (matar 'A' e matar 'B'). Assim, configura-se o concurso formal impróprio, e as penas de homicídio doloso consumado contra 'A' e homicídio doloso consumado contra 'B' serão somadas (cúmulo material), conforme o Informativo 778 do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A questão indica que 'B' foi morto e que o agente tinha desígnio autônomo para essa morte, afastando a hipótese de lesão corporal culposa.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A morte de 'B' não pode ser considerada caso fortuito se o agente agiu com dolo (mesmo que eventual, e no caso, com desígnio autônomo).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Ambas as mortes foram consumadas. A existência de desígnios autônomos afasta o concurso formal próprio e a regra da exasperação.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Em casos de aberratio ictus com resultado duplo, a chave para diferenciar o concurso formal próprio do impróprio é verificar a existência de desígnios autônomos. Se houver, aplica-se o concurso formal impróprio (cúmulo material), conforme o art. 73 c/c art. 70, segunda parte, do CP e o Informativo 778 do STJ.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 36,
+      "banca": "CONSULPLAN",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "A mera pluralidade de vítimas atingidas por uma única ação ou omissão criminosa é, por si só, suficiente para caracterizar o concurso formal impróprio, implicando a aplicação da regra do cúmulo material das penas, conforme o entendimento do STJ (Informativo 778).",
+      "tipo": "certo_errado",
+      "resposta_correta": "Errado",
+      "dificuldade": "Baixa",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>os requisitos para o concurso formal impróprio, à luz do Informativo 778 do STJ</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>a pluralidade de vítimas não é o único critério; a chave é a pluralidade de desígnios autônomos</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O enunciado está incorreto. A mera pluralidade de vítimas não é, por si só, suficiente para configurar o concurso formal impróprio. O Informativo 778 do STJ reforça que o critério distintivo é a existência de desígnios autônomos para cada um dos crimes. Se o agente, com uma única ação, atinge múltiplas vítimas, mas com um único desígnio (por exemplo, atira em uma multidão sem visar indivíduos específicos, mas aceitando o risco de atingir vários), configura-se o concurso formal próprio, com aplicação da exasperação da pena. Somente se houver desígnios autônomos em relação a cada vítima é que se configura o concurso formal impróprio.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Sempre preste atenção ao elemento subjetivo (dolo/culpa e desígnios) ao analisar casos de concurso de crimes, especialmente quando há múltiplas vítimas ou resultados. A materialidade por si só não basta.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "Considere a seguinte situação hipotética: Um contribuinte, com o objetivo de reduzir o montante de tributos devidos à União e, simultaneamente, obter um empréstimo bancário com condições facilitadas, elabora uma única declaração de ajuste anual do Imposto de Renda contendo informações falsas sobre seus rendimentos. Essa mesma declaração é apresentada à Secretaria da Receita Federal do Brasil e, posteriormente, à instituição financeira para instruir o pedido de crédito. Restou devidamente comprovado nos autos que o agente possuía desígnios autônomos, ou seja, a vontade de lesionar o fisco era independente da vontade de fraudar a obtenção do financiamento, embora tenha se valido de uma única conduta (a falsificação e apresentação do documento).\n\nCom base no entendimento consolidado pelo Superior Tribunal de Justiça (STJ) no Informativo de Jurisprudência nº 778, assinale a alternativa que descreve corretamente a tipificação do concurso de crimes e a regra de aplicação da pena:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Configura-se o concurso formal próprio (art. 70, primeira parte, do CP), devendo o magistrado aplicar a pena do crime mais grave aumentada de um sexto até a metade (sistema da exasperação).",
+        "B": "Aplica-se o princípio da consunção, no qual o crime de sonegação fiscal absorve o crime de estelionato ou contra o sistema financeiro, por ser a falsidade o meio necessário para a lesão ao erário.",
+        "C": "Configura-se o concurso formal impróprio (art. 70, segunda parte, do CP), devendo as penas ser aplicadas cumulativamente (sistema do cúmulo material), em razão da existência de desígnios autônomos.",
+        "D": "Configura-se o crime continuado (art. 71 do CP), pois as infrações são da mesma espécie e foram praticadas em condições semelhantes de tempo, lugar e maneira de execução.",
+        "E": "Trata-se de concurso material de crimes (art. 69 do CP), uma vez que o agente, mediante mais de uma ação, praticou dois ou mais crimes, independentemente da autonomia dos desígnios."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>Informativo 778 do STJ</strong>, que trata da distinção entre concurso formal próprio e impróprio em crimes fiscais e financeiros. O ponto central é a existência de <strong>desígnios autônomos</strong>: quando o agente, com uma única ação, busca resultados criminosos distintos e independentes, a lei impõe o tratamento de cúmulo material, ainda que formalmente seja uma só conduta.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O concurso formal próprio (exasperação) exige que o agente não tenha desígnios autônomos. Como o enunciado afirma que ele queria ambos os resultados de forma independente, essa regra é afastada.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A consunção não se aplica aqui porque os bens jurídicos protegidos (ordem tributária e patrimônio/sistema financeiro) são distintos e os crimes não guardam relação de meio-fim necessária entre si.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 778 do STJ, a prática de sonegação fiscal e estelionato (ou crime financeiro) mediante uma única declaração falsa, mas com desígnios autônomos, caracteriza o concurso formal impróprio (Art. 70, parte final), resultando na soma das penas.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O crime continuado exige pluralidade de condutas (ações/omissões). No caso narrado, houve uma conduta única (concurso formal).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O concurso material exige duas ou mais ações. O enunciado é claro ao dizer que houve uma \"única conduta\".</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Artigo 70, parte final, do Código Penal: <em>\"As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos...\"</em>.</p><p style='margin-top: 10px;'><strong>Conceito-Chave:</strong> O <strong>Concurso Formal Impróprio</strong> (ou imperfeito) ocorre quando o agente, com uma só conduta, pratica dois ou mais crimes, mas sua intenção (desígnio) é voltada especificamente para cada um dos resultados. O STJ (Inf. 778) aplicou este conceito ao uso de documento falso para fins fiscais e bancários simultâneos.</p><p style='margin-top: 10px;'><strong>Dica de Prova:</strong> Sempre que o enunciado mencionar \"desígnios autônomos\" em concurso formal, esqueça a regra da exasperação (aumento de 1/6 a 1/2) e aplique o <strong>cúmulo material</strong> (soma das penas).</p></div></div>"
+    },
+    {
+      "numero_questao": 38,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Fiscal de Posturas",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "São requisitos para a caracterização do concurso formal impróprio, conforme a jurisprudência do Superior Tribunal de Justiça (Informativo 778), a unidade de ação ou omissão e a pluralidade de crimes, sendo que para cada um deles o agente deve ter agido com desígnios autônomos.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Certo",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>os requisitos essenciais para a configuração do concurso formal impróprio, conforme o entendimento do Informativo 778 do STJ</strong>. A afirmativa está <strong>CORRETA</strong> porque <strong>descreve precisamente os elementos exigidos pela jurisprudência</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O enunciado está correto. O Informativo 778 do STJ reforça os requisitos do concurso formal impróprio (art. 70, segunda parte, do Código Penal): 1) Unidade de ação ou omissão (o que o distingue do concurso material); 2) Pluralidade de resultados criminosos; e 3) Pluralidade de desígnios autônomos, ou seja, o agente tem a intenção (dolo) de cometer cada um dos crimes de forma independente, ainda que com uma única conduta. Esses são os elementos que justificam a aplicação da regra do cúmulo material das penas.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Para concursos, é fundamental memorizar os três requisitos do concurso formal impróprio: unidade de conduta, pluralidade de resultados e pluralidade de desígnios (autônomos).</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 39,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Tributário",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "No que concerne ao concurso de crimes, e considerando o entendimento do STJ (Informativo 778) sobre o elemento subjetivo, assinale a alternativa que apresenta a principal distinção entre o concurso formal e o concurso material de crimes.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A principal distinção reside na quantidade de vítimas atingidas, sendo o concurso formal para uma vítima e o material para múltiplas vítimas.",
+        "B": "A distinção fundamental está na natureza dos crimes cometidos, sendo o concurso formal para crimes de menor potencial ofensivo e o material para crimes graves.",
+        "C": "A diferença essencial é a unidade ou pluralidade de ações ou omissões, independentemente do elemento subjetivo do agente.",
+        "D": "A distinção reside na unidade ou pluralidade de desígnios do agente, sendo um desígnio para o concurso formal e múltiplos desígnios para o concurso material.",
+        "E": "O concurso formal aplica-se apenas a crimes culposos, enquanto o concurso material aplica-se a crimes dolosos."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre a <strong>distinção fundamental entre concurso formal e concurso material de crimes, contextualizada pelo Informativo 778 do STJ</strong>. O ponto-chave é o <strong>critério da unidade ou pluralidade de ações</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A quantidade de vítimas pode influenciar na exasperação da pena ou na configuração do concurso formal impróprio, mas não é o critério principal para distinguir concurso formal de material.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A natureza dos crimes não é o critério distintivo entre concurso formal e material. Ambos podem ocorrer com crimes de qualquer potencial ofensivo.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A principal distinção entre concurso formal (art. 70 CP) e concurso material (art. 69 CP) reside na unidade ou pluralidade de ações ou omissões. No concurso formal, há uma única ação que produz dois ou mais resultados. No concurso material, há duas ou mais ações que produzem dois ou mais resultados. O Informativo 778 do STJ, embora foque no elemento subjetivo para distinguir o concurso formal próprio do impróprio, não altera essa fundamental distinção entre formal e material.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A unidade ou pluralidade de desígnios é o critério para distinguir o concurso formal próprio do impróprio, e não para diferenciar o concurso formal do material. No concurso material, por haver pluralidade de ações, naturalmente há pluralidade de desígnios (ou um único desígnio repetido).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Tanto o concurso formal quanto o material podem ocorrer com crimes dolosos ou culposos, desde que os requisitos específicos de cada modalidade sejam preenchidos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se da hierarquia dos critérios: 1º) Número de ações (formal vs. material); 2º) Em caso de concurso formal, número de desígnios (próprio vs. impróprio).</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 40,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Estado",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "O Informativo 778 do STJ enfatiza que o elemento subjetivo do agente, mais precisamente a existência ou não de desígnios autônomos, é crucial para a correta aplicação das regras do concurso formal de crimes, determinando se a pena será exasperada ou somada.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Certo",
+      "dificuldade": "Baixa",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a importância do elemento subjetivo na distinção do concurso formal de crimes, conforme o Informativo 778 do STJ</strong>. A afirmativa está <strong>CORRETA</strong> porque <strong>o Informativo de fato ressalta o papel central dos desígnios autônomos</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O enunciado está correto. O Informativo 778 do STJ, ao tratar do concurso formal impróprio, sublinha a relevância do elemento subjetivo (dolo) e, mais especificamente, da existência de desígnios autônomos. Se há um único desígnio, aplica-se o concurso formal próprio (exasperação da pena). Se há desígnios autônomos para cada crime, mesmo que praticados com uma única ação, aplica-se o concurso formal impróprio (cúmulo material das penas). Portanto, o elemento subjetivo é, sim, crucial para definir a modalidade de concurso formal e a forma de aplicação da pena.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O STJ tem se mostrado cada vez mais rigoroso na análise do elemento subjetivo em casos de concurso de crimes, buscando evitar a aplicação de benefícios penais indevidos quando o agente age com plena consciência e intenção de cometer múltiplos delitos.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 41,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "Considerando o entendimento consolidado do Superior Tribunal de Justiça (STJ) sobre a relação entre crimes de falsidade e crimes contra a ordem tributária, assinale a opção correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime de falsidade ideológica sempre será absorvido pelo crime contra a ordem tributária, independentemente do potencial lesivo autônomo do falso.",
+        "B": "A falsidade ideológica e o crime contra a ordem tributária sempre configuram concurso material, dada a autonomia dos bens jurídicos tutelados.",
+        "C": "Quando a falsidade ideológica é utilizada como meio para a prática do crime contra a ordem tributária e não possui potencial lesivo autônomo, ela é absorvida por este, aplicando-se o princípio da consunção.",
+        "D": "O crime de falsidade ideológica é um crime-fim em relação ao crime contra a ordem tributária, configurando sempre concurso formal.",
+        "E": "A absorção da falsidade pelo crime tributário somente ocorre se a pena máxima cominada à falsidade for inferior à pena mínima do crime tributário."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>concurso de crimes, especificamente o princípio da consunção</strong>. O ponto-chave é a aplicação desse princípio entre crimes de falsidade e crimes contra a ordem tributária, conforme a jurisprudência do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A absorção não é automática. Depende da ausência de potencial lesivo autônomo da falsidade.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>Nem sempre configuram concurso material. A consunção é aplicável se a falsidade for mero meio para o crime tributário e não tiver esgotado sua potencialidade lesiva.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que, quando a falsidade (ideológica ou material) é praticada com o fim único de lesar a ordem tributária e não possui potencialidade lesiva autônoma para além do crime tributário, ela é absorvida por este, aplicando-se o princípio da consunção (Súmula 17 do STJ, por analogia, e diversos julgados recentes).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A falsidade é crime-meio, não crime-fim. O concurso formal ocorre quando uma única ação ou omissão pratica dois ou mais crimes, o que não se aplica diretamente aqui na relação meio-fim.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A aplicação do princípio da consunção não se baseia em critérios de pena, mas sim na relação de meio e fim e na ausência de autonomia lesiva.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se que o princípio da consunção (ou absorção) ocorre quando um crime é meio necessário ou fase normal de preparação ou execução de outro crime, e o crime-meio não tem autonomia lesiva. Para concursos fiscais, a relação entre falsidade e crimes tributários é um tema recorrente.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 42,
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "subtema": "Apropriação Indébita Previdenciária",
+      "enunciado": "A constituição definitiva do crédito tributário é condição objetiva de punibilidade para o crime de apropriação indébita previdenciária (art. 168-A do Código Penal), sem a qual não há justa causa para a persecução penal.",
+      "tipo": "certo_errado",
+      "resposta_correta": "E",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>o momento consumativo e as condições de punibilidade do crime de apropriação indébita previdenciária</strong>. A afirmativa está <strong>INCORRETA</strong> porque o Superior Tribunal de Justiça possui entendimento consolidado de que a constituição definitiva do crédito tributário não é condição objetiva de punibilidade para este crime.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>Diferentemente dos crimes tributários materiais previstos na Lei n.º 8.137/90 (para os quais a Súmula Vinculante n.º 24 do STF exige a constituição definitiva do crédito tributário como condição objetiva de punibilidade), o crime de apropriação indébita previdenciária (art. 168-A do CP) é um crime formal. Sua consumação ocorre com a omissão do repasse das contribuições, independentemente da constituição definitiva do crédito pela autoridade administrativa. O STJ tem entendimento pacífico nesse sentido, de que a constituição definitiva do crédito tributário não é condição objetiva de punibilidade nem para a consumação do delito.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>É crucial diferenciar os crimes tributários materiais (Lei n.º 8.137/90) da apropriação indébita previdenciária (art. 168-A do CP) quanto à exigência da constituição definitiva do crédito. Para os primeiros, é condição objetiva de punibilidade; para o segundo, não.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 43,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "Lavagem de Dinheiro e Crime Tributário",
+      "enunciado": "Sobre a relação entre o crime de lavagem de dinheiro e o crime antecedente contra a ordem tributária, conforme a jurisprudência do Superior Tribunal de Justiça (STJ), é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime de lavagem de dinheiro depende da existência de condenação com trânsito em julgado pelo crime antecedente contra a ordem tributária para que possa ser processado.",
+        "B": "O crime de lavagem de dinheiro possui autonomia em relação ao crime antecedente, sendo possível a persecução penal da lavagem mesmo que o crime tributário antecedente não tenha sido definitivamente julgado.",
+        "C": "A extinção da punibilidade do crime antecedente contra a ordem tributária automaticamente implica a extinção da punibilidade do crime de lavagem de dinheiro.",
+        "D": "O crime de lavagem de dinheiro somente pode ser investigado se o montante lavado for superior ao limite de R$ 20.000,00 estabelecido para a insignificância nos crimes tributários.",
+        "E": "A competência para julgar o crime de lavagem de dinheiro é sempre da Justiça Federal, independentemente da natureza do crime tributário antecedente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre a <strong>autonomia do crime de lavagem de dinheiro em relação ao crime antecedente</strong>, especificamente quando o crime antecedente é um delito contra a ordem tributária, de acordo com o STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A Lei de Lavagem de Dinheiro (Lei n.º 9.613/98) e a jurisprudência do STJ e STF estabelecem a autonomia do crime de lavagem, não exigindo condenação prévia ou trânsito em julgado do crime antecedente.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça e o Supremo Tribunal Federal possuem entendimento pacífico de que o crime de lavagem de dinheiro é autônomo em relação ao crime antecedente. A persecução penal da lavagem pode ocorrer mesmo que o crime antecedente não tenha sido definitivamente julgado ou mesmo que o autor do crime antecedente seja desconhecido ou não identificável, bastando a existência de indícios suficientes da prática do crime antecedente.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A autonomia da lavagem implica que a extinção da punibilidade do crime antecedente não necessariamente extingue a punibilidade da lavagem, salvo se a causa extintiva do crime antecedente também configurar a inexistência do crime ou do fato gerador dos bens lavados.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O limite de R$ 20.000,00 refere-se à insignificância para crimes tributários federais, não sendo um critério para investigação do crime de lavagem de dinheiro, que tem seus próprios patamares de relevância e autonomia.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A competência para julgar o crime de lavagem de dinheiro é determinada pela competência do crime antecedente. Se o crime tributário antecedente for de competência da Justiça Estadual, a lavagem será da Justiça Estadual, e assim por diante. Apenas se o crime antecedente for de competência federal, a lavagem também o será.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A autonomia do crime de lavagem de dinheiro é um pilar da legislação e jurisprudência. Para a sua configuração, basta que haja indícios suficientes da existência do crime antecedente, não sendo necessária condenação transitada em julgado. Esta é uma distinção fundamental para concursos.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 44,
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Fiscal de Tributos",
+      "subtema": "Insignificância nos Crimes Tributários",
+      "enunciado": "O Superior Tribunal de Justiça (STJ) e o Supremo Tribunal Federal (STF) aplicam o princípio da insignificância aos crimes tributários federais quando o valor do tributo iludido for inferior a R$ 20.000,00 (vinte mil reais).",
+      "tipo": "certo_errado",
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a aplicação do princípio da insignificância em crimes tributários federais</strong>. A afirmativa está <strong>CORRETA</strong> porque o STJ e o STF consolidaram o entendimento de que o limite de R$ 20.000,00 é o parâmetro para a aplicação deste princípio.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>Tanto o Superior Tribunal de Justiça quanto o Supremo Tribunal Federal firmaram entendimento de que o princípio da insignificância é aplicável aos crimes tributários federais (incluindo descaminho) quando o valor do tributo iludido ou devido for inferior a R$ 20.000,00. Este valor corresponde ao limite estabelecido pela Portaria n.º 75/2012 do Ministério da Fazenda (atualmente Portaria ME n.º 7.420/2021) para o não ajuizamento de execuções fiscais pela Fazenda Nacional, sendo, portanto, considerado de mínima ofensividade para o direito penal.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Este limite de R$ 20.000,00 é um valor-chave para a área fiscal, pois baliza tanto a atuação administrativa (execução fiscal) quanto a criminal (insignificância). Fique atento, pois para tributos estaduais ou municipais, o limite pode variar, dependendo da legislação local e do entendimento dos tribunais.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 45,
+      "banca": "ESAF",
+      "ano": 2022,
+      "cargo": "Auditor-Fiscal da Receita Estadual",
+      "subtema": "Princípio da Consunção",
+      "enunciado": "Um contribuinte utiliza notas fiscais falsas para reduzir o valor do ICMS devido. As notas foram criadas exclusivamente para essa finalidade e não foram empregadas em qualquer outro contexto. Diante da situação hipotética e da jurisprudência do STJ, assinale a alternativa correta sobre a tipificação penal.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Configura-se concurso formal entre o crime de falsidade documental e o crime contra a ordem tributária, pois houve uma única ação que gerou dois resultados criminosos.",
+        "B": "O crime de falsidade documental absorve o crime contra a ordem tributária, por ser este um meio para a consumação do falso.",
+        "C": "A conduta configura concurso material de crimes, pois a falsidade documental e o crime tributário tutelam bens jurídicos distintos e são autônomos.",
+        "D": "O crime de falsidade documental é absorvido pelo crime contra a ordem tributária, aplicando-se o princípio da consunção, uma vez que a falsidade foi meio necessário e não teve potencialidade lesiva autônoma.",
+        "E": "Não há crime, pois o uso de documento falso para fins tributários é considerado um ilícito administrativo, não penal."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>concurso de crimes, especificamente a relação entre falsidade documental e crimes contra a ordem tributária</strong>, à luz do princípio da consunção e da jurisprudência do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O concurso formal ocorre quando uma única conduta gera dois ou mais resultados. Aqui, a falsificação (conduta) é meio para o crime tributário (outro resultado), caracterizando a relação meio-fim, que pode levar à consunção, não ao concurso formal puro.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O crime de falsidade é o meio, e o crime tributário é o fim. O crime-meio é absorvido pelo crime-fim, não o contrário.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O concurso material seria aplicável se a falsidade tivesse potencial lesivo autônomo e não fosse mero instrumento para o crime tributário. A questão afirma que as notas foram criadas exclusivamente para essa finalidade e não foram empregadas em outro contexto.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>D) ✅ CORRETA</p><p style='color: #155724;'>Conforme a Súmula 17 do STJ (\"Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido\"), por analogia, o crime de falsidade documental é absorvido pelo crime contra a ordem tributária quando a falsificação constitui meio necessário para a prática do crime tributário e não tem potencialidade lesiva autônoma, ou seja, não foi utilizada para outros fins além da fraude fiscal. A situação descrita se encaixa perfeitamente nesse entendimento.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A utilização de documentos falsos para suprimir tributos é conduta tipificada penalmente como crime contra a ordem tributária (art. 1º da Lei n.º 8.137/90).</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A Súmula 17 do STJ é um balizador importante para a aplicação do princípio da consunção em crimes fiscais. Lembre-se que a chave é a ausência de potencial lesivo autônomo do crime-meio. Se o documento falso fosse usado para outras fraudes, além da tributária, haveria concurso de crimes.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 46,
+      "banca": "CONSULPLAN",
+      "ano": 2023,
+      "cargo": "Fiscal de Rendas",
+      "subtema": "Extinção da Punibilidade pelo Pagamento",
+      "enunciado": "De acordo com o entendimento do Superior Tribunal de Justiça (STJ) e a legislação vigente, o pagamento integral do tributo e seus acessórios, mesmo após o trânsito em julgado da sentença condenatória, extingue a punibilidade dos crimes contra a ordem tributária previstos na Lei n.º 8.137/90.",
+      "tipo": "certo_errado",
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>extinção da punibilidade nos crimes contra a ordem tributária pelo pagamento</strong>. A afirmativa está <strong>CORRETA</strong>, conforme a legislação e a interpretação do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O artigo 9º, § 2º, da Lei n.º 10.684/2003, com a redação dada pela Lei n.º 12.382/2011, estabelece expressamente que \"extingue-se a punibilidade dos crimes definidos na Lei n.º 8.137, de 27 de dezembro de 1990, e na Lei n.º 4.729, de 14 de julho de 1965, quando o agente promover o pagamento integral dos débitos oriundos dos tributos e contribuições sociais, inclusive acessórios, antes do recebimento da denúncia ou da prolação da sentença condenatória\". O STJ e o STF, em interpretação mais benéfica ao réu, consolidaram o entendimento de que o pagamento integral do tributo, a qualquer tempo, inclusive após o trânsito em julgado da condenação, é causa de extinção da punibilidade dos crimes contra a ordem tributária.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Este é um ponto pacífico na jurisprudência e de extrema relevância para a área fiscal. O caráter \"premial\" do pagamento integral é um incentivo à regularização fiscal e tem impacto direto na esfera penal, extinguindo a punibilidade a qualquer tempo.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 47,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Controle Externo",
+      "subtema": "Descaminho e Insignificância",
+      "enunciado": "No que concerne ao crime de descaminho (art. 334 do Código Penal) e a aplicação do princípio da insignificância, o Superior Tribunal de Justiça (STJ) entende que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime de descaminho, por tutelar a administração pública e a ordem tributária, não admite a aplicação do princípio da insignificância em nenhuma hipótese.",
+        "B": "O valor de R$ 10.000,00 é o parâmetro para a aplicação do princípio da insignificância ao crime de descaminho, conforme o STJ.",
+        "C": "O princípio da insignificância é aplicável ao crime de descaminho quando o valor dos tributos iludidos for inferior a R$ 20.000,00.",
+        "D": "A aplicação do princípio da insignificância ao descaminho depende da reincidência do agente, sendo inaplicável para reincidentes.",
+        "E": "Apenas o Supremo Tribunal Federal (STF) reconhece a aplicação da insignificância ao descaminho, sendo o STJ divergente."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre a <strong>aplicação do princípio da insignificância ao crime de descaminho</strong>, conforme a jurisprudência do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Tanto o STJ quanto o STF admitem a aplicação do princípio da insignificância ao crime de descaminho, desde que preenchidos os requisitos.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O valor de R$ 10.000,00 era o limite anterior. Atualmente, o valor de referência é de R$ 20.000,00.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça, alinhado com o Supremo Tribunal Federal, firmou o entendimento de que o princípio da insignificância é aplicável ao crime de descaminho (art. 334 do CP) quando o valor dos tributos iludidos (imposto de importação ou exportação, IPI e PIS/COFINS) for inferior a R$ 20.000,00. Esse patamar é o mesmo estabelecido pela Portaria n.º 75/2012 do Ministério da Fazenda (atualmente Portaria ME n.º 7.420/2021) para o não ajuizamento de execuções fiscais pela Fazenda Nacional, sendo, portanto, considerado de mínima ofensividade para o direito penal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Embora a reincidência possa influenciar a aplicação do princípio da insignificância em alguns casos, não é uma condição absoluta para o descaminho, e a questão foca no parâmetro de valor.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Ambos os tribunais superiores (STJ e STF) aplicam o princípio da insignificância ao descaminho, utilizando o mesmo parâmetro de valor.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O valor de R$ 20.000,00 é um marco importante na jurisprudência dos tribunais superiores para a aplicação do princípio da insignificância em crimes tributários federais e no descaminho. Esteja sempre atento aos valores atualizados por portarias ministeriais, pois eles são o balizador para essa tese defensiva.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 48,
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Fiscal de Posturas",
+      "subtema": "Continuidade Delitiva",
+      "enunciado": "A prática reiterada de condutas que configuram o mesmo tipo penal tributário, em condições de tempo, lugar e modo de execução semelhantes, caracteriza a continuidade delitiva, e não o concurso material, desde que preenchidos os requisitos do artigo 71 do Código Penal.",
+      "tipo": "certo_errado",
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>concurso de crimes, especificamente a aplicação da continuidade delitiva aos crimes tributários</strong>. A afirmativa está <strong>CORRETA</strong>, conforme o entendimento do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça (STJ) e a doutrina majoritária entendem que o instituto da continuidade delitiva (art. 71 do Código Penal) é aplicável aos crimes contra a ordem tributária. Para sua caracterização, é necessário que o agente, mediante mais de uma ação ou omissão, pratique dois ou mais crimes da mesma espécie, e que, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, os subsequentes sejam havidos como continuação do primeiro. A aplicação da continuidade delitiva é mais benéfica ao réu do que o concurso material, pois a pena é aplicada de forma mais branda (pena de um só dos crimes, se idênticas, ou a mais grave, aumentada de um sexto a dois terços).</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Em crimes fiscais, é comum a prática de diversas condutas ao longo do tempo (ex: omissão de recolhimento de tributos mês a mês). Nesses casos, a continuidade delitiva é frequentemente aplicada, desde que haja o nexo de continuidade entre as ações. Fique atento aos requisitos do art. 71 do CP.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 49,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "No âmbito dos crimes contra a ordem tributária previstos na Lei n.º 8.137/90, o Superior Tribunal de Justiça (STJ) possui entendimento consolidado acerca do sujeito ativo. A esse respeito, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas o sócio-administrador da pessoa jurídica pode ser considerado sujeito ativo dos crimes contra a ordem tributária, excluindo-se terceiros.",
+        "B": "O sujeito ativo dos crimes contra a ordem tributária é sempre a pessoa jurídica, não havendo responsabilização penal para pessoas físicas.",
+        "C": "Podem ser sujeitos ativos tanto os sócios-administradores de pessoa jurídica quanto terceiros que, de qualquer forma, concorram para a prática delitiva, incluindo consultores e contadores, desde que haja nexo causal e dolo.",
+        "D": "Contadores e consultores fiscais nunca podem ser sujeitos ativos dos crimes contra a ordem tributária, pois atuam apenas como auxiliares técnicos.",
+        "E": "A responsabilidade penal por crimes tributários é objetiva, bastando a constatação da infração para a responsabilização do administrador."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre o <strong>sujeito ativo dos crimes contra a ordem tributária</strong>, conforme a interpretação do Superior Tribunal de Justiça (STJ).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A jurisprudência do STJ e a doutrina admitem a coautoria e a participação de terceiros nos crimes tributários, desde que comprovada a sua contribuição dolosa e o nexo causal com o delito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>No Brasil, via de regra, a pessoa jurídica não é sujeito ativo de crimes, exceto em crimes ambientais (Lei n.º 9.605/98). A responsabilidade penal é de pessoas físicas.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça tem entendimento consolidado de que os crimes contra a ordem tributária são crimes comuns, podendo ser praticados por qualquer pessoa. Assim, além dos sócios-administradores da pessoa jurídica, terceiros que, com dolo e nexo causal, concorram para a prática delitiva (como consultores, contadores, ou até mesmo \"laranjas\") podem ser responsabilizados penalmente, na condição de coautores ou partícipes.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Contadores e consultores fiscais, se agirem com dolo e participarem ativamente da fraude fiscal, podem sim ser responsabilizados como partícipes ou coautores.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A responsabilidade penal no direito brasileiro é subjetiva, exigindo dolo ou culpa. Não existe responsabilidade penal objetiva, nem mesmo em crimes tributários.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se que a teoria da cegueira deliberada (willful blindness) pode ser aplicada em casos de crimes fiscais, responsabilizando quem se manteve intencionalmente ignorante sobre a ilicitude da conduta para se beneficiar ou auxiliar na prática criminosa.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 50,
+      "banca": "ESAF",
+      "ano": 2022,
+      "cargo": "Auditor Fiscal do Trabalho",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "O prazo prescricional para os crimes contra a ordem tributária de natureza material (ex: supressão ou redução de tributo) começa a correr a partir da constituição definitiva do crédito tributário, conforme entendimento pacificado nos Tribunais Superiores.",
+      "tipo": "certo_errado",
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>início da contagem do prazo prescricional para os crimes tributários materiais</strong>. A afirmativa está <strong>CORRETA</strong>, em consonância com a Súmula Vinculante n.º 24 do STF e o entendimento do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>Para os crimes contra a ordem tributária de natureza material (aqueles que exigem um resultado naturalístico de supressão ou redução de tributo, como os previstos nos artigos 1º e 2º da Lei n.º 8.137/90), a Súmula Vinculante n.º 24 do Supremo Tribunal Federal estabelece que \"Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo\". Consequentemente, o termo inicial para a contagem do prazo prescricional da pretensão punitiva é a data da constituição definitiva do crédito tributário, ou seja, quando não há mais recurso administrativo pendente.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A Súmula Vinculante n.º 24 é um dos pontos mais importantes e cobrados em concursos fiscais sobre Direito Penal Tributário. Diferencie bem os crimes tributários materiais dos formais ou de mera conduta, pois o termo inicial da prescrição pode ser diferente.</p></div></div>",
+      "comentario_livro": ""
+    }
+  ],
+  "data_correcao": "2026-01-12T07:18:24.847246",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}

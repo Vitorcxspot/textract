@@ -1,0 +1,1016 @@
+{
+  "disciplina": "Direito Administrativo",
+  "tema": "20 - Convênios e instrumentos congêneres",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Administrativo",
+      "subtema": "Conceito e Natureza Jurídica",
+      "enunciado": "A Administração Pública Federal busca realizar uma parceria com um determinado Município para a construção de uma rede de saneamento básico que beneficiará ambas as esferas governamentais. Diferente dos contratos administrativos típicos, nos quais as partes possuem interesses contrapostos (um quer o serviço, o outro o lucro), este ajuste baseia-se na mútua cooperação para a consecução de um objetivo comum.\n\nConsiderando a doutrina clássica do Direito Administrativo sobre convênios, assinale a alternativa que descreve corretamente a natureza dos interesses e a vontade das partes nesse instrumento:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Interesses opostos e vontades divergentes, visando a remuneração de uma das partes.",
+        "B": "Interesses convergentes e vontades recíprocas, visando a cooperação mútua sem intuito de lucro.",
+        "C": "Interesses antagônicos, onde a Administração exerce supremacia sobre o particular contratado.",
+        "D": "Interesses individuais e vontades unilaterais, com foco na prestação de serviço mediante preço.",
+        "E": "Interesses lucrativos e vontades vinculadas a um contrato de adesão comercial."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a distinção fundamental entre convênios e contratos. O ponto central é a convergência de interesses.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Nos convênios, os partícipes buscam um objetivo comum (convergência), atuando em regime de mútua cooperação e sem a finalidade de lucro entre si.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, C, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Descrevem características de contratos administrativos (interesses opostos, lucro, preço, supremacia), que não se aplicam à lógica dos convênios.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Doutrina de Hely Lopes Meirelles. O convênio é um acordo, mas não é contrato, pois neste as vontades são divergentes, enquanto naquele são convergentes.</p><p style='margin-top: 10px;'><strong>Dica de Prova:</strong> Lembre-se: Contrato = Conflito de interesses (um quer pagar menos, outro receber mais). Convênio = Cooperação (todos olham para o mesmo alvo).</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Contrato de Repasse",
+      "enunciado": "O Decreto Federal nº 6.170/2007 regulamenta as transferências de recursos da União mediante convênios e contratos de repasse. Um determinado Ministério deseja realizar uma obra de grande porte em um Estado da Federação, mas não possui estrutura técnica própria para fiscalizar a execução física da obra de forma contínua.\n\nDiante dessa limitação estrutural do órgão concedente, qual o instrumento administrativo adequado para processar essa transferência, obrigatoriamente utilizando uma instituição financeira pública federal como mandatária da União?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Convênio de Receita.",
+        "B": "Termo de Execução Descentralizada.",
+        "C": "Contrato de Repasse.",
+        "D": "Acordo de Cooperação Técnica.",
+        "E": "Termo de Fomento."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige a distinção entre convênio e contrato de repasse, focando na figura do mandatário (instituição financeira).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Contrato de Repasse é o instrumento utilizado quando a transferência ocorre por intermédio de instituição financeira pública federal (como a Caixa), que atua como mandatária da União para fiscalizar a execução.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O TED é para descentralização de crédito entre órgãos da mesma esfera (União para União).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 1º, §1º, II, Decreto 6.170/07:</strong> Define contrato de repasse como o instrumento por meio do qual a transferência se processa por intermédio de instituição financeira pública federal atuando como mandatária.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Termo de Execução Descentralizada (TED)",
+      "enunciado": "Considere que o Ministério da Educação (MEC) pretenda descentralizar créditos orçamentários para uma Universidade Federal (autarquia federal) para a realização de uma pesquisa específica de interesse do Ministério. Como ambos pertencem à Administração Pública Federal e integram o Orçamento Fiscal e da Seguridade Social da União, não há transferência de propriedade dos recursos, mas apenas da execução orçamentária.\n\nNesse cenário, o instrumento jurídico correto a ser utilizado é o:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Convênio Interadministrativo.",
+        "B": "Contrato de Gestão.",
+        "C": "Termo de Execução Descentralizada (TED).",
+        "D": "Termo de Parceria.",
+        "E": "Protocolo de Intenções."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca na descentralização interna de créditos dentro da mesma esfera federativa (União).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O TED é o instrumento para descentralização de créditos orçamentários entre órgãos ou entidades integrantes dos Orçamentos Fiscal e da Seguridade Social da União.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Decreto 10.426/2020:</strong> Regulamenta o TED. Ele substituiu o antigo 'Termo de Cooperação' para fins de descentralização de créditos entre órgãos federais.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Procurador Municipal",
+      "subtema": "Chamamento Público",
+      "enunciado": "A Administração Pública Federal pretende celebrar um convênio com uma entidade privada sem fins lucrativos para a execução de um projeto de assistência social. Para garantir a observância dos princípios da impessoalidade e da moralidade, a legislação exige um procedimento de seleção isonômico.\n\nDe acordo com o Decreto nº 6.170/2007, esse procedimento prévio de seleção denomina-se:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Licitação na modalidade Convite.",
+        "B": "Chamamento Público.",
+        "C": "Concurso de Projetos.",
+        "D": "Pré-qualificação de entidades.",
+        "E": "Audiência Pública de Parceria."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a obrigatoriedade de seleção pública para parcerias com o terceiro setor.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O chamamento público é o processo destinado a selecionar entidades privadas sem fins lucrativos para a celebração de parcerias.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 4º, Decreto 6.170/07:</strong> A celebração de convênio com entidades privadas sem fins lucrativos será precedida de chamamento público.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Agente de Defensoria",
+      "subtema": "Vedações",
+      "enunciado": "No âmbito dos convênios federais, existem vedações rigorosas para evitar conflitos de interesse. Imagine que uma ONG (entidade privada sem fins lucrativos) solicite recursos da União. Durante a análise, descobre-se que o Diretor-Presidente da ONG é também Deputado Federal em exercício.\n\nSegundo o Decreto nº 6.170/2007, a celebração deste convênio é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Permitida, desde que o Deputado não receba salário da ONG.",
+        "B": "Permitida, desde que haja autorização expressa da Mesa Diretora da Câmara.",
+        "C": "Vedada, pois não se admite convênio com entidade que tenha agente político de Poder como dirigente.",
+        "D": "Vedada apenas se o objeto do convênio for relacionado à área de atuação da comissão do Deputado.",
+        "E": "Permitida, desde que o valor do convênio seja inferior a R$ 100.000,00."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão trata das vedações subjetivas (quem não pode contratar) nos convênios.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O art. 2º do Decreto 6.170/07 veda convênios com entidades que tenham como dirigente agente político de Poder ou do Ministério Público.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 2º, II, Decreto 6.170/07:</strong> Veda convênios com entidades privadas que tenham como dirigente agente político de Poder ou do MP, ou respectivo cônjuge/parente até 2º grau.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista de Gestão",
+      "subtema": "Vedações de Valor",
+      "enunciado": "A Portaria Interministerial nº 424/2016 estabelece limites mínimos de repasse para a celebração de instrumentos de transferência voluntária, visando a eficiência administrativa e evitando custos de fiscalização superiores ao benefício do repasse.\n\nQual o valor mínimo de repasse da União para que possa ser celebrado um convênio destinado à execução de OBRAS e serviços de engenharia?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "R$ 100.000,00",
+        "B": "R$ 150.000,00",
+        "C": "R$ 250.000,00",
+        "D": "R$ 500.000,00",
+        "E": "R$ 1.000.000,00"
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige conhecimento dos valores de alçada da Portaria 424/2016.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Para obras e serviços de engenharia, o valor mínimo de repasse é de R$ 250.000,00.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>R$ 100.000,00 é o mínimo para custeio ou equipamentos.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 9º, IV e V, Portaria 424/16:</strong> Veda convênios abaixo de 250k para obras e abaixo de 100k para custeio/equipamentos.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Técnico de Controle Externo",
+      "subtema": "Plano de Trabalho",
+      "enunciado": "A formalização de um convênio exige a apresentação e aprovação de um documento técnico que detalha como o objeto será executado, os prazos, os custos e as metas a serem atingidas. Sem este documento aprovado, o convênio não pode ser celebrado.\n\nEste documento é tecnicamente denominado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Projeto Básico de Engenharia.",
+        "B": "Termo de Referência.",
+        "C": "Plano de Trabalho.",
+        "D": "Cronograma de Desembolso Financeiro.",
+        "E": "Relatório de Impacto Orçamentário."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca no requisito formal indispensável para a celebração do convênio.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Plano de Trabalho é a peça central que contém a descrição do objeto, metas, etapas, plano de aplicação e cronograma.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 116, §1º, Lei 8.666/93:</strong> A celebração de convênio depende de prévia aprovação de plano de trabalho proposto pela organização interessada.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Aplicação Financeira",
+      "enunciado": "Durante a execução de um convênio, os recursos repassados pela União podem não ser utilizados integralmente de imediato. A legislação obriga que esses saldos, enquanto não empregados na finalidade do ajuste, sejam aplicados financeiramente para evitar a perda do poder aquisitivo da moeda.\n\nCaso a previsão de utilização dos recursos seja IGUAL OU SUPERIOR A UM MÊS, onde eles devem ser obrigatoriamente aplicados?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Em fundo de investimento de renda variável.",
+        "B": "Em caderneta de poupança de instituição financeira oficial.",
+        "C": "Em certificados de depósito bancário (CDB) de bancos privados.",
+        "D": "Em fundo de aplicação financeira de curto prazo.",
+        "E": "Em conta corrente sem remuneração para evitar riscos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o dever de gestão financeira dos recursos públicos em convênios.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A Lei 8.666/93 (art. 116) e decretos regulamentares exigem aplicação em poupança se o prazo for maior ou igual a um mês.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Fundos de curto prazo são para períodos inferiores a um mês.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 116, §4º, Lei 8.666/93:</strong> Estabelece a obrigatoriedade de aplicação financeira dos saldos de convênio.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2023,
+      "cargo": "Procurador",
+      "subtema": "Alteração do Objeto",
+      "enunciado": "Um Município celebrou convênio com a União para a 'Construção de 05 Unidades Básicas de Saúde'. Durante a execução, o Prefeito percebe que a demanda por escolas é maior e solicita um Termo Aditivo para transformar o objeto em 'Construção de 02 Escolas Municipais', mantendo o mesmo valor total.\n\nDe acordo com o Decreto nº 6.170/2007, essa alteração é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Permitida, desde que o valor total não seja alterado.",
+        "B": "Permitida, desde que haja interesse público superveniente comprovado.",
+        "C": "Vedada, pois o termo aditivo não pode alterar o objeto aprovado.",
+        "D": "Permitida, desde que a nova obra seja na mesma localidade.",
+        "E": "Vedada apenas se houver necessidade de novos recursos financeiros."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca na imutabilidade do objeto do convênio via aditivo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O art. 1º, §1º, IX do Decreto 6.170/07 define termo aditivo como instrumento de modificação, mas veda expressamente a alteração do objeto.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Objeto vs. Metas:</strong> Pode-se ajustar metas ou prazos, mas mudar a natureza do que está sendo feito (UBS para Escola) desnatura o ajuste original.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista Legislativo",
+      "subtema": "Devolução de Saldos",
+      "enunciado": "Ao final da execução de um convênio, ou em caso de sua rescisão antecipada, é comum que restem saldos financeiros na conta bancária específica, incluindo rendimentos de aplicações financeiras. A legislação estabelece um prazo rigoroso para a devolução desses valores ao órgão repassador.\n\nQual o prazo IMPRORROGÁVEL para a devolução dos saldos remanescentes após a conclusão ou extinção do convênio?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "15 dias.",
+        "B": "30 dias.",
+        "C": "60 dias.",
+        "D": "90 dias.",
+        "E": "120 dias."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão cobra o prazo legal para encerramento financeiro do ajuste.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Decreto 6.170/07 (art. 12, parágrafo único) fixa o prazo de 30 dias para a devolução, sob pena de Tomada de Contas Especial.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 12, Decreto 6.170/07:</strong> Os saldos devem ser devolvidos no prazo improrrogável de 30 dias do evento (conclusão, denúncia, rescisão).</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "MROSC - Termos",
+      "enunciado": "A Lei nº 13.019/2014 (Marco Regulatório das Organizações da Sociedade Civil - MROSC) criou instrumentos específicos para parcerias entre a Administração Pública e as OSCs. Quando a parceria envolve a transferência de recursos financeiros e o plano de trabalho é proposto pela própria Organização da Sociedade Civil, o instrumento adequado é o:\n\n(Considere que o projeto é de iniciativa da entidade privada).",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Termo de Colaboração.",
+        "B": "Termo de Fomento.",
+        "C": "Acordo de Cooperação.",
+        "D": "Contrato de Gestão.",
+        "E": "Termo de Parceria."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão diferencia os instrumentos do MROSC com base na autoria do plano de trabalho.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Termo de Fomento é usado quando a iniciativa e o plano de trabalho partem da OSC.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O Termo de Colaboração é usado quando a Administração propõe o plano de trabalho.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 13.019/14:</strong> Fomento = Iniciativa da OSC. Colaboração = Iniciativa da Administração.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Procurador do Estado",
+      "subtema": "Consórcios Públicos",
+      "enunciado": "A Lei nº 11.107/2005 dispõe sobre normas gerais de contratação de consórcios públicos. Quando entes da Federação (União, Estados, DF e Municípios) se associam para a gestão associada de serviços públicos, o consórcio adquire personalidade jurídica própria.\n\nCaso o consórcio público opte por se constituir como uma ASSOCIAÇÍO PÚBLICA, qual será sua natureza jurídica?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pessoa jurídica de direito privado, sem fins lucrativos.",
+        "B": "Pessoa jurídica de direito público, integrando a administração indireta de todos os entes consorciados.",
+        "C": "Órgão autônomo da administração direta do ente líder.",
+        "D": "Entidade paraestatal do Sistema S.",
+        "E": "Sociedade de economia mista interfederativa."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca na natureza jurídica da 'Associação Pública' no contexto dos consórcios.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A associação pública tem natureza de direito público e integra a administração indireta dos entes associados.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 41, IV, Código Civil e Lei 11.107/05:</strong> A associação pública é autarquia interfederativa.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista de Planejamento",
+      "subtema": "Protocolo de Intenções",
+      "enunciado": "Para a criação de um consórcio público, os entes federados interessados devem primeiro subscrever um documento que estabelece as bases da associação, o qual deverá ser posteriormente ratificado por lei em cada ente consorciado.\n\nEste documento inicial, que contém as cláusulas obrigatórias previstas na Lei nº 11.107/2005, denomina-se:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Contrato de Rateio.",
+        "B": "Contrato de Programa.",
+        "C": "Protocolo de Intenções.",
+        "D": "Estatuto Interfederativo.",
+        "E": "Termo de Cooperação Mútua."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a fase de formação do consórcio público.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Protocolo de Intenções é o contrato preliminar que, após ratificado por lei, converte-se em contrato de consórcio público.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 3º, Lei 11.107/05:</strong> O consórcio público será constituído por contrato cuja celebração dependerá da prévia subscrição de protocolo de intenções.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Técnico Administrativo",
+      "subtema": "Contrapartida",
+      "enunciado": "Nos convênios celebrados entre a União e outros entes federados, é comum a exigência de que o conveniente (quem recebe o recurso) também aporte uma parcela de recursos para a execução do objeto, demonstrando seu comprometimento com o ajuste.\n\nEssa parcela de recursos de responsabilidade do conveniente é chamada de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Taxa de Administração.",
+        "B": "Contrapartida.",
+        "C": "Aporte de Capital.",
+        "D": "Fundo de Reserva.",
+        "E": "Emolumento de Parceria."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca no conceito de contrapartida financeira ou em bens/serviços.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Contrapartida são os recursos que o conveniente se obriga a aplicar no objeto do convênio.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>LDO:</strong> A Lei de Diretrizes Orçamentárias anualmente fixa as regras e percentuais mínimos de contrapartida para os entes.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Finanças",
+      "subtema": "SICONV / Plataforma +Brasil",
+      "enunciado": "Para a gestão transparente das transferências voluntárias da União, foi criado um sistema informatizado onde devem ser registrados todos os atos, desde a proposta até a prestação de contas final dos convênios e contratos de repasse.\n\nAtualmente, este sistema é integrado à plataforma denominada:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "SIAFI.",
+        "B": "CADIN.",
+        "C": "Plataforma Transferegov.br (antiga Plataforma +Brasil).",
+        "D": "e-Social Público.",
+        "E": "Portal da Transparência Federal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão cobra a nomenclatura atualizada do sistema de gestão de convênios.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Plataforma Transferegov.br é a ferramenta integrada para gestão das transferências da União.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Decreto 11.271/2022:</strong> Dispõe sobre a Plataforma Transferegov.br como sucessora da Plataforma +Brasil.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Procurador Legislativo",
+      "subtema": "Competência para Assinatura",
+      "enunciado": "A celebração de convênios com entidades privadas sem fins lucrativos possui regras de competência específicas no âmbito federal para garantir a responsabilidade da alta gestão.\n\nDe acordo com o Decreto nº 6.170/2007, quem é a autoridade competente para ASSINAR tais instrumentos, sendo esta competência INDELEGÁVEL?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O Coordenador-Geral de Convênios.",
+        "B": "O Secretário-Executivo do Ministério.",
+        "C": "O Ministro de Estado ou o dirigente máximo da entidade concedente.",
+        "D": "O Consultor Jurídico do órgão.",
+        "E": "O Chefe de Gabinete da autoridade máxima."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca na regra de indelegabilidade da assinatura em parcerias com o terceiro setor.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O art. 6º-A do Decreto 6.170/07 exige a assinatura do Ministro ou Dirigente Máximo, vedada a delegação.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 6º-A, Decreto 6.170/07:</strong> Reforça o controle político e administrativo sobre as transferências para entidades privadas.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista de Controle",
+      "subtema": "Vedações - Fins Lucrativos",
+      "enunciado": "Uma empresa de consultoria (sociedade limitada com fins lucrativos) apresenta um projeto inovador de reciclagem e solicita à União a celebração de um convênio para receber R$ 2.000.000,00 para a execução do projeto, alegando que o interesse é público.\n\nCom base nas normas de Direito Administrativo e no Decreto nº 6.170/2007, este convênio:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pode ser celebrado, pois o objeto é de interesse público.",
+        "B": "Pode ser celebrado, desde que a empresa ofereça contrapartida de 50%.",
+        "C": "É vedado, pois convênios não podem ser celebrados com entidades privadas com fins lucrativos.",
+        "D": "Pode ser celebrado, desde que a empresa seja selecionada por licitação.",
+        "E": "É permitido apenas se a empresa for de pequeno porte (EPP)."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a proibição de transferências voluntárias para o setor produtivo lucrativo via convênio.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A finalidade do convênio é a cooperação sem lucro. Entidades lucrativas devem ser contratadas via licitação (Lei 14.133/21).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio da Moralidade:</strong> Não se transfere dinheiro público a fundo perdido para empresas privadas que visam lucro.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Analista Legislativo",
+      "subtema": "Execução Excepcional",
+      "enunciado": "A regra geral é que a União transfira recursos para que Estados e Municípios executem seus programas. No entanto, o Decreto nº 6.170/2007 prevê uma situação excepcional de inversão dessa lógica.\n\nAssinale a alternativa que descreve corretamente essa exceção:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A União pode executar programas estaduais ou municipais mediante convênio, em regime de mútua cooperação.",
+        "B": "Os Municípios podem intervir em autarquias federais sem necessidade de convênio.",
+        "C": "A União pode assumir a dívida pública de Estados sem qualquer contrapartida.",
+        "D": "Os Estados podem legislar sobre normas gerais de convênios federais.",
+        "E": "A União pode contratar empresas privadas para fiscalizar convênios municipais."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão explora o §3º do art. 1º do Decreto 6.170/07.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>A) ✅ CORRETA</p><p style='color: #155724;'>Excepcionalmente, órgãos federais podem executar programas de outros entes sob regime de mútua cooperação.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 1º, §3º, Decreto 6.170/07:</strong> Permite que a União execute programas estaduais/municipais e que a administração direta execute programas de entidades da indireta.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Interno",
+      "subtema": "Fiscalização",
+      "enunciado": "No que tange à fiscalização dos convênios, a legislação prevê que o órgão concedente deve acompanhar a execução do objeto. Além disso, órgãos de controle externo e interno possuem livre acesso aos processos.\n\nQual órgão federal tem a competência específica para realizar auditorias periódicas e fiscalizar a aplicação dos recursos federais repassados via convênio, atuando como órgão central do sistema de controle interno?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Tribunal de Contas da União (TCU).",
+        "B": "Controladoria-Geral da União (CGU).",
+        "C": "Ministério do Planejamento.",
+        "D": "Polícia Federal.",
+        "E": "Receita Federal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão diferencia controle interno de controle externo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A CGU é o órgão de controle interno responsável por auditar a aplicação de recursos federais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O TCU exerce o controle externo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 74, CF/88:</strong> Os Poderes manterão sistema de controle interno com a finalidade de fiscalizar a aplicação de recursos públicos.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista de Gestão Pública",
+      "subtema": "Retenção de Parcelas",
+      "enunciado": "A liberação das parcelas financeiras de um convênio não é automática e está condicionada ao cumprimento do cronograma de execução. Caso o concedente verifique irregularidades na aplicação dos recursos ou no andamento do objeto, ele deve tomar uma medida cautelar.\n\nAssinale a alternativa que descreve essa medida prevista na legislação:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplicação imediata de multa de 10% sobre o valor total.",
+        "B": "Suspensão da liberação das parcelas até o saneamento das irregularidades.",
+        "C": "Cancelamento definitivo do convênio sem direito a defesa.",
+        "D": "Transferência da execução para uma empresa privada.",
+        "E": "Bloqueio das contas pessoais do Prefeito ou dirigente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o poder-dever de fiscalização e cautela da Administração.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A retenção de parcelas é a medida padrão diante de irregularidades detectadas durante a execução.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 116, §3º, Lei 8.666/93:</strong> As parcelas serão liberadas em conformidade com o plano de aplicação, exceto se verificada irregularidade.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista de Parcerias",
+      "subtema": "MROSC - Acordo de Cooperação",
+      "enunciado": "A Lei nº 13.019/2014 prevê um instrumento específico para parcerias entre a Administração Pública e Organizações da Sociedade Civil que NÍO envolvam a transferência de recursos financeiros entre as partes.\n\nEste instrumento é denominado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Termo de Fomento.",
+        "B": "Termo de Colaboração.",
+        "C": "Acordo de Cooperação.",
+        "D": "Contrato de Repasse.",
+        "E": "Convênio de Receita."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca no instrumento do MROSC para parcerias não financeiras.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Acordo de Cooperação é o instrumento para parcerias sem transferência de recursos financeiros.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 2º, VIII-A, Lei 13.019/14:</strong> Define o acordo de cooperação como o instrumento que não envolve transferência de recursos financeiros.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle",
+      "subtema": "Publicidade",
+      "enunciado": "Em observância ao princípio da publicidade, o Decreto nº 6.170/2007 exige que o chamamento público para seleção de entidades privadas seja amplamente divulgado.\n\nOnde deve ocorrer a divulgação obrigatória da primeira página do chamamento público, além do Portal de Convênios?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Em jornal de grande circulação nacional por 3 dias seguidos.",
+        "B": "No sítio oficial do órgão ou entidade concedente.",
+        "C": "Apenas no Diário Oficial da União.",
+        "D": "No mural da Prefeitura do convenente.",
+        "E": "Em redes sociais oficiais do Ministro de Estado."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda os meios eletrônicos de publicidade oficial.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O art. 4º, §1º do Decreto 6.170/07 exige a divulgação na primeira página do sítio oficial do concedente.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Transparência Ativa:</strong> A divulgação em sites oficiais é a forma moderna de garantir o acesso à informação e a competitividade.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Técnico Judiciário",
+      "subtema": "Vedações - Condenados",
+      "enunciado": "O Decreto nº 6.170/2007 estabelece restrições éticas para a utilização de recursos públicos repassados via convênio. Uma dessas restrições impede a contratação de determinadas pessoas com o dinheiro do ajuste.\n\nAssinale a alternativa que descreve uma pessoa que NÍO pode ser contratada com recursos de convênio:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pessoa com mais de 70 anos de idade.",
+        "B": "Pessoa natural condenada por crime contra a administração pública ou o patrimônio público.",
+        "C": "Pessoa que resida fora do Município onde a obra será executada.",
+        "D": "Pessoa que possua dívidas de natureza privada (SPC/Serasa).",
+        "E": "Pessoa que não possua curso superior completo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca na probidade administrativa aplicada aos recursos de convênios.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O art. 11-B, §4º do Decreto 6.170/07 veda a contratação de condenados por crimes contra a administração, eleitorais ou lavagem de dinheiro.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Moralidade Administrativa:</strong> Recursos públicos não devem remunerar quem atentou contra a própria Administração ou o patrimônio coletivo.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista de Planejamento",
+      "subtema": "Consórcios - Contrato de Rateio",
+      "enunciado": "Nos consórcios públicos, os entes consorciados devem fornecer recursos financeiros para cobrir as despesas de funcionamento e execução do consórcio. O instrumento pelo qual os entes se comprometem a entregar esses recursos denomina-se:\n\n(Atenção: refere-se ao repasse de dinheiro dos entes para o consórcio).",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Contrato de Rateio.",
+        "B": "Contrato de Programa.",
+        "C": "Termo de Fomento Interfederativo.",
+        "D": "Protocolo de Intenções.",
+        "E": "Acordo de Cotas."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a sustentação financeira dos consórcios públicos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>A) ✅ CORRETA</p><p style='color: #155724;'>O Contrato de Rateio é o instrumento pelo qual os entes consorciados se obrigam a entregar recursos ao consórcio.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O Contrato de Programa é para a prestação de serviços ou transferência de encargos.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 8º, Lei 11.107/05:</strong> Os entes consorciados somente entregarão recursos ao consórcio público mediante contrato de rateio.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Procurador Municipal",
+      "subtema": "Consórcios - Contrato de Programa",
+      "enunciado": "Quando um consórcio público pretende prestar serviços públicos a um dos entes federados que o compõem, ou quando um ente transfere ao consórcio o encargo de prestar um serviço, deve ser celebrado um instrumento específico.\n\nEste instrumento, previsto na Lei nº 11.107/2005, é o:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Contrato de Rateio.",
+        "B": "Contrato de Programa.",
+        "C": "Convênio de Delegação.",
+        "D": "Termo de Parceria Pública.",
+        "E": "Contrato de Gestão Interfederativa."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão diferencia as obrigações de repasse financeiro das obrigações de fazer no consórcio.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Contrato de Programa formaliza a prestação de serviços ou transferência de encargos entre o ente e o consórcio.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 13, Lei 11.107/05:</strong> Deverão ser constituídas por contrato de programa as obrigações de um ente para com outro ou para com consórcio.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista de Controle Interno",
+      "subtema": "MROSC - Seleção",
+      "enunciado": "A Lei nº 13.019/2014 estabelece que a seleção de Organizações da Sociedade Civil para parcerias deve ser pautada por critérios objetivos. Um desses critérios é fundamental para garantir que a entidade tenha capacidade de realizar o que propõe.\n\nAssinale a alternativa que descreve um requisito OBRIGATÓRIO para a celebração de parcerias conforme o MROSC:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Ter sede no Distrito Federal.",
+        "B": "Possuir pelo menos 100 funcionários registrados.",
+        "C": "Ter tempo mínimo de existência (1, 2 ou 3 anos conforme a esfera federativa).",
+        "D": "Ser proprietária do imóvel onde o projeto será executado.",
+        "E": "Ter fins lucrativos para garantir a sustentabilidade financeira."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda os requisitos de habilitação das OSCs.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Lei 13.019/14 exige tempo mínimo de existência: 3 anos (União), 2 anos (Estados/DF) e 1 ano (Municípios).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 33, V, Lei 13.019/14:</strong> Estabelece os prazos de existência mínima para garantir a experiência da entidade.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista de Gestão",
+      "subtema": "Prestação de Contas - Prazos",
+      "enunciado": "A prestação de contas final de um convênio é o momento em que o convenente demonstra a boa e regular aplicação dos recursos. A legislação fixa um prazo para que essa prestação seja apresentada após o término da vigência.\n\nQual o prazo padrão estabelecido pela Portaria Interministerial nº 424/2016 para a apresentação da prestação de contas FINAL?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "30 dias.",
+        "B": "60 dias.",
+        "C": "90 dias.",
+        "D": "120 dias.",
+        "E": "180 dias."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão cobra o prazo de encerramento do ciclo do convênio.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O prazo para prestação de contas final é de 60 dias após o término da vigência (podendo ser prorrogado por igual período).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 59, Portaria 424/16:</strong> O convenente apresentará a prestação de contas final no prazo de até 60 dias.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Rendimentos de Aplicação",
+      "enunciado": "Os recursos de um convênio, enquanto não utilizados, geram rendimentos financeiros devido à aplicação obrigatória. Sobre a destinação desses rendimentos, assinale a alternativa correta de acordo com a Lei nº 8.666/1993 e o Decreto nº 6.170/2007:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pertencem ao convenente como taxa de administração.",
+        "B": "Devem ser obrigatoriamente devolvidos ao Tesouro Nacional assim que creditados.",
+        "C": "Devem ser aplicados exclusivamente no objeto do convênio, estando sujeitos às mesmas regras de prestação de contas.",
+        "D": "Podem ser usados para pagar multas e juros de mora do convenente.",
+        "E": "Ficam retidos no banco como garantia de execução."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o princípio da acessoriedade dos rendimentos ao principal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Os rendimentos são recursos públicos e devem ser aplicados no objeto do ajuste, sendo devolvidos se não utilizados.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 116, §5º, Lei 8.666/93:</strong> As receitas financeiras auferidas serão obrigatoriamente computadas a crédito do convênio e aplicadas no objeto.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista de Parcerias",
+      "subtema": "Diferença Convênio x MROSC",
+      "enunciado": "Após a entrada em vigor da Lei nº 13.019/2014 (MROSC), a utilização do instrumento 'Convênio' ficou restrita a determinadas situações. Assinale a alternativa que descreve uma situação em que o instrumento 'Convênio' AINDA PODE ser utilizado para transferir recursos a entidades privadas:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Para qualquer projeto de educação básica.",
+        "B": "Nas parcerias com entidades filantrópicas e sem fins lucrativos no âmbito do SUS.",
+        "C": "Para a construção de sedes administrativas de ONGs.",
+        "D": "Em parcerias com empresas juniores de universidades.",
+        "E": "Para o patrocínio de eventos esportivos lucrativos."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda as exceções à aplicação do MROSC.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>As parcerias no âmbito do SUS com entidades filantrópicas são regidas por legislação específica e mantêm a nomenclatura de convênio.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 3º, Lei 13.019/14:</strong> Exclui da aplicação do MROSC os convênios e contratos celebrados com entidades filantrópicas no SUS.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Responsabilidade dos Gestores",
+      "enunciado": "Em caso de malversação de recursos públicos repassados via convênio, a autoridade administrativa deve instaurar um processo administrativo especial para apurar os fatos, identificar os responsáveis e quantificar o dano ao erário.\n\nEste processo é tecnicamente denominado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Sindicância Patrimonial.",
+        "B": "Processo Administrativo Disciplinar (PAD).",
+        "C": "Tomada de Contas Especial (TCE).",
+        "D": "Inquérito Civil Público.",
+        "E": "Ação de Improbidade Administrativa."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca no instrumento de ressarcimento ao erário.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A TCE é o processo para apurar responsabilidade por dano à administração pública.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 8.443/92:</strong> Dispõe sobre a Tomada de Contas Especial perante o TCU.</p></div></div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2014,
+      "cargo": "Anatel",
+      "subtema": "Execução",
+      "enunciado": "No caso de convênios cuja duração ultrapasse um exercício financeiro, será indicado o crédito e efetuado um empenho global, correspondente à despesa autorizada para a plena consecução do objeto do convênio, lançando-se em Restos a Pagar as parcelas da despesa relativas às partes a serem executadas em exercícios futuros.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n        <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema de <strong>execução financeira de convênios com duração plurianual</strong>. A afirmativa está <strong>INCORRETA</strong> porque a Portaria Interministerial 424/2016 estabelece que o empenho deve ser feito por parcela, e não globalmente, para despesas futuras.</p>\n    </div>\n    <div style='margin-bottom: 20px;'>\n        <div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n            <p style='color: #721c24; line-height: 1.6;'>Conforme o <strong>Art. 10 da Portaria Interministerial 424/2016</strong>, nos instrumentos (convênios e contratos de repasse) cuja duração ultrapasse um exercício financeiro, a União, enquanto concedente, indicará o crédito e respectivo empenho para atender à despesa no exercício em curso, bem como <strong>cada parcela da despesa</strong> (e não um empenho global) relativa à parte a ser executada em exercício futuro, mediante apostilamento. A questão afirma que será efetuado um <strong>empenho global</strong>, o que contraria a norma. A previsão de execução de créditos orçamentários em exercícios futuros acarreta a responsabilidade de o concedente incluir em suas propostas orçamentárias dos exercícios seguintes a dotação necessária à execução do instrumento.</p>\n        </div>\n    </div>\n    <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n        <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n        <div style='color: #6c757d; font-style: italic;'>\n            <p><strong>Padrão da Banca:</strong> O Cespe/Cebraspe frequentemente testa o conhecimento sobre detalhes normativos, especialmente em relação a prazos, valores e formas de execução. A 'pegadinha' aqui está na distinção entre 'empenho global' e 'empenho por parcela' para convênios plurianuais.</p>\n            <p><strong>Método de Análise:</strong> Ao se deparar com questões sobre execução orçamentária de convênios, preste atenção aos termos que indicam a duração (exercício financeiro) e a forma de empenho. Lembre-se que, para despesas futuras em convênios plurianuais, o empenho é por parcela, não global.</p>\n            <p><strong>Palavras-Chave:</strong> Fique atento a termos como <strong>\"empenho global\"</strong> versus <strong>\"cada parcela da despesa\"</strong> em contextos de convênios que ultrapassam um exercício financeiro. A palavra \"global\" é um forte indicativo de erro neste contexto.</p>\n        </div>\n    </div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n    <div style='margin-bottom: 15px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n    </div>\n    <div style='color: #212529;'>\n        <p>Conforme o <strong>art. 10 da Portaria Interministerial 424/2016</strong>, nos instrumentos (convênios e contratos de repasse) cuja duração ultrapasse um exercício financeiro, a União, enquanto concedente, indicará o crédito e respectivo empenho para atender à despesa no exercício em curso, bem como <strong>cada parcela da despesa</strong> (e não um empenho global) relativa à parte a ser executada em exercício futuro, mediante apostilamento.</p>\n        <p>Neste caso, a previsão de execução de créditos orçamentários em exercício futuros acarretará a responsabilidade de o concedente incluir em suas propostas orçamentárias dos exercícios seguintes a dotação necessária à execução do instrumento.</p>\n    </div>\n</div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2021,
+      "cargo": "Codevasf",
+      "subtema": "Alteração do Objeto",
+      "enunciado": "Durante a fase de execução de um convênio, o termo aditivo é o instrumento adequado para a alteração do objeto que já tenha sido aprovado.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n        <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema de <strong>termo aditivo em convênios</strong>. A afirmativa está <strong>INCORRETA</strong> porque, embora o termo aditivo seja para modificações, ele não permite a alteração do objeto já aprovado do convênio.</p>\n    </div>\n    <div style='margin-bottom: 20px;'>\n        <div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n            <p style='color: #721c24; line-height: 1.6;'>Nos termos do <strong>Art. 1º, inciso IX, do Decreto 6.170/2007</strong>, o termo aditivo é o instrumento que tem por objetivo a modificação do convênio já celebrado, mas é <strong>vedada a alteração do objeto aprovado</strong>. Isso significa que as cláusulas do convênio podem ser alteradas, desde que não modifiquem a essência ou a finalidade principal do objeto pactuado. Por exemplo, se o convênio é para construir uma escola, não se pode alterar para construir um hospital, mas pode-se alterar características da escola (número de salas, materiais, etc.).</p>\n        </div>\n    </div>\n    <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n        <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n        <div style='color: #6c757d; font-style: italic;'>\n            <p><strong>Padrão da Banca:</strong> Questões sobre termos aditivos em convênios frequentemente exploram a limitação de não poder alterar o objeto principal. A banca tenta confundir o candidato com a ideia de que \"modificação\" implica \"qualquer alteração\".</p>\n            <p><strong>Mnemônico:</strong> Lembre-se da regra: <strong>\"Aditivo ADAPTA, mas não ALTERA o OBJETO\"</strong>. O termo aditivo serve para ajustar detalhes, prazos, valores, mas não para mudar a finalidade essencial do convênio.</p>\n            <p><strong>Palavras-Chave:</strong> A palavra <strong>\"alteração do objeto\"</strong> é a chave para identificar o erro nesta afirmativa. Se o objeto já foi aprovado, sua essência não pode ser modificada por um termo aditivo.</p>\n        </div>\n    </div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n    <div style='margin-bottom: 15px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n    </div>\n    <div style='color: #212529;'>\n        <p>Bom, nos termos do <strong>artigo 1º do Decreto 6.170/2007</strong>, o termo aditivo é o instrumento adequado para a modificação de convênio já celebrado, mas é <strong>vedada a alteração do objeto aprovado</strong>.</p>\n        <p>Veja só:</p>\n        <ul>\n            <li><strong>Art. 1º (...)</strong></li>\n            <li><strong>IX - termo aditivo</strong> - instrumento que tenha por objetivo a modificação do convênio já celebrado, <strong>vedada a alteração do objeto aprovado</strong>.</li>\n        </ul>\n    </div>\n</div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2014,
+      "cargo": "Anatel",
+      "subtema": "Competência para Assinatura",
+      "enunciado": "Os convênios e os contratos de repasse firmados com entidades privadas sem fins lucrativos devem ser assinados pessoalmente pelo ministro de Estado ou pelo dirigente máximo da entidade concedente, autoridades competentes para decidir sobre a aprovação da prestação de contas relativa ao ajuste.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n        <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema de <strong>formalização de convênios e contratos de repasse com entidades privadas sem fins lucrativos</strong>. A afirmativa está <strong>CORRETA</strong>, pois descreve corretamente a exigência legal de assinatura e a competência para decisão sobre a prestação de contas.</p>\n    </div>\n    <div style='margin-bottom: 20px;'>\n        <div style='padding: 15px; background: #d4edda; border-radius: 6px;'>\n            <p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p>\n            <p style='color: #155724; line-height: 1.6;'>O item está em perfeita consonância com o <strong>Art. 6º-A do Decreto 6.170/2007</strong>, que estabelece: \"Os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser <strong>assinados pelo Ministro de Estado ou pelo dirigente máximo da entidade da administração pública federal concedente</strong>.\" Além disso, o mesmo artigo, em seu §1º, ressalta que essa competência para assinatura <strong>não poderá ser delegada</strong>. As autoridades mencionadas também são responsáveis por decidir sobre a aprovação da prestação de contas e por suspender ou cancelar o registro de inadimplência, embora estas últimas competências possam ser delegadas, vedada a subdelegação.</p>\n        </div>\n    </div>\n    <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n        <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n        <div style='color: #6c757d; font-style: italic;'>\n            <p><strong>Padrão da Banca:</strong> O Cespe/Cebraspe adora testar a delegação de competências. É crucial saber quais atos são indelegáveis e quais podem ser delegados. A assinatura de convênios com entidades privadas sem fins lucrativos por Ministro de Estado ou dirigente máximo é um ponto chave e indelegável.</p>\n            <p><strong>Mnemônico:</strong> Pense que a <strong>\"Assinatura do Chefão\"</strong> (Ministro/Dirigente Máximo) para convênios com entidades privadas sem fins lucrativos é <strong>\"IN-DE-LE-GÁ-VEL\"</strong>. Já as decisões sobre prestação de contas e inadimplência podem ser delegadas, mas não subdelegadas.</p>\n            <p><strong>Palavras-Chave:</strong> Termos como <strong>\"assinados pessoalmente\"</strong> e a menção específica a <strong>\"Ministro de Estado ou dirigente máximo\"</strong> são fortes indicadores de que a questão trata de uma competência indelegável.</p>\n        </div>\n    </div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n    <div style='margin-bottom: 15px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n    </div>\n    <div style='color: #212529;'>\n        <p>O item está correto. Trata-se de regra aplicável aos convênios e contratos de repasse firmados com entidades privadas sem fins lucrativos, prevista no <strong>art. 6º-A do Decreto 6.170/2007</strong>:</p>\n        <ul>\n            <li><strong>Art. 6º-A.</strong> Os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser <strong>assinados pelo Ministro de Estado ou pelo dirigente máximo da entidade da administração pública federal concedente</strong>.</li>\n        </ul>\n        <p>Ressalte-se que o Ministro de Estado e o dirigente máximo da entidade da administração pública federal <strong>não poderão delegar</strong> a referida competência.</p>\n    </div>\n</div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2014,
+      "cargo": "Anatel",
+      "subtema": "Rendimentos de Aplicação",
+      "enunciado": "Os rendimentos das aplicações financeiras efetuadas pelo convenente com recursos oriundos do convênio poderão ser utilizados em programas similares mantidos pelo convenente ou como parcela da contrapartida devida ao contratante a que estiver obrigado.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n        <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema de <strong>aplicação dos rendimentos financeiros de recursos de convênio</strong>. A afirmativa está <strong>INCORRETA</strong> porque os rendimentos devem ser aplicados exclusivamente no objeto do convênio e não podem ser computados como contrapartida.</p>\n    </div>\n    <div style='margin-bottom: 20px;'>\n        <div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n            <p style='color: #721c24; line-height: 1.6;'>Conforme a <strong>Portaria Interministerial 424/2016 (Art. 41, §§11 a 13)</strong> e o <strong>Decreto 6.170/2007 (Art. 10, §5º)</strong>, os rendimentos das aplicações financeiras (juros) auferidas com os saldos de convênio devem ser <strong>obrigatoriamente computados a crédito do convênio e aplicados, exclusivamente, no objeto de sua finalidade</strong>. É expressamente vedado o aproveitamento desses rendimentos para ampliação ou acréscimo de metas ao plano de trabalho pactuado, e eles <strong>não podem ser computados como parcela da contrapartida</strong> devida pelo convenente. Em caso de conclusão, denúncia, rescisão ou extinção do instrumento, os rendimentos não utilizados devem ser devolvidos ao concedente.</p>\n        </div>\n    </div>\n    <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n        <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n        <div style='color: #6c757d; font-style: italic;'>\n            <p><strong>Padrão da Banca:</strong> Questões sobre a destinação de rendimentos de aplicações financeiras de convênios são comuns. A banca tenta confundir o candidato, sugerindo usos alternativos que parecem razoáveis, mas que são vedados pela legislação.</p>\n            <p><strong>Mnemônico:</strong> Lembre-se: <strong>\"Juros do Convênio? SÓ para o OBJETO!\"</strong>. Isso ajuda a fixar que os rendimentos são vinculados e não podem ser usados para outros programas ou como contrapartida.</p>\n            <p><strong>Palavras-Chave:</strong> Fique atento a termos como <strong>\"programas similares\"</strong> ou <strong>\"parcela da contrapartida\"</strong> quando se referem aos rendimentos de aplicações financeiras de convênios. Essas são as \"pegadinhas\" que indicam uma afirmativa incorreta.</p>\n        </div>\n    </div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n    <div style='margin-bottom: 15px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n    </div>\n    <div style='color: #212529;'>\n        <p>É <strong>vedado</strong> o aproveitamento de rendimentos para ampliação ou acréscimo de metas ao plano de trabalho pactuado.</p>\n        <p>Ademais, as receitas oriundas dos rendimentos de aplicação no mercado financeiro <strong>não poderão ser computadas como contrapartida</strong> devida pelo convenente.</p>\n        <p>Na verdade, os rendimentos das aplicações financeiras deverão ser <strong>devolvidos ao concedente</strong>, observada a proporcionalidade em relação à contrapartida do convenente, quando da conclusão, denúncia, rescisão ou extinção do instrumento (Portaria Interministerial 424/2016, art. 41, §§11 a 13).</p>\n    </div>\n</div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2014,
+      "cargo": "Antaq",
+      "subtema": "Aplicação Financeira",
+      "enunciado": "O saldo de convênio, enquanto não utilizado, deverá ser aplicado em caderneta de poupança ou em fundo de aplicação financeira de curto prazo, se a previsão de seu uso for superior a um mês.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n        <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema de <strong>aplicação financeira de saldos de convênio não utilizados</strong>. A afirmativa está <strong>INCORRETA</strong> porque inverte as regras de aplicação para prazos superiores e inferiores a um mês.</p>\n    </div>\n    <div style='margin-bottom: 20px;'>\n        <div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n            <p style='color: #721c24; line-height: 1.6;'>Conforme o <strong>Art. 116, §4º da Lei 8.666/93</strong>, os saldos de convênio, enquanto não utilizados, serão obrigatoriamente aplicados da seguinte forma:\n                <ul>\n                    <li>Se a previsão de uso for <strong>igual ou superior a um mês</strong>: aplicação em <strong>cadernetas de poupança de instituição financeira oficial</strong>.</li>\n                    <li>Se a previsão de uso for <strong>inferior a um mês</strong>: aplicação em <strong>fundo de aplicação financeira de curto prazo ou operação de mercado aberto lastreada em títulos da dívida pública</strong>.</li>\n                </ul>\n                A questão inverte essas condições, afirmando que para uso superior a um mês, a aplicação seria em caderneta de poupança *ou* fundo de curto prazo, quando na verdade é *apenas* caderneta de poupança para esse prazo, e o fundo de curto prazo é para prazos menores.</p>\n        </div>\n    </div>\n    <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n        <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n        <div style='color: #6c757d; font-style: italic;'>\n            <p><strong>Padrão da Banca:</strong> A banca frequentemente troca as condições ou os tipos de aplicação financeira para testar a atenção do candidato aos detalhes da legislação.</p>\n            <p><strong>Mnemônico:</strong> Pense: <strong>\"Mais de um mês? Poupança OFICIAL! Menos de um mês? Fundo ou Títulos PÚBLICOS!\"</strong>. A poupança é para o longo prazo (mais de um mês), enquanto fundos de curto prazo são para o curto prazo (menos de um mês).</p>\n            <p><strong>Palavras-Chave:</strong> As palavras-chave são <strong>\"superior a um mês\"</strong> e os tipos de aplicação <strong>\"caderneta de poupança\"</strong> e <strong>\"fundo de aplicação financeira de curto prazo\"</strong>. A inversão ou a generalização dessas condições são os pontos de erro.</p>\n        </div>\n    </div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n    <div style='margin-bottom: 15px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n    </div>\n    <div style='color: #212529;'>\n        <p>Se a previsão do uso for <strong>igual ou superior a um mês</strong>, a aplicação deve ser feita, obrigatoriamente, em <strong>caderneta de poupança</strong>, e não em fundo de curto prazo.</p>\n        <p>Por sua vez, para prazos <strong>inferiores a um mês</strong>, o recurso deve ser aplicado em <strong>fundo de aplicação financeira de curto prazo ou operação de mercado aberto lastreada em títulos da dívida pública</strong>.</p>\n        <p>Isso está previsto no <strong>art. 116, §4º da Lei 8.666/93</strong>:</p>\n        <ul>\n            <li><strong>§ 4º</strong> Os saldos de convênio, enquanto não utilizados, serão obrigatoriamente aplicados em cadernetas de poupança de instituição financeira oficial se a previsão de seu uso for igual ou superior a um mês, ou em fundo de aplicação financeira de curto prazo ou operação de mercado aberto lastreada em títulos da dívida pública, quando a utilização dos mesmos verificar-se em prazos menores que um mês.</li>\n        </ul>\n    </div>\n</div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Vedações e Cláusulas Obrigatórias",
+      "enunciado": "Considere que o Município 'Alfa' pretende celebrar um convênio com uma entidade privada sem fins lucrativos para a implementação de um programa de capacitação profissional de jovens em situação de vulnerabilidade. De acordo com as normas gerais que regem os convênios e contratos de repasse (Decreto nº 6.170/2007 e Portaria Interministerial nº 424/2016), analise as seguintes condições propostas para o ajuste:\n\nI. Previsão de pagamento de taxa de administração à entidade privada pelos serviços de gestão do projeto.\nII. Possibilidade de realização de despesas com data anterior à vigência do instrumento, desde que devidamente justificadas.\nIII. Obrigatoriedade de depósito dos recursos em conta bancária específica, com movimentação exclusiva para o objeto pactuado.\nIV. Vedação à utilização dos recursos para finalidade diversa da estabelecida no instrumento, ainda que em caráter emergencial.\n\nCom base na legislação vigente, estão em conformidade com as regras de convênios apenas as condições:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "I e II",
+        "B": "III e IV",
+        "C": "I, III e IV",
+        "D": "II, III e IV",
+        "E": "I e IV"
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige conhecimento sobre as vedações expressas na legislação de convênios federais, aplicada subsidiariamente a outros entes. O foco está no Decreto 6.170/2007 e na Portaria 424/2016.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Os itens III e IV estão corretos. A conta específica é obrigatória para controle (Art. 42 da Portaria 424/2016) e o desvio de finalidade é expressamente vedado (Art. 38, III).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, C, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>O item I é incorreto pois a taxa de administração é vedada (Art. 38, I). O item II é incorreto pois é vedada a realização de despesas em data anterior à vigência (Art. 38, IV).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Portaria Interministerial nº 424/2016, Art. 38. É vedada a realização de despesas a título de taxa de administração (inciso I) e em data anterior à vigência (inciso IV). Por outro lado, a vinculação à finalidade e a conta específica são pilares da prestação de contas.</p><p style='margin-top: 10px;'><strong>Dica de Prova:</strong> Lembre-se que convênio não é contrato. No convênio há cooperação, por isso não se admite lucro (taxa de administração).</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2023,
+      "cargo": "Procurador Municipal",
+      "subtema": "Natureza dos Recursos e Prestação de Contas",
+      "enunciado": "A União celebrou convênio com o Estado 'Y' para a construção de um hospital regional, transferindo recursos do orçamento federal para a execução da obra. Durante a execução, o Tribunal de Contas da União (TCU) identificou indícios de superfaturamento e má aplicação das verbas. O Estado 'Y' alegou que, uma vez transferidos, os recursos passaram a integrar o patrimônio estadual, não cabendo mais fiscalização por parte do ente federal ou do TCU.\n\nSobre a natureza jurídica desses recursos e o dever de prestar contas, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Os recursos transferidos via convênio perdem a natureza de dinheiro público federal ao ingressarem no caixa do Estado.",
+        "B": "A competência para fiscalizar a aplicação dos recursos é exclusiva do Tribunal de Contas do Estado, por se tratar de receita estadual.",
+        "C": "Os recursos mantêm a natureza de verba federal e o convenente tem o dever inafastável de prestar contas ao ente repassador e ao TCU.",
+        "D": "O dever de prestar contas em convênios é meramente administrativo, não gerando responsabilidade perante tribunais de contas.",
+        "E": "A responsabilidade pela restituição de valores em caso de irregularidade recai exclusivamente sobre o agente público, isentando o ente federado."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a Súmula 208 do STJ e o entendimento consolidado do STF/TCU sobre a natureza dos recursos vinculados a convênios federais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Recursos de convênio federal mantêm a natureza de verba da União. A fiscalização compete ao TCU (Art. 71, VI, CF/88).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>O dinheiro não se torna estadual; a fiscalização não é exclusiva do TCE; o dever de contas é constitucional e a responsabilidade pode atingir o ente e o gestor.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 208 do STJ:</strong> Compete à Justiça Federal processar e julgar prefeito municipal por desvio de verba sujeita a prestação de contas perante órgão federal.</p><p style='margin-top: 10px;'><strong>Conceito:</strong> O convênio é um ajuste de colaboração. O recurso é 'carimbado', ou seja, vinculado ao objeto. Se a origem é federal, a competência de controle segue a origem do recurso.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista Jurídico",
+      "subtema": "Diferenças entre Convênios e Contratos",
+      "enunciado": "No âmbito da Administração Pública, os convênios e os contratos administrativos são instrumentos jurídicos distintos, embora ambos envolvam o acordo de vontades. Sobre as características que diferenciam esses institutos, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Nos contratos, os interesses das partes são convergentes; nos convênios, os interesses são opostos e contraditórios.",
+        "B": "O convênio admite a existência de lucro para o convenente, enquanto o contrato administrativo é sempre gratuito.",
+        "C": "No contrato, há uma prestação e uma contraprestação (sinalagma); no convênio, há mútua colaboração para um objetivo comum.",
+        "D": "A celebração de convênios exige obrigatoriamente a modalidade de licitação 'Leilão', o que não ocorre nos contratos.",
+        "E": "Os convênios são regidos exclusivamente pelo Direito Privado, enquanto os contratos são regidos pelo Direito Público."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão foca na distinção doutrinária clássica entre convênios (cooperação) e contratos (intercâmbio).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Esta é a distinção fundamental: contratos são sinalagmáticos (troca de prestação por preço), convênios são atos de colaboração (soma de esforços).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Interesses em contratos são opostos; convênios não admitem lucro; convênios não usam licitação para serem celebrados (usam chamamento); ambos são de Direito Público.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina (Hely Lopes Meirelles):</strong> O contrato administrativo caracteriza-se pela diversidade de interesses e pela finalidade de lucro do particular. O convênio caracteriza-se pela identidade de interesses e pela cooperação mútua.</p><p style='margin-top: 10px;'><strong>Ponto-Chave:</strong> No contrato, as partes estão em lados opostos da mesa. No convênio, estão do mesmo lado, olhando para o mesmo objetivo.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2025,
+      "cargo": "Defensor Público",
+      "subtema": "Lei 13.019/2014 (MROSC)",
+      "enunciado": "A Lei nº 13.019/2014 estabelece o regime jurídico das parcerias entre a administração pública e as organizações da sociedade civil (OSC). Sobre os instrumentos previstos nessa lei para a transferência de recursos financeiros, considere as seguintes definições:\n\nI. Instrumento para parcerias propostas pela administração pública que envolvam transferência de recursos financeiros.\nII. Instrumento para parcerias propostas pelas organizações da sociedade civil que envolvam transferência de recursos financeiros.\nIII. Instrumento para parcerias que não envolvam a transferência de recursos financeiros.\n\nOs instrumentos descritos em I, II e III são, respectivamente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Termo de Fomento, Termo de Colaboração e Acordo de Cooperação.",
+        "B": "Termo de Colaboração, Termo de Fomento e Acordo de Cooperação.",
+        "C": "Convênio, Contrato de Repasse e Termo de Parceria.",
+        "D": "Acordo de Cooperação, Termo de Fomento e Termo de Colaboração.",
+        "E": "Termo de Parceria, Contrato de Gestão e Convênio."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige a diferenciação técnica dos instrumentos do Marco Regulatório das Organizações da Sociedade Civil (MROSC).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>I. Colaboração (Adm. Pública propõe); II. Fomento (OSC propõe); III. Acordo de Cooperação (Sem repasse de dinheiro).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, C, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>As demais alternativas invertem os conceitos ou utilizam instrumentos de outras leis (como a Lei das OSCIPs ou OS).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 13.019/2014, Art. 2º:</strong>\n- Termo de Colaboração: consecução de planos de trabalho de iniciativa da administração pública.\n- Termo de Fomento: consecução de planos de trabalho propostos pelas organizações da sociedade civil.\n- Acordo de Cooperação: parceria sem transferência de recursos financeiros.</p><p style='margin-top: 10px;'><strong>Mnemônico:</strong> COlaboração = COmando da Administração. FOmento = FOrça da OSC.</p></div></div>"
+    },
+    {
+      "banca": "ESAF",
+      "ano": 2016,
+      "cargo": "ANAC",
+      "subtema": "Regras Gerais",
+      "enunciado": "A respeito dos convênios, dos contratos de repasse e dos termos de execução descentralizada na administração pública federal, assinale a opção correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "a": "É delegável a competência do Ministro de Estado ou do dirigente máximo da entidade da administração pública federal concedente para a assinatura dos convênios e dos contratos de repasse.",
+        "b": "Para que o convenente possa receber os recursos federais, será dele exigida uma contrapartida, sempre financeira, a qual corresponderá à sua participação econômica na consecução do objeto do convênio.",
+        "c": "A inadimplência da entidade privada convenente em relação aos encargos trabalhistas, fiscais e comerciais transfere de forma subsidiária à administração pública concedente a responsabilidade pelo seu pagamento.",
+        "d": "A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos deverá ser precedida de chamamento público, que deverá ser sempre realizado pelo órgão ou pela entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste.",
+        "e": "A aquisição de produtos e a contratação de serviços com recursos da União transferidos a entidades privadas sem fins lucrativos deverão observar os princípios da impessoalidade, da moralidade e da economicidade, não se exigindo, porém, a realização de licitação, que poderá ser substituída por cotação prévia de preços no mercado antes da celebração do contrato."
+      },
+      "resposta_correta": "e",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3>\n        <p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>regras gerais de convênios, contratos de repasse e termos de execução descentralizada</strong>, com foco em competências, contrapartida, responsabilidades e procedimentos de contratação. O ponto-chave é o conhecimento das disposições do Decreto 6.170/2007 e da Lei 8.666/93, especialmente no que tange às entidades privadas sem fins lucrativos.</p>\n    </div>\n    <div style='margin-bottom: 20px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>- ALTERNATIVAS</h3>\n        <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p>\n            <p style='color: #721c24;'>Conforme o <strong>Art. 6º-A, §1º do Decreto 6.170/2007</strong>, a competência do Ministro de Estado ou do dirigente máximo da entidade da administração pública federal concedente para a <strong>assinatura</strong> dos convênios e contratos de repasse com entidades privadas sem fins lucrativos <strong>não poderá ser delegada</strong>. Outras competências, como a decisão sobre prestação de contas, podem ser delegadas, mas não a assinatura.</p>\n        </div>\n        <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p>\n            <p style='color: #721c24;'>O <strong>Art. 7º do Decreto 6.170/2007</strong> estabelece que a contrapartida pode ser atendida por meio de <strong>recursos financeiros</strong> ou por meio de <strong>bens ou serviços</strong>, se economicamente mensuráveis, pelas entidades privadas sem fins lucrativos. Portanto, não é \"sempre financeira\".</p>\n        </div>\n        <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p>\n            <p style='color: #721c24;'>De acordo com o <strong>Art. 11-B, §5º do Decreto 6.170/2007</strong>, a inadimplência da entidade privada sem fins lucrativos em relação aos encargos trabalhistas, fiscais e comerciais <strong>não transfere à administração pública a responsabilidade por seu pagamento</strong>, nem poderá onerar o objeto do convênio ou contrato de repasse. A responsabilidade é exclusiva da entidade privada.</p>\n        </div>\n        <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'>\n            <p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p>\n            <p style='color: #721c24;'>O <strong>Art. 4º, §2º do Decreto 6.170/2007</strong> prevê <strong>exceções</strong> à exigência de chamamento público, como nos casos de emergência ou calamidade pública, programas de proteção a pessoas ameaçadas, ou quando a parceria já é realizada adequadamente com a mesma entidade há pelo menos cinco anos e as contas foram aprovadas. Portanto, o chamamento público não deverá ser \"sempre\" realizado.</p>\n        </div>\n        <div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'>\n            <p style='font-weight: bold; color: #155724;'>E) ✅ CORRETA</p>\n            <p style='color: #155724;'>Esta alternativa está correta. O <strong>Art. 11 do Decreto 6.170/2007</strong>, para efeito do disposto no Art. 116 da Lei nº 8.666/93, estabelece que a aquisição de produtos e a contratação de serviços com recursos da União transferidos a entidades privadas sem fins lucrativos deverão observar os princípios da impessoalidade, moralidade e economicidade, sendo necessária, no mínimo, a realização de <strong>cotação prévia de preços no mercado antes da celebração do contrato</strong>. Ou seja, não se exige a licitação nos moldes da Lei 8.666/93, mas sim um procedimento simplificado de pesquisa de preços.</p>\n        </div>\n    </div>\n    <div style='border-top: 1px solid #dee2e6; padding-top: 15px;'>\n        <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n        <div style='color: #6c757d; font-style: italic;'>\n            <p><strong>Padrão da Banca:</strong> A ESAF (e outras bancas) adora criar alternativas que misturam regras de diferentes instrumentos ou que contêm exceções importantes. A distinção entre a necessidade de licitação para a celebração do convênio (não exigida) e para a aquisição de bens/serviços com os recursos do convênio (exigida cotação prévia para entidades privadas) é um ponto crucial.</p>\n            <p><strong>Método de Resolução:</strong> Ao analisar cada alternativa, identifique o tema central (delegação, contrapartida, responsabilidade, licitação/chamamento). Em seguida, consulte mentalmente a legislação pertinente (Decreto 6.170/2007, Lei 8.666/93) para verificar a conformidade. Preste atenção aos advérbios como \"sempre\", \"nunca\", \"apenas\", que frequentemente indicam alternativas incorretas.</p>\n            <p><strong>Mnemônico:</strong> Para a alternativa correta, lembre-se: <strong>\"Privada SEM FINS LUCRATIVOS? Cotação PRÉVIA, não Licitação PLENA!\"</strong>. Isso ajuda a diferenciar o regime de contratação para essas entidades.</p>\n        </div>\n    </div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n    <div style='margin-bottom: 15px;'>\n        <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n    </div>\n    <div style='color: #212529;'>\n        <p>Vamos analisar cada alternativa:</p>\n        <ul>\n            <li><strong>a) ERRADA</strong>, nos termos do <strong>art. 6º-A do Decreto 6.170/2007</strong>:\n                <ul>\n                    <li><strong>Art. 6º-A.</strong> Os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser assinados pelo Ministro de Estado ou pelo dirigente máximo da entidade da administração pública federal concedente.</li>\n                    <li><strong>§ 1º</strong> O Ministro de Estado e o dirigente máximo da entidade da administração pública federal <strong>não poderão delegar</strong> a competência prevista no caput.</li>\n                </ul>\n            </li>\n            <li><strong>b) ERRADA</strong>, nos termos do <strong>art. 7º do Decreto 6.170/2007</strong>:\n                <ul>\n                    <li><strong>Art. 7º</strong> A contrapartida será calculada sobre o valor total do objeto e poderá ser atendida da seguinte forma:\n                        <ul>\n                            <li><strong>I</strong> - por meio de recursos financeiros, pelos órgãos ou entidades públicas, observados os limites e percentuais estabelecidos pela Lei de Diretrizes Orçamentárias vigente;</li>\n                            <li><strong>II</strong> - por meio de recursos financeiros e de bens ou serviços, se economicamente mensuráveis, pelas entidades privadas sem fins lucrativos.</li>\n                        </ul>\n                    </li>\n                    <li><strong>§ 1º</strong> Quando financeira, a contrapartida deverá ser depositada na conta bancária específica do convênio em conformidade com os prazos estabelecidos no cronograma de desembolso, ou depositada nos cofres da União, na hipótese de o convênio ser executado por meio do Sistema Integrado de Administração Financeira - SIAFI.</li>\n                    <li><strong>§ 2º</strong> Quando atendida por meio de bens e serviços, constará do convênio cláusula que indique a forma de aferição da contrapartida.</li>\n                </ul>\n            </li>\n            <li><strong>c) ERRADA</strong>, nos termos do <strong>art. 11-B, §5º do Decreto 6.170/2007</strong>:\n                <ul>\n                    <li><strong>§ 5º</strong> A inadimplência da entidade privada sem fins lucrativos em relação aos encargos trabalhistas, fiscais e comerciais <strong>não transfere</strong> à administração pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do convênio ou contrato de repasse.</li>\n                </ul>\n            </li>\n            <li><strong>d) ERRADA</strong>, pois há exceções, ou seja, o chamamento não deverá ser “sempre” realizado, nos termos do <strong>art. 4º do Decreto 6.170/2007</strong>:\n                <ul>\n                    <li><strong>Art. 4º</strong> A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos será precedida de chamamento público a ser realizado pelo órgão ou entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste.</li>\n                    <li><strong>§ 1º</strong> Deverá ser dada publicidade ao chamamento público, inclusive ao seu resultado, especialmente por intermédio da divulgação na primeira página do sítio oficial do órgão ou entidade concedente, bem como no Portal dos Convênios.</li>\n                    <li><strong>§ 2º</strong> O Ministro de Estado ou o dirigente máximo da entidade da administração pública federal poderá, mediante decisão fundamentada, <strong>excepcionar a exigência</strong> prevista no caput nas seguintes situações:\n                        <ul>\n                            <li><strong>I</strong> - nos casos de emergência ou calamidade pública, quando caracterizada situação que demande a realização ou manutenção de convênio ou contrato de repasse pelo prazo máximo de cento e oitenta dias consecutivos e ininterruptos, contados da ocorrência da emergência ou calamidade, vedada a prorrogação da vigência do instrumento;</li>\n                            <li><strong>II</strong> - para a realização de programas de proteção a pessoas ameaçadas ou em situação que possa comprometer sua segurança; ou</li>\n                            <li><strong>III</strong> - nos casos em que o projeto, atividade ou serviço objeto do convênio ou contrato de repasse já seja realizado adequadamente mediante parceria com a mesma entidade há pelo menos cinco anos e cujas respectivas prestações de contas tenham sido devidamente aprovadas.</li>\n                        </ul>\n                    </li>\n                </ul>\n            </li>\n            <li><strong>e) CERTA</strong>, nos termos do <strong>art. 11 do Decreto 6.170/2007</strong>:\n                <ul>\n                    <li><strong>Art. 11.</strong> Para efeito do disposto no art. 116 da Lei nº 8.666, de 21 de junho de 1993, a aquisição de produtos e a contratação de serviços com recursos da União transferidos a entidades privadas sem fins lucrativos deverão observar os princípios da impessoalidade, moralidade e economicidade, sendo necessária, no mínimo, a realização de <strong>cotação prévia de preços no mercado antes da celebração do contrato</strong>.</li>\n                </ul>\n            </li>\n        </ul>\n    </div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Conceito",
+      "enunciado": "1. Os convênios são ajustes firmados entre a Administração Pública e entidades que possuam vontades convergentes, mediante a celebração de acordo.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>conceito fundamental de convênio</strong>. A afirmativa está <strong>CORRETA</strong> porque convênios são, de fato, ajustes que pressupõem a convergência de vontades e o interesse recíproco entre as partes.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #d4edda; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p>\n<p style='color: #155724; line-height: 1.6;'>A afirmativa está correta. O convênio é um instrumento de <strong>cooperação</strong>, onde as partes (Administração Pública e/ou entidades privadas sem fins lucrativos) possuem <strong>interesses comuns e vontades convergentes</strong>, buscando um objetivo recíproco. Isso o diferencia do contrato, onde os interesses são, em regra, antagônicos. A celebração de acordo visa à execução de programas, projetos ou atividades de interesse mútuo.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Questões conceituais são a base para entender o Direito Administrativo. Bancas como o CESPE/Cebraspe frequentemente iniciam blocos de revisão com definições básicas.</li>\n    <li><strong>Método de Análise:</strong> Ao se deparar com definições, procure pelas <strong>palavras-chave</strong> que caracterizam o instituto. Para convênios, as palavras \"vontades convergentes\", \"interesses recíprocos\" e \"mútua cooperação\" são essenciais. Se a questão mencionar \"interesses opostos\" ou \"lucro\", provavelmente está se referindo a um contrato.</li>\n    <li><strong>Mnemônico ou Associação:</strong> \"<strong>C</strong>onvênio = <strong>C</strong>omum <strong>C</strong>ooperação\". Lembre-se que as partes \"convergem\" para um objetivo \"comum\" através da \"cooperação\".</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>De fato, os convênios são ajustes firmados entre a Administração Pública e entidades que possuam vontades convergentes, mediante a celebração de acordo para melhor execução das atividades de interesse comum dos conveniados. Item <strong>VERDADEIRO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Plano de Trabalho",
+      "enunciado": "2. Para formação do convênio, não é exigido prévia aprovação de competente plano de trabalho.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda uma das <strong>condições para a celebração de convênios</strong>. A afirmativa está <strong>INCORRETA</strong> porque a prévia aprovação de um plano de trabalho é uma exigência fundamental para a formalização de convênios.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n<p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. A legislação, como o art. 116, §1º, da Lei nº 8.666/1993 e a Portaria Interministerial 424/2016, exige a <strong>prévia aprovação de um competente plano de trabalho</strong> como condição essencial para a celebração de convênios. O plano de trabalho detalha o objeto, metas, etapas, cronograma de execução e desembolso, e a capacidade técnica do proponente, sendo crucial para a transparência e o controle da aplicação dos recursos públicos.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Bancas frequentemente testam o conhecimento sobre as fases e requisitos para a celebração de convênios, buscando identificar se o candidato conhece os documentos e procedimentos obrigatórios.</li>\n    <li><strong>Método de Análise:</strong> Sempre que a questão tratar de \"formação\" ou \"celebração\" de convênios, pense nos requisitos iniciais. O <strong>Plano de Trabalho</strong> é o documento central que formaliza a proposta e é indispensável para a aprovação do convênio.</li>\n    <li><strong>Palavras-Chave:</strong> \"Não é exigido\" é uma palavra-chave que deve acender um alerta. Em Direito Administrativo, muitos procedimentos são \"exigidos\" para garantir a legalidade e a transparência.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>A legislação exige, para formação do convênio, pelos órgãos ou entidades da Administração Pública, prévia aprovação de competente plano de trabalho proposto pela organização interessada. Item <strong>FALSO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Execução",
+      "enunciado": "3. As parcelas do convênio serão liberadas em estrita conformidade com o plano de aplicação aprovado, salvo se for verificada alguma irregularidade",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>liberação das parcelas de recursos de um convênio</strong>. A afirmativa está <strong>CORRETA</strong> porque a liberação deve seguir o plano aprovado, mas pode ser retida em caso de irregularidades.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #d4edda; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p>\n<p style='color: #155724; line-height: 1.6;'>A afirmativa está correta. Conforme o art. 116, §3º da Lei nº 8.666/93, as parcelas do convênio serão liberadas em estrita conformidade com o plano de aplicação aprovado. No entanto, a legislação prevê a possibilidade de <strong>retenção das parcelas</strong> caso sejam verificadas impropriedades ou irregularidades, como a falta de comprovação da boa e regular aplicação de parcelas anteriores, desvio de finalidade, atrasos injustificados, entre outros. Essa retenção visa garantir a correta aplicação dos recursos públicos.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Questões sobre a execução financeira de convênios e as condições para liberação de recursos são frequentes, testando o conhecimento sobre os mecanismos de controle e fiscalização.</li>\n    <li><strong>Método de Análise:</strong> Lembre-se que a liberação de recursos em convênios é <strong>condicionada</strong>. O plano de aplicação é a regra, mas a existência de irregularidades é uma exceção que permite a retenção. A palavra \"salvo\" é um indicador importante de uma exceção.</li>\n    <li><strong>Mnemônico ou Associação:</strong> \"<strong>L</strong>iberação <strong>C</strong>ondicionada à <strong>R</strong>egularidade\". Os recursos são liberados conforme o plano, mas a regularidade é uma condição contínua.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>Uma vez definidos os valores a serem repassados ao conveniado, por meio de lei orçamentária, as parcelas do convênio serão liberadas em estrita conformidade com o plano de aplicação aprovado, salvo se for verificada alguma irregularidade, situação na qual as parcelas ficarão retidas até o saneamento das impropriedades ocorrentes. Item <strong>VERDADEIRO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Consórcios Públicos",
+      "enunciado": "4. Os consórcios públicos consistem na gestão associada de entes federativos para prestação de serviços de interesse comum a todos eles.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>conceito de consórcios públicos</strong>. A afirmativa está <strong>CORRETA</strong> porque consórcios públicos são, de fato, instrumentos de gestão associada entre entes federativos para a prestação de serviços ou a realização de objetivos de interesse comum.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #d4edda; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p>\n<p style='color: #155724; line-height: 1.6;'>A afirmativa está correta. Os consórcios públicos são regulamentados pela Lei nº 11.107/2005 e representam uma forma de <strong>gestão associada</strong> entre dois ou mais entes da Federação (União, Estados, Distrito Federal e Municípios) para a realização de objetivos de interesse comum, como a prestação de serviços públicos, a execução de obras ou a gestão de políticas públicas. Eles visam otimizar recursos e promover a cooperação interfederativa.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Definições de institutos jurídicos são fundamentais. O CESPE/Cebraspe pode tentar confundir consórcios públicos com outras formas de parceria.</li>\n    <li><strong>Método de Análise:</strong> Para consórcios públicos, as palavras-chave são \"<strong>gestão associada</strong>\" e \"<strong>entes federativos</strong>\". Lembre-se que eles são criados por lei específica para fins de cooperação entre diferentes níveis de governo.</li>\n    <li><strong>Mnemônico ou Associação:</strong> \"<strong>C</strong>onsórcio <strong>P</strong>úblico = <strong>C</strong>ooperar <strong>P</strong>ara <strong>P</strong>articipar\" (cooperação entre entes públicos para participar de projetos comuns).</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>De fato, os consórcios públicos foram criados com a edição da lei 11.107/05 e consistem na gestão associada de entes federativos para prestação de serviços de interesse comum a todos eles. Item <strong>VERDADEIRO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Aplicação Financeira",
+      "enunciado": "5. Os saldos de convênio, enquanto não utilizados, serão facultativamente aplicados em cadernetas de poupança de instituição financeira oficial se a previsão de seu uso for igual ou superior a um mês.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>aplicação financeira dos saldos de convênio não utilizados</strong>. A afirmativa está <strong>INCORRETA</strong> porque a aplicação desses saldos é obrigatória, e não facultativa, para evitar a perda do poder de compra da moeda.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n<p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. Conforme o art. 116, §4º da Lei nº 8.666/93, os saldos de convênio, enquanto não utilizados, serão <strong>obrigatoriamente</strong> aplicados em cadernetas de poupança de instituição financeira oficial (se a previsão de uso for igual ou superior a um mês) ou em fundo de aplicação financeira de curto prazo/operação de mercado aberto lastreada em títulos da dívida pública (para prazos menores que um mês). A aplicação não é facultativa, mas sim uma exigência legal para preservar o valor dos recursos públicos.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Questões sobre a gestão financeira de recursos de convênio, incluindo a aplicação de saldos, são comuns. A \"pegadinha\" reside em trocar \"obrigatoriamente\" por \"facultativamente\".</li>\n    <li><strong>Método de Análise:</strong> Lembre-se que recursos públicos devem ser geridos com a máxima eficiência e proteção. A aplicação financeira de saldos não utilizados é uma medida de proteção do erário, portanto, é <strong>obrigatória</strong>.</li>\n    <li><strong>Palavras-Chave:</strong> \"Facultativamente\" é a palavra-chave que torna a afirmativa incorreta. A distinção entre \"igual ou superior a um mês\" e \"menores que um mês\" para o tipo de aplicação também é importante.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>Os saldos de convênio, enquanto não utilizados, serão <strong>obrigatoriamente</strong> aplicados em cadernetas de poupança de instituição financeira oficial se a previsão de seu uso for igual ou superior a um mês, ou em fundo de aplicação financeira de curto prazo ou operação de mercado aberto lastreada em títulos da dívida pública, quando a utilização dos mesmos verificar-se em prazos menores que um mês, como forma de se evitar o desgaste da moeda, ensejando perda e dilapidação do patrimônio público. Item <strong>FALSO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Chamamento Público",
+      "enunciado": "6. A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos será precedida de chamamento público a ser realizado pelo órgão ou entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>exigência de chamamento público</strong> para a celebração de convênios com entidades privadas sem fins lucrativos. A afirmativa está <strong>CORRETA</strong> porque o chamamento público é, de fato, um requisito para essas parcerias, visando transparência e seleção eficaz.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #d4edda; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p>\n<p style='color: #155724; line-height: 1.6;'>A afirmativa está correta. Conforme o art. 4º do Decreto nº 6.170-2007, a celebração de convênio ou contrato de repasse com <strong>entidades privadas sem fins lucrativos</strong> será precedida de <strong>chamamento público</strong>. Este procedimento é realizado pelo órgão ou entidade concedente com o objetivo de selecionar os projetos ou entidades que melhor atendam ao interesse público e tornem o objeto do ajuste mais eficaz. Existem exceções a essa regra, mas a obrigatoriedade é a regra geral.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> O CESPE/Cebraspe frequentemente cobra as regras de chamamento público, especialmente as distinções entre entidades públicas e privadas, e as exceções.</li>\n    <li><strong>Método de Análise:</strong> Ao analisar questões sobre chamamento público, foque nos <strong>tipos de partícipes</strong>. Lembre-se que para entidades privadas sem fins lucrativos, a regra é a obrigatoriedade, com exceções específicas (emergência, proteção, projetos de longa data com contas aprovadas). Para estados e municípios, o chamamento público é facultativo.</li>\n    <li><strong>Mnemônico ou Associação:</strong> \"<strong>C</strong>hamamento <strong>P</strong>úblico <strong>P</strong>ara <strong>P</strong>rivadas\" (CPPP) – o chamamento público é a regra para parcerias com entidades privadas sem fins lucrativos.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>A assertiva descreve com exatidão os termos do art. 4º do Decreto nº 6.170-2007. Item <strong>VERDADEIRO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Competência para Assinatura",
+      "enunciado": "7. Os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser assinados pelo Ministro de Estado ou pelo dirigente máximo da entidade da administração pública federal concedente.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>competência para a assinatura de convênios e contratos de repasse</strong> com entidades privadas sem fins lucrativos. A afirmativa está <strong>CORRETA</strong> porque a legislação exige que essa assinatura seja feita pelas autoridades máximas, sem possibilidade de delegação.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #d4edda; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p>\n<p style='color: #155724; line-height: 1.6;'>A afirmativa está correta. Conforme o art. 6º-A do Decreto nº 6.170-2007, os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser assinados pelo <strong>Ministro de Estado</strong> ou pelo <strong>dirigente máximo da entidade da administração pública federal concedente</strong>. O § 1º do mesmo artigo ressalta que essa competência <strong>não poderá ser delegada</strong>, o que demonstra a importância e a responsabilidade atribuídas a essas autoridades na formalização de tais instrumentos.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Questões sobre competências e delegação são comuns em Direito Administrativo. A \"pegadinha\" pode ser a possibilidade de delegação, que é vedada neste caso específico.</li>\n    <li><strong>Método de Análise:</strong> Para questões de competência, procure por termos como \"delegável\", \"indelegável\", \"Ministro de Estado\", \"dirigente máximo\". Lembre-se que a assinatura de convênios com entidades privadas sem fins lucrativos é uma atribuição de alto nível e indelegável.</li>\n    <li><strong>Mnemônico ou Associação:</strong> \"<strong>M</strong>inistro <strong>M</strong>anda, <strong>N</strong>ão <strong>D</strong>elega\" (MMND) – o Ministro ou Dirigente Máximo assina e não pode delegar essa competência.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>A assertiva descreve com exatidão os termos do art. 6º-A, do Decreto nº 6.170-2007. Item <strong>VERDADEIRO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Contrato de Repasse",
+      "enunciado": "8. A execução de programa de trabalho que objetive a realização de obra será feita por meio de contrato de repasse, inclusive quando o concedente dispuser de estrutura para acompanhar a execução do convênio.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>instrumento adequado para a execução de obras</strong>. A afirmativa está <strong>INCORRETA</strong> porque, embora o contrato de repasse seja a regra, há uma exceção importante quando o concedente tem estrutura própria para acompanhar o convênio.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n<p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. Conforme o art. 8º do Decreto nº 6.170/2007, a execução de programa de trabalho que objetive a realização de obra será feita por meio de contrato de repasse, <strong>SALVO</strong> quando o concedente dispuser de estrutura para acompanhar a execução do convênio. A questão generaliza ao incluir \"inclusive quando o concedente dispuser de estrutura\", o que contradiz a exceção legal. A regra é usar contrato de repasse para obras, mas a exceção permite o convênio se o concedente tiver capacidade de fiscalização direta.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Questões que envolvem regras e suas exceções são muito comuns. A \"pegadinha\" é apresentar a exceção como parte da regra geral ou ignorá-la.</li>\n    <li><strong>Método de Análise:</strong> Ao ler afirmativas com termos como \"inclusive\", \"sempre\", \"apenas\", \"salvo\", redobre a atenção. Verifique se a regra geral está sendo aplicada corretamente e se as exceções são devidamente consideradas. Para obras, a regra é contrato de repasse, mas a capacidade de fiscalização do concedente é a exceção que permite o convênio.</li>\n    <li><strong>Palavras-Chave:</strong> \"Inclusive quando\" é a palavra-chave que torna a afirmativa falsa, pois a exceção é o oposto do que ela sugere.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>A execução de programa de trabalho que objetive a realização de obra será feita por meio de contrato de repasse, <strong>salvo</strong> quando o concedente dispuser de estrutura para acompanhar a execução do convênio. Item <strong>FALSO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Alteração e Extinção",
+      "enunciado": "9. O convênio poderá ser denunciado a qualquer tempo, ficando os partícipes responsáveis somente pelas obrigações e auferindo as vantagens do tempo em que participaram voluntariamente do acordo, sendo admissível cláusula obrigatória de permanência ou sancionadora dos denunciantes.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda as <strong>condições para a denúncia de um convênio</strong>. A afirmativa está <strong>INCORRETA</strong> porque a legislação veda expressamente cláusulas obrigatórias de permanência ou sancionadoras dos denunciantes.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n<p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. Conforme o art. 12 do Decreto nº 6.170-2007, o convênio poderá ser denunciado a qualquer tempo, e os partícipes são responsáveis apenas pelas obrigações e vantagens do período em que participaram. O ponto crucial é que <strong>não é admissível cláusula obrigatória de permanência ou sancionadora dos denunciantes</strong>. A afirmativa, ao dizer \"sendo admissível cláusula obrigatória de permanência ou sancionadora dos denunciantes\", contradiz diretamente o texto legal, tornando-a falsa.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Questões sobre a denúncia, rescisão ou extinção de convênios são comuns, focando nas condições e nas cláusulas permitidas ou vedadas.</li>\n    <li><strong>Método de Análise:</strong> Preste muita atenção às palavras que indicam permissão ou vedação. A denúncia de convênio é um direito das partes, e a legislação protege essa liberdade, proibindo cláusulas que forcem a permanência ou penalizem a saída.</li>\n    <li><strong>Palavras-Chave:</strong> \"A qualquer tempo\", \"responsáveis somente pelas obrigações\", \"admissível cláusula obrigatória\" (esta última é a \"pegadinha\" que torna a afirmativa falsa).</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>Nos termos do art. 12 do Decreto nº 6.170-2007, o convênio poderá ser denunciado a qualquer tempo, ficando os partícipes responsáveis somente pelas obrigações e auferindo as vantagens do tempo em que participaram voluntariamente do acordo, <strong>não sendo admissível cláusula obrigatória de permanência ou sancionadora dos denunciantes</strong>. A afirmativa da questão, ao dizer \"sendo admissível cláusula obrigatória de permanência ou sancionadora dos denunciantes\", contradiz o dispositivo legal. Item <strong>FALSO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "Não especificada",
+      "ano": 0,
+      "cargo": "Exercício de Revisão",
+      "subtema": "Devolução de Saldos",
+      "enunciado": "10. Quando da conclusão, denúncia, rescisão ou extinção do convênio, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à entidade ou órgão repassador dos recursos, no prazo improrrogável de sessenta dias do evento, sob pena da imediata instauração de tomada de contas especial do responsável, providenciada pela autoridade competente do órgão ou entidade titular dos recursos.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Verdadeiro",
+        "Errado": "Falso"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'>\n<div style='margin-bottom: 20px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3>\n<p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>prazo para a devolução de saldos financeiros remanescentes</strong> de convênios. A afirmativa está <strong>INCORRETA</strong> porque o prazo legal para essa devolução é de trinta dias, e não sessenta.</p>\n</div>\n<div style='margin-bottom: 20px;'>\n<div style='padding: 15px; background: #f8d7da; border-radius: 6px;'>\n<p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p>\n<p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. Conforme o parágrafo único do art. 12 do Decreto nº 6.170-2007, quando da conclusão, denúncia, rescisão ou extinção do convênio, os saldos financeiros remanescentes (incluindo rendimentos de aplicações financeiras) devem ser devolvidos à entidade ou órgão repassador dos recursos no <strong>prazo improrrogável de trinta dias</strong> do evento. A menção a \"sessenta dias\" na afirmativa é o erro que a torna falsa. O não cumprimento desse prazo acarreta a instauração de Tomada de Contas Especial.</p>\n</div>\n</div>\n<div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'>\n<h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4>\n<div style='color: #6c757d; font-style: italic;'>\n<ul>\n    <li><strong>Padrão da Banca:</strong> Prazos são detalhes que as bancas adoram cobrar para testar a memorização e a atenção do candidato.</li>\n    <li><strong>Método de Análise:</strong> Sempre que uma questão mencionar um prazo, verifique-o com precisão na legislação. A troca de um número (30 por 60 dias) é uma \"pegadinha\" clássica.</li>\n    <li><strong>Mnemônico ou Associação:</strong> \"<strong>30 D</strong>ias para <strong>D</strong>evolver <strong>D</strong>inheiro\" (3D) – lembre-se que o prazo é de 30 dias para a devolução dos saldos remanescentes.</li>\n</ul>\n</div>\n</div>\n</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'>\n<div style='margin-bottom: 15px;'>\n<h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3>\n</div>\n<div style='color: #212529;'>\n<p>Nos termos do parágrafo único do art. 12 do Decreto nº 6.170-2007, quando da conclusão, denúncia, rescisão ou extinção do convênio, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à entidade ou órgão repassador dos recursos, no prazo improrrogável de <strong>trinta dias</strong> do evento, sob pena da imediata instauração de tomada de contas especial do responsável, providenciada pela autoridade competente do órgão ou entidade titular dos recursos. A questão afirma \"sessenta dias\", o que a torna <strong>FALSA</strong>. Item <strong>FALSO</strong>.</p>\n</div>\n</div>"
+    },
+    {
+      "banca": "ESAF",
+      "ano": 2016,
+      "cargo": "ANAC",
+      "subtema": "Termo de Execução Descentralizada (TED)",
+      "enunciado": "A respeito dos convênios, dos contratos de repasse e dos termos de execução descentralizada na administração pública federal, assinale a opção correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É delegável a competência do Ministro de Estado ou do dirigente máximo da entidade da administração pública federal concedente para a assinatura dos convênios e dos contratos de repasse.",
+        "B": "Para que o convenente possa receber os recursos federais, será dele exigida uma contrapartida, sempre financeira, a qual corresponderá à sua participação econômica na consecução do objeto do convênio.",
+        "C": "A inadimplência da entidade privada convenente em relação aos encargos trabalhistas, fiscais e comerciais transfere de forma subsidiária à administração pública concedente a responsabilidade pelo seu pagamento.",
+        "D": "A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos deverá ser precedida de chamamento público, que deverá ser sempre realizado pelo órgão ou pela entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste.",
+        "E": "A aquisição de produtos e a contratação de serviços com recursos da União transferidos a entidades privadas sem fins lucrativos deverão observar os princípios da impessoalidade, da moralidade e da economicidade, não se exigindo, porém, a realização de licitação, que poderá ser substituída por cotação prévia de preços no mercado antes da celebração do contrato."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3> <p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>regras específicas de convênios e contratos de repasse</strong>. O ponto-chave é conhecer as nuances sobre delegação de competência, tipo de contrapartida, responsabilidade por encargos, obrigatoriedade do chamamento público e o regime de contratação por entidades privadas.</p> </div> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>- ALTERNATIVAS</h3> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p> <p style='color: #721c24;'>A competência do Ministro de Estado ou do dirigente máximo para assinar convênios e contratos de repasse com <strong>entidades privadas sem fins lucrativos</strong> é <strong>indelegável</strong>, conforme o art. 6º-A, § 1º, do Decreto 6.170/2007.</p> </div> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p> <p style='color: #721c24;'>A contrapartida não é 'sempre financeira'. Para entidades privadas, ela pode ser atendida por meio de recursos financeiros e de <strong>bens ou serviços</strong>, desde que economicamente mensuráveis, conforme o art. 7º, II, do Decreto 6.170/2007.</p> </div> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p> <p style='color: #721c24;'>A inadimplência da entidade privada em relação a encargos trabalhistas, fiscais e comerciais <strong>não transfere</strong> a responsabilidade para a Administração Pública, nem mesmo de forma subsidiária. A responsabilidade permanece com a entidade convenente (art. 11-B, §5º, do Decreto 6.170/2007).</p> </div> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p> <p style='color: #721c24;'>A palavra 'sempre' invalida a questão. O chamamento público para celebração de convênio com entidades privadas sem fins lucrativos é a regra, mas o art. 4º, § 2º, do Decreto 6.170/2007 prevê <strong>exceções</strong>, como nos casos de emergência, calamidade pública ou para programas de proteção a pessoas ameaçadas.</p> </div> <div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'> <p style='font-weight: bold; color: #155724;'>E) ✅ CORRETA</p> <p style='color: #155724;'>Perfeita descrição da regra. Entidades privadas sem fins lucrativos, ao utilizarem recursos da União, não são obrigadas a seguir o rito formal da Lei nº 8.666/1993, mas devem observar os princípios da impessoalidade, moralidade e economicidade, realizando, no mínimo, uma cotação prévia de preços no mercado. A fundamentação está no art. 11 do Decreto 6.170/2007.</p> </div> </div> <div style='border-top: 1px solid #dee2e6; padding-top: 15px;'> <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4> <div style='color: #6c757d; font-style: italic;'> <p>Para resolver questões sobre convênios, especialmente da ESAF, adote o seguinte método:</p> <ul> <li><strong>1. Identifique os Sujeitos:</strong> A regra muda se o convenente é um ente público ou uma entidade privada. A questão foca em entidades privadas.</li> <li><strong>2. Cuidado com Absolutos:</strong> Palavras como <strong>'sempre'</strong>, <strong>'nunca'</strong>, <strong>'obrigatoriamente'</strong> são alertas. A alternativa (D) é um exemplo clássico; a regra do chamamento público tem exceções importantes que a banca explora.</li> <li><strong>3. Diferencie Regimes:</strong> Lembre-se que a entidade privada não se submete à Lei 8.666/93, mas sim a um regime simplificado baseado em princípios e cotação de preços. Essa é uma 'pegadinha' comum.</li> </ul> </div> </div> </div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'> <div style='margin-bottom: 15px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3> </div> <div style='color: #212529;'> <p>Vamos analisar cada alternativa:</p> <ul> <li><p><strong>a) ERRADA</strong>, nos termos do art. 6º-A do Decreto 6.170/2007:</p> <p style='margin-left: 20px;'><em>Art. 6º-A. Os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser assinados pelo Ministro de Estado ou pelo dirigente máximo da entidade da administração pública federal concedente.</em></p> <p style='margin-left: 20px;'><em>§ 1º O Ministro de Estado e o dirigente máximo da entidade da administração pública federal <strong>não poderão delegar a competência prevista no caput</strong>.</em></p> </li> <li><p><strong>b) ERRADA</strong>, nos termos do art. 7º do Decreto 6.170/2007:</p> <p style='margin-left: 20px;'><em>Art. 7º A <strong>contrapartida</strong> será calculada sobre o valor total do objeto e poderá ser atendida da seguinte forma:</em></p> <p style='margin-left: 20px;'><em>I - por meio de <strong>recursos financeiros</strong>, pelos órgãos ou entidades públicas, observados os limites e percentuais estabelecidos pela Lei de Diretrizes Orçamentárias vigente;</em></p> <p style='margin-left: 20px;'><em>II - por meio de <strong>recursos financeiros e de bens ou serviços</strong>, se economicamente mensuráveis, pelas entidades privadas sem fins lucrativos.</em></p> </li> <li><p><strong>c) ERRADA</strong>, nos termos do art. 11-B, §5º do Decreto 6.170/2007:</p> <p style='margin-left: 20px;'><em>§ 5º A inadimplência da entidade privada sem fins lucrativos em relação aos encargos trabalhistas, fiscais e comerciais <strong>não transfere</strong> à administração pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do convênio ou contrato de repasse.</em></p> </li> <li><p><strong>d) ERRADA</strong>, pois há exceções, ou seja, o chamamento não deverá ser “sempre” realizado, nos termos do art. 4º do Decreto 6.170/2007:</p> <p style='margin-left: 20px;'><em>Art. 4º A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos será precedida de <strong>chamamento público</strong> a ser realizado pelo órgão ou entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste. (...)</em></p> <p style='margin-left: 20px;'><em>§ 2º O Ministro de Estado ou o dirigente máximo da entidade da administração pública federal poderá, mediante decisão fundamentada, <strong>excepcionar a exigência prevista no caput</strong> nas seguintes situações: I - nos casos de emergência ou calamidade pública...; II - para a realização de programas de proteção a pessoas ameaçadas...</em></p> </li> <li><p><strong>e) CERTA</strong>, nos termos do art. 11 do Decreto 6.170/2007:</p> <p style='margin-left: 20px;'><em>Art. 11. Para efeito do disposto no art. 116 da Lei nº 8.666, de 21 de junho de 1993, a aquisição de produtos e a contratação de serviços com recursos da União transferidos a entidades privadas sem fins lucrativos deverão observar os princípios da impessoalidade, moralidade e economicidade, sendo necessária, no mínimo, a realização de cotação prévia de preços no mercado antes da celebração do contrato.</em></p> </li> </ul> </div> </div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2014,
+      "cargo": "Câmara dos Deputados",
+      "subtema": "SICONV / Plataforma +Brasil",
+      "enunciado": "Mesmo que haja o recolhimento integral do débito imputado, não será possível retirar o registro da inadimplência no SICONV antes do encaminhamento da tomada de contas especial ao Tribunal de Contas da União (TCU).",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3> <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema de <strong>inadimplência em convênios e o registro no SICONV</strong>. A afirmativa está <strong>INCORRETA</strong> porque a regularização da pendência (recolhimento do débito ou prestação de contas) <strong>antes</strong> do encaminhamento da Tomada de Contas Especial (TCE) ao TCU impõe a retirada do registro de inadimplência.</p> </div> <div style='margin-bottom: 20px;'> <div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'> <p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p> <p style='color: #721c24; line-height: 1.6;'>A afirmação está errada. A Portaria Interministerial 424/2016 estabelece que, caso o convenente apresente a prestação de contas ou efetue o recolhimento integral do débito <strong>antes</strong> do encaminhamento da Tomada de Contas Especial ao Tribunal de Contas da União, o registro de inadimplência no SICONV <strong>deverá ser retirado</strong>. A instauração da TCE é uma medida mais gravosa, que ocorre justamente quando as tentativas de regularização administrativa falham. Portanto, a regularização prévia não só é possível como tem o efeito de 'limpar o nome' do convenente no sistema.</p> </div> </div> <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'> <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4> <div style='color: #6c757d; font-style: italic;'> <p>Para analisar questões sobre o fluxo de inadimplência em convênios, siga este passo a passo mental:</p> <ol> <li><strong>Ocorrência do Fato:</strong> O convenente não presta contas ou não devolve os recursos.</li> <li><strong>Ação Imediata do Concedente:</strong> Notificação para regularização e registro da inadimplência no SICONV.</li> <li><strong>Ponto de Decisão:</strong> O convenente regulariza a situação (paga o débito/presta contas) <strong>ANTES</strong> do próximo passo?</li> <li><strong>Consequência:</strong> Se SIM, o registro no SICONV é retirado. Se NÍO, o concedente instaura a Tomada de Contas Especial (TCE) e a envia ao TCU.</li> </ol> <p>A 'pegadinha' da banca Cespe aqui é inverter a consequência, afirmando que a regularização não tem efeito antes da TCE, o que é o oposto da regra.</p> </div> </div> </div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'> <div style='margin-bottom: 15px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3> </div> <div style='color: #212529;'> <p>Conforme a Portaria Interministerial 424/2016, se o convenente não apresentar a prestação de contas no prazo estabelecido nem devolver os recursos, o <strong>concedente</strong> registrará a inadimplência no SICONV por omissão do dever de prestar contas e comunicará o fato ao órgão competente a que estiver vinculado, para fins de instauração de <strong>tomada de contas especial</strong>, sob pena de responsabilização solidária.</p> <p>Contudo, a mesma Portaria dispõe que, no caso da apresentação da prestação de contas ou recolhimento integral do débito imputado <strong>antes do encaminhamento da tomada de contas especial ao Tribunal de Contas da União</strong>, o registro da inadimplência no SICONV deverá ser <strong>retirado</strong>, daí o erro (a questão fala que não será possível retirar o registro).</p> <p>Ressalte-se que, caso a prestação de contas encaminhada <strong>não seja aprovada</strong>, o concedente deverá comunicar o fato ao órgão onde se encontra a tomada de contas especial para que adote as providências necessárias ao prosseguimento do feito, sob esse novo fundamento (não aprovação das contas), além de reinscrever a inadimplência do órgão ou entidade convenente no sistema (art. 71).</p> </div> </div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2015,
+      "cargo": "MPU",
+      "subtema": "Rendimentos de Aplicação",
+      "enunciado": "As receitas financeiras auferidas com os rendimentos da aplicação de saldos de convênio serão obrigatoriamente computadas a crédito do convênio e aplicadas, exclusivamente, no objeto de sua finalidade, devendo constar de demonstrativo específico que integrará as prestações de contas do ajuste.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3> <p style='color: #6c757d; line-height: 1.6;'>A questão aborda o tema da <strong>destinação dos rendimentos de aplicações financeiras</strong> de recursos de convênios. A afirmativa está <strong>CORRETA</strong> porque os rendimentos (juros) seguem o principal: devem ser usados exclusivamente no objeto do convênio e sua aplicação deve ser comprovada na prestação de contas.</p> </div> <div style='margin-bottom: 20px;'> <div style='padding: 15px; background: #d4edda; border-radius: 6px;'> <p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p> <p style='color: #155724; line-height: 1.6;'>A assertiva descreve perfeitamente a regra contida no art. 10, §5º do Decreto 6.170/2007. Os recursos de um convênio, enquanto não utilizados, devem ser aplicados no mercado financeiro. As receitas decorrentes dessa aplicação (juros) não pertencem ao convenente, mas ao próprio convênio. Portanto, elas devem ser: <ul><li><strong>Computadas a crédito do convênio:</strong> Somam-se ao valor principal.</li><li><strong>Aplicadas exclusivamente no objeto:</strong> Não podem ter destinação diversa.</li><li><strong>Comprovadas na prestação de contas:</strong> O convenente deve demonstrar como utilizou esses valores extras.</li></ul></p> </div> </div> <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'> <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4> <div style='color: #6c757d; font-style: italic;'> <p><strong>Mnemônico/Associação:</strong> Pense na regra do 'acessório segue o principal'. Os <strong>juros (acessório)</strong> devem ter o mesmo destino do <strong>recurso do convênio (principal)</strong>. Se o dinheiro do convênio é 'carimbado' para um fim específico, os juros que ele gera também recebem o mesmo carimbo. A banca Cespe frequentemente testa esse conceito para verificar se o candidato entende que os rendimentos não podem ser usados como contrapartida ou para outros fins.</p> </div> </div> </div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'> <div style='margin-bottom: 15px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3> </div> <div style='color: #212529;'> <p>Os recursos de convênio, <strong>enquanto não utilizados</strong>, serão obrigatoriamente aplicados em cadernetas de poupança de instituição financeira pública federal se a previsão de seu uso for igual ou superior a um mês, ou em fundo de aplicação financeira de curto prazo ou operação de mercado aberto lastreada em títulos da dívida pública, quando a utilização desses recursos verificar-se em prazos menores que um mês.</p> <p>Segundo o art. 10, §5º do Decreto 6.170/2007, as receitas financeiras (juros) auferidas dessas aplicações devem ser obrigatoriamente computadas a crédito do convênio e aplicadas, exclusivamente, no objeto de sua finalidade. Os rendimentos estão sujeitos às mesmas condições de prestação de contas exigidas para os recursos transferidos.</p> <p>Ressalte-se que, no caso de conclusão, denúncia, rescisão ou extinção do convênio, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à conta única do Tesouro, no prazo improrrogável de 30 dias.</p> </div> </div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2013,
+      "cargo": "SEFAZ-ES - Auditor Fiscal da Receita",
+      "subtema": "Diferenças entre Convênios e Contratos",
+      "enunciado": "No que diz respeito a licitação, contratos e convênios administrativos, assinale a opção correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Tanto nos convênios quanto nos contratos administrativos, os interesses dos pactuantes são opostos e diversos.",
+        "B": "A rescisão amigável do contrato administrativo, por decorrer de acordo de vontade entre a administração e o contratado, independe de autorização da autoridade competente, ao contrário da rescisão unilateral, para cuja eficácia é exigida autorização escrita e fundamentada da autoridade.",
+        "C": "Embora a regra, no ordenamento jurídico brasileiro, seja a obrigatoriedade de licitação, considera-se dispensável a licitação para a contratação de serviços técnicos especializados de natureza singular e executados por profissionais de notória especialização.",
+        "D": "É dever do administrador público revogar a licitação, ainda que em decorrência de fatos anteriores ao processo, se atentarem contra o interesse público, devendo, nesse caso, ser o ato motivado e ser garantido aos licitantes o exercício do contraditório e da ampla defesa.",
+        "E": "Os convênios administrativos são ajustes que podem ser firmados entre pessoas administrativas e, dada a natureza desses convênios, sua celebração independe de licitação."
+      },
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3> <p style='color: #6c757d; line-height: 1.6;'>Questão que mescla conhecimentos sobre <strong>contratos administrativos, licitação e convênios</strong>. O ponto-chave é diferenciar a natureza jurídica e as formalidades de cada um desses institutos.</p> </div> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>- ALTERNATIVAS</h3> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p> <p style='color: #721c24;'>Este é o erro clássico. Nos <strong>contratos</strong>, os interesses são <strong>opostos</strong> (um quer o serviço/bem, o outro quer o lucro). Nos <strong>convênios</strong>, os interesses são <strong>convergentes</strong> e recíprocos (ambas as partes buscam o mesmo resultado de interesse público).</p> </div> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p> <p style='color: #721c24;'>A rescisão amigável (por acordo entre as partes) <strong>depende</strong> de autorização escrita e fundamentada da autoridade competente, conforme o art. 79, § 1º, da Lei 8.666/93.</p> </div> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p> <p style='color: #721c24;'>A contratação de serviços técnicos de natureza singular com profissionais de notória especialização é hipótese de <strong>inexigibilidade</strong> de licitação (art. 25, II, da Lei 8.666/93), e não de licitação <strong>dispensável</strong> (art. 24).</p> </div> <div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'> <p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p> <p style='color: #721c24;'>A <strong>revogação</strong> da licitação, por razões de interesse público, é um ato <strong>discricionário</strong> (poderá revogar), não um dever. O que é um dever é a <strong>anulação</strong> por motivo de ilegalidade.</p> </div> <div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'> <p style='font-weight: bold; color: #155724;'>E) ✅ CORRETA</p> <p style='color: #155724;'>A celebração de convênios não pressupõe uma competição, mas sim uma cooperação mútua. Por essa razão, a regra geral é que sua formalização <strong>independe de licitação</strong>. Vale lembrar que, para a celebração com entidades privadas sem fins lucrativos, exige-se, como regra, um <strong>chamamento público</strong>, que é um procedimento distinto da licitação.</p> </div> </div> <div style='border-top: 1px solid #dee2e6; padding-top: 15px;'> <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4> <div style='color: #6c757d; font-style: italic;'> <p><strong>Método de Resolução:</strong> Ao encontrar uma questão com múltiplas assertivas sobre temas correlatos (licitação, contratos, convênios), analise cada uma isoladamente, buscando o erro específico.</p> <ul> <li><strong>Associação Mnemônica:</strong> Para a diferença crucial da alternativa A, lembre-se: <strong>CO</strong>nvênio = <strong>CO</strong>operação / <strong>CO</strong>nvergência. <strong>CO</strong>ntrato = <strong>CO</strong>nflito / Interesses Opostos.</li> <li><strong>Padrão da Banca:</strong> O Cespe adora trocar os conceitos de 'dispensável' e 'inexigível' (alternativa C) e 'revogação' e 'anulação' (alternativa D). Fique atento a esses pares.</li> </ul> </div> </div> </div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'> <div style='margin-bottom: 15px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3> </div> <div style='color: #212529;'> <p><strong>a) ERRADA.</strong> Somente nos contratos que os interesses dos pactuantes são opostos e diversos. Nos contratos, os interesses das partes são antagônicos. Nos convênios, por outro lado, ambas as partes desejam ver o serviço prestado, ou seja, ambas têm interesse no cumprimento integral do objeto do ajuste e, para tanto, atuam em regime de cooperação mútua.</p> <p><strong>b) ERRADA.</strong> O a rescisão amigável depende de prévia autorização escrita e fundamentada da autoridade competente, nos termos do art. 79, § 1º, da Lei 8.666/93.</p> <p><strong>c) ERRADA.</strong> De acordo com a Lei 8.666/93, essa é uma hipótese de inexigibilidade de licitação, e não de licitação dispensável.</p> <p><strong>d) ERRADA.</strong> Revogação não é um dever, já que, por ser feita por motivos de conveniência e oportunidade, ela é um ato discricionário. Por outro lado, a anulação (de ato com vício insanável) pode ser considerada um dever, já que é um ato vinculado. Nesse sentido, o art. 49 da Lei 8.666/93 dispõe que:</p> <blockquote style='margin-left: 20px; border-left: 3px solid #ccc; padding-left: 15px; font-style: italic;'>Art. 49. A autoridade competente para a aprovação do procedimento somente <strong>poderá revogar</strong> a licitação por razões de interesse público decorrente de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, <strong>devendo anulá-la</strong> por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado.</blockquote> <p><strong>e) CERTA.</strong> De fato, para a celebração do convênio em si, <strong>não é necessária</strong> a realização de licitação, daí a correção do item. Assim, por exemplo, o Ministério da Educação pode celebrar um convênio com um órgão estadual ou com uma entidade privada sem fins lucrativos sem que, para tanto, precise realizar licitação prévia para escolher o convenente (lembre-se de que, para a celebração de convênio com entidade privada sem fins lucrativos, é necessária a realização de chamamento público, e não de licitação). Ressalte-se, contudo, que para o órgão estadual aplicar os recursos desse convênio, deverá seguir a Lei de Licitações. A entidade privada, por sua vez, embora não precise obedecer à referida Lei, deverá realizar cotação prévia de preços, respeitando os princípios da impessoalidade, moralidade e economicidade.</p> </div> </div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2013,
+      "cargo": "AGU",
+      "subtema": "Natureza dos Recursos e Prestação de Contas",
+      "enunciado": "No convênio celebrado entre o poder público e entidade particular, o valor repassado pelo poder público não passa a integrar o patrimônio da entidade, mas mantém a natureza de dinheiro público, vinculado aos fins previstos no convênio, obrigando a entidade a prestar contas de sua utilização, para o ente repassador e para o tribunal de contas.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3> <p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>natureza jurídica dos recursos</strong> transferidos via convênio a uma entidade particular. A afirmativa está <strong>CORRETA</strong> porque os recursos, mesmo geridos por um particular, continuam sendo públicos, vinculados a uma finalidade específica e sujeitos a controle e prestação de contas.</p> </div> <div style='margin-bottom: 20px;'> <div style='padding: 15px; background: #d4edda; border-radius: 6px;'> <p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p> <p style='color: #155724; line-height: 1.6;'>A assertiva está perfeita. A transferência de recursos via convênio não é uma doação. O dinheiro não se incorpora ao patrimônio da entidade convenente. Ele mantém sua natureza de <strong>dinheiro público</strong> e, por isso, sua aplicação é restrita (<strong>vinculada</strong>) ao objeto pactuado no plano de trabalho. Como consequência direta dessa natureza pública, a entidade que o recebe tem o <strong>dever de prestar contas</strong> tanto ao órgão que repassou os recursos (concedente) quanto aos órgãos de controle externo (Tribunal de Contas).</p> </div> </div> <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'> <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4> <div style='color: #6c757d; font-style: italic;'> <p><strong>Associação Visual:</strong> Imagine que o dinheiro do convênio é transferido em um 'malote lacrado' com uma etiqueta que diz: 'Propriedade do Povo. Usar apenas para [objeto do convênio]'. A entidade particular pode abrir o malote e usar o dinheiro, mas apenas para o que está na etiqueta. Ao final, ela precisa devolver o malote com todas as notas fiscais provando que seguiu a instrução. O dinheiro nunca deixou de ser público. Essa é a essência da vinculação e do dever de prestar contas.</p> </div> </div> </div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'> <div style='margin-bottom: 15px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3> </div> <div style='color: #212529;'> <p>O item está correto. No convênio celebrado entre o poder público e entidade particular, o valor repassado pelo poder público <strong>não passa a integrar o patrimônio da entidade</strong>. Ele é depositado em conta bancária específica, aberta exclusivamente para atender ao convênio, e dali só pode sair para pagar obrigações decorrentes do ajuste. O convenente não pode se apropriar desses recursos em hipótese alguma, nem aplicá-lo em finalidade diversa da pactuada.</p> <p>Por isso se diz que o recurso mantém a <strong>natureza de dinheiro público</strong>, ainda que administrado por entidade privada. A entidade, em vista disso, fica obrigada a prestar contas da utilização desses recursos, primariamente ao órgão ou entidade da União repassador dos recursos e, em última análise, ao Tribunal de Contas da União, por intermédio da prestação de contas ordinária do órgão/entidade repassador ou em eventuais processos de tomadas de contas especial.</p> </div> </div>"
+    },
+    {
+      "banca": "Cespe",
+      "ano": 2014,
+      "cargo": "Anatel",
+      "subtema": "Alteração do Objeto",
+      "enunciado": "O objeto do convênio pode ser alterado por termo aditivo, mediante proposta do concedente, formalizada, justificada e apresentada ao convenente em, no mínimo, trinta dias antes do término da vigência do acordo.",
+      "tipo": "certo_errado",
+      "alternativas": {
+        "Certo": "Certo",
+        "Errado": "Errado"
+      },
+      "resposta_correta": "Errado",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'> <div style='margin-bottom: 20px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3> <p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>alteração do objeto de um convênio</strong>. A afirmativa está <strong>INCORRETA</strong> por dois motivos principais: primeiro, porque o objeto do convênio, uma vez aprovado, não pode ser alterado; segundo, porque a proposta de alteração (de outras cláusulas) parte do interessado (geralmente o convenente) e é apresentada ao concedente, e não o contrário.</p> </div> <div style='margin-bottom: 20px;'> <div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'> <p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p> <p style='color: #721c24; line-height: 1.6;'>A assertiva contém múltiplos erros: <ol><li><strong>Vedação à Alteração do Objeto:</strong> O art. 1º, §1º, IX, do Decreto 6.170/2007, define termo aditivo como o instrumento para modificar o convênio, mas estabelece expressamente a <strong>'vedada a alteração do objeto aprovado'</strong>. O objeto é a essência do ajuste e não pode ser modificado.</li><li><strong>Inversão dos Papéis:</strong> A proposta de alteração de cláusulas (como prazo ou cronograma) é geralmente apresentada pelo convenente <strong>ao concedente</strong> para análise e aprovação, e não o contrário, como sugere o enunciado.</li></ol> A combinação desses erros torna a afirmativa duplamente incorreta.</p> </div> </div> <div style='border-top: 1px solid #dee2e6; padding-top: 15px; margin-top: 20px;'> <h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4> <div style='color: #6c757d; font-style: italic;'> <p><strong>Padrão da Banca (Cespe):</strong> Questões do Cespe frequentemente contêm mais de um erro. É um método para testar a atenção e o conhecimento aprofundado do candidato.</p> <p><strong>Método de Análise:</strong> Desmembre a afirmativa em partes menores e verifique cada uma:</p> <ul> <li>1. 'O objeto do convênio pode ser alterado por termo aditivo...' -> <strong>FALSO</strong> (regra geral é a vedação).</li> <li>2. '...mediante proposta do concedente...' -> <strong>FALSO</strong> (geralmente é o convenente que propõe).</li> <li>3. '...apresentada ao convenente...' -> <strong>FALSO</strong> (a apresentação é ao concedente).</li> </ul> <p>Identificar o primeiro erro já seria suficiente para marcar 'Errado', mas reconhecer os demais reforça a certeza da resposta.</p> </div> </div> </div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'> <div style='margin-bottom: 15px;'> <h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>- COMENTÁRIO DO LIVRO</h3> </div> <div style='color: #212529;'> <p>Segundo o art. 1º, §1º, IX do Decreto 6.170/2007, termo aditivo é o instrumento que tenha por objetivo a modificação do convênio já celebrado, <strong>vedada a alteração do objeto aprovado</strong>. Ou seja, as cláusulas do convênio podem até ser alteradas, desde que não se modifique o objeto aprovado, daí o erro.</p> <p>Assim, por exemplo, se o objeto do convênio é a construção de uma escola, não pode ser alterado para a construção de uma creche ou de um hospital; mas, mediante termo aditivo, poderiam ser alteradas algumas características da escola, como número de salas, material de acabamento etc.</p> <p>Outro erro é que, conforme o art. 36 da Portaria Interministerial 424/2016, o convênio poderá ser alterado mediante proposta, devidamente formalizada e justificada, a ser <strong>apresentada ao concedente</strong> (e não ao convenente) em, no mínimo, 30 dias antes do término de sua vigência ou no prazo nele estipulado, vedada a alteração do objeto aprovado.</p> </div> </div>"
+    }
+  ],
+  "data_correcao": "2026-01-11T23:51:57.653000",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}

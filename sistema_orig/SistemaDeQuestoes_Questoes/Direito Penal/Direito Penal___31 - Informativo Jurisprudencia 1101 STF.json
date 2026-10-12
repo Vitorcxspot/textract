@@ -1,0 +1,924 @@
+{
+  "disciplina": "Direito Penal",
+  "tema": "31 - Informativo Jurisprudencia 1101 STF",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Crime de Perseguição (Stalking)",
+      "enunciado": "Considere o crime de perseguição (stalking), tipificado no art. 147-A do Código Penal, o qual estabelece: 'Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade'. O parágrafo 3º do referido artigo dispõe que 'somente se procede mediante representação'.\n\nCom base no entendimento do Supremo Tribunal Federal (Informativo 1101), a natureza jurídica dessa representação e a consequência de sua ausência no oferecimento da denúncia são, respectivamente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Condição objetiva de punibilidade; suspensão do processo até a regularização.",
+        "B": "Condição específica de procedibilidade; rejeição da denúncia por falta de condição para o exercício da ação penal.",
+        "C": "Requisito de validade da sentença; nulidade absoluta dos atos praticados após a instrução.",
+        "D": "Pressuposto processual subjetivo; prosseguimento do feito em razão do interesse público primário.",
+        "E": "Elemento do tipo penal; absolvição sumária do réu por atipicidade da conduta."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a natureza da representação no crime de stalking (art. 147-A, CP). O STF, no Informativo 1101 (HC 229.723/SP), reafirmou que a representação é uma <strong>condição de procedibilidade</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A representação é condição específica de procedibilidade. Sem ela, o Ministério Público carece de legitimidade para agir, o que impõe a rejeição da denúncia com base no art. 395, II, do CPP.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, C, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>A representação não é condição de punibilidade (que afeta a pena), nem elemento do tipo (que afeta o crime em si), mas sim um requisito processual para o início da ação.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 147-A, § 3º do CP e Art. 395, II do CPP.</p><p style='margin-top: 10px;'><strong>Jurisprudência:</strong> O STF consolidou que a falta de representação em crimes de ação pública condicionada impede a formação válida da relação processual.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Descaminho e Insignificância",
+      "enunciado": "No crime de descaminho (art. 334 do Código Penal), que consiste em iludir, no todo ou em parte, o pagamento de direito ou imposto devido pela entrada, pela saída ou pelo consumo de mercadoria, a jurisprudência dos Tribunais Superiores admite a aplicação do princípio da insignificância.\n\nDe acordo com o entendimento reafirmado pelo STF no Informativo 1101 (HC 230.995/PR), o parâmetro objetivo de valor para a aplicação desse princípio é de tributos iludidos que não ultrapassem:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "R$ 1.000,00 (um mil reais), correspondente ao valor de um salário mínimo aproximado.",
+        "B": "R$ 10.000,00 (dez mil reais), conforme o limite para ajuizamento de execuções fiscais da União.",
+        "C": "R$ 20.000,00 (vinte mil reais), em observância às Portarias MF nº 75 e 130/2012.",
+        "D": "R$ 50.000,00 (cinquenta mil reais), por aplicação analógica da Lei de Lavagem de Dinheiro.",
+        "E": "R$ 100.000,00 (cem mil reais), seguindo o critério de insignificância para crimes societários."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF e o STJ utilizam o valor de R$ 20.000,00 como teto para a insignificância no descaminho, acompanhando o valor abaixo do qual a Fazenda Nacional não ajuíza execuções fiscais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O valor de R$ 20.000,00 é o parâmetro consolidado, baseado na legislação que regula a cobrança da dívida ativa da União.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A, B, D, E) ❌ INCORRETAS</p><p style='color: #721c24;'>Valores defasados ou sem amparo na jurisprudência tributária/penal para este crime específico.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Art. 20 da Lei 10.522/2002 e Portarias MF 75 e 130/2012.</p><p style='margin-top: 10px;'><strong>Dica:</strong> A insignificância no descaminho olha para o valor do TRIBUTO, não da mercadoria.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Furto",
+      "enunciado": "No crime de furto qualificado pelo rompimento de obstáculo (art. 155, § 4º, I, do Código Penal), o Código de Processo Penal exige, em regra, o exame de corpo de delito por se tratar de infração que deixa vestígios (art. 158, CPP).\n\nConsiderando o julgamento do RHC 227.124/DF pelo Supremo Tribunal Federal (Informativo 1101), assinale a alternativa correta sobre a prova dessa qualificadora:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A perícia é prova tarifada e absoluta, sendo impossível o reconhecimento da qualificadora sem laudo pericial direto.",
+        "B": "A confissão do réu, por si só, é suficiente para suprir a ausência do exame de corpo de delito, mesmo que os vestígios ainda existam.",
+        "C": "O exame pericial pode ser suprido por outros meios de prova, como a testemunhal, quando os vestígios tiverem desaparecido ou se as circunstâncias do crime não permitirem a perícia.",
+        "D": "A prova testemunhal só é admitida se o crime for praticado durante o repouso noturno, em razão da dificuldade de colheita de provas.",
+        "E": "A ausência de perícia acarreta obrigatoriamente a absolvição do réu por falta de prova da materialidade delitiva."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF flexibilizou a exigência do art. 158 do CPP, permitindo que a prova testemunhal supra a perícia quando os vestígios desaparecem, conforme art. 167 do CPP.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Reflete o entendimento do Informativo 1101 e o texto do art. 167 do CPP.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A confissão não supre a perícia se os vestígios ainda existem (art. 158, CPP).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 167 CPP:</strong> 'Não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta'.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Estado",
+      "subtema": "Falsidade Ideológica vs Crime Tributário",
+      "enunciado": "Um contribuinte, com o objetivo exclusivo de suprimir o pagamento de ICMS, insere dados falsos em documento fiscal (falsidade ideológica). A conduta de falsificar o documento foi o meio necessário para a prática da sonegação fiscal.\n\nDe acordo com o princípio da consunção e a jurisprudência do STF (Informativo 1101 - ARE 1.446.012/SP), nesse cenário:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O agente responde pelos dois crimes em concurso material.",
+        "B": "O crime de falsidade ideológica absorve o crime tributário por ser crime-meio.",
+        "C": "O crime tributário absorve a falsidade ideológica, desde que esta não possua potencialidade lesiva autônoma.",
+        "D": "Aplica-se o concurso formal impróprio, somando-se as penas.",
+        "E": "O crime de falsidade ideológica é considerado crime impossível se o tributo for pago."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF aplica o princípio da consunção quando o falso é etapa do crime tributário. O crime-fim (sonegação) absorve o crime-meio (falso).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Se o falso se exaure na conduta de sonegar, não há autonomia e ocorre a absorção.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 24:</strong> Reforça a natureza do crime tributário material. A consunção evita o bis in idem.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Recursos",
+      "enunciado": "Determinado réu foi condenado definitivamente por um crime. Após o trânsito em julgado, o Supremo Tribunal Federal altera sua jurisprudência consolidada, passando a adotar uma interpretação da lei penal muito mais favorável ao réu, que tornaria sua conduta atípica.\n\nSegundo o Informativo 1101 do STF (HC 227.050 AgR/RJ), é correto afirmar sobre o cabimento da revisão criminal:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A revisão criminal é incabível, pois a mudança de jurisprudência não se equipara a 'lei nova'.",
+        "B": "A revisão criminal é admitida para aplicar nova orientação jurisprudencial mais favorável, visando a retroatividade da interpretação benéfica.",
+        "C": "Somente cabe revisão criminal se houver prova pericial nova, sendo vedada por questões puramente jurídicas.",
+        "D": "O trânsito em julgado é barreira intransponível, salvo se houver anistia legislativa.",
+        "E": "A revisão criminal só pode ser ajuizada perante o tribunal que proferiu a sentença de primeiro grau."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF decidiu que a revisão criminal pode ser usada para aplicar nova interpretação jurídica mais benéfica, superando o dogma de que ela serviria apenas para fatos novos.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 621, I, CPP:</strong> Permite revisão quando a sentença for contrária ao texto expresso da lei penal ou à evidência dos autos.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Improbidade Administrativa",
+      "enunciado": "O Supremo Tribunal Federal, no Tema 1199 (Informativo 1101), analisou a retroatividade das alterações trazidas pela Lei nº 14.230/2021 à Lei de Improbidade Administrativa (LIA).\n\nSobre a exigência de dolo específico e a revogação da modalidade culposa, a tese fixada estabelece que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A lei nova retroage integralmente, inclusive para rescindir sentenças transitadas em julgado.",
+        "B": "A lei nova é irretroativa em qualquer hipótese, aplicando-se apenas a fatos ocorridos após sua vigência.",
+        "C": "A revogação da modalidade culposa retroage para beneficiar o réu em processos em curso, mas não alcança a coisa julgada.",
+        "D": "O dolo específico só é exigido para novos agentes públicos, não se aplicando aos antigos.",
+        "E": "A modalidade culposa permanece válida para atos que gerem prejuízo ao erário superior a 1 milhão de reais."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF aplicou o princípio da retroatividade benéfica ao Direito Administrativo Sancionador, mas preservou a segurança jurídica da coisa julgada.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Tema 1199 STF:</strong> A norma benéfica da LIA retroage para casos sem trânsito em julgado.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Improbidade Administrativa",
+      "enunciado": "A Lei nº 14.230/2021 introduziu um novo regime de prescrição para os atos de improbidade administrativa. De acordo com o entendimento fixado pelo STF no Informativo 1101 (Tema 1199), esse novo regime prescricional:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É irretroativo, aplicando-se os novos prazos apenas a partir da publicação da lei (25/10/2021).",
+        "B": "Retroage para extinguir todos os processos que tenham mais de 5 anos de duração.",
+        "C": "Aplica-se retroativamente apenas se o réu for maior de 70 anos.",
+        "D": "É inconstitucional, devendo-se aplicar o prazo prescricional do Código Civil.",
+        "E": "Aplica-se de imediato apenas aos processos que ainda não tiveram a citação válida."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Diferente das normas de direito material (dolo), as normas de prescrição da LIA foram consideradas irretroativas pelo STF para evitar a impunidade em massa.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Tema 1199 STF:</strong> O novo regime prescricional da LIA é irretroativo.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Desacato",
+      "enunciado": "O crime de desacato (art. 331 do Código Penal) consiste em desacatar funcionário público no exercício da função ou em razão dela. Houve intenso debate sobre sua compatibilidade com a Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica).\n\nNo julgamento da ADI 6.009/DF (Informativo 1101), o Supremo Tribunal Federal decidiu que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O crime de desacato é inconstitucional por violar a liberdade de expressão.",
+        "B": "O crime de desacato foi descriminalizado, restando apenas a infração administrativa.",
+        "C": "O tipo penal de desacato é constitucional e compatível com a Convenção Americana sobre Direitos Humanos.",
+        "D": "O desacato só existe se houver agressão física ao funcionário.",
+        "E": "A pena de detenção do desacato deve ser obrigatoriamente substituída por multa."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF manteve a validade do desacato, entendendo que a proteção da função pública justifica a restrição proporcional à liberdade de expressão.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>ADI 6009:</strong> O desacato protege a Administração Pública e não impede a crítica legítima.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Competência",
+      "enunciado": "Um Prefeito Municipal é acusado de crime contra a ordem tributária federal (Lei 8.137/90). O município em questão possui convênio com a União para a fiscalização e cobrança do Imposto sobre a Propriedade Territorial Rural (ITR).\n\nConsiderando o entendimento do STF no RE 1.161.463/SC (Informativo 1101), a competência para processar e julgar o Prefeito é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Da Justiça Federal (Tribunal Regional Federal), pelo interesse da União.",
+        "B": "Da Justiça Estadual (Tribunal de Justiça), uma vez que o convênio desloca o interesse para a esfera local.",
+        "C": "Do Superior Tribunal de Justiça, por prerrogativa de foro em crimes federais.",
+        "D": "Da Justiça Eleitoral, se houver conexão com crimes de caixa dois.",
+        "E": "Do Supremo Tribunal Federal, por se tratar de autoridade política."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A existência de convênio de delegação de capacidade tributária ativa faz com que o interesse no processo seja municipal, atraindo a competência da Justiça Estadual.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 209 STJ:</strong> Compete à Justiça Estadual processar e julgar prefeito por desvio de verba sujeita a prestação de contas perante órgão estadual.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Sigilo de Dados e Compartilhamento de Informações",
+      "enunciado": "Norma estadual autorizou o compartilhamento indiscriminado de dados de sistemas de videomonitoramento privado com órgãos de segurança pública, sem necessidade de autorização judicial ou investigação formal.\n\nNa ADI 6.634/DF (Informativo 1101), o STF declarou tal norma:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Constitucional, em razão do princípio da supremacia do interesse público sobre o privado.",
+        "B": "Inconstitucional, por violar o direito fundamental à proteção de dados e à autodeterminação informativa.",
+        "C": "Constitucional, desde que os dados sejam apagados após 30 dias.",
+        "D": "Inconstitucional, mas apenas se o monitoramento for feito em residências.",
+        "E": "Constitucional, pois o espaço público não goza de proteção à intimidade."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STF protegeu a privacidade contra o acesso estatal desmedido a câmeras privadas sem controle jurídico.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>ADI 6634:</strong> Proteção de dados é direito fundamental autônomo (Art. 5º, LXXIX, CF).</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Princípio da Insignificância e Reiteração Delitiva",
+      "enunciado": "Sobre a aplicação do princípio da insignificância em crimes ambientais, o STF, no RE 1.281.828/SP (Informativo 1101), decidiu que a reiteração delitiva do agente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É irrelevante, pois o que importa é o valor do dano ambiental.",
+        "B": "Impede a aplicação do princípio, pois demonstra maior reprovabilidade social da conduta.",
+        "C": "Autoriza a redução da pena, mas não a exclusão da tipicidade.",
+        "D": "Só impede a insignificância se houver condenação por crime hediondo.",
+        "E": "É presumida em crimes ambientais, invertendo-se o ônus da prova."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A habitualidade criminosa afasta a insignificância, pois o comportamento do agente torna-se altamente reprovável.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Vetores da Insignificância:</strong> Mínima ofensividade, ausência de periculosidade, reduzido grau de reprovabilidade e inexpressividade da lesão.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Prisão Preventiva",
+      "enunciado": "Acerca da substituição da prisão preventiva por domiciliar para mulheres gestantes ou mães de crianças de até 12 anos, o STF, no HC 190.283/SP (Informativo 1101), reafirmou que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A concessão é proibida se a mulher for reincidente.",
+        "B": "A prisão domiciliar é a regra, salvo em casos de crimes praticados com violência ou grave ameaça ou contra descendentes.",
+        "C": "Depende de prova de que a mãe é indispensável aos cuidados da criança.",
+        "D": "Só se aplica se a pena máxima do crime for inferior a 4 anos.",
+        "E": "É um benefício que depende da conveniência do juiz, sem caráter vinculante."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A proteção da primeira infância torna a domiciliar a regra para gestantes e mães, com exceções taxativas.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 318-A CPP:</strong> Introduzido pela Lei 13.769/2018, positivando o entendimento do STF.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Crime de Perseguição (Stalking)",
+      "enunciado": "No crime de perseguição (art. 147-A, CP), a vítima não ofereceu representação formal no prazo de 6 meses após tomar conhecimento da autoria. Diante do Informativo 1101 do STF, ocorre a:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Interrupção da prescrição.",
+        "B": "Decadência do direito de representação e extinção da punibilidade.",
+        "C": "Preclusão temporal, mas o MP pode denunciar de ofício.",
+        "D": "Suspensão do prazo prescricional até a maioridade da vítima.",
+        "E": "Renúncia tácita, que pode ser retratada a qualquer tempo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Sendo crime de ação condicionada, o prazo decadencial de 6 meses é fatal.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 103 CP:</strong> Prazo de 6 meses para representação.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Insignificância em Contrabando",
+      "enunciado": "Diferente do descaminho, o crime de contrabando (art. 334-A, CP) envolve a importação de mercadoria proibida. Segundo a jurisprudência reafirmada no Informativo 1101 do STF:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplica-se a insignificância se o valor for menor que R$ 20.000,00.",
+        "B": "Em regra, não se aplica o princípio da insignificância ao contrabando.",
+        "C": "Aplica-se a insignificância apenas para contrabando de cigarros.",
+        "D": "O contrabando é crime de perigo abstrato, não admitindo tentativa.",
+        "E": "A insignificância depende da concordância do Ministério Público Federal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>No contrabando, o bem jurídico é a saúde, segurança e moralidade, não apenas o erário, o que afasta a insignificância puramente financeira.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Distinção:</strong> Descaminho (fiscal) vs Contrabando (extra-fiscal).</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Furto",
+      "enunciado": "No furto com rompimento de obstáculo, se o proprietário conserta a janela arrombada antes da chegada da perícia, fazendo desaparecer os vestígios, o STF (Informativo 1101) entende que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A qualificadora deve ser afastada por culpa da vítima.",
+        "B": "A prova testemunhal pode suprir a falta do exame pericial.",
+        "C": "O réu deve ser beneficiado com a atenuante da reparação do dano.",
+        "D": "O processo deve ser anulado por cerceamento de defesa.",
+        "E": "A perícia deve ser feita por estimativa baseada em fotos de internet."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Aplicação direta do art. 167 do CPP.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 167 CPP:</strong> Suprimento da perícia por testemunhas.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Improbidade Administrativa",
+      "enunciado": "A aplicação da Lei 14.230/2021 a atos de improbidade culposos com trânsito em julgado foi negada pelo STF (Informativo 1101) para preservar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O princípio da insignificância.",
+        "B": "A coisa julgada e a segurança jurídica.",
+        "C": "O poder de império do Estado.",
+        "D": "A hierarquia das normas.",
+        "E": "O princípio da publicidade."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A imutabilidade da coisa julgada impede a retroatividade ilimitada.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Tema 1199 STF:</strong> Limite da retroatividade benéfica.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Recursos",
+      "enunciado": "O Informativo 1101 do STF (HC 227.050 AgR) admite revisão criminal por 'mudança de jurisprudência' baseada em:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Decisões de juízes de primeiro grau de outros estados.",
+        "B": "Nova orientação firmada pelo STF em controle de constitucionalidade ou precedentes vinculantes.",
+        "C": "Artigos de doutrina publicados em revistas estrangeiras.",
+        "D": "Mudança na composição da turma julgadora do tribunal local.",
+        "E": "Opinião pública manifestada em consultas populares."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Apenas mudanças qualificadas na cúpula do Judiciário autorizam a revisão da coisa julgada.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 621 CPP:</strong> Interpretação extensiva do inciso I.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Improbidade Administrativa",
+      "enunciado": "Sobre a prescrição intercorrente na LIA, o STF (Informativo 1101) definiu que o prazo de 4 anos:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Conta-se retroativamente desde o início do processo.",
+        "B": "Passa a correr apenas a partir da vigência da Lei 14.230/2021.",
+        "C": "Não se aplica a processos que envolvam prefeitos.",
+        "D": "É interrompido pela simples juntada de petição de defesa.",
+        "E": "Só se aplica se houver dolo comprovado do Ministério Público."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A irretroatividade da prescrição visa garantir que o Estado tenha tempo de se adaptar aos novos prazos menores.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Tema 1199 STF:</strong> Marco temporal da prescrição.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Desacato",
+      "enunciado": "Na ADI 6.009/DF (Informativo 1101), o STF ressaltou que o crime de desacato não impede a crítica aos agentes públicos, desde que não haja:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Uso de palavras de baixo calão.",
+        "B": "Intuito de humilhar e desrespeitar a função pública.",
+        "C": "Filmagem do ato sem consentimento.",
+        "D": "Crítica feita por meio de redes sociais.",
+        "E": "Menção a fatos da vida privada do agente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O dolo do desacato exige a vontade de desprestigiar a função pública.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Elemento Subjetivo:</strong> Dolo específico de desacatar.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Competência",
+      "enunciado": "A competência da Justiça Estadual para julgar Prefeito por crime tributário federal (ITR), quando há convênio (Informativo 1101), fundamenta-se no fato de que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O ITR é um imposto municipal por natureza.",
+        "B": "O produto da arrecadação pertence 100% ao Município conveniado.",
+        "C": "A União renuncia à soberania sobre o tributo.",
+        "D": "O Prefeito torna-se funcionário federal temporário.",
+        "E": "O crime é considerado de menor potencial ofensivo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Se o dinheiro fica no município, o prejuízo da sonegação é municipal.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 158, II, CF:</strong> Pertence aos municípios 100% do ITR se houver convênio.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Sigilo de Dados e Compartilhamento de Informações",
+      "enunciado": "O STF, na ADI 6.634/DF (Informativo 1101), considerou que o acesso estatal a câmeras privadas sem ordem judicial cria um:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Estado de bem-estar social digital.",
+        "B": "Estado de vigilância excessivo e inconstitucional.",
+        "C": "Sistema de segurança pública eficiente.",
+        "D": "Mecanismo de democracia direta.",
+        "E": "Poder de polícia administrativo legítimo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A vigilância panóptica pelo Estado fere a liberdade individual.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Privacidade:</strong> Núcleo essencial do ser humano.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "Os quatro vetores da insignificância (MARI) foram aplicados no Informativo 1101 para crimes ambientais. O vetor 'R' refere-se ao:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Risco de reiteração.",
+        "B": "Reduzido grau de reprovabilidade do comportamento.",
+        "C": "Relevância do bem jurídico.",
+        "D": "Ressarcimento do dano.",
+        "E": "Regime de cumprimento de pena."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Mínima ofensividade, Ausência de periculosidade, Reduzido grau de reprovabilidade, Inexpressividade da lesão.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>M.A.R.I.:</strong> Mnemônico clássico da insignificância.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Prisão Preventiva",
+      "enunciado": "Uma mulher presa preventivamente por tráfico de drogas possui um filho de 5 anos. Segundo o Informativo 1101, a prisão domiciliar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser negada, pois tráfico é crime equiparado a hediondo.",
+        "B": "Deve ser concedida, salvo se houver violência ou crime contra o filho.",
+        "C": "Depende de exame criminológico favorável.",
+        "D": "Só cabe se ela for a única responsável pelo sustento.",
+        "E": "É vedada se ela for estrangeira."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O tráfico, por si só, não impede a domiciliar para mães.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>HC 143.641:</strong> Precedente coletivo histórico.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Crime de Perseguição (Stalking)",
+      "enunciado": "No crime de perseguição, a representação da vítima (Informativo 1101) pode ser feita:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas por escritura pública.",
+        "B": "Por qualquer manifestação inequívoca de vontade perante a autoridade.",
+        "C": "Somente através de advogado constituído.",
+        "D": "Apenas no momento da audiência de instrução.",
+        "E": "Exclusivamente por meio de petição dirigida ao Juiz."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A representação prescinde de formalidades rígidas.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Informalidade:</strong> Princípio regente da representação.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Descaminho e Insignificância",
+      "enunciado": "O valor de R$ 20.000,00 para insignificância no descaminho (Informativo 1101) engloba:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas o Imposto de Importação.",
+        "B": "O somatório de todos os tributos federais iludidos e encargos legais.",
+        "C": "O valor de mercado da mercadoria apreendida.",
+        "D": "Apenas a multa administrativa aplicada.",
+        "E": "O lucro que o agente teria com a venda."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O critério é o valor total do crédito tributário que deixaria de ser arrecadado.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Crédito Tributário:</strong> Tributo + Juros + Multa de mora.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Furto",
+      "enunciado": "A indispensabilidade da perícia no furto qualificado (Informativo 1101) visa evitar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A condenação baseada apenas na palavra da vítima.",
+        "B": "O excesso de trabalho dos peritos oficiais.",
+        "C": "A aplicação da pena de reclusão.",
+        "D": "O reconhecimento de crimes impossíveis.",
+        "E": "A prescrição antecipada da pretensão punitiva."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prova técnica garante maior segurança jurídica, mas não pode ser um entrave absoluto se os vestígios somem.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Materialidade:</strong> Prova da existência do crime.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Improbidade Administrativa",
+      "enunciado": "O STF, no Tema 1199 (Informativo 1101), definiu que a Lei 14.230/2021 é uma 'Novatio Legis in Mellius' no que tange ao dolo. Isso significa que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A lei nova é pior e não retroage.",
+        "B": "A lei nova é melhor e deve retroagir para beneficiar o réu.",
+        "C": "A lei nova cria um novo crime.",
+        "D": "A lei nova extingue o processo sem julgamento de mérito.",
+        "E": "A lei nova só se aplica se o réu confessar."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Conceito básico de sucessão de leis no tempo.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 5º, XL, CF:</strong> A lei penal não retroagirá, salvo para beneficiar o réu.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Desacato",
+      "enunciado": "A recepção do crime de desacato pela CF/88 (Informativo 1101) baseia-se na proteção da:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Honra subjetiva do funcionário.",
+        "B": "Dignidade e prestígio da Administração Pública.",
+        "C": "Segurança nacional.",
+        "D": "Arrecadação de multas judiciais.",
+        "E": "Imunidade absoluta dos agentes estatais."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O bem jurídico é a regularidade e o respeito à função pública.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Objeto Jurídico:</strong> Administração Pública.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Jurisprudência",
+      "enunciado": "Assinale a alternativa que sintetiza corretamente os entendimentos do Informativo 1101 do STF:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O desacato é inconstitucional e a insignificância no descaminho é de R$ 10 mil.",
+        "B": "A representação no stalking é dispensável e a LIA retroage para casos julgados.",
+        "C": "O desacato é constitucional e a representação no stalking é condição de procedibilidade.",
+        "D": "A perícia no furto é sempre obrigatória e o ITR de prefeitos é da Justiça Federal.",
+        "E": "O videomonitoramento privado é de livre acesso ao Estado e a LIA não exige dolo."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão de síntese que exige conhecimento de vários pontos do informativo.</p></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Informativo 1101:</strong> Compilado de decisões relevantes do STF.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito Substituto",
+      "subtema": "Juiz das Garantias (Informativo 1101 STF)",
+      "enunciado": "No julgamento das ADIs 6.298, 6.299, 6.300 e 6.305, o Supremo Tribunal Federal (STF) analisou a constitucionalidade dos dispositivos do Código de Processo Penal, alterados pela Lei nº 13.964/2019 (Pacote Anticrime), que instituíram a figura do 'Juiz das Garantias'. Com base nas teses fixadas no Informativo 1101 do STF, assinale a afirmativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A implementação do juiz das garantias é de caráter facultativo para os Estados e para o Distrito Federal, em respeito à autonomia administrativa e financeira dos tribunais locais.",
+        "B": "A competência do juiz das garantias cessa com o recebimento da denúncia ou queixa, momento em que o juiz da instrução deverá reexaminar a necessidade das medidas cautelares em curso.",
+        "C": "O instituto do juiz das garantias é de observância obrigatória pelos Estados e pela União, e sua competência termina com o oferecimento da denúncia ou queixa, não se aplicando, contudo, aos processos de competência do Tribunal do Júri.",
+        "D": "O magistrado que atuar como juiz das garantias não fica impedido de julgar a causa, desde que não tenha tido contato direto com provas declaradas inadmissíveis durante a fase de investigação.",
+        "E": "A eficácia do juiz das garantias foi declarada inconstitucional pelo STF por vício de iniciativa, sob o fundamento de que a norma deveria ter sido proposta exclusivamente pelo Poder Judiciário."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px;'>O STF, no Informativo 1101 (ADIs 6298, 6299, 6300 e 6305), decidiu que a implementação do <b>Juiz das Garantias</b> é obrigatória para todos os entes federativos. No entanto, conferiu interpretação conforme ao art. 3º-C do CPP para estabelecer que a competência do juiz das garantias cessa com o <b>oferecimento</b> da denúncia ou queixa (e não com o recebimento). Além disso, o STF excluiu a aplicação do instituto nos casos de: 1) Processos de competência originária do STF e STJ; 2) Tribunal do Júri; 3) Violência doméstica e familiar; 4) Infrações de menor potencial ofensivo (JECRIM).</div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px;'>Conforme o entendimento consolidado pelo STF no julgamento do mérito das ADIs sobre o Juiz das Garantias: <br>1. <b>Obrigatoriedade:</b> Trata-se de norma geral de processo penal, de observância obrigatória por Estados e União. <br>2. <b>Marco Final:</b> O STF alterou o marco temporal do art. 3º-C, caput, do CPP, definindo que a atuação do juiz das garantias encerra-se com o oferecimento da peça acusatória. <br>3. <b>Exceções:</b> O regime não se aplica a procedimentos especiais como o Tribunal do Júri e crimes de violência doméstica, visando preservar a celeridade e a especificidade desses ritos.</div>"
+    },
+    {
+      "numero_questao": 31,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "O Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário (RE) 1.055.941, com repercussão geral reconhecida (Tema 990), fixou entendimento relevante sobre o compartilhamento de dados da Unidade de Inteligência Financeira (UIF), antigo COAF, e da Receita Federal do Brasil (RFB) com o Ministério Público. Considerando a jurisprudência mais recente da Corte, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É imprescindível a prévia autorização judicial para que relatórios de inteligência financeira da UIF (COAF) e dados bancários obtidos em procedimento fiscalizatório da RFB sejam compartilhados com o Ministério Público para fins de investigação criminal.",
+        "B": "O compartilhamento de relatórios da UIF (COAF) e da íntegra do procedimento fiscalizatório da RFB, incluído o acesso a dados bancários, com o Ministério Público para fins de investigação criminal é lícito, independentemente de autorização judicial, desde que haja instauração de procedimento formal de investigação e que a finalidade seja a apuração de infrações penais.",
+        "C": "A autorização judicial é dispensável para o compartilhamento de dados da UIF (COAF) e da RFB, desde que a investigação criminal já esteja em fase de inquérito policial e exista indício robusto de crime de lavagem de dinheiro.",
+        "D": "Relatórios da UIF (COAF) e dados bancários da RFB devem ser obrigatoriamente precedidos de autorização judicial para compartilhamento, mesmo que não revelem o conteúdo das transações, mas apenas a sua existência.",
+        "E": "O STF consolidou que o compartilhamento de quaisquer dados da UIF (COAF) e da RFB com o Ministério Público sem autorização judicial configura quebra ilegal de sigilo e viola o direito à privacidade."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>o compartilhamento de dados da UIF (COAF) e da Receita Federal do Brasil (RFB) com o Ministério Público</strong>. O ponto-chave é a <strong>interpretação do Tema 990 de Repercussão Geral do STF (RE 1.055.941)</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A alternativa está em desacordo com o entendimento do STF. O Tribunal decidiu que o compartilhamento é possível sem prévia autorização judicial, desde que preenchidos os requisitos.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Esta alternativa reflete com precisão a tese fixada pelo STF no Tema 990 (RE 1.055.941), que permite o compartilhamento dos relatórios da UIF e da íntegra do procedimento fiscalizatório da RFB (incluindo dados bancários) com órgãos de persecução penal, sem prévia autorização judicial, desde que haja instauração de procedimento formal de investigação e que a finalidade seja a apuração de infrações penais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A decisão do STF não restringe a dispensa de autorização judicial apenas a casos de lavagem de dinheiro, mas sim a \"infrações penais\" de forma geral, e não impõe a condição de que a investigação já esteja em fase de inquérito policial, mas sim que haja um \"procedimento formal de investigação\".</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Esta alternativa contradiz diretamente o cerne da decisão do STF, que afastou a necessidade de nova autorização judicial para o compartilhamento, desde que os dados tenham sido obtidos licitamente pela RFB e haja procedimento formal de investigação com finalidade penal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O STF considerou constitucional o compartilhamento sob as condições estabelecidas, afastando a alegação de que isso configura quebra ilegal de sigilo ou violação à privacidade, desde que os requisitos sejam cumpridos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Fique atento aos requisitos cumulativos para o compartilhamento lícito: 1) instauração de procedimento formal de investigação e 2) finalidade de apuração de infrações penais. A decisão validou o compartilhamento da íntegra do procedimento fiscalizatório da RFB, que pode incluir dados bancários, e não apenas os RIFs da UIF.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Sigilo de Dados e Compartilhamento de Informações",
+      "enunciado": "No âmbito de uma investigação criminal que apura crimes contra a ordem tributária e lavagem de capitais, o Ministério Público requisitou à Receita Federal do Brasil (RFB) e à Unidade de Inteligência Financeira (UIF) o compartilhamento de informações obtidas em seus respectivos âmbitos de atuação. A RFB enviou a íntegra de procedimentos fiscais, incluindo extratos bancários obtidos administrativamente, enquanto a UIF encaminhou Relatórios de Inteligência Financeira (RIFs) contendo comunicações de operações suspeitas. A defesa dos investigados alegou a nulidade das provas, sustentando a necessidade de prévia autorização judicial para o acesso a dados protegidos por sigilo bancário e fiscal.\n\nConsiderando o entendimento consolidado pelo Supremo Tribunal Federal (STF) no Tema 990 de Repercussão Geral (reiterado no Informativo 1101), assinale a opção que descreve corretamente a tese fixada pela Corte Suprema:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal, que inclua dados bancários, com os órgãos de persecução penal para fins criminais, sem a obrigatoriedade de prévia autorização judicial.",
+        "B": "O compartilhamento de dados bancários pela Receita Federal é inconstitucional sem ordem judicial prévia, embora o envio de RIFs pela UIF seja permitido independentemente de autorização, por se tratar de inteligência financeira.",
+        "C": "O compartilhamento é lícito apenas se os dados bancários já tiverem sido objeto de decisão judicial anterior no âmbito de processo cível, sendo vedada a transferência direta entre órgãos administrativos e o Ministério Público.",
+        "D": "A Receita Federal pode compartilhar apenas o resultado final do procedimento fiscal (lançamento definitivo), sendo-lhe vedado o envio da íntegra dos dados bancários ao Ministério Público sem autorização do juízo competente.",
+        "E": "O STF fixou que apenas crimes hediondos ou equiparados autorizam o compartilhamento direto de dados sigilosos entre órgãos administrativos e o Ministério Público, exigindo-se reserva de jurisdição para crimes comuns."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>Tema 990 da Repercussão Geral do STF</strong>, que trata da constitucionalidade do compartilhamento de dados sigilosos entre órgãos de controle (UIF e RFB) e os órgãos de persecução penal (MP e Polícia). O STF decidiu que esse fluxo de informações não viola o direito ao sigilo, desde que respeitados certos parâmetros.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>A) ✅ CORRETA</p><p style='color: #155724;'>Reflete exatamente a tese fixada no RE 1.055.941 (Tema 990). O STF entendeu que o compartilhamento da íntegra do procedimento fiscal e dos RIFs é legítimo e prescinde de autorização judicial, pois o sigilo é mantido (transferência de sigilo, não quebra).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O STF não fez essa distinção; tanto os dados da RFB quanto os da UIF podem ser compartilhados sem ordem judicial prévia.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A tese do STF permite justamente a transferência direta entre os órgãos, sem necessidade de intervenção judicial anterior no cível ou administrativo.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A decisão do STF é clara ao permitir o compartilhamento da <strong>íntegra</strong> do procedimento, e não apenas do resultado final.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Não há restrição quanto à natureza do crime (hediondo ou comum) para a validade do compartilhamento de dados pela RFB ou UIF.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> A tese do Tema 990/STF estabelece: \"É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil, que inclua dados bancários, com os órgãos de persecução penal para fins criminais, sem a obrigatoriedade de prévia autorização judicial\".</p><p style='margin-top: 10px;'><strong>Conceito-Chave:</strong> O STF utiliza a teoria da <strong>transferência de sigilo</strong>. Quando a RFB envia dados ao MP, o sigilo não é quebrado (exposto ao público), mas transferido de um órgão que tem o dever de guarda para outro que também o possui.</p><p style='margin-top: 10px;'><strong>Dica de Prova:</strong> Fique atento aos requisitos: o compartilhamento deve ser feito por meios formais, com garantia de sigilo e registro de acesso, sendo vedada a requisição genérica sem investigação instaurada (o chamado 'fishing expedition').</p></div></div>"
+    },
+    {
+      "numero_questao": 33,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Auditor-Fiscal da Receita Federal do Brasil",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "Em matéria de direito penal e processual penal, o Supremo Tribunal Federal (STF) tem se debruçado sobre a licitude da utilização de informações da Unidade de Inteligência Financeira (UIF) e da Receita Federal do Brasil (RFB). Conforme o entendimento mais recente da Corte (Informativo 1101, RE 1.055.941), sobre o tema, é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A ausência de autorização judicial prévia para o compartilhamento de relatórios da UIF ou dados da RFB invalida a prova, independentemente do tipo de informação contida no relatório ou procedimento.",
+        "B": "Relatórios da UIF que identifiquem operações financeiras atípicas e dados bancários obtidos em procedimento fiscalizatório da RFB podem ser compartilhados com o Ministério Público sem ordem judicial, servindo como base para a investigação criminal, desde que haja procedimento formal e finalidade de apuração de infrações penais.",
+        "C": "A quebra do sigilo bancário pelo COAF/UIF ou pela RFB é permitida apenas em casos de crimes de lavagem de dinheiro, sendo obrigatória a autorização judicial para qualquer outro tipo de crime.",
+        "D": "O Ministério Público pode requisitar diretamente à UIF ou à RFB a quebra do sigilo bancário de investigados, desde que fundamente o pedido em indícios de crimes graves, sem necessidade de ordem judicial.",
+        "E": "A utilização de dados da UIF ou da RFB por parte do Ministério Público sem autorização judicial é sempre considerada inconstitucional, pois viola o direito à privacidade financeira do indivíduo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a licitude do compartilhamento de informações da UIF e da RFB com o Ministério Público</strong>. O ponto-chave é a <strong>aplicação dos requisitos e limites estabelecidos pelo STF no Tema 990 (RE 1.055.941)</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STF firmou o entendimento de que o compartilhamento é lícito sem prévia autorização judicial, desde que atendidos os requisitos de procedimento formal e finalidade penal, não invalidando a prova nessas condições.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Esta alternativa descreve corretamente o entendimento do STF no RE 1.055.941. O compartilhamento é permitido para ambos os tipos de dados (RIFs e dados da RFB, incluindo bancários obtidos licitamente), desde que haja um procedimento formal de investigação e a finalidade seja a apuração de infrações penais, sem a necessidade de uma nova ordem judicial para o compartilhamento.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A decisão do STF não restringe o compartilhamento apenas a crimes de lavagem de dinheiro, mas sim a \"infrações penais\" em geral. Além disso, a quebra de sigilo bancário (no sentido de acesso direto aos dados de uma instituição financeira sem consentimento ou ordem judicial) continua exigindo ordem judicial, sendo que o compartilhamento pela RFB se dá sobre dados já obtidos licitamente.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O Ministério Público e a autoridade policial não podem requisitar diretamente a quebra do sigilo bancário sem ordem judicial. A decisão do STF trata do *compartilhamento* de dados já existentes na UIF ou RFB, não da *quebra inicial* de sigilo.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O STF considerou o compartilhamento constitucional sob as condições específicas, afastando a alegação de inconstitucionalidade e violação à privacidade, desde que os requisitos sejam cumpridos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>É fundamental distinguir entre a *quebra inicial de sigilo bancário* (que exige autorização judicial) e o *compartilhamento de dados já existentes* na UIF ou RFB (que, sob certas condições, dispensa nova autorização judicial).</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 34,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "O Supremo Tribunal Federal (STF) firmou o entendimento de que os relatórios da Unidade de Inteligência Financeira (UIF) e os dados bancários obtidos em procedimento fiscalizatório da Receita Federal do Brasil (RFB) contêm informações que, por si só, configuram quebra de sigilo bancário, demandando, portanto, autorização judicial para seu compartilhamento com o Ministério Público.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a natureza dos dados da UIF e da RFB em relação ao sigilo bancário</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o STF distinguiu a natureza dos RIFs e o compartilhamento de dados já obtidos pela RFB da quebra de sigilo bancário propriamente dita, afastando a necessidade de nova autorização judicial para o compartilhamento, desde que preenchidos os requisitos</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O STF, no Tema 990 (RE 1.055.941), explicitou que os relatórios de inteligência financeira (RIFs) da UIF não se confundem com a quebra de sigilo bancário, pois não revelam o extrato bancário completo ou detalhes das movimentações, mas sim a existência de operações atípicas. Quanto aos dados bancários obtidos pela RFB em procedimento fiscalizatório, o Tribunal entendeu que, se a coleta inicial pela RFB foi lícita (seja por autorização judicial ou por meios administrativos permitidos por lei), o *compartilhamento* desses dados com o Ministério Público não exige uma *nova* autorização judicial, desde que haja procedimento formal de investigação e finalidade penal. Portanto, a afirmativa de que tais informações, por si só, configuram quebra de sigilo demandando autorização judicial para *compartilhamento* está incorreta.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A chave é compreender que o STF validou o *compartilhamento* de informações já existentes e licitamente obtidas pela UIF e RFB, sem que isso configure uma nova *quebra de sigilo bancário* que exija uma nova ordem judicial para cada ato de compartilhamento.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 35,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Estado",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "A respeito da utilização de relatórios da Unidade de Inteligência Financeira (UIF) e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil (RFB) em investigações criminais, o STF, conforme o Informativo 1101 (RE 1.055.941), estabeleceu balizas importantes. Diante disso, assinale a opção que apresenta uma consequência jurídica correta do entendimento firmado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A partir de um Relatório de Inteligência Financeira (RIF) ou de dados da RFB compartilhados sem autorização judicial, o Ministério Público está impedido de solicitar a quebra do sigilo bancário, mesmo havendo justa causa, pois a origem da informação é viciada.",
+        "B": "Relatórios da UIF e dados da RFB podem subsidiar o início de investigações criminais e o pedido de medidas cautelares, como a quebra de sigilo bancário, sem que sua origem (compartilhamento sem nova autorização judicial) macule a licitude da prova, desde que presentes os requisitos formais de investigação e finalidade penal.",
+        "C": "O entendimento do STF limita o uso de dados da UIF e da RFB apenas para crimes de lavagem de dinheiro, sendo vedado seu uso em investigações de crimes contra a ordem tributária.",
+        "D": "A validade do compartilhamento sem autorização judicial se restringe aos casos em que o investigado já tenha sido previamente notificado sobre a suspeita de operação atípica ou irregularidade fiscal.",
+        "E": "O STF determinou que o compartilhamento de dados da UIF e da RFB sem autorização judicial é válido, mas os dados não podem ser utilizados como prova única para a condenação, exigindo-se corroboração por outras fontes, independentemente da robustez da informação."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre as <strong>consequências jurídicas do entendimento do STF acerca do compartilhamento de dados da UIF e da RFB</strong>. O ponto-chave é a <strong>aplicabilidade e o valor probatório dessas informações em investigações criminais</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STF considerou o compartilhamento lícito, sob as condições estabelecidas, o que significa que as informações não são consideradas viciadas em sua origem. Pelo contrário, podem servir de base para o aprofundamento da investigação, incluindo a solicitação de quebra de sigilo bancário com justa causa.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Esta alternativa está em total consonância com a decisão do STF no RE 1.055.941. O compartilhamento lícito de RIFs e dados da RFB permite que o Ministério Público inicie investigações e solicite medidas cautelares, como a quebra de sigilo bancário, sem que a falta de uma nova autorização judicial para o *compartilhamento* macule a prova, desde que os requisitos de formalidade da investigação e finalidade penal sejam observados.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A tese fixada pelo STF se refere à apuração de \"infrações penais\" de forma geral, não se restringindo apenas a crimes de lavagem de dinheiro. Portanto, seu uso em investigações de crimes contra a ordem tributária, por exemplo, é perfeitamente possível.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A decisão do STF não impõe a condição de prévia notificação do investigado para a validade do compartilhamento. Os requisitos são a instauração de procedimento formal de investigação e a finalidade de apuração de infrações penais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Embora a corroboração de provas seja um princípio importante do direito processual penal, o STF não estabeleceu que os dados da UIF ou RFB não podem ser prova única para a condenação. A valoração da prova é uma questão de mérito e pode variar conforme o caso concreto e a robustez da informação.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O entendimento do STF fortalece os mecanismos de combate a crimes financeiros e tributários, permitindo que as informações de inteligência e fiscais sejam utilizadas de forma mais eficaz no início das investigações criminais.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 36,
+      "banca": "CONSULPLAN",
+      "ano": 2024,
+      "cargo": "Fiscal de Tributos",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "O posicionamento do Supremo Tribunal Federal (STF) sobre o compartilhamento de dados da Unidade de Inteligência Financeira (UIF) e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil (RFB) com o Ministério Público, sem prévia autorização judicial, aplica-se exclusivamente a crimes de lavagem de dinheiro, não sendo extensível a crimes contra a ordem tributária ou outros delitos financeiros.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>abrangência da decisão do STF sobre o compartilhamento de dados da UIF e RFB</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o STF não restringiu a aplicação de seu entendimento exclusivamente a crimes de lavagem de dinheiro, mas sim a \"infrações penais\" em geral</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O Supremo Tribunal Federal, no RE 1.055.941 (Tema 990), ao tratar do compartilhamento de relatórios da UIF e da íntegra do procedimento fiscalizatório da RFB, estabeleceu que a finalidade deve ser a \"apuração de infrações penais\". Essa expressão é genérica e abrange uma gama variada de delitos, incluindo crimes contra a ordem tributária, lavagem de dinheiro, corrupção, entre outros crimes financeiros e econômicos. Portanto, a restrição exclusiva a crimes de lavagem de dinheiro, conforme afirmado na questão, está incorreta.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Para concursos fiscais, é crucial entender que a decisão do STF é uma ferramenta poderosa para a investigação de crimes tributários e financeiros, não se limitando a um único tipo penal. A expressão \"infrações penais\" é ampla.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 37,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Analista Tributário da Receita Federal do Brasil",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "A decisão do STF no RE 1.055.941 (Informativo 1101), que permite o compartilhamento de relatórios da UIF e da íntegra do procedimento fiscalizatório da RFB (incluindo dados bancários) com o Ministério Público sem nova autorização judicial, fundamenta-se principalmente na compreensão de que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A UIF e a RFB possuem autonomia para quebrar o sigilo bancário de qualquer cidadão, independentemente de ordem judicial, em prol da segurança nacional.",
+        "B": "Os relatórios da UIF e os dados bancários obtidos pela RFB no curso de procedimento fiscalizatório, embora contenham informações financeiras, não se confundem com a quebra de sigilo bancário em sua origem, ou que o compartilhamento subsequente não exige nova ordem judicial se a coleta inicial foi lícita e os requisitos de formalidade e finalidade penal são atendidos.",
+        "C": "O Ministério Público, por ser titular da ação penal, tem prerrogativa para acessar dados financeiros sem a necessidade de intervenção judicial em qualquer fase da investigação.",
+        "D": "A celeridade na investigação de crimes financeiros exige a dispensa da autorização judicial para compartilhamento, sob pena de inviabilizar a persecução penal, sendo este o único fundamento.",
+        "E": "A autorização judicial para compartilhamento só é exigível quando os dados da UIF e da RFB são solicitados diretamente pela autoridade policial, e não pelo Ministério Público."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre a <strong>fundamentação da decisão do STF acerca do compartilhamento de dados da UIF e da RFB</strong>. O ponto-chave é a <strong>distinção entre a quebra de sigilo bancário e o compartilhamento de informações já existentes</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Nem a UIF nem a RFB possuem autonomia para quebrar o sigilo bancário sem ordem judicial, salvo em casos específicos previstos em lei e que não configuram a quebra clássica de sigilo. A decisão do STF trata do *compartilhamento* de dados já obtidos, não da *quebra inicial*.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Esta alternativa capta a essência da fundamentação do STF. Os RIFs não são considerados quebra de sigilo bancário por si, e o compartilhamento de dados bancários já obtidos licitamente pela RFB (seja por ordem judicial ou por atribuição legal para fins fiscais) não exige uma nova ordem judicial para o *compartilhamento* com o MP, desde que cumpridos os requisitos de formalidade e finalidade penal. O foco é na licitude da obtenção original e na não necessidade de uma nova ordem para o repasse.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O Ministério Público não possui prerrogativa para acessar dados financeiros protegidos por sigilo sem intervenção judicial, a menos que se trate de compartilhamento de dados já existentes e licitamente obtidos por outros órgãos, conforme a tese do STF.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c7d;'>Embora a celeridade seja um fator prático, não foi o *único* ou *principal* fundamento jurídico da decisão. A fundamentação principal reside na interpretação da natureza dos dados e na distinção entre quebra de sigilo e compartilhamento de informações já existentes, sempre com a salvaguarda dos direitos fundamentais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A decisão do STF não faz essa distinção. O compartilhamento é permitido tanto com o Ministério Público quanto com a polícia judiciária, desde que atendidos os requisitos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A complexidade da questão reside na sutileza da distinção. O STF não está permitindo a quebra de sigilo bancário sem ordem judicial, mas sim o compartilhamento de informações que já estão em posse de órgãos de fiscalização (UIF e RFB), obtidas de forma lícita, para fins de persecução penal, sem a necessidade de uma *nova* ordem judicial para o ato de *compartilhar*.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 38,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do ICMS",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "A decisão do Supremo Tribunal Federal (STF) sobre o compartilhamento de dados da Unidade de Inteligência Financeira (UIF) e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil (RFB) sem prévia autorização judicial, conforme o Informativo 1101 (RE 1.055.941), possui efeitos ex nunc, ou seja, aplica-se apenas a investigações e processos criminais iniciados após a data da publicação da ata de julgamento do referido recurso.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Errado",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>aplicação temporal da decisão do STF no RE 1.055.941 (Tema 990)</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>a decisão do STF possui efeitos ex tunc, ou seja, retroativos, validando provas já produzidas sob as mesmas condições</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O Supremo Tribunal Federal, ao fixar a tese de repercussão geral no RE 1.055.941, decidiu que as provas obtidas por meio do compartilhamento de dados da UIF e da RFB, sem prévia autorização judicial, mas com observância dos requisitos de procedimento formal de investigação e finalidade penal, são válidas, inclusive aquelas já produzidas antes da data do julgamento. Portanto, a decisão possui efeitos *ex tunc* (retroativos), e não *ex nunc* (irretroativos), para evitar a anulação em massa de processos criminais que se basearam em tais provas, desde que respeitados os parâmetros estabelecidos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A questão dos efeitos temporais (ex tunc ou ex nunc) de decisões do STF é recorrente em concursos. Decisões que validam provas ou procedimentos, especialmente em matéria penal, costumam ter efeitos ex tunc para evitar a nulidade de atos passados, salvo expressa modulação.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 39,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Agente de Fiscalização Financeira",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "O Supremo Tribunal Federal (STF), ao analisar a constitucionalidade do compartilhamento de dados da Unidade de Inteligência Financeira (UIF) e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil (RFB) com o Ministério Público, sem prévia autorização judicial (Informativo 1101, RE 1.055.941), estabeleceu uma importante distinção. Qual a essência dessa distinção?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A distinção reside no fato de que o RIF é um documento público, enquanto os dados bancários são privados, e o procedimento fiscalizatório não pode conter dados sigilosos.",
+        "B": "O RIF e o procedimento fiscalizatório da RFB contêm informações que já foram objeto de quebra de sigilo por decisão administrativa da UIF ou da RFB, enquanto a quebra de sigilo bancário exige ordem judicial.",
+        "C": "O STF entendeu que o RIF não se confunde com a quebra de sigilo bancário, pois apenas indica operações financeiras atípicas, e que o compartilhamento da íntegra do procedimento fiscalizatório da RFB, mesmo com dados bancários, não exige nova autorização judicial se a coleta inicial pela RFB foi lícita e os requisitos de formalidade e finalidade penal são atendidos.",
+        "D": "A distinção é que o RIF é gerado automaticamente, enquanto a quebra de sigilo bancário e o acesso a dados pela RFB dependem de solicitação específica para cada conta.",
+        "E": "O STF distinguiu os casos em que há indícios de lavagem de dinheiro (dispensa de ordem judicial para compartilhamento) daqueles em que há apenas suspeita de sonegação fiscal (exige ordem judicial para compartilhamento)."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre a <strong>distinção fundamental feita pelo STF entre os dados da UIF/RFB e a quebra de sigilo bancário</strong>. O ponto-chave é a <strong>compreensão da natureza das informações e dos atos de compartilhamento</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A natureza pública ou privada de um documento não é a essência da distinção. Além disso, o procedimento fiscalizatório da RFB pode, sim, conter dados sigilosos, desde que obtidos licitamente.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A UIF não realiza quebra de sigilo por decisão administrativa. Os RIFs são relatórios de inteligência. A RFB pode obter dados bancários por autorização judicial ou por meios administrativos específicos, mas o STF não afirmou que a RFB quebra sigilo por decisão administrativa de forma genérica.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Esta alternativa descreve com precisão a distinção estabelecida pelo STF no RE 1.055.941 (Tema 990). O RIF, por sua natureza, não é uma quebra de sigilo bancário, pois aponta operações atípicas sem detalhar o extrato. Já o compartilhamento de dados bancários pela RFB, se obtidos licitamente pela fiscalização, não exige uma *nova* autorização judicial para o *repasse* ao MP, desde que preenchidos os requisitos de formalidade e finalidade penal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Embora os RIFs sejam gerados de forma mais automatizada, a distinção fundamental não se baseia nisso, mas sim na natureza da informação e no ato de compartilhamento versus quebra de sigilo.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O STF não fez essa distinção para fins de compartilhamento. A decisão abrange \"infrações penais\" em geral, incluindo lavagem de dinheiro e sonegação fiscal, desde que os requisitos sejam atendidos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A sutileza entre \"quebra de sigilo\" e \"compartilhamento de dados já sigilosos\" é o ponto crucial. O STF entende que o compartilhamento de dados *já obtidos licitamente* por órgãos fiscalizadores, sob certas condições, não constitui uma nova quebra de sigilo que exija uma nova ordem judicial.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 40,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Rendas Municipais",
+      "subtema": "Sigilo de Dados",
+      "enunciado": "O entendimento do Supremo Tribunal Federal (STF) no Informativo 1101 (RE 1.055.941), ao permitir o compartilhamento de Relatórios de Inteligência Financeira (RIF) da Unidade de Inteligência Financeira (UIF) e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil (RFB) com o Ministério Público sem nova autorização judicial, implica que a proteção ao sigilo de dados financeiros foi completamente mitigada para fins de investigação criminal.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda os <strong>limites da proteção de dados financeiros após a decisão do STF sobre o compartilhamento de informações da UIF e RFB</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>a decisão não mitigou *completamente* a proteção ao sigilo de dados financeiros, mas sim estabeleceu condições para o compartilhamento de informações já existentes, mantendo a necessidade de ordem judicial para a quebra inicial de sigilo</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A decisão do STF no RE 1.055.941 (Tema 990) não significa que a proteção ao sigilo de dados financeiros foi completamente mitigada. Pelo contrário, o Tribunal reafirmou a importância do sigilo e estabeleceu balizas rigorosas para o compartilhamento, exigindo: 1) que a coleta inicial dos dados pela RFB tenha sido lícita (o que pode ter exigido autorização judicial, dependendo do caso); 2) a instauração de um procedimento formal de investigação; e 3) que a finalidade seja a apuração de infrações penais. A quebra de sigilo bancário por parte do Ministério Público ou da autoridade policial continua exigindo prévia autorização judicial. O que a decisão permitiu foi o *compartilhamento* de dados já existentes e licitamente obtidos, sem a necessidade de uma *nova* ordem judicial para esse ato de repasse, não uma mitigação total da proteção.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>É essencial não confundir a facilitação do *compartilhamento* de dados já existentes com a eliminação da proteção ao sigilo. A proteção ainda existe, mas sua operacionalização foi adaptada para permitir uma persecução penal mais eficaz, sob estritas condições.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 41,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Liberdade de Expressão",
+      "enunciado": "Em recente julgamento de Embargos de Declaração na ADI 6.603, o Supremo Tribunal Federal (STF) reafirmou a constitucionalidade da criminalização da apologia ao nazismo, prevista no art. 20, § 2º, da Lei nº 7.716/89. Contudo, o Tribunal estabeleceu importantes balizas para a interpretação dessa norma penal. Diante disso, assinale a opção correta acerca da posição do STF sobre o tema.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A criminalização da apologia ao nazismo é absoluta e não admite qualquer exceção, prevalecendo sobre a liberdade de expressão em todas as suas manifestações.",
+        "B": "O STF considerou o art. 20, § 2º, da Lei nº 7.716/89 inconstitucional por violar a liberdade de expressão, permitindo a apologia ao nazismo desde que não haja incitação direta à violência.",
+        "C": "A vedação à apologia ao nazismo não alcança a pesquisa e o debate acadêmicos ou jornalísticos, desde que não haja propósito de incitação ao ódio ou à discriminação.",
+        "D": "A apologia ao nazismo é permitida apenas em ambientes privados e restritos, sendo vedada em espaços públicos ou meios de comunicação de massa.",
+        "E": "O STF determinou que a criminalização se aplica somente a grupos neonazistas organizados, excluindo indivíduos que manifestem isoladamente ideias nazistas."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a interpretação do STF acerca da criminalização da apologia ao nazismo e os limites da liberdade de expressão</strong>. O ponto-chave é <strong>o alcance da vedação em face da pesquisa e do debate acadêmicos ou jornalísticos, conforme o Informativo 1101 do STF</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A criminalização não é absoluta. O próprio STF estabeleceu ressalvas para pesquisa e debate acadêmicos/jornalísticos.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O STF reafirmou a constitucionalidade da criminalização, não a considerou inconstitucional. A permissão não se estende à apologia ao nazismo, salvo as exceções específicas.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 1101 do STF (Embargos de Declaração na ADI 6.603), o Tribunal esclareceu que a vedação à apologia ao nazismo não alcança a pesquisa e o debate acadêmicos ou jornalísticos, desde que não haja propósito de incitação ao ódio ou à discriminação. Essa é a interpretação teleológica e sistemática da norma, em conformidade com a Constituição Federal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Não há tal distinção de ambientes na decisão do STF. A proibição é geral, com as ressalvas pontuais já mencionadas.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A criminalização não se restringe a grupos organizados, aplicando-se a qualquer indivíduo que faça apologia ao nazismo, ressalvadas as hipóteses de pesquisa e debate sem propósito de incitação ao ódio.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Fique atento às nuances das decisões do STF, especialmente quando há ressalvas ou condições para a aplicação de uma norma. A literalidade nem sempre reflete a interpretação final do Tribunal.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 42,
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "subtema": "Lei Maria da Penha",
+      "enunciado": "De acordo com o entendimento firmado pelo Supremo Tribunal Federal no RE 1.307.762, a Lei Maria da Penha (Lei nº 11.340/2006) pode ser aplicada para proteger homem vítima de violência doméstica praticada por mulher, desde que comprovada a vulnerabilidade.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a aplicabilidade da Lei Maria da Penha (Lei nº 11.340/2006)</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o STF, no RE 1.307.762 (Informativo 1101), firmou entendimento de que a Lei Maria da Penha não se aplica a homens, mesmo em situação de vulnerabilidade, sendo a lei destinada à proteção de mulheres</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário (RE) 1.307.762, com repercussão geral (Tema 1.157), decidiu que a Lei Maria da Penha (Lei nº 11.340/2006) não se aplica para proteger homens vítimas de violência doméstica praticada por mulheres. A interpretação do STF reforça o caráter protetivo da lei, que visa combater a violência de gênero contra a mulher, em um contexto de desigualdade histórica e estrutural. A lei é específica para a proteção de mulheres, não sendo extensível a homens, independentemente da vulnerabilidade.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se que a Lei Maria da Penha é um diploma legal que visa combater a violência de gênero contra a mulher, sendo fundamental para compreender sua teleologia e alcance. Não confunda com outras leis que tratam de violência doméstica em sentido amplo.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 43,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Estado",
+      "subtema": "Prisão Preventiva",
+      "enunciado": "Em relação à prisão preventiva, o Supremo Tribunal Federal, no julgamento do HC 212.783 (Informativo 1101), analisou a possibilidade de sua decretação com base em denúncia anônima. Sobre esse tema, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É vedada, em qualquer hipótese, a decretação de prisão preventiva com base exclusiva em denúncia anônima, por ausência de indícios mínimos de autoria e materialidade.",
+        "B": "A denúncia anônima, por si só, é suficiente para a decretação da prisão preventiva, dada a gravidade dos crimes que justificam tal medida cautelar.",
+        "C": "A denúncia anônima pode dar ensejo à investigação preliminar para verificar a procedência das informações e, somente após a coleta de elementos concretos, pode-se decretar a prisão preventiva.",
+        "D": "A prisão preventiva pode ser decretada com base em denúncia anônima, desde que o juiz justifique a urgência e a impossibilidade de investigação prévia.",
+        "E": "A denúncia anônima é válida para decretação de prisão preventiva apenas em crimes hediondos ou equiparados, em razão do clamor público."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a validade da denúncia anônima como fundamento para a decretação de prisão preventiva</strong>, conforme o entendimento do STF no Informativo 1101. O ponto-chave é <strong>a necessidade de investigação preliminar para corroborar as informações anônimas antes da decretação da medida cautelar pessoal</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Não é vedada em qualquer hipótese. A denúncia anônima pode ser o ponto de partida para uma investigação, mas não o fundamento exclusivo da prisão preventiva.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A denúncia anônima, por si só, não é suficiente para a decretação da prisão preventiva. É necessário que haja elementos concretos de prova.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STF, no HC 212.783 (Informativo 1101), reafirmou que a denúncia anônima pode servir como ponto de partida para a investigação preliminar, visando a verificação da procedência das informações. Contudo, a prisão preventiva somente poderá ser decretada após a coleta de outros elementos concretos que corroborem as informações iniciais e preencham os requisitos legais da medida cautelar.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A urgência ou a impossibilidade de investigação prévia não dispensam a necessidade de elementos concretos além da denúncia anônima para a decretação da prisão preventiva.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Não há distinção quanto ao tipo de crime para a aplicação desse entendimento. A regra da necessidade de investigação preliminar e elementos concretos vale para todos os crimes.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A denúncia anônima é uma ferramenta útil para iniciar investigações, mas o sistema jurídico brasileiro exige que as medidas cautelares restritivas de liberdade sejam fundamentadas em provas concretas, e não apenas em informações não verificadas. Este é um princípio fundamental do devido processo legal.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 44,
+      "banca": "VUNESP",
+      "ano": 2023,
+      "cargo": "Técnico da Receita Estadual",
+      "subtema": "Liberdade de Expressão",
+      "enunciado": "O Supremo Tribunal Federal, ao julgar Embargos de Declaração na ADI 6.603, considerou inconstitucional a criminalização da apologia ao nazismo (art. 20, § 2º, Lei nº 7.716/89) por entender que ela viola a liberdade de expressão, um dos pilares da democracia.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "E",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>o posicionamento do STF sobre a constitucionalidade da criminalização da apologia ao nazismo</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o STF reafirmou a constitucionalidade da criminalização da apologia ao nazismo, apenas ressalvando sua aplicação para pesquisa e debate acadêmico ou jornalístico, sem propósito de incitação ao ódio</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. O Supremo Tribunal Federal, nos Embargos de Declaração na ADI 6.603 (Informativo 1101), não considerou inconstitucional a criminalização da apologia ao nazismo. Pelo contrário, o Tribunal reafirmou a sua constitucionalidade, apenas esclarecendo que a vedação não alcança a pesquisa e o debate acadêmicos ou jornalísticos, desde que não haja o propósito de incitar o ódio ou a discriminação. A apologia ao nazismo, fora dessas exceções, continua sendo crime no Brasil.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>É crucial diferenciar a declaração de inconstitucionalidade de uma norma da interpretação conforme a Constituição, que estabelece os limites de sua aplicação sem retirá-la do ordenamento jurídico. O STF optou pela segunda via nesse caso.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 45,
+      "banca": "CONSULPLAN",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Estaduais",
+      "subtema": "Lei Maria da Penha",
+      "enunciado": "Sobre a natureza jurídica e o alcance da Lei Maria da Penha (Lei nº 11.340/2006), considerando o entendimento do STF no RE 1.307.762 (Informativo 1101), é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A Lei Maria da Penha possui caráter universal, aplicando-se a qualquer gênero em situação de vulnerabilidade no âmbito doméstico e familiar.",
+        "B": "A referida lei foi criada com o objetivo de proteger especificamente a mulher em situação de violência doméstica e familiar, em razão da desigualdade de gênero e do histórico de subordinação.",
+        "C": "O STF ampliou a aplicação da Lei Maria da Penha para abranger homens vítimas de violência, desde que a agressora seja mulher e haja prova de vulnerabilidade.",
+        "D": "A Lei Maria da Penha não se aplica a relações homoafetivas, uma vez que sua finalidade é proteger a mulher em relações heterossexuais.",
+        "E": "A aplicação da Lei Maria da Penha depende exclusivamente da existência de laços de consanguinidade entre agressor e vítima, independentemente do gênero."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a natureza e o alcance da Lei Maria da Penha à luz do julgamento do STF no RE 1.307.762</strong>. O ponto-chave é <strong>a compreensão de que a lei é um instrumento de proteção específica da mulher contra a violência de gênero, não sendo aplicável a homens</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A Lei Maria da Penha não possui caráter universal em relação ao gênero da vítima. É específica para a proteção de mulheres, conforme reiterado pelo STF.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STF, no RE 1.307.762 (Informativo 1101), reafirmou que a Lei Maria da Penha foi concebida para proteger a mulher em situação de violência doméstica e familiar, em um contexto de desigualdade de gênero e histórico de subordinação. A lei busca combater a violência de gênero, e sua aplicação é restrita às mulheres.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O STF, ao contrário, confirmou que a lei não se aplica a homens, mesmo em situação de vulnerabilidade.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A jurisprudência do STJ e do STF já pacificou o entendimento de que a Lei Maria da Penha se aplica a relações homoafetivas, desde que a vítima seja mulher e haja a configuração de violência de gênero.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A aplicação da lei não se restringe a laços de consanguinidade, abrangendo relações de afeto e convivência, e seu foco principal é o gênero da vítima (mulher).</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A Lei Maria da Penha é um marco na proteção dos direitos das mulheres. Sua interpretação teleológica e sistemática deve sempre considerar o contexto de violência de gênero e a necessidade de proteção das mulheres, conforme a Convenção de Belém do Pará e a Constituição Federal.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 46,
+      "banca": "ESAF",
+      "ano": 2023,
+      "cargo": "Auditor Fiscal do Trabalho",
+      "subtema": "Liberdade de Expressão",
+      "enunciado": "O Supremo Tribunal Federal, nos Embargos de Declaração na ADI 6.603, decidiu que a liberdade de expressão, por ser um direito fundamental, garante a manifestação de ideias nazistas em qualquer contexto, desde que não haja incitação direta à violência física.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "E",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a relação entre a liberdade de expressão e a apologia ao nazismo, conforme o entendimento do STF</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>a liberdade de expressão não é absoluta e não abrange a apologia ao nazismo em qualquer contexto, sendo vedada quando há propósito de incitação ao ódio ou à discriminação, com ressalva específica para fins acadêmicos ou jornalísticos sem tal propósito</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. O Supremo Tribunal Federal, nos Embargos de Declaração na ADI 6.603 (Informativo 1101), reafirmou a constitucionalidade da criminalização da apologia ao nazismo (art. 20, § 2º, Lei nº 7.716/89). A liberdade de expressão não é um direito absoluto e encontra limites na própria Constituição, como a vedação ao racismo e a incitação ao ódio. A ressalva feita pelo STF foi estritamente para a pesquisa e o debate acadêmicos ou jornalísticos, desde que não haja propósito de incitação ao ódio ou à discriminação, e não para qualquer contexto de manifestação de ideias nazistas.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A liberdade de expressão, embora fundamental, não é um salvo-conduto para discursos de ódio ou que atentem contra os princípios democráticos e os direitos humanos. O STF tem reiteradamente afirmado que a Constituição Federal de 1988 não protege a pregação de ideias discriminatórias ou antidemocráticas.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 47,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Analista Tributário da Receita Federal",
+      "subtema": "Investigação",
+      "enunciado": "Em um caso concreto, a polícia recebeu uma denúncia anônima detalhada sobre um esquema de sonegação fiscal envolvendo um empresário, com informações sobre a localização de documentos e bens. Após a denúncia, sem qualquer investigação prévia, o Ministério Público requereu e o juiz decretou a prisão preventiva do empresário. Com base no entendimento do STF no HC 212.783 (Informativo 1101), a decretação dessa prisão preventiva é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Válida, pois a denúncia anônima, quando detalhada, dispensa a investigação preliminar para a decretação da prisão preventiva, especialmente em crimes fiscais de grande impacto.",
+        "B": "Inválida, pois a denúncia anônima, mesmo detalhada, exige investigação preliminar para que os fatos sejam corroborados por outros elementos de prova antes da decretação da prisão preventiva.",
+        "C": "Válida, desde que o juiz fundamente sua decisão na urgência da medida para evitar a ocultação de provas ou a fuga do empresário.",
+        "D": "Inválida, em qualquer hipótese de denúncia anônima, pois a Constituição proíbe o anonimato e, portanto, atos processuais baseados nele.",
+        "E": "Válida, mas apenas se o empresário já possuísse antecedentes criminais, o que justificaria a medida cautelar baseada na denúncia anônima."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a validade da prisão preventiva decretada exclusivamente com base em denúncia anônima, aplicando o entendimento do STF</strong>. O ponto-chave é <strong>a necessidade de investigação preliminar para verificar a procedência das informações anônimas antes de qualquer medida restritiva de liberdade</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O detalhamento da denúncia anônima não dispensa a investigação preliminar. É um indício, mas não prova suficiente para a prisão preventiva sem corroboração.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>De acordo com o STF (HC 212.783, Informativo 1101), a denúncia anônima, mesmo que detalhada, pode dar início a uma investigação preliminar. No entanto, a decretação da prisão preventiva exige que os fatos narrados na denúncia sejam corroborados por outros elementos de prova colhidos na investigação. A prisão preventiva não pode ser decretada tendo como único fundamento a denúncia anônima, sem qualquer diligência para verificar sua procedência.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A urgência e a necessidade de evitar ocultação de provas ou fuga são requisitos da prisão preventiva, mas não substituem a necessidade de indícios concretos de autoria e materialidade, que não podem se basear exclusivamente em denúncia anônima.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Embora a Constituição proíba o anonimato para a manifestação de pensamento, a denúncia anônima não é totalmente inválida. Ela pode ser o ponto de partida para investigações, desde que estas gerem provas independentes.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Antecedentes criminais podem ser um fator a ser considerado na decretação da prisão preventiva, mas não validam uma prisão baseada exclusivamente em denúncia anônima sem corroboração dos fatos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A distinção entre 'ponto de partida para investigação' e 'fundamento exclusivo para prisão' é crucial. O sistema penal exige robustez probatória para medidas restritivas de liberdade, protegendo o indivíduo contra acusações infundadas.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 48,
+      "banca": "FGV",
+      "ano": 2023,
+      "cargo": "Auditor Fiscal de Tributos Estaduais",
+      "subtema": "Lei Maria da Penha",
+      "enunciado": "Conforme o entendimento do Supremo Tribunal Federal (Informativo 1101, RE 1.307.762), a Lei Maria da Penha se aplica a qualquer pessoa em situação de vulnerabilidade no ambiente doméstico e familiar, independentemente do gênero, desde que a violência seja praticada por um membro da família.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>o alcance da Lei Maria da Penha e a quem se destina a proteção legal</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>o STF reafirmou que a Lei Maria da Penha é um instrumento de proteção específica da mulher, não se aplicando a homens, mesmo em situação de vulnerabilidade</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. O Supremo Tribunal Federal, no julgamento do RE 1.307.762 (Informativo 1101), foi categórico ao estabelecer que a Lei Maria da Penha (Lei nº 11.340/2006) não se aplica a homens, mesmo em situação de vulnerabilidade ou se a violência for praticada por uma mulher. A lei foi criada para proteger as mulheres da violência de gênero, sendo um mecanismo específico para combater a desigualdade histórica e estrutural.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A Lei Maria da Penha tem um propósito claro de combate à violência de gênero contra a mulher. É fundamental memorizar que, apesar de existirem outras formas de violência doméstica, a aplicação desta lei é restrita à proteção das mulheres.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 49,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Rendas",
+      "subtema": "Liberdade de Expressão",
+      "enunciado": "A respeito dos limites da liberdade de expressão no ordenamento jurídico brasileiro, e considerando a jurisprudência do STF, em especial o Informativo 1101 (ADI 6.603 ED), assinale a alternativa que melhor reflete o entendimento da Corte.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A liberdade de expressão é um direito absoluto, que permite a manifestação de qualquer ideia, independentemente de seu conteúdo ou potencial ofensivo.",
+        "B": "Discursos de ódio, como a apologia ao nazismo, são protegidos pela liberdade de expressão, desde que não resultem em violência física imediata.",
+        "C": "A liberdade de expressão pode ser limitada para proteger outros direitos e valores constitucionais, como a dignidade da pessoa humana e a vedação ao racismo, sendo a apologia ao nazismo um exemplo de conduta não protegida.",
+        "D": "A crítica política, mesmo que agressiva e ofensiva, é sempre protegida pela liberdade de expressão, sem qualquer limite, pois é essencial para a democracia.",
+        "E": "A divulgação de informações falsas (fake news) é integralmente protegida pela liberdade de expressão, pois o Estado não pode censurar o conteúdo da informação."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>os limites da liberdade de expressão, com foco na apologia ao nazismo e o entendimento do STF</strong>. O ponto-chave é <strong>a compreensão de que a liberdade de expressão não é absoluta e encontra limites em outros direitos e princípios constitucionais</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A liberdade de expressão não é um direito absoluto no Brasil, encontrando limites na própria Constituição, como a vedação ao anonimato e a incitação ao racismo.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O STF tem reiteradamente afirmado que discursos de ódio, como a apologia ao nazismo, não são protegidos pela liberdade de expressão. A decisão na ADI 6.603 (Informativo 1101) reafirma a criminalização da apologia ao nazismo, com ressalvas específicas que não configuram uma proteção geral.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A liberdade de expressão, embora fundamental, não é absoluta e pode ser limitada para proteger outros direitos e valores constitucionais, como a dignidade da pessoa humana, a honra, a intimidade e a vedação ao racismo. A apologia ao nazismo é um exemplo de discurso de ódio que atenta contra esses valores e, portanto, não encontra guarida na liberdade de expressão, conforme o entendimento consolidado do STF, reafirmado no Informativo 1101.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Mesmo a crítica política encontra limites, como a proteção à honra e à imagem das pessoas. Abusos da liberdade de expressão podem gerar responsabilidade civil e penal.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A divulgação de informações falsas não é integralmente protegida. Embora haja um debate complexo, o STF e a legislação têm buscado formas de combater a disseminação de fake news, especialmente quando há impacto em processos eleitorais ou direitos fundamentais.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O tema da liberdade de expressão e seus limites é recorrente em concursos. Memorize os entendimentos do STF sobre discursos de ódio, fake news e a ponderação com outros direitos fundamentais. A apologia ao nazismo é um exemplo clássico de discurso não protegido.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 50,
+      "banca": "FCC",
+      "ano": 2023,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Investigação",
+      "enunciado": "A denúncia anônima, em conformidade com o entendimento do STF no HC 212.783 (Informativo 1101), pode servir como base exclusiva para a instauração de inquérito policial, mas não para o oferecimento da denúncia pelo Ministério Público.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "E",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>o papel da denúncia anônima na fase pré-processual e processual, de acordo com a jurisprudência do STF</strong>. A afirmativa está <strong>INCORRETA</strong> porque <strong>a denúncia anônima não pode ser a base exclusiva nem para a instauração de inquérito policial, exigindo investigação preliminar para verificar a procedência das informações</strong>.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa está incorreta. O entendimento do Supremo Tribunal Federal, reiterado no HC 212.783 (Informativo 1101), é de que a denúncia anônima, por si só, não pode ser o único elemento para a instauração de inquérito policial ou para a decretação de medidas cautelares. Ela pode servir como um ponto de partida, mas exige-se que as autoridades realizem uma investigação preliminar para verificar a veracidade e a procedência das informações contidas na denúncia antes de qualquer ato formal de investigação ou restrição de direitos. Assim, não pode ser a base exclusiva nem para o inquérito, muito menos para a denúncia do MP.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Guarde que a denúncia anônima tem um valor limitado no processo penal. Ela funciona como uma 'notitia criminis inqualificada', que exige diligências preliminares para ser qualificada e, só então, dar ensejo a atos processuais mais robustos.</p></div></div>",
+      "comentario_livro": ""
+    }
+  ],
+  "data_correcao": "2026-01-12T07:21:48.475817",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}

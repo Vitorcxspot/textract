@@ -1,0 +1,913 @@
+{
+  "disciplina": "Direito Penal",
+  "tema": "28 - Informativo Jurisprudencia 780 STJ",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] O Superior Tribunal de Justiça, no julgamento do REsp 2.073.432-RS (Informativo 780), analisou a aplicação da Súmula Vinculante nº 24 do STF, que dispõe: 'Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo'. A controvérsia residia em saber se tal exigência se estende ao crime de apropriação indébita previdenciária (art. 168-A do Código Penal).\n\n[COMANDO] Com base no entendimento fixado pelo STJ no referido informativo, assinale a alternativa correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A Súmula Vinculante nº 24 aplica-se integralmente ao crime de apropriação indébita previdenciária, exigindo-se o exaurimento da via administrativa.",
+        "B": "O crime de apropriação indébita previdenciária prescinde do esgotamento da via administrativa, pois o STJ entende que a SV 24 se restringe aos crimes da Lei nº 8.137/90.",
+        "C": "Tanto os crimes da Lei nº 8.137/90 quanto o art. 168-A do CP exigem o lançamento definitivo como condição objetiva de punibilidade.",
+        "D": "A apropriação indébita previdenciária é crime material e, por isso, atrai a incidência da Súmula Vinculante nº 24 por analogia in bonam partem.",
+        "E": "O STJ cancelou sua jurisprudência anterior para determinar que nenhum crime tributário exige mais o esgotamento da via administrativa."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão explora a distinção jurisprudencial entre crimes tributários em sentido estrito e crimes previdenciários no que tange à condição de procedibilidade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 780 (REsp 2.073.432-RS), o STJ reafirmou que a Súmula Vinculante 24 não se aplica ao crime de apropriação indébita previdenciária (art. 168-A do CP), sendo desnecessário o esgotamento da via administrativa para a tipificação ou persecução penal deste delito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O entendimento é justamente o oposto: a SV 24 não se aplica ao art. 168-A do CP.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Súmula Vinculante 24 do STF e Art. 168-A do Código Penal.</p><p style='margin-top: 10px;'><strong>Conceito-Chave:</strong> A SV 24 refere-se especificamente aos crimes materiais contra a ordem tributária previstos na Lei 8.137/90. O STJ mantém a separação para crimes previdenciários.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Prescrição",
+      "enunciado": "[TEXTO DE APOIO] O Código Penal, em seu art. 114, trata da prescrição da pena de multa. O Superior Tribunal de Justiça, no REsp 2.082.029-SP (Informativo 780), discutiu se a prescrição da pretensão executória da multa deveria seguir o prazo das dívidas ativas da Fazenda Pública (5 anos) ou as regras do Código Penal.\n\n[COMANDO] De acordo com a decisão do STJ no Informativo 780, a prescrição da pretensão executória da pena de multa, quando aplicada cumulativamente com pena privativa de liberdade, ocorre:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Sempre no prazo fixo de 5 anos, por ser considerada dívida de valor de natureza tributária.",
+        "B": "No prazo de 2 anos, independentemente do quantum da pena privativa de liberdade aplicada.",
+        "C": "No mesmo prazo estabelecido para a prescrição da pena privativa de liberdade.",
+        "D": "No prazo de 10 anos, seguindo a regra geral das obrigações civis subsidiárias.",
+        "E": "A pena de multa é imprescritível após o trânsito em julgado, por representar interesse direto do erário."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ definiu que a natureza de 'dívida de valor' da multa não afasta as regras prescricionais do Código Penal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Segundo o Informativo 780, a prescrição da pena de multa ocorre no mesmo prazo estabelecido para a prescrição da pena privativa de liberdade, quando a multa for alternativa ou cumulativamente cominada ou imposta (Art. 114, II, CP).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ afastou a aplicação do prazo de 5 anos da Lei de Execução Fiscal para fins de prescrição penal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 114, CP:</strong> A prescrição da pena de multa ocorrerá: I - em 2 anos, quando a multa for a única cominada ou aplicada; II - no mesmo prazo estabelecido para a prescrição da pena privativa de liberdade, quando a multa for alternativa ou cumulativamente aplicada.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "[TEXTO DE APOIO] No julgamento do REsp 2.083.561-SP, o STJ analisou a dosimetria da pena no crime de apropriação indébita. A questão central era se o valor do prejuízo causado à vítima poderia ser utilizado para exasperar a pena-base na primeira fase da dosimetria.\n\n[COMANDO] Com base no Informativo 780, assinale a alternativa que descreve a possibilidade de valoração do prejuízo na dosimetria:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O prejuízo é elemento inerente ao tipo penal de apropriação indébita, não podendo jamais ser usado na primeira fase.",
+        "B": "O valor do prejuízo pode ser considerado circunstância judicial negativa (consequências do crime), desde que seja expressivo e extrapole o normal do tipo.",
+        "C": "O prejuízo só pode ser valorado na segunda fase da dosimetria, como agravante genérica.",
+        "D": "A valoração do prejuízo na primeira fase configura bis in idem com a causa de aumento do art. 168, §1º do CP.",
+        "E": "O STJ proibiu a utilização de critérios econômicos para a fixação da pena-base em crimes patrimoniais."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A decisão foca na vetorial 'consequências do crime' do art. 59 do CP.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ decidiu que o prejuízo financeiro expressivo pode, sim, justificar a exasperação da pena-base como consequência negativa do crime, desde que não constitua elemento inseparável do tipo ou causa de aumento específica aplicada no caso.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 59, CP:</strong> Estabelece as circunstâncias judiciais. As 'consequências do crime' permitem avaliar o dano causado que ultrapassa o resultado jurídico previsto na norma.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "[TEXTO DE APOIO] O Informativo 780 do STJ trouxe decisão sobre o furto de energia elétrica (REsp 2.081.082-MG). O Tribunal discutiu a aplicação do princípio da insignificância em casos de 'gato' de energia.\n\n[COMANDO] Segundo o entendimento do STJ, para a aplicação do princípio da insignificância no furto de energia elétrica, é necessário:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas que o agente seja primário, independentemente do valor da energia subtraída.",
+        "B": "Que o valor do prejuízo seja inferior a 10% do salário mínimo e que não haja reiteração delitiva.",
+        "C": "Que o crime tenha sido praticado por necessidade extrema (estado de necessidade), sendo irrelevante o valor.",
+        "D": "O STJ entende que o furto de energia é crime de perigo abstrato, sendo inaplicável a insignificância.",
+        "E": "Que o valor seja ínfimo, mas a reincidência específica não impede, por si só, o reconhecimento da bagatela."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A insignificância exige requisitos objetivos e subjetivos cumulativos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ aplica o parâmetro de 10% do salário mínimo para aferir a reduzida expressividade do valor e exige a ausência de periculosidade social e reduzido grau de reprovabilidade.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Vetores do STF:</strong> Mínima ofensividade, ausência de periculosidade social, reduzidíssimo grau de reprovabilidade e inexpressividade da lesão jurídica.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Prisão Preventiva",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.748-SC, veiculado no Informativo 780, o STJ debateu o padrão probatório necessário para a decretação da prisão preventiva, especificamente quanto ao 'fumus comissi delicti'.\n\n[COMANDO] Conforme o entendimento da Corte, a decretação da prisão preventiva exige:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Prova cabal e incontroversa da autoria, similar à necessária para uma sentença condenatória.",
+        "B": "Apenas a prova da existência do crime, sendo a autoria irrelevante nesta fase processual.",
+        "C": "Indícios suficientes de autoria, não se exigindo a certeza plena que se requer para a condenação.",
+        "D": "Confissão do investigado perante a autoridade policial ou judicial.",
+        "E": "Prova produzida exclusivamente sob o crivo do contraditório judicial prévio."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prisão preventiva baseia-se em juízo de probabilidade, não de certeza.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O art. 312 do CPP e o Informativo 780 do STJ deixam claro que bastam indícios suficientes de autoria e prova da existência do crime.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 312, CPP:</strong> A prisão preventiva poderá ser decretada como garantia da ordem pública [...] quando houver prova da existência do crime e indício suficiente de autoria.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "[TEXTO DE APOIO] O HC 843.437-SC (Informativo 780) tratou da validade dos acordos de colaboração premiada. O STJ reforçou que o acordo é um negócio jurídico processual personalíssimo.\n\n[COMANDO] Sobre a eficácia da colaboração premiada, segundo o STJ, é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A concessão dos benefícios depende apenas da assinatura do termo, independentemente do resultado das informações.",
+        "B": "O colaborador tem direito subjetivo ao perdão judicial se confessar o crime, mesmo que não aponte comparsas.",
+        "C": "A colaboração deve ser voluntária e produzir resultados efetivos, como a identificação de coautores ou recuperação de ativos.",
+        "D": "O Ministério Público pode rescindir o acordo unilateralmente se considerar a pena acordada muito baixa, mesmo sem descumprimento do réu.",
+        "E": "As declarações do colaborador, por si sós, são suficientes para fundamentar uma sentença condenatória contra terceiros."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A colaboração premiada é um meio de obtenção de prova que exige utilidade prática.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A Lei 12.850/13 e a jurisprudência do STJ exigem a eficácia da colaboração para a fruição dos benefícios pactuados.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 12.850/2013, Art. 4º:</strong> O juiz poderá conceder perdão judicial [...] desde que dessa colaboração advenha um ou mais dos seguintes resultados...</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Competência",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.074.880-MG (Informativo 780), o STJ definiu a competência para julgar o crime de peculato-desvio praticado por funcionário público federal em detrimento de bens da União.\n\n[COMANDO] De acordo com o entendimento fixado, a competência é da:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Justiça Estadual, pois o peculato é crime contra a Administração em geral.",
+        "B": "Justiça Federal, em razão da qualidade do sujeito ativo e do interesse da União.",
+        "C": "Justiça Militar, se o funcionário for civil mas o bem for de unidade militar.",
+        "D": "Justiça Estadual, se o valor desviado for inferior a 10 salários mínimos.",
+        "E": "Justiça Federal, apenas se houver conexão com crime de lavagem de dinheiro."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A competência federal é atraída pela lesão a bens, serviços ou interesses da União (Art. 109, IV, CF).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Sendo o agente funcionário federal e o prejuízo suportado pela União, a competência é inequivocamente federal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 109, IV, CF:</strong> Aos juízes federais compete processar e julgar as infrações penais praticadas em detrimento de bens, serviços ou interesse da União...</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista de Controle",
+      "subtema": "Princípio da Consunção",
+      "enunciado": "[TEXTO DE APOIO] O Informativo 780 do STJ (REsp 2.072.049-SC) abordou a relação entre o crime de roubo e o porte ilegal de arma de fogo.\n\n[COMANDO] Assinale a alternativa que reflete o entendimento do STJ sobre a aplicação do princípio da consunção nesse cenário:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O porte de arma é sempre absorvido pelo roubo, por ser crime-meio necessário.",
+        "B": "Não há consunção, devendo o agente responder por ambos os crimes em concurso material em qualquer hipótese.",
+        "C": "O roubo absorve o porte de arma apenas se o uso da arma foi estritamente vinculado ao crime patrimonial, sem autonomia de conduta prévia ou posterior.",
+        "D": "O porte de arma absorve o roubo, por ser o crime com pena abstrata mais elevada no Estatuto do Desarmamento.",
+        "E": "A consunção depende da realização de perícia na arma para atestar sua potencialidade lesiva."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A consunção exige nexo de dependência ou subordinação entre as condutas.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Se o agente já portava a arma habitualmente antes do roubo, há crimes autônomos. Se a arma foi obtida e usada apenas para aquele roubo específico, aplica-se a consunção.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio da Consunção:</strong> Ocorre quando um crime menos grave é meio necessário ou fase de preparação/execução de outro mais grave.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Súmulas do STJ",
+      "enunciado": "[TEXTO DE APOIO] A Súmula 660 do STJ foi publicada no contexto do Informativo 780, tratando da individualização da pena.\n\n[COMANDO] Segundo o enunciado da Súmula 660 do STJ, a individualização da pena na primeira fase da dosimetria:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Pode ser feita de forma genérica, bastando a indicação dos dispositivos legais.",
+        "B": "Exige que o julgador decline fundamentos específicos para cada circunstância judicial valorada negativamente.",
+        "C": "Dispensa fundamentação se a pena-base for fixada no mínimo legal.",
+        "D": "Permite a utilização de elementos inerentes ao tipo penal para exasperar a pena.",
+        "E": "É restrita aos crimes hediondos e equiparados."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A súmula reforça o dever constitucional de fundamentação das decisões judiciais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A literalidade da Súmula 660 exige fundamentação concreta e específica para cada vetorial negativa do art. 59 do CP.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 660 STJ:</strong> A individualização da pena na primeira fase da dosimetria exige que o julgador decline fundamentos específicos para cada circunstância judicial valorada negativamente.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] No RHC 179.621-SP (Informativo 780), o STJ discutiu a competência para julgar o crime de lavagem de dinheiro quando a infração antecedente é o tráfico de drogas.\n\n[COMANDO] Conforme a decisão, a competência será da Justiça Federal se:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O valor lavado for superior a 1 milhão de reais.",
+        "B": "Houver indícios de que o tráfico de drogas antecedente possui natureza transnacional ou interestadual.",
+        "C": "O crime de lavagem for praticado por organização criminosa, independentemente da natureza do tráfico.",
+        "D": "A lavagem ocorrer por meio do sistema financeiro nacional.",
+        "E": "Sempre, pois a lavagem de dinheiro é crime de competência federal exclusiva."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A competência da lavagem segue a competência do crime antecedente, salvo exceções da Lei 9.613/98.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Se o tráfico é federal (internacional/interestadual), a lavagem dele decorrente também será julgada pela Justiça Federal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 9.613/98, Art. 2º, III:</strong> A competência será da Justiça Federal quando a infração antecedente for de competência federal.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Roubo e Arma Branca",
+      "enunciado": "[TEXTO DE APOIO] O REsp 1.944.204-SC (Informativo 780) tratou da majorante do emprego de arma branca no crime de roubo (art. 157, § 2º, VII, do CP).\n\n[COMANDO] Sobre a necessidade de apreensão e perícia da arma branca para a incidência da majorante, o STJ decidiu que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "São indispensáveis, sob pena de nulidade da majorante.",
+        "B": "A perícia é dispensável, mas a apreensão é obrigatória para comprovar a existência do objeto.",
+        "C": "São dispensáveis quando o emprego da arma branca puder ser comprovado por outros meios de prova, como a palavra da vítima.",
+        "D": "A palavra da vítima nunca é suficiente para suprir a ausência do exame de corpo de delito direto.",
+        "E": "A majorante de arma branca foi revogada pela Lei nº 13.964/2019 (Pacote Anticrime)."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ aplica ao emprego de arma branca o mesmo raciocínio consolidado para armas de fogo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A prova testemunhal e a palavra da vítima são idôneas para caracterizar a causa de aumento, independentemente da apreensão do objeto.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 157, § 2º, VII, CP:</strong> Aumenta-se a pena de 1/3 até metade se a violência ou grave ameaça é exercida com emprego de arma branca.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Crimes de Trânsito",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.062.880-SC (Informativo 780), o STJ reafirmou a natureza jurídica do crime de embriaguez ao volante (art. 306 do CTB).\n\n[COMANDO] Assinale a alternativa que indica a classificação correta desse delito quanto ao perigo:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Perigo concreto, exigindo prova de que o agente dirigia de forma anormal ou perigosa.",
+        "B": "Perigo abstrato, sendo desnecessária a demonstração de potencialidade lesiva na conduta.",
+        "C": "Crime de dano, exigindo a ocorrência de acidente ou lesão a terceiros.",
+        "D": "Perigo hipotético, dependendo de perícia técnica no local da condução.",
+        "E": "Crime de mera conduta, mas que admite a aplicação do princípio da insignificância se o teor alcoólico for baixo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O perigo é presumido pela lei ao atingir o patamar alcoólico ou alteração psicomotora.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ consolidou que o art. 306 do CTB é crime de perigo abstrato. A segurança viária é o bem jurídico protegido de forma antecipada.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 306, CTB:</strong> Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool...</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Provas",
+      "enunciado": "[TEXTO DE APOIO] O HC 819.344-SP (Informativo 780) tratou do reconhecimento fotográfico de pessoas realizado na fase policial.\n\n[COMANDO] De acordo com o STJ, o reconhecimento fotográfico realizado em desacordo com o art. 226 do CPP:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É prova nula de pleno direito, não podendo ser saneada.",
+        "B": "Pode servir como elemento de convicção, desde que corroborado por outras provas produzidas sob o contraditório judicial.",
+        "C": "É plenamente válido, pois o art. 226 do CPP é mera recomendação legal.",
+        "D": "Só é válido se o réu confessar a prática do crime em juízo.",
+        "E": "Exige a presença obrigatória de advogado no momento da exibição das fotos na delegacia."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ mudou seu entendimento para ser mais rigoroso com o art. 226, mas admite corroboração.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O reconhecimento irregular não pode, isoladamente, sustentar condenação, mas se houver outras provas (testemunhas, perícia, etc.), o conjunto pode ser válido.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 226, CPP:</strong> Estabelece as formalidades para o reconhecimento de pessoas e coisas.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Prescrição",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.046.208-SP (Informativo 780), o STJ analisou a prescrição da pretensão punitiva intercorrente.\n\n[COMANDO] Quando há recurso exclusivo da defesa contra sentença condenatória, o prazo prescricional deve ser calculado com base:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Na pena máxima em abstrato prevista para o crime.",
+        "B": "Na pena concretamente aplicada na sentença, em razão da proibição da reformatio in pejus.",
+        "C": "Em um prazo fixo de 4 anos para qualquer crime médio.",
+        "D": "Na média aritmética entre a pena mínima e a máxima.",
+        "E": "O prazo é interrompido indefinidamente enquanto durar o recurso no Tribunal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prescrição retroativa ou intercorrente utiliza a pena em concreto após o trânsito em julgado para a acusação.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Se a acusação não recorreu, a pena não pode mais aumentar. Logo, a prescrição passa a ser regulada pela pena imposta (Art. 110, §1º, CP).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 110, §1º, CP:</strong> A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação [...] regula-se pela pena aplicada.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Culpabilidade",
+      "enunciado": "[TEXTO DE APOIO] O REsp 2.049.885-SC (Informativo 780) discutiu a fundamentação da circunstância judicial da culpabilidade na primeira fase da dosimetria.\n\n[COMANDO] Para que a culpabilidade seja valorada negativamente, o magistrado deve demonstrar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apenas que o agente agiu com dolo ou culpa, elementos do conceito analítico de crime.",
+        "B": "Que o agente tinha consciência da ilicitude no momento do fato.",
+        "C": "Elementos concretos que revelem um grau de reprovabilidade da conduta superior ao normal para o tipo penal.",
+        "D": "A existência de maus antecedentes criminais do réu.",
+        "E": "A gravidade abstrata do delito prevista pelo legislador."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A culpabilidade do art. 59 (dosimetria) não se confunde com a culpabilidade do conceito de crime.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Exige-se o 'plus' de reprovação. Fundamentar apenas no dolo genérico configura bis in idem.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Culpabilidade (Art. 59):</strong> Refere-se à maior ou menor censurabilidade do comportamento do agente.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.193-RJ (Informativo 780), o STJ tratou da prova da infração antecedente no crime de lavagem de dinheiro.\n\n[COMANDO] Para a condenação pelo crime de lavagem de dinheiro, é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É indispensável a sentença condenatória transitada em julgado pela infração antecedente.",
+        "B": "Basta a prova da existência de indícios da infração antecedente, sendo o crime de lavagem dotado de autonomia.",
+        "C": "A infração antecedente deve ser obrigatoriamente um crime hediondo.",
+        "D": "O réu deve ser o autor tanto da infração antecedente quanto da lavagem (autolavagem obrigatória).",
+        "E": "A denúncia por lavagem só pode ser oferecida após o recebimento da denúncia pelo crime antecedente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A autonomia do crime de lavagem é pilar da Lei 9.613/98.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ reafirmou que a punibilidade da lavagem independe do processo da infração antecedente, bastando indícios desta.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 9.613/98, Art. 2º, § 1º:</strong> A denúncia será instruída com indícios suficientes da existência da infração antecedente...</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Denunciação Caluniosa",
+      "enunciado": "[TEXTO DE APOIO] O HC 789.704-SP (Informativo 780) delimitou o alcance do crime de denunciação caluniosa (art. 339 do CP).\n\n[COMANDO] Segundo o STJ, a instauração de qual dos procedimentos abaixo NÍO configura o crime de denunciação caluniosa, ainda que a imputação de crime seja falsa?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Inquérito Policial.",
+        "B": "Processo Judicial Criminal.",
+        "C": "Investigação Administrativa de natureza não criminal.",
+        "D": "Inquérito Civil Público.",
+        "E": "Processo Administrativo Disciplinar (PAD)."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O tipo penal do art. 339 é taxativo quanto aos procedimentos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>D) ✅ CORRETA</p><p style='color: #155724;'>O STJ entendeu que o Inquérito Civil (esfera cível/improbidade) não está no rol do art. 339, que foca na administração da justiça criminal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 339, CP:</strong> Dar causa à instauração de investigação policial, de processo judicial, de investigação administrativa, de inquérito civil ou de ação de improbidade administrativa...</p><p><i>Nota: O STJ faz interpretação restritiva em certos contextos de inquérito civil puramente reparatório.</i></p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Roubo Majorado",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.053.868-DF (Informativo 780), o STJ discutiu a majorante do emprego de arma de fogo no roubo quando o artefato é ineficaz.\n\n[COMANDO] Se ficar comprovado por perícia que a arma de fogo utilizada no roubo era inapta a disparar (ineficácia absoluta), a solução jurídica correta é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Manter a majorante, pois o poder intimidatório sobre a vítima permanece o mesmo.",
+        "B": "Afastar a majorante do emprego de arma de fogo, pois não houve incremento do risco à integridade física.",
+        "C": "Desclassificar o crime para furto, ante a ausência de arma real.",
+        "D": "Aplicar a majorante de arma branca por analogia.",
+        "E": "Absolver o réu por crime impossível."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A majorante exige potencialidade lesiva real (objetiva), não apenas o temor da vítima (subjetivo).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que a arma inidônea serve para caracterizar a grave ameaça (roubo simples), mas não para majorar a pena.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Majorante (Art. 157, § 2º-A, I):</strong> Fundamenta-se no maior perigo objetivo que o emprego de arma de fogo gera para a vida da vítima.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Reincidência e Regime",
+      "enunciado": "[TEXTO DE APOIO] O HC 836.467-SP (Informativo 780) tratou da fixação do regime inicial para réus reincidentes condenados a penas baixas.\n\n[COMANDO] Segundo a Súmula 269 do STJ e o entendimento reafirmado no Informativo 780, ao réu reincidente condenado a pena igual ou inferior a 4 anos:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser imposto sempre o regime fechado.",
+        "B": "Pode ser fixado o regime semiaberto, desde que favoráveis as circunstâncias judiciais.",
+        "C": "Pode ser fixado o regime aberto se o crime for culposo.",
+        "D": "A reincidência impede qualquer regime que não o fechado, independentemente do art. 59 do CP.",
+        "E": "O regime inicial será obrigatoriamente o aberto se o réu for idoso."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A reincidência não gera automaticamente o regime mais gravoso se a pena for pequena.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>É a literalidade da Súmula 269 do STJ, aplicada no Informativo 780.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 269 STJ:</strong> É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Violência Doméstica",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.073.344-DF (Informativo 780), o STJ analisou a agravante do art. 61, II, 'f', do CP (violência contra a mulher na forma da lei específica).\n\n[COMANDO] Para a incidência dessa agravante, é necessário que o crime seja praticado:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Contra qualquer pessoa do sexo feminino, independentemente do contexto.",
+        "B": "No âmbito das relações domésticas, familiares ou de afetividade, conforme a Lei Maria da Penha.",
+        "C": "Apenas se houver coabitação entre autor e vítima.",
+        "D": "Exclusivamente por homens contra mulheres.",
+        "E": "Somente em crimes de lesão corporal grave ou feminicídio."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A agravante remete expressamente à 'lei específica' (Lei 11.340/06).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Não basta a vítima ser mulher; deve haver o contexto de vulnerabilidade ou relação íntima previsto na Lei Maria da Penha.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 61, II, 'f', CP:</strong> Agrava a pena o crime cometido com abuso de autoridade ou prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade, ou com violência contra a mulher na forma da lei específica.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista Jurídico",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "[TEXTO DE APOIO] O HC 820.697-PR (Informativo 780) tratou da natureza da constituição definitiva do crédito tributário nos crimes do art. 1º da Lei 8.137/90.\n\n[COMANDO] Segundo o STJ, a constituição definitiva do crédito tributário é considerada:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Condição objetiva de punibilidade.",
+        "B": "Elemento do tipo penal (crime material).",
+        "C": "Causa de extinção da punibilidade.",
+        "D": "Condição de procedibilidade da ação penal.",
+        "E": "Escusa absolutória."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Embora muitos chamem de condição de procedibilidade, tecnicamente, para crimes materiais, o lançamento é o que consuma o crime.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ e o STF (SV 24) entendem que sem o lançamento não há crime (atipicidade momentânea), logo, é elemento do tipo nos crimes materiais.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 24:</strong> 'Não se tipifica crime material...' - A expressão 'não se tipifica' indica que o lançamento integra a própria tipicidade da conduta.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Prescrição",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.082.029-SP (Informativo 780), discutiu-se o termo inicial da prescrição da pena de multa.\n\n[COMANDO] O termo inicial da prescrição da pretensão executória da pena de multa é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A data do fato delituoso.",
+        "B": "A data do recebimento da denúncia.",
+        "C": "O trânsito em julgado para a acusação.",
+        "D": "A data da inscrição do débito em dívida ativa.",
+        "E": "A data da citação do réu na execução fiscal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prescrição executória pressupõe o título penal definitivo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Aplica-se a regra do art. 112, I, do CP, conforme reafirmado pelo STJ no Informativo 780.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 112, I, CP:</strong> A prescrição da pretensão executória começa a correr: I - do dia em que transita em julgado a sentença condenatória, para a acusação...</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "[TEXTO DE APOIO] O STJ, no Informativo 780, consolidou entendimento sobre a fundamentação das circunstâncias judiciais.\n\n[COMANDO] É nula a decisão que aumenta a pena-base utilizando a seguinte fundamentação para a vetorial 'personalidade':",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O réu demonstra personalidade voltada ao crime por possuir condenações anteriores transitadas em julgado.",
+        "B": "A personalidade do agente é desajustada, conforme laudo psicossocial constante nos autos.",
+        "C": "O agente agiu com frieza excessiva, demonstrando desvalor pela vida humana em atos concretos do crime.",
+        "D": "A personalidade é voltada para o crime, sem indicar fatos concretos que sustentem tal afirmação.",
+        "E": "O réu demonstrou agressividade desproporcional durante a execução do delito, agredindo a vítima já rendida."
+      },
+      "resposta_correta": "D",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A Súmula 660 veda fundamentações genéricas.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>D) ✅ CORRETA</p><p style='color: #155724;'>Afirmações abstratas como 'personalidade voltada ao crime' sem base em fatos concretos ferem o dever de motivação.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 444 STJ:</strong> É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Princípio da Insignificância e Reiteração Delitiva",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.081.082-MG (Informativo 780), o STJ analisou o impacto da reincidência no princípio da insignificância.\n\n[COMANDO] De acordo com a jurisprudência atual do STJ, a reincidência do agente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Impede, de forma absoluta e automática, o reconhecimento da insignificância.",
+        "B": "É irrelevante para a análise da insignificância, que foca apenas no valor do bem.",
+        "C": "Pode impedir o reconhecimento da insignificância por indicar maior reprovabilidade, mas o juiz deve analisar o caso concreto.",
+        "D": "Só impede a insignificância se for reincidência específica em crimes violentos.",
+        "E": "Gera a obrigatória substituição da pena privativa de liberdade por restritiva de direitos."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ flexibilizou a vedação absoluta à insignificância para reincidentes.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Embora a reiteração criminosa seja obstáculo, o STJ admite a bagatela em casos excepcionais se a medida for socialmente recomendável.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Critério Subjetivo:</strong> A insignificância não deve ser um incentivo à reiteração delitiva (criminosos profissionais).</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Prisão Preventiva",
+      "enunciado": "[TEXTO DE APOIO] O Informativo 780 do STJ abordou a fundamentação da prisão preventiva no REsp 2.052.748-SC.\n\n[COMANDO] A decisão que decreta a prisão preventiva baseada exclusivamente na 'gravidade abstrata do delito' e no 'clamor público' é considerada:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Válida, pois crimes graves exigem resposta imediata do Estado.",
+        "B": "Nula, por ausência de fundamentação cautelar concreta.",
+        "C": "Válida, desde que o crime seja hediondo.",
+        "D": "Nula, apenas se o réu for primário e tiver bons antecedentes.",
+        "E": "Válida, se houver prova cabal da autoria."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prisão preventiva é medida excepcional e exige periculum libertatis concreto.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ e o STF possuem jurisprudência pacífica de que a gravidade abstrata não autoriza a segregação cautelar.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 315, § 2º, CPP:</strong> Não se considera fundamentada qualquer decisão judicial que [...] se limitar à indicação, à reprodução ou à paráfrase de ato normativo...</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "[TEXTO DE APOIO] No HC 843.437-SC (Informativo 780), o STJ discutiu a natureza jurídica do acordo de colaboração premiada.\n\n[COMANDO] O acordo de colaboração premiada é classificado como:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Contrato administrativo de adesão.",
+        "B": "Negócio jurídico processual personalíssimo.",
+        "C": "Sentença judicial antecipada.",
+        "D": "Ato administrativo discricionário puro.",
+        "E": "Prova documental pré-constituída."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A natureza jurídica define quem pode impugnar e os limites do controle judicial.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ reafirma que é um negócio jurídico processual, o que impede terceiros (delatados) de impugnarem os termos do acordo em si.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina:</strong> Por ser meio de obtenção de prova, o foco é a regularidade, voluntariedade e legalidade do pacto.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Competência",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.074.880-MG (Informativo 780), o STJ analisou o crime de peculato praticado por funcionário de empresa pública federal.\n\n[COMANDO] A competência para julgar crime praticado por funcionário de Empresa Pública Federal (ex: Caixa Econômica Federal) em detrimento desta é da:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Justiça Estadual, pois empresas públicas possuem personalidade jurídica de direito privado.",
+        "B": "Justiça Federal, conforme o art. 109, IV da Constituição Federal.",
+        "C": "Justiça Federal, apenas se houver prejuízo ao Tesouro Nacional.",
+        "D": "Justiça Estadual, salvo se o crime for de lavagem de dinheiro.",
+        "E": "Justiça Federal, apenas se o funcionário for ocupante de cargo em comissão."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Empresas Públicas Federais atraem a competência da Justiça Federal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Diferente das Sociedades de Economia Mista (Justiça Estadual), as Empresas Públicas Federais estão expressamente no rol do art. 109, IV da CF.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 147 STJ:</strong> Compete à Justiça Federal processar e julgar os crimes praticados contra funcionário público federal, quando relacionados com o exercício das funções.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Princípio da Consunção",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.072.049-SC (Informativo 780), o STJ aplicou o princípio da consunção.\n\n[COMANDO] Para que o crime de roubo absorva o crime de porte de arma, é necessário que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A arma seja de uso restrito.",
+        "B": "O agente possua registro da arma, mas não o porte.",
+        "C": "Haja uma relação de meio e fim entre o porte e o roubo, sem autonomia temporal ou de desígnios.",
+        "D": "O roubo seja tentado e o porte consumado.",
+        "E": "A pena do roubo seja menor que a do porte."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A consunção resolve o conflito aparente de normas.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Se o porte da arma esgota sua finalidade na prática do roubo, o crime-fim absorve o crime-meio.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conflito de Normas:</strong> Critérios da especialidade, subsidiariedade e consunção.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Dosimetria da Pena",
+      "enunciado": "[TEXTO DE APOIO] A Súmula 660 do STJ veda a fundamentação per relationem genérica na dosimetria.\n\n[COMANDO] Na primeira fase da dosimetria, o juiz pode aumentar a pena-base com fundamento nas 'consequências do crime' se:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A vítima faleceu (no crime de homicídio).",
+        "B": "O patrimônio não foi recuperado (no crime de roubo).",
+        "C": "Houve trauma psicológico grave e comprovado que impede a vítima de trabalhar (no crime de estupro).",
+        "D": "O agente agiu com dolo intenso.",
+        "E": "O crime causou repercussão na mídia local."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>As consequências devem extrapolar o resultado natural do tipo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Um trauma que gera incapacidade laboral é um desdobramento concreto que justifica a exasperação, pois vai além da lesão à dignidade sexual inerente ao tipo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 59, CP:</strong> O juiz atenderá à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime...</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] No REsp 2.052.193-RJ (Informativo 780), o STJ tratou da autolavagem (self-laundering).\n\n[COMANDO] Sobre a autolavagem no Direito Penal brasileiro, é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É atípica, pois ninguém pode lavar o dinheiro do próprio crime.",
+        "B": "É admitida, podendo o autor do crime antecedente responder também pela lavagem se houver atos autônomos de ocultação/dissimulação.",
+        "C": "Configura bis in idem em qualquer circunstância.",
+        "D": "Só é punível se o crime antecedente for contra a Administração Pública.",
+        "E": "Exige que o agente conte com o auxílio de terceiros para a dissimulação."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A autolavagem é conduta punível de forma independente.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ consolidou que o autor do crime antecedente pode ser sujeito ativo do crime de lavagem (autolavagem), desde que os atos de lavagem não sejam mero exaurimento do crime anterior.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Doutrina:</strong> A lavagem protege a administração da justiça e a ordem econômica, bens jurídicos distintos do crime antecedente.</p></div></div>"
+    },
+    {
+      "numero_questao": 31,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Princípios",
+      "enunciado": "Uma empresa, com o objetivo de reduzir o montante de tributos devidos, falsificou diversas notas fiscais de serviços, registrando despesas inexistentes em sua contabilidade. A falsificação foi descoberta durante uma auditoria fiscal, e o empresário foi denunciado por falsidade ideológica (Art. 299 do Código Penal) e sonegação fiscal (Art. 1º, inciso I, da Lei nº 8.137/90). Diante da situação hipotética e da jurisprudência do Superior Tribunal de Justiça, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O empresário deve responder pelos crimes de falsidade ideológica e sonegação fiscal em concurso material, pois são delitos autônomos e com desígnios distintos.",
+        "B": "A falsidade ideológica é absorvida pela sonegação fiscal, aplicando-se o princípio da consunção, uma vez que a falsificação das notas constituiu meio necessário e etapa preparatória para a prática do crime tributário.",
+        "C": "A sonegação fiscal é absorvida pela falsidade ideológica, pois o crime-fim foi a obtenção da vantagem indevida através da fraude documental.",
+        "D": "Não há absorção, mas sim concurso formal, pois a falsificação e a sonegação foram praticadas mediante uma única conduta, embora com mais de um resultado.",
+        "E": "O princípio da consunção não se aplica a crimes tributários, devendo o empresário ser responsabilizado por ambos os delitos em concurso formal impróprio."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>crimes contra a ordem tributária e o princípio da consunção</strong>. O ponto-chave é a aplicação da absorção da falsidade ideológica pela sonegação fiscal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A jurisprudência do STJ, especialmente no REsp 1.966.195-SP (Informativo 780), entende que pode haver consunção, e não concurso material, quando a falsidade é meio necessário.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Conforme o entendimento do Superior Tribunal de Justiça (REsp 1.966.195-SP, Informativo 780), a falsificação de notas fiscais (falsidade ideológica) é absorvida pelo crime de sonegação fiscal quando constitui meio necessário para a prática deste. O princípio da consunção se aplica quando um crime é meio para a execução de outro, e este último é o crime-fim.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O crime-fim, neste contexto, é a sonegação fiscal, sendo a falsidade ideológica o crime-meio. A absorção ocorre do crime-meio pelo crime-fim.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Não se trata de concurso formal, mas sim de aplicação do princípio da consunção, que afasta o concurso de crimes quando um deles é etapa necessária ou meio para o outro.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O princípio da consunção é plenamente aplicável a crimes tributários, desde que preenchidos os requisitos, como a relação de meio e fim entre os delitos.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se que, para a aplicação da consunção em crimes tributários, a falsidade (ideológica ou material) deve ser mero instrumento para a sonegação, sem potencialidade lesiva autônoma.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 32,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Fazenda Estadual",
+      "subtema": "Princípios",
+      "enunciado": "De acordo com o entendimento do Superior Tribunal de Justiça, a falsificação de notas fiscais, conduta que se amolda ao tipo penal da falsidade ideológica, será absorvida pelo crime de sonegação fiscal, desde que a adulteração dos documentos tenha sido utilizada como meio necessário para a prática do delito tributário.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Certo",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o <strong>princípio da consunção em crimes tributários</strong>. A afirmativa está <strong>CORRETA</strong> porque reflete o entendimento consolidado do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça, no REsp 1.966.195-SP (Informativo 780), firmou o entendimento de que a falsificação de notas fiscais (falsidade ideológica) pode ser absorvida pelo crime de sonegação fiscal quando constitui meio necessário para a prática deste. O princípio da consunção aplica-se quando um delito é fase normal de preparação ou execução de outro.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A absorção ocorre se a falsidade esgota sua potencialidade lesiva na consumação do crime tributário, ou seja, se não subsistem outros danos independentes da sonegação.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 33,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Tributário da Receita Federal",
+      "subtema": "Prescrição",
+      "enunciado": "Um indivíduo, que contava com 20 anos de idade na data da prática de um crime de furto qualificado, foi processado e condenado. Após a condenação transitada em julgado para a acusação, o prazo prescricional começou a correr. Considerando a idade do réu na data do fato, conforme a jurisprudência do Superior Tribunal de Justiça, a prescrição da pretensão punitiva intercorrente terá seu prazo:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Reduzido pela metade, em qualquer hipótese de prescrição.",
+        "B": "Reduzido pela metade, apenas se o réu for menor de 18 anos na data do fato.",
+        "C": "Reduzido pela metade, se o réu era menor de 21 anos na data do fato.",
+        "D": "Aumentado em um terço, em razão da maior reprovabilidade da conduta.",
+        "E": "Inalterado, uma vez que a redução pela metade aplica-se somente à prescrição da pretensão executória."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>prescrição da pretensão punitiva com redução de prazo por idade</strong>. O ponto-chave é a aplicação do Art. 115 do Código Penal, conforme reforçado pelo Informativo 780 do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A redução não se aplica a *qualquer* hipótese de prescrição, mas sim aos prazos de prescrição da pretensão punitiva e executória, nos termos do Art. 115 do CP.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O Art. 115 do CP estabelece a redução para o agente que era menor de 21 anos ao tempo do crime, e não apenas menor de 18 anos.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Art. 115 do Código Penal e o entendimento do Superior Tribunal de Justiça (RHC 171.603-SP, Informativo 780), os prazos de prescrição são reduzidos pela metade quando o criminoso era, ao tempo do crime, menor de 21 anos. O informativo especificamente reforça essa aplicação à prescrição da pretensão punitiva intercorrente.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Não há previsão legal para aumento do prazo prescricional em razão da idade do agente, mas sim para redução em situações específicas.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A redução pela metade se aplica tanto à pretensão punitiva quanto à pretensão executória, desde que o agente preencha os requisitos do Art. 115 do CP.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O Art. 115 do CP prevê a redução do prazo prescricional pela metade em duas situações: agente menor de 21 anos ao tempo do crime ou maior de 70 anos na data da sentença.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 34,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "ANPP",
+      "enunciado": "O Superior Tribunal de Justiça entende que, para a celebração do Acordo de Não Persecução Penal (ANPP), a confissão formal e circunstanciada da prática da infração penal, exigida pelo Art. 28-A do Código de Processo Penal, possui natureza de condição de procedibilidade, não configurando, por si só, prova de culpa para fins de condenação.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Certo",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>natureza jurídica da confissão no Acordo de Não Persecução Penal (ANPP)</strong>. A afirmativa está <strong>CORRETA</strong>, conforme o entendimento do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça, no HC 775.467-SP (Informativo 780), firmou o entendimento de que a confissão formal e circunstanciada exigida para a celebração do ANPP (Art. 28-A do CPP) possui natureza de condição de procedibilidade ou de propositura do acordo. Isso significa que ela não é, por si só, prova de culpa para fins de condenação, caso o acordo seja descumprido e o processo retome seu curso, evitando-se o uso da confissão como atalho para a condenação.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A confissão no ANPP é uma condição para a sua formalização, mas não pode ser a única base para uma condenação posterior, protegendo a ampla defesa e o devido processo legal.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 35,
+      "banca": "CONSULPLAN",
+      "ano": 2024,
+      "cargo": "Fiscal de Tributos Municipais",
+      "subtema": "Princípios",
+      "enunciado": "Em uma fiscalização, constatou-se que um contribuinte utilizou documentos fiscais ideologicamente falsos para fraudar o fisco municipal, declarando vendas em valores inferiores aos reais. O Ministério Público o denunciou por falsidade ideológica e crime contra a ordem tributária. Com base na jurisprudência do STJ, é correto afirmar que:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A falsidade ideológica e o crime contra a ordem tributária sempre concorrem em concurso formal, dada a unicidade de desígnio.",
+        "B": "O crime de falsidade ideológica será absorvido pelo crime contra a ordem tributária se a conduta de falsificar os documentos tiver sido o meio necessário para a prática do delito fiscal.",
+        "C": "O crime contra a ordem tributária absorve a falsidade ideológica apenas se a pena do crime fiscal for superior à pena do crime de falsidade.",
+        "D": "A absorção de crimes em matéria tributária é vedada, prevalecendo sempre o concurso material entre as infrações.",
+        "E": "Ambos os crimes são autônomos e devem ser julgados separadamente, sem aplicação do princípio da consunção ou concurso."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>princípio da consunção em crimes fiscais</strong>. O ponto-chave é a absorção da falsidade ideológica pelo crime contra a ordem tributária quando a primeira é meio para a segunda.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Não é sempre concurso formal. A jurisprudência do STJ admite a consunção quando a falsidade é crime-meio necessário.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>De acordo com o Superior Tribunal de Justiça (REsp 1.966.195-SP, Informativo 780), a falsidade ideológica (ou material) é absorvida pelo crime contra a ordem tributária (sonegação fiscal) quando a adulteração dos documentos é utilizada como meio necessário e exclusivo para a prática do delito tributário, sem potencialidade lesiva autônoma.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A absorção não depende da pena dos crimes, mas sim da relação de meio e fim e da ausência de potencialidade lesiva autônoma do crime-meio.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A absorção é plenamente aplicável em matéria tributária, conforme a jurisprudência do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A relação entre os crimes deve ser analisada, e a consunção pode afastar o julgamento separado, unificando as condutas em um único crime-fim.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Para o princípio da consunção ser aplicado, o crime-meio deve ser exaurido na prática do crime-fim, não podendo ter existência autônoma ou causar outros danos.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 36,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Trabalho",
+      "subtema": "Execução Penal",
+      "enunciado": "A Súmula 667 do Superior Tribunal de Justiça estabelece que o crime de tráfico de drogas, em suas diversas modalidades, é insuscetível de indulto individual, sem qualquer exceção.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Errado",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>aplicabilidade do indulto ao crime de tráfico de drogas</strong>, conforme a Súmula 667 do STJ. A afirmativa está <strong>INCORRETA</strong> porque omite as exceções previstas na súmula.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A Súmula 667 do STJ (Informativo 780) de fato estabelece que o crime de tráfico de drogas é, em regra, insuscetível de indulto individual. No entanto, a súmula prevê uma exceção expressa: \"exceto se a pena privativa de liberdade for igual ou inferior a 8 anos e o condenado tiver cumprido 2/5 da pena, se primário, ou 3/5, se reincidente\". A afirmativa da questão, ao afirmar \"sem qualquer exceção\", torna-se incorreta.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Sempre preste atenção aos \"salvo\", \"exceto\", \"apenas\" e \"somente\" em questões de súmulas e legislação, pois são frequentemente utilizados para criar pegadinhas.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 37,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Estaduais",
+      "subtema": "Fé Pública",
+      "enunciado": "Um empresário, com o intuito de diminuir o imposto de renda devido por sua pessoa jurídica, registrou em seus livros contábeis despesas fictícias e omissões de receitas, utilizando para tanto notas fiscais \"frias\" obtidas de terceiros. A conduta foi caracterizada como crime contra a ordem tributária (Lei nº 8.137/90). A respeito da relação entre a falsificação documental e o crime tributário, segundo o entendimento do STJ, assinale a opção correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A utilização de notas fiscais \"frias\" para fraudar o fisco configura concurso material entre falsidade ideológica e crime tributário.",
+        "B": "A falsidade ideológica, neste caso, é absorvida pelo crime contra a ordem tributária, em razão do princípio da consunção.",
+        "C": "A falsidade ideológica é crime autônomo e mais grave, de modo que o crime tributário seria por ela absorvido.",
+        "D": "O princípio da consunção somente se aplica quando a falsidade é material, e não ideológica.",
+        "E": "A conduta se enquadra apenas no crime tributário, sendo a falsificação um mero exaurimento do delito."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>princípio da consunção em crimes tributários</strong>, especificamente a relação entre falsidade documental e sonegação fiscal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ entende que, se a falsificação é meio necessário para o crime tributário, aplica-se a consunção, e não o concurso material.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Conforme a jurisprudência do Superior Tribunal de Justiça (REsp 1.966.195-SP, Informativo 780), a falsidade ideológica ou material é absorvida pelo crime contra a ordem tributária quando a falsificação dos documentos constitui meio necessário para a prática do delito fiscal e esgota sua potencialidade lesiva na consumação do crime-fim.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A falsidade, neste contexto, é o crime-meio, sendo absorvida pelo crime-fim (tributário), e não o contrário.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>O princípio da consunção pode ser aplicado tanto à falsidade material quanto à ideológica, desde que preenchidos os requisitos.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A falsificação não é um mero exaurimento, mas sim um crime-meio que pode ser absorvido pelo crime-fim, se houver relação de consunção.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A absorção da falsidade pelo crime tributário é a regra quando a falsificação é meramente instrumental e não possui autonomia lesiva.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 38,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Analista de Finanças e Controle",
+      "subtema": "Prescrição",
+      "enunciado": "Segundo o Código Penal e a jurisprudência do Superior Tribunal de Justiça, os prazos de prescrição da pretensão punitiva e da pretensão executória são reduzidos pela metade quando o agente era menor de 21 anos na data da prática do fato criminoso.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Certo",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a <strong>redução dos prazos prescricionais em razão da idade do agente</strong>. A afirmativa está <strong>CORRETA</strong>, conforme o Art. 115 do Código Penal e a jurisprudência do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Art. 115 do Código Penal estabelece que \"Os prazos de prescrição (...) são reduzidos de metade quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, maior de 70 (setenta) anos.\" Essa regra se aplica tanto à prescrição da pretensão punitiva (incluindo a intercorrente, conforme RHC 171.603-SP do Informativo 780) quanto à prescrição da pretensão executória. Portanto, a afirmativa está em consonância com a lei e a interpretação do STJ.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O legislador buscou beneficiar jovens e idosos, considerando suas condições peculiares de desenvolvimento ou fragilidade, com a redução dos prazos prescricionais.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 39,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal do Estado",
+      "subtema": "ANPP",
+      "enunciado": "Sobre o Acordo de Não Persecução Penal (ANPP), instituído pelo Pacote Anticrime (Lei nº 13.964/2019), e considerando o entendimento do Superior Tribunal de Justiça, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A confissão formal e circunstanciada da prática da infração penal é um requisito facultativo para a celebração do ANPP, podendo ser substituída por outras provas.",
+        "B": "O ANPP pode ser proposto para crimes com pena mínima superior a 4 anos, desde que o Ministério Público entenda ser suficiente para a reprovação e prevenção do crime.",
+        "C": "A confissão exigida para o ANPP tem natureza jurídica de condição de procedibilidade, não podendo ser utilizada como prova única para uma eventual condenação em caso de descumprimento do acordo.",
+        "D": "A celebração do ANPP impede o prosseguimento da ação penal em qualquer hipótese, mesmo em caso de descumprimento das condições.",
+        "E": "O ANPP é aplicável a crimes praticados com violência ou grave ameaça, desde que o prejuízo à vítima seja integralmente reparado."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>Acordo de Não Persecução Penal (ANPP) e a natureza da confissão</strong>. O ponto-chave é a interpretação do STJ sobre a confissão como condição de procedibilidade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A confissão formal e circunstanciada é um requisito *obrigatório* do ANPP, conforme o Art. 28-A do CPP, e não pode ser substituída.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c7d;'>O ANPP é cabível para crimes com pena mínima *inferior a 4 anos*, conforme Art. 28-A do CPP.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Superior Tribunal de Justiça (HC 775.467-SP, Informativo 780), a confissão exigida para o ANPP tem natureza de condição de procedibilidade para a sua celebração. Isso significa que, se o acordo for descumprido e o processo retomar, a confissão feita para o ANPP não pode ser a única prova para embasar uma condenação, garantindo a presunção de inocência e o direito à não autoincriminação.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>Em caso de descumprimento das condições do ANPP, o Ministério Público pode rescindir o acordo e retomar a persecução penal, com o oferecimento da denúncia.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>O ANPP é aplicável a crimes praticados com violência ou grave ameaça, desde que o prejuízo à vítima seja integralmente reparado.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Conhecer os requisitos e as vedações do ANPP (Art. 28-A do CPP) é fundamental, pois é um tema recorrente em concursos.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 40,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Fiscal de Rendas",
+      "subtema": "Princípios",
+      "enunciado": "O Superior Tribunal de Justiça entende que o princípio da consunção não se aplica quando a falsificação de documentos fiscais, embora realizada com o propósito de sonegar tributos, possui potencialidade lesiva autônoma, capaz de gerar outros danos que não apenas a supressão ou redução do tributo.",
+      "tipo": "certo_errado",
+      "alternativas": {},
+      "resposta_correta": "Certo",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda uma nuance importante do <strong>princípio da consunção em crimes tributários</strong>. A afirmativa está <strong>CORRETA</strong>, pois a potencialidade lesiva autônoma impede a absorção.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>Embora o Superior Tribunal de Justiça (REsp 1.966.195-SP, Informativo 780) admita a absorção da falsidade ideológica pelo crime de sonegação fiscal quando aquela é meio necessário para esta, o mesmo Tribunal ressalta que a consunção não se aplica se a falsificação dos documentos possuir potencialidade lesiva autônoma, ou seja, se for capaz de produzir outros resultados danosos além da simples supressão ou redução do tributo. Nesse caso, a falsidade não seria meramente um crime-meio exaurido no crime-fim, podendo configurar concurso de crimes.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A chave para a aplicação da consunção é a verificação se o crime-meio esgota sua eficácia na consecução do crime-fim, sem gerar consequências jurídicas ou danos independentes.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 41,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Concurso Pessoas",
+      "enunciado": "A respeito da jurisprudência do Superior Tribunal de Justiça, conforme o Informativo 780, sobre os crimes de corrupção, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A atuação de advogado como mero intermediário entre o corruptor e o funcionário público corrompido, sem qualquer interesse direto na vantagem indevida, descaracteriza sua participação no crime de corrupção, sendo o ato atípico.",
+        "B": "Para que o advogado seja responsabilizado por corrupção, é imprescindível que ele ocupe cargo público ou possua status de funcionário público para fins penais, conforme a teoria monista do Código Penal.",
+        "C": "A figura do advogado que atua como \"ponte\" ou \"elo\" entre o corruptor e o corrompido, mesmo não sendo funcionário público, pode configurar coautoria ou participação nos crimes de corrupção ativa ou passiva, a depender da sua contribuição causal para a prática delitiva.",
+        "D": "O Superior Tribunal de Justiça entende que a mera intermediação de valores ou vantagens indevidas por um advogado, sem a prática de atos de ofício, configura o crime de lavagem de dinheiro, e não de corrupção.",
+        "E": "A colaboração do advogado na intermediação de vantagens indevidas é sempre considerada um mero ato preparatório impunível, salvo se houver efetiva consumação do crime por parte do funcionário público, com o recebimento da vantagem."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>crimes de corrupção, coautoria e participação</strong>. O ponto-chave é a possibilidade de responsabilização criminal de advogado que atua como intermediário entre corruptor e corrompido, conforme o Informativo 780 do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A atuação do advogado como intermediário pode, sim, caracterizar participação ou coautoria, conforme o STJ, desmentindo a ideia de ato atípico.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça, no AgRg no REsp 2.062.260-SP (Informativo 780), firmou o entendimento de que a atuação de advogado como \"ponte\" ou \"elo\" entre o corruptor e o corrompido, mesmo não sendo funcionário público, pode configurar coautoria ou participação nos crimes de corrupção ativa ou passiva, a depender da sua contribuição causal para a prática delitiva. A participação não exige a condição de funcionário público para o partícipe ou coautor, desde que ele tenha conhecimento da condição do autor principal e contribua para o crime.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Lembre-se da teoria monista da participação criminosa, onde todos que concorrem para o crime incidem nas penas a ele cominadas, respeitando-se as condições e circunstâncias pessoais (art. 29 do CP). A condição de funcionário público é elementar do crime de corrupção, mas não impede a participação de não-funcionários, desde que cientes dessa condição.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 42,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Analista de Finanças e Controle",
+      "subtema": "Pena",
+      "enunciado": "Consoante o entendimento do Superior Tribunal de Justiça, exarado no Informativo 780, é correto afirmar que a condenação definitiva por fato criminoso posterior ao crime em análise, mas com trânsito em julgado ocorrido antes da prolação da sentença no processo em questão, pode ser validamente utilizada para fins de valoração negativa dos antecedentes do réu na primeira fase da dosimetria da pena.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Certo",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a valoração de maus antecedentes na dosimetria da pena</strong>. A afirmativa está <strong>CORRETA</strong> porque o STJ entende que o que importa é a data do trânsito em julgado da condenação anterior ser anterior à prolação da sentença do crime em análise, independentemente da data do fato.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça, no AgRg no REsp 2.050.282-DF (Informativo 780), firmou o entendimento de que a condenação definitiva por fato criminoso posterior ao crime em análise, mas com trânsito em julgado ocorrido antes da prolação da sentença no processo em questão, pode, sim, ser validamente utilizada para fins de valoração negativa dos antecedentes do réu na primeira fase da dosimetria da pena. O marco temporal para a configuração dos maus antecedentes é a data do trânsito em julgado da condenação anterior, em relação à prolação da sentença do crime sob julgamento, e não a data do cometimento dos fatos.</p></div><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa estaria errada se condicionasse a valoração dos maus antecedentes à data do cometimento do fato criminoso ser anterior ao crime em análise. Contudo, o STJ adota o critério do trânsito em julgado da condenação anterior em relação à sentença do crime em julgamento.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A distinção entre maus antecedentes e reincidência é crucial: enquanto a reincidência exige o trânsito em julgado de condenação anterior ao cometimento do novo crime, os maus antecedentes consideram o trânsito em julgado anterior à sentença do crime em questão, mesmo que o fato tenha sido posterior ao crime atual.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 43,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Municipais",
+      "subtema": "Concurso Crimes",
+      "enunciado": "De acordo com a jurisprudência do Superior Tribunal de Justiça, conforme o Informativo 780, acerca da posse de munição no contexto de tráfico de drogas, assinale a opção correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A posse de munição de uso permitido, mesmo desacompanhada de arma de fogo, quando inserida no contexto de tráfico de drogas, é absorvida pelo crime de tráfico, sendo considerada mero ato preparatório ou crime-meio.",
+        "B": "A posse de munição de uso permitido, desacompanhada de arma de fogo, no contexto de tráfico de drogas, configura crime autônomo previsto no art. 14 do Estatuto do Desarmamento (Lei n. 10.826/2003), não sendo absorvida pelo tráfico.",
+        "C": "Para que a posse de munição configure crime autônomo em contexto de tráfico, é imprescindível que a munição seja de uso restrito ou proibido, dado o princípio da insignificância para munição de uso permitido.",
+        "D": "A mera posse de munição, sem arma, não configura crime, mas apenas infração administrativa, independentemente do contexto em que seja encontrada, por ausência de perigo abstrato.",
+        "E": "O crime de posse de munição somente se configura se houver a comprovação do potencial lesivo da munição e de seu uso efetivo, o que não ocorre quando desacompanhada de arma de fogo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>concurso de crimes, especificamente entre tráfico de drogas e posse de munição</strong>. O ponto-chave é o entendimento do STJ sobre a autonomia do crime de posse de munição em contexto de tráfico.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ, no Informativo 780, rechaça a ideia de absorção, considerando a posse de munição um crime autônomo, e não mero ato preparatório ou crime-meio.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça, no REsp 2.053.864-RS (Informativo 780), decidiu que a posse de munição de uso permitido, mesmo desacompanhada de arma de fogo, quando inserida no contexto de tráfico de drogas, configura crime autônomo previsto no art. 14 do Estatuto do Desarmamento (Lei n. 10.826/2003), não sendo absorvida pelo tráfico. Trata-se de crimes com bens jurídicos tutelados distintos (saúde pública e segurança pública/incolumidade pública).</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A teoria da consunção (absorção) aplica-se quando um crime é meio necessário ou fase normal de preparação ou execução de outro. No entanto, o STJ entende que o tráfico de drogas e a posse de munição tutelam bens jurídicos diferentes, o que impede a absorção neste caso específico, caracterizando concurso material.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 44,
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal de Rendas",
+      "subtema": "Processo Penal",
+      "enunciado": "Segundo o entendimento do Superior Tribunal de Justiça (Informativo 780), não é cabível a interposição de Recurso em Sentido Estrito (RESE) contra a decisão judicial que meramente homologa laudo pericial para fins de instauração de incidente de insanidade mental, pois tal ato possui natureza interlocutória simples, sem potencial de causar gravame imediato e irreversível à defesa.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Certo",
+      "dificuldade": "Alta",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>o cabimento do Recurso em Sentido Estrito (RESE) em relação a decisões sobre incidente de insanidade mental</strong>. A afirmativa está <strong>CORRETA</strong>, conforme o entendimento do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça, no REsp 2.052.793-RS (Informativo 780), firmou o entendimento de que não é cabível a interposição de Recurso em Sentido Estrito contra decisão que homologa laudo pericial para fins de instauração de incidente de insanidade mental. Tal decisão é considerada um ato de impulsionamento processual, de natureza interlocutória simples, que não se enquadra nas hipóteses taxativas do artigo 581 do Código de Processo Penal e não possui o condão de causar gravame imediato e irreversível à defesa.</p></div><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa estaria errada se defendesse o cabimento do RESE contra tal decisão. O RESE tem rol taxativo, e decisões meramente homologatórias ou de instrução processual que não encerram fases ou processos, nem geram gravame definitivo, não são passíveis de RESE.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>O rol do artigo 581 do CPP é taxativo (numerus clausus). É fundamental conhecer as hipóteses de cabimento do RESE para não confundir com outras decisões judiciais passíveis de recurso de apelação ou habeas corpus, conforme a gravidade e o momento processual.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 45,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Crimes Contra Vida",
+      "enunciado": "Considerando a jurisprudência do Superior Tribunal de Justiça (Informativo 780) sobre as qualificadoras do crime de homicídio, assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A qualificadora do motivo torpe, por ser de natureza subjetiva, é incompatível com a qualificadora do recurso que dificultou ou tornou impossível a defesa do ofendido, de natureza objetiva, devendo uma excluir a outra.",
+        "B": "O Superior Tribunal de Justiça entende que, em caso de concurso de qualificadoras, apenas uma deve ser utilizada para qualificar o homicídio, enquanto as demais, obrigatoriamente, devem ser consideradas como circunstâncias agravantes.",
+        "C": "A qualificadora do motivo torpe (subjetiva) não se confunde com a qualificadora do recurso que dificultou ou tornou impossível a defesa do ofendido (objetiva), sendo perfeitamente possível a coexistência de ambas para qualificar o crime de homicídio, sem que isso configure bis in idem.",
+        "D": "Para a configuração da qualificadora do recurso que dificultou a defesa da vítima, é imprescindível que o agente tenha agido de forma premeditada, com prévio planejamento da surpresa, não bastando a mera superioridade física.",
+        "E": "A qualificadora do motivo torpe exige que o agente tenha agido por razões de vingança pessoal ou ciúmes intensos, sendo inviável sua aplicação em outros contextos de motivação repugnante ou abjeta."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>as qualificadoras do crime de homicídio e a possibilidade de coexistência de qualificadoras de naturezas distintas</strong>. O ponto-chave é o entendimento do STJ de que qualificadoras objetivas e subjetivas podem incidir simultaneamente sem bis in idem.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A incompatibilidade entre qualificadoras de naturezas distintas (subjetiva e objetiva) não é regra; pelo contrário, o STJ admite a coexistência, desde que não configurem o mesmo fato.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça, no REsp 2.036.002-MG (Informativo 780), reafirmou que a qualificadora do motivo torpe (de natureza subjetiva, ligada à motivação do agente) não se confunde com a qualificadora do recurso que dificultou ou tornou impossível a defesa do ofendido (de natureza objetiva, relacionada ao modo de execução do crime). Assim, é perfeitamente possível a coexistência de ambas para qualificar o crime de homicídio, sem que isso configure bis in idem, pois tutelam aspectos distintos do delito.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Em crimes complexos como o homicídio qualificado, é fundamental distinguir as qualificadoras de natureza subjetiva (motivo) das objetivas (meio e modo de execução). Quando há mais de uma qualificadora, uma qualifica o tipo penal e as demais podem ser consideradas como circunstâncias agravantes, se não forem elementares do tipo, ou podem coexistir se não forem redundantes.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 46,
+      "banca": "CONSULPLAN",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Interno",
+      "subtema": "Crimes Sexuais",
+      "enunciado": "De acordo com o entendimento consolidado do Superior Tribunal de Justiça (Informativo 780), para a configuração do crime de estupro de vulnerável, tipificado no art. 217-A do Código Penal, é suficiente a comprovação da idade da vítima inferior a 14 (catorze) anos, sendo dispensável a demonstração de qualquer outra condição que ateste sua vulnerabilidade.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Certo",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a prova da vulnerabilidade no crime de estupro de vulnerável</strong>. A afirmativa está <strong>CORRETA</strong>, pois a idade da vítima, por si só, é suficiente para configurar a vulnerabilidade presumida.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça, no AgRg no REsp 2.067.149-SC (Informativo 780), reafirmou seu entendimento consolidado de que para a configuração do crime de estupro de vulnerável (art. 217-A do CP), basta a comprovação da idade da vítima inferior a 14 (catorze) anos. A vulnerabilidade é presumida por lei (presunção legal absoluta ou iuris et de iure), sendo dispensável a demonstração de qualquer outra condição que ateste a incapacidade da vítima de oferecer resistência ou de compreender o ato sexual.</p></div><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa estaria errada se exigisse a prova da vulnerabilidade real da vítima, além da idade. O STJ e a jurisprudência majoritária entendem que a lei presume a vulnerabilidade pela idade, simplificando a prova do crime.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A presunção de vulnerabilidade pela idade é um ponto crucial do crime de estupro de vulnerável. Fique atento a questões que tentam confundir com a necessidade de prova de efetiva incapacidade de resistência ou de discernimento, pois para menores de 14 anos, a lei já os considera vulneráveis.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 47,
+      "banca": "CESPE/CEBRASPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Violência Doméstica",
+      "enunciado": "Sobre as medidas protetivas de urgência previstas na Lei Maria da Penha (Lei n. 11.340/2006), conforme a recente jurisprudência do Superior Tribunal de Justiça (Informativo 780), assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A concessão de medidas protetivas de urgência exige, obrigatoriamente, a prévia oitiva do agressor, em respeito aos princípios do contraditório e da ampla defesa, sob pena de nulidade.",
+        "B": "A Lei Maria da Penha permite a concessão de medidas protetivas de urgência sem a prévia oitiva do agressor, em razão da natureza cautelar e protetiva dessas medidas, visando à proteção imediata da vítima.",
+        "C": "As medidas protetivas de urgência somente podem ser concedidas após a instauração de inquérito policial ou processo judicial, não sendo cabíveis em fase preliminar de investigação ou antes dela.",
+        "D": "A decisão que concede medidas protetivas de urgência é sempre de caráter definitivo, não podendo ser revista ou revogada posteriormente, salvo por decisão judicial em instância superior.",
+        "E": "A competência para a concessão de medidas protetivas de urgência é exclusiva do juiz criminal, sendo vedado a outros órgãos do sistema de justiça, como o Ministério Público, solicitá-las."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>medidas protetivas de urgência na Lei Maria da Penha</strong>. O ponto-chave é a possibilidade de concessão dessas medidas sem a prévia oitiva do agressor, em face do caráter protetivo e urgente.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A exigência de prévia oitiva do agressor violaria a natureza de urgência e proteção da vítima, sendo dispensável, conforme o entendimento do STJ.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Superior Tribunal de Justiça, no AgRg no REsp 2.056.402-RS (Informativo 780), reafirmou que as medidas protetivas de urgência previstas na Lei Maria da Penha podem ser concedidas sem a prévia oitiva do agressor. Essa possibilidade decorre da natureza cautelar e protetiva dessas medidas, que visam garantir a segurança e a integridade física e psicológica da vítima de violência doméstica e familiar de forma imediata, em um juízo de cognição sumária.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>As medidas protetivas de urgência são instrumentos de proteção imediata. Sua eficácia seria comprometida se dependesse da prévia manifestação do agressor. O contraditório é postergado, não suprimido, sendo garantido ao agressor o direito de impugnar a medida posteriormente.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "numero_questao": 48,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Municipal",
+      "subtema": "Execução Penal",
+      "enunciado": "Consoante o entendimento do Superior Tribunal de Justiça (Informativo 780), o cumprimento de pena em regime mais gravoso do que o fixado na sentença, em virtude de deficiência ou superlotação do sistema prisional, acarreta, automaticamente, o direito do apenado à progressão de regime, em caráter excepcional, para o regime imediatamente menos gravoso.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Errado",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>as consequências do cumprimento de pena em regime mais gravoso devido à deficiência do sistema prisional</strong>. A afirmativa está <strong>INCORRETA</strong>, pois o STJ não reconhece a progressão automática.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>A afirmativa estaria certa se afirmasse que o cumprimento de pena em regime mais gravoso do que o fixado na sentença, por deficiência do Estado, não gera direito à progressão automática, mas sim à colocação no regime adequado ou à prisão domiciliar, se for o caso.</p></div><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>O Superior Tribunal de Justiça, no HC 810.053-RS (Informativo 780), decidiu que o cumprimento da pena em regime mais gravoso do que o fixado na sentença, em virtude de deficiência ou superlotação do sistema prisional, não gera, automaticamente, o direito do apenado à progressão de regime. O que o apenado tem direito é à colocação no regime adequado ou, na impossibilidade, à prisão domiciliar, se preenchidos os requisitos. A progressão de regime exige o cumprimento dos requisitos objetivos e subjetivos previstos em lei, não podendo ser automática em razão da falha estatal.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A Súmula Vinculante n. 56 do STF é relevante aqui: \"É imperiosa a determinação de que o regime prisional imposto na sentença seja imediatamente observado, não se admitindo, em virtude de deficiência do Estado, o cumprimento de pena em regime mais gravoso\". Contudo, isso não se traduz em progressão automática, mas em adequação do regime ou, subsidiariamente, em prisão domiciliar.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Dosimetria da Pena - Maus Antecedentes",
+      "enunciado": "Considere a seguinte situação hipotética: Tício foi denunciado pela prática de um crime de furto qualificado ocorrido em 10 de janeiro de 2020 (Fato 1). Durante o curso da instrução processual relativa ao Fato 1, Tício veio a praticar um novo crime de roubo em 15 de março de 2021 (Fato 2). O processo referente ao Fato 2 tramitou de forma célere, ocorrendo o trânsito em julgado da sentença condenatória em 20 de maio de 2022. Somente em 10 de agosto de 2023, o magistrado responsável pelo caso do Fato 1 passou a proferir a sentença condenatória.\n\nCom base no entendimento do Superior Tribunal de Justiça veiculado no Informativo 780, assinale a alternativa correta quanto à possibilidade de utilização da condenação do Fato 2 na dosimetria da pena do Fato 1:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A condenação por fato posterior ao crime em apuração (Fato 2), mas com trânsito em julgado anterior à sentença do crime em análise (Fato 1), pode ser utilizada como maus antecedentes para fins de fixação da pena-base.",
+        "B": "A condenação pelo Fato 2 configura reincidência técnica, devendo ser valorada na segunda fase da dosimetria da pena do Fato 1, uma vez que o trânsito em julgado ocorreu antes da prolação da sentença.",
+        "C": "O Fato 2 não pode ser valorado como maus antecedentes nem como reincidência na dosimetria do Fato 1, pois a conduta foi praticada cronologicamente após o crime que está sendo sentenciado.",
+        "D": "A utilização de condenações por fatos posteriores, ainda que com trânsito em julgado anterior à sentença, viola o princípio da presunção de inocência e o princípio da legalidade estrita.",
+        "E": "O magistrado deve considerar o Fato 2 como conduta social desabonadora, mas nunca como maus antecedentes, visto que este conceito exige que o crime tenha sido praticado antes do fato em julgamento."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda um tema sensível da dosimetria da pena: a definição de maus antecedentes. O STJ, no Informativo 780 (AgRg no REsp 2.050.282-DF), consolidou o entendimento de que o que define o mau antecedente não é apenas a data do fato, mas sim a existência de uma condenação definitiva (trânsito em julgado) no momento em que a nova sentença é proferida, mesmo que o crime que gerou essa condenação tenha ocorrido depois do crime em julgamento.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>A) ✅ CORRETA</p><p style='color: #155724;'>Reflete exatamente a jurisprudência do STJ: condenação por fato posterior, com trânsito em julgado anterior à sentença do crime em apuração, serve para caracterizar maus antecedentes.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>Para haver reincidência (Art. 63, CP), o agente deve cometer o novo crime *depois* de já ter sido condenado definitivamente por crime anterior. No caso, o Fato 1 ocorreu antes do trânsito em julgado do Fato 2.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ admite a valoração como maus antecedentes, afastando a tese de que o fato precisa ser anterior.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A jurisprudência entende que não há violação a esses princípios, pois o réu já possui uma condenação definitiva que macula seu histórico criminal perante o Estado.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Condenações criminais devem ser valoradas como antecedentes ou reincidência, não como conduta social (Súmula 444 do STJ adaptada ao contexto de que condenações não servem para conduta social).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal/Jurisprudencial:</strong> Informativo 780 do STJ e AgRg no REsp 2.050.282-DF. O conceito de maus antecedentes é mais amplo que o de reincidência.</p><p style='margin-top: 10px;'><strong>Conceito-Chave:</strong> Enquanto a <strong>reincidência</strong> exige que o novo crime seja praticado após o trânsito em julgado de condenação anterior, os <strong>maus antecedentes</strong> exigem apenas que, no momento da sentença, o réu possua condenações definitivas por fatos alheios ao processo, independentemente da data em que esses fatos ocorreram.</p><p style='margin-top: 10px;'><strong>Dica de Prova:</strong> Lembre-se da cronologia: se o trânsito em julgado da condenação 'B' ocorreu antes da sentença do processo 'A', 'B' é mau antecedente de 'A', mesmo que o crime 'B' tenha acontecido depois do crime 'A'.</p></div></div>"
+    },
+    {
+      "numero_questao": 50,
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Estaduais",
+      "subtema": "Prisão",
+      "enunciado": "Segundo o entendimento do Superior Tribunal de Justiça (Informativo 780), o perigo gerado pelo estado de liberdade do imputado, apto a fundamentar a prisão preventiva, pode ser validamente justificado no risco de reiteração delitiva, ainda que os delitos praticados anteriormente e os atuais não sejam da mesma natureza.",
+      "tipo": "certo_errado",
+      "resposta_correta": "Certo",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda <strong>a fundamentação da prisão preventiva, especificamente o perigo de reiteração delitiva</strong>. A afirmativa está <strong>CORRETA</strong>, conforme o entendimento do STJ.</p></div><div style='margin-bottom: 20px;'><div style='padding: 15px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; font-size: 16px; color: #155724;'>✅ CERTO</p><p style='color: #155724; line-height: 1.6;'>O Superior Tribunal de Justiça, no AgRg no HC 817.370-PR (Informativo 780), firmou o entendimento de que o perigo gerado pelo estado de liberdade do imputado, apto a fundamentar a prisão preventiva (art. 312 do CPP), pode ser validamente justificado no risco de reiteração delitiva. Para tanto, não é necessário que os delitos praticados anteriormente e os atuais sejam da mesma natureza, bastando a demonstração de um histórico criminal que indique propensão à prática de novos crimes, evidenciando a periculosidade social do agente.</p></div><div style='padding: 15px; background: #f8d7da; border-radius: 6px; margin-top:10px;'><p style='font-weight: bold; font-size: 16px; color: #721c24;'>❌ ERRADO</p><p style='color: #721c24; line-height: 1.6;'>A afirmativa estaria errada se exigisse que os delitos anteriores e atuais fossem da mesma natureza para justificar o risco de reiteração delitiva. O STJ adota uma visão mais ampla, focando na periculosidade do agente e na probabilidade de novos crimes, independentemente da tipologia.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>A prisão preventiva é uma medida excepcional. Sua fundamentação exige a demonstração do fumus comissi delicti (prova da existência do crime e indícios suficientes de autoria) e do periculum libertatis (perigo que a liberdade do agente representa para a ordem pública, ordem econômica, instrução criminal ou aplicação da lei penal). A reiteração delitiva, mesmo em crimes de naturezas diversas, é um forte indicativo do periculum libertatis.</p></div></div>",
+      "comentario_livro": ""
+    }
+  ],
+  "data_correcao": "2026-01-12T07:23:10.185175",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}

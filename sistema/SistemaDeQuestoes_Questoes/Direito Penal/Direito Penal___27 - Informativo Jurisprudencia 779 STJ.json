@@ -1,0 +1,967 @@
+{
+  "disciplina": "Direito Penal",
+  "tema": "27 - Informativo Jurisprudencia 779 STJ",
+  "questoes": [
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Estadual",
+      "subtema": "Princípio da Insignificância",
+      "enunciado": "[TEXTO DE APOIO] O Superior Tribunal de Justiça (STJ), ao analisar o RHC 178.673-MG, reafirmou os requisitos para a aplicação do princípio da insignificância, que exclui a tipicidade material da conduta. Segundo a jurisprudência consolidada, devem estar presentes quatro vetores objetivos: (I) mínima ofensividade da conduta do agente; (II) nenhuma periculosidade social da ação; (III) reduzidíssimo grau de reprovabilidade do comportamento; e (IV) inexpressividade da lesão jurídica provocada.\n\n[COMANDO] Com base no entendimento do STJ veiculado no Informativo 779, assinale a alternativa correta sobre a influência da reincidência na aplicação do referido princípio:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A reincidência do agente constitui óbice absoluto e intransponível à aplicação do princípio da insignificância, independentemente do valor do bem.",
+        "B": "A reincidência não constitui, por si só, óbice à aplicação do princípio da insignificância, devendo ser analisada em conjunto com os demais requisitos no caso concreto.",
+        "C": "O princípio da insignificância só pode ser aplicado a reincidentes se o crime anterior for de natureza diversa (reincidência genérica).",
+        "D": "A aplicação do princípio da insignificância a réus reincidentes depende obrigatoriamente da reparação integral do dano antes do oferecimento da denúncia.",
+        "E": "A reincidência afasta a insignificância apenas nos crimes contra a administração pública, sendo irrelevante nos crimes patrimoniais."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda a aplicação do <strong>Princípio da Insignificância</strong> em face da reincidência do réu, conforme o Informativo 779 do STJ.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que a reincidência não impede automaticamente a insignificância. O juiz deve analisar se, apesar da reincidência, a conduta preenche os quatro vetores objetivos de mínima ofensividade.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Não é óbice absoluto; a análise é casuística.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A distinção entre reincidência genérica ou específica é um fator de análise, mas não uma regra de exclusão automática.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Jurisprudência do STJ (RHC 178.673-MG).</p><p><strong>Conceito:</strong> A insignificância foca na lesão ao bem jurídico. Embora a reincidência indique maior reprovabilidade subjetiva, ela não altera a inexpressividade objetiva da lesão em certos casos.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Falsidade Documental",
+      "enunciado": "[TEXTO DE APOIO] Um servidor público municipal falsificou um atestado médico particular, inserindo o nome de um médico real e uma assinatura falsa, com o objetivo de justificar três dias de ausência ao serviço e evitar o desconto em sua folha de pagamento. O documento foi apresentado ao setor de Recursos Humanos da Prefeitura.\n\n[COMANDO] De acordo com o entendimento do STJ no REsp 1.839.227-SP (Informativo 779), a conduta do servidor que utiliza atestado médico falsificado para justificar falta ao serviço configura o crime de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Falsidade ideológica (Art. 299 do Código Penal).",
+        "B": "Falsidade de atestado médico (Art. 302 do Código Penal).",
+        "C": "Uso de documento falso (Art. 304 do Código Penal).",
+        "D": "Estelionato qualificado (Art. 171, §3º do Código Penal).",
+        "E": "Prevaricação (Art. 319 do Código Penal)."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ definiu que o uso de atestado médico falso por servidor público para fins administrativos configura o crime de <strong>Uso de Documento Falso</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O crime de uso (art. 304) absorve a falsificação quando praticada pelo mesmo agente para atingir o fim pretendido. A falsidade aqui é material (forma do documento) e não apenas ideológica.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A falsidade ideológica ocorre quando o documento é formalmente autêntico, mas seu conteúdo é falso. No caso, o documento todo foi forjado (falsidade material).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 304 CP:</strong> Fazer uso de qualquer dos papéis falsificados ou alterados, a que se referem os arts. 297 a 302.</p><p><strong>Dica:</strong> Se o agente falsifica e usa, responde apenas pelo uso (crime-fim), ficando a falsificação (crime-meio) absorvida.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "[TEXTO DE APOIO] No âmbito de um acordo de colaboração premiada, o colaborador prestou declarações que levaram à identificação de outros coautores e à recuperação de parte do proveito do crime. O Ministério Público submeteu o acordo à homologação judicial.\n\n[COMANDO] Conforme o entendimento do STJ no AgRg no REsp 2.053.868-PR (Informativo 779), o magistrado, no momento da homologação do acordo de colaboração premiada, deve:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Realizar juízo de valor sobre a veracidade das declarações e a força probatória dos elementos apresentados.",
+        "B": "Limitar-se à análise da regularidade, legalidade e voluntariedade do acordo, sem realizar juízo de valor sobre as declarações.",
+        "C": "Exigir a confissão integral de todos os crimes imputados ao colaborador como condição sine qua non para a validade do acordo.",
+        "D": "Recusar a homologação caso entenda que os benefícios pactuados são excessivos em relação à gravidade do crime.",
+        "E": "Ouvir obrigatoriamente as vítimas antes de decidir sobre a homologação das cláusulas premiais."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A homologação é um controle de <strong>legalidade formal</strong>. O mérito das declarações só será avaliado na sentença.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O juiz não pode valorar provas na homologação. Ele verifica se o acordo foi livre (voluntário), se segue a lei e se o procedimento foi regular.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ decidiu que a validade do acordo não depende da confissão do colaborador sobre seus próprios crimes.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 12.850/13:</strong> O juiz não participa das negociações. Seu papel é de garantidor dos direitos fundamentais e da legalidade do negócio jurídico processual.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] Determinado indivíduo foi denunciado por lavagem de dinheiro proveniente de crime de corrupção passiva. Durante a instrução processual do crime antecedente (corrupção), o agente foi absolvido por falta de provas de que ele teria sido o autor da solicitação da vantagem indevida, embora a existência do esquema criminoso tenha sido comprovada.\n\n[COMANDO] Com base no REsp 2.062.278-SC (Informativo 779), a absolvição do crime antecedente por ausência de prova da autoria:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Impede a condenação pelo crime de lavagem de dinheiro, dada a natureza acessória deste delito.",
+        "B": "Não impede a condenação por lavagem de dinheiro, desde que haja prova da materialidade do crime antecedente e de sua conexão com os valores lavados.",
+        "C": "Gera a extinção da punibilidade da lavagem de dinheiro por ausência de justa causa superveniente.",
+        "D": "Obriga o Ministério Público a aditar a denúncia para converter o crime de lavagem em receptação culposa.",
+        "E": "Suspende o processo de lavagem até que surjam novas provas sobre a autoria do crime principal."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lavagem de dinheiro possui <strong>autonomia típica</strong>. Não se exige condenação ou prova cabal da autoria do crime antecedente.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Basta a prova de que o crime antecedente ocorreu (materialidade). A autoria do crime antecedente pode ser desconhecida ou o agente pode ser absolvido por falta de provas quanto a ela.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A acessoriedade é limitada, não extrema.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 9.613/98, Art. 2º, II:</strong> O processo e julgamento dos crimes de lavagem independem do processo e julgamento das infrações penais antecedentes.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Extinção da Punibilidade e Parcelamento",
+      "enunciado": "[TEXTO DE APOIO] Uma empresa deixou de recolher ICMS declarado por diversos períodos. Após o trânsito em julgado da condenação criminal dos sócios, mas antes do início da execução da pena, a empresa efetuou o pagamento integral do tributo, acrescido de juros e multas.\n\n[COMANDO] Conforme o AgRg no HC 804.795-SP (Informativo 779), sobre a extinção da punibilidade pelo pagamento nos crimes tributários, assinale a opção correta:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O pagamento só extingue a punibilidade se realizado até o recebimento da denúncia.",
+        "B": "O pagamento extingue a punibilidade apenas se realizado até a sentença de primeiro grau.",
+        "C": "O pagamento integral do débito tributário, a qualquer tempo, inclusive após o trânsito em julgado, extingue a punibilidade.",
+        "D": "A extinção da punibilidade pelo pagamento não se aplica aos crimes previstos no art. 2º da Lei 8.137/90.",
+        "E": "O pagamento integral extingue a punibilidade, mas o juiz deve obrigatoriamente aplicar uma pena restritiva de direitos substitutiva."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>No Direito Penal Tributário brasileiro, o Estado privilegia a arrecadação em detrimento da punição corporal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STJ consolidou que o pagamento integral a qualquer tempo (mesmo após o trânsito em julgado) extingue a punibilidade nos crimes da Lei 8.137/90 e no art. 337-A do CP.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Este limite temporal existia em leis antigas, mas foi superado pela legislação atual e jurisprudência.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 10.684/03, Art. 9º:</strong> Prevê a suspensão da pretensão punitiva pelo parcelamento e a extinção pelo pagamento integral.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Prescrição no Crime Continuado",
+      "enunciado": "[TEXTO DE APOIO] Um réu foi condenado por furto em continuidade delitiva (Art. 71 do CP). A pena-base foi fixada em 1 ano, aumentada em 1/6 pela continuidade, totalizando 1 ano e 2 meses.\n\n[COMANDO] Considerando a Súmula 497 do STF e o Informativo 779 do STJ (AgRg no REsp 2.072.196-SP), o cálculo do prazo da prescrição da pretensão punitiva deve considerar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A pena total imposta na sentença, incluindo o acréscimo da continuidade delitiva.",
+        "B": "A pena máxima cominada em abstrato ao delito, multiplicada pelo número de crimes cometidos.",
+        "C": "A pena fixada para cada crime isoladamente, desprezando-se o acréscimo decorrente da continuidade delitiva.",
+        "D": "A média aritmética entre a pena mínima e a pena máxima do delito.",
+        "E": "Apenas o acréscimo decorrente da continuidade delitiva, se este for superior a 1/2."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Para fins de prescrição, o concurso de crimes (concurso material, formal ou continuidade) não altera o prazo prescricional de cada delito individual.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme a Súmula 497 do STF: 'Quando se tratar de crime continuado, a prescrição regula-se pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação'.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 119 CP:</strong> No caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] Em 2018, um contribuinte omitiu receitas em sua declaração de imposto de renda. O fisco iniciou procedimento administrativo, que culminou na constituição definitiva do crédito tributário apenas em 2023.\n\n[COMANDO] De acordo com o REsp 2.052.748-SC (Informativo 779), o termo inicial para a contagem do prazo prescricional nos crimes materiais contra a ordem tributária (Art. 1º da Lei 8.137/90) é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A data da omissão da informação (data do fato).",
+        "B": "A data do encerramento do exercício financeiro em que ocorreu a fraude.",
+        "C": "A data da constituição definitiva do crédito tributário na esfera administrativa.",
+        "D": "A data do início da fiscalização pela autoridade fazendária.",
+        "E": "A data do oferecimento da denúncia pelo Ministério Público."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O crime material tributário só se consuma com o lançamento definitivo do tributo (Súmula Vinculante 24). Logo, a prescrição só pode correr a partir da consumação.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Sem o lançamento definitivo, não há crime. Se não há crime, não há pretensão punitiva e, consequentemente, não corre prescrição.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 24 STF:</strong> Não se tipifica crime material contra a ordem tributária antes do lançamento definitivo do tributo.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Provas",
+      "enunciado": "[TEXTO DE APOIO] Uma vítima de roubo realizou o reconhecimento do suspeito na delegacia. O procedimento não seguiu as formalidades do art. 226 do CPP (não foram colocadas outras pessoas ao lado do suspeito). Contudo, além desse reconhecimento, há imagens de câmeras de segurança que mostram nitidamente o rosto do réu e o depoimento de uma testemunha ocular que já conhecia o réu previamente.\n\n[COMANDO] Com base no AgRg no AREsp 2.227.564-BA (Informativo 779), o reconhecimento realizado em desacordo com o art. 226 do CPP:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É nulo e contamina todas as demais provas, devendo o réu ser absolvido obrigatoriamente.",
+        "B": "É mera irregularidade que não afeta a validade da prova, podendo fundamentar a condenação isoladamente.",
+        "C": "Não pode servir de base para a condenação se for a única prova, mas a condenação pode ser mantida se houver outras provas independentes e robustas.",
+        "D": "Deve ser repetido em juízo obrigatoriamente, sob pena de nulidade absoluta de todo o processo.",
+        "E": "Só é válido se o réu estiver assistido por advogado no momento do ato na delegacia."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ mudou sua jurisprudência para exigir o cumprimento rigoroso do art. 226 do CPP, mas aplica a teoria da <strong>fonte independente</strong>.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O reconhecimento viciado não pode sustentar a condenação sozinho. Entretanto, se houver outras provas (vídeos, testemunhas independentes), a condenação é válida.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 226 CPP:</strong> Estabelece o rito para o reconhecimento de pessoas. O STJ entende que estas formalidades são garantias mínimas contra erros judiciários.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "[TEXTO DE APOIO] Um empresário é acusado de duas condutas distintas: (1) reteve o Imposto de Renda (IRRF) dos salários dos funcionários e não repassou ao Fisco; (2) descontou a contribuição previdenciária dos empregados e não a recolheu à autarquia previdenciária.\n\n[COMANDO] Conforme o REsp 2.053.801-PR (Informativo 779), a tipificação correta para as condutas (1) e (2) é, respectivamente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Apropriação indébita previdenciária e Sonegação fiscal.",
+        "B": "Sonegação fiscal e Apropriação indébita previdenciária.",
+        "C": "Apropriação indébita tributária e Apropriação indébita previdenciária.",
+        "D": "Sonegação fiscal e Estelionato.",
+        "E": "Apropriação indébita simples e Peculato."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão exige a distinção técnica entre crimes da Lei 8.137/90 e do Código Penal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O não repasse de IRRF é crime contra a ordem tributária (Art. 1º ou 2º da Lei 8.137/90). O não repasse de contribuição previdenciária é crime específico do Art. 168-A do CP.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 168-A CP:</strong> Deixar de repassar à previdência social as contribuições recolhidas dos contribuintes.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista de Controle Externo",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] Um indivíduo foi preso em flagrante por lavagem de dinheiro. O crime antecedente foi uma contravenção penal de jogo do bicho (infração de menor potencial ofensivo).\n\n[COMANDO] De acordo com o HC 810.233-PR (Informativo 779), é possível a aplicação do instituto da transação penal (Art. 76 da Lei 9.099/95) ao crime de lavagem de dinheiro?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Sim, desde que o crime antecedente seja de menor potencial ofensivo.",
+        "B": "Sim, pois a pena mínima da lavagem de dinheiro é de 3 anos, permitindo o benefício.",
+        "C": "Não, pois a pena máxima do crime de lavagem de dinheiro (10 anos) ultrapassa o limite legal de 2 anos para infrações de menor potencial ofensivo.",
+        "D": "Não, pois crimes contra o sistema financeiro nunca admitem benefícios da Lei 9.099/95.",
+        "E": "Sim, mas apenas se o réu confessar o crime e devolver o produto da lavagem."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A transação penal exige que o crime seja de <strong>menor potencial ofensivo</strong> (pena máxima até 2 anos).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O crime de lavagem tem pena de 3 a 10 anos. Mesmo que o crime antecedente seja leve, a lavagem em si é um crime grave que não admite transação penal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 9.099/95, Art. 61:</strong> Consideram-se infrações de menor potencial ofensivo as contravenções penais e os crimes a que a lei comine pena máxima não superior a 2 (dois) anos.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Nulidades",
+      "enunciado": "[TEXTO DE APOIO] Um réu preso em comarca distante foi interrogado por videoconferência. A defesa não foi intimada previamente sobre a modalidade do ato, não houve concordância expressa do réu e nenhum defensor (público ou dativo) estava presente na sala com o réu no momento do interrogatório.\n\n[COMANDO] Conforme o HC 766.452-PE (Informativo 779), tal procedimento configura:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Mera irregularidade, pois a videoconferência visa a celeridade processual.",
+        "B": "Nulidade relativa, dependendo da demonstração de prejuízo pela defesa.",
+        "C": "Nulidade absoluta, por violação aos princípios da ampla defesa e do contraditório.",
+        "D": "Ato inexistente, devendo ser desconsiderado para todos os fins.",
+        "E": "Procedimento legítimo, desde que o juiz fundamente a necessidade da medida."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O interrogatório é o momento de autodefesa. A ausência de defensor e de intimação prévia fere o núcleo do devido processo legal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que a falta de defesa técnica e a surpresa na modalidade do ato geram nulidade insanável (absoluta).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 185, §2º CPP:</strong> Excepcionalmente, o juiz pode realizar o interrogatório por videoconferência, mas deve garantir o direito de entrevista prévia e reservada com o defensor.</p></div></div>"
+    },
+    {
+      "numero_questao": 12,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da SEFAZ",
+      "subtema": "Súmula Vinculante 24 e Consumação",
+      "enunciado": "Em relação aos crimes materiais contra a ordem tributária, a jurisprudência do Superior Tribunal de Justiça, consolidada no Informativo n.º 779, estabelece um marco temporal específico para a consumação do delito e, consequentemente, para o início da contagem do prazo prescricional. Assinale a alternativa que indica corretamente esse marco.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A data da ocorrência do fato gerador do tributo, independentemente de qualquer lançamento.",
+        "B": "A data da apresentação da declaração do contribuinte, se for o caso, ou do vencimento do tributo.",
+        "C": "A data da constituição definitiva do crédito tributário, após o esgotamento da via administrativa.",
+        "D": "A data da instauração do inquérito policial ou do processo administrativo fiscal.",
+        "E": "A data da ciência da decisão judicial que decreta a prisão preventiva do agente.",
+        "resposta_correta": "C"
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>o termo inicial da prescrição nos crimes contra a ordem tributária</strong>. O ponto-chave é <strong>o entendimento do STJ de que a consumação do crime material tributário e o início da prescrição ocorrem com a constituição definitiva do crédito tributário</strong>.</p></div><div style='margin-bottom: 20px;'><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O fato gerador é um evento anterior à constituição do crédito e não marca a consumação do crime tributário material, que exige o resultado lesivo ao erário após o procedimento administrativo.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A declaração ou o vencimento do tributo são marcos importantes na esfera tributária, mas não representam a consumação do crime, que depende da definitividade do crédito.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o REsp 2.052.748-SC, julgado pelo STJ e veiculado no Informativo 779, o crime material contra a ordem tributária se consuma com a constituição definitiva do crédito tributário, momento a partir do qual se inicia a contagem do prazo prescricional. Isso está em consonância com a Súmula Vinculante 24 do STF.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A instauração de inquérito policial ou processo administrativo fiscal são procedimentos investigativos ou de apuração, que podem ocorrer antes da constituição definitiva do crédito e, portanto, não marcam a consumação do crime.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A decretação de prisão preventiva é uma medida cautelar no âmbito penal e não tem relação direta com a consumação do crime tributário ou o início da prescrição.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Para crimes tributários materiais, a regra é clara: sem crédito tributário definitivamente constituído na esfera administrativa, não há crime e, consequentemente, não há início de prescrição. Memorize a Súmula Vinculante 24 do STF e o entendimento do STJ.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Lei de Drogas",
+      "enunciado": "[TEXTO DE APOIO] Um indivíduo foi preso com pequena quantidade de maconha. Ele possui uma condenação anterior transitada em julgado por crime de contrabando (Art. 334-A do CP).\n\n[COMANDO] De acordo com o HC 810.221-PR (Informativo 779), a reincidência por crime de contrabando impede o reconhecimento da causa de diminuição do tráfico privilegiado (Art. 33, §4º da Lei 11.343/06)?",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Sim, pois qualquer reincidência afasta o benefício do tráfico privilegiado.",
+        "B": "Não, pois não há similitude entre os delitos de contrabando e tráfico, não indicando necessariamente dedicação a atividades criminosas ligadas ao tráfico.",
+        "C": "Sim, pois o contrabando é crime equiparado a hediondo para fins de reincidência.",
+        "D": "Não, mas o juiz deve obrigatoriamente fixar o regime fechado em razão da reincidência.",
+        "E": "Sim, salvo se o valor das mercadorias contrabandeadas for inferior a 20 mil reais."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O tráfico privilegiado exige: primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração em organização criminosa.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entendeu que a reincidência por crime sem relação com o tráfico (como o contrabando) não prova, por si só, que o agente vive do crime de drogas.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 33, §4º Lei 11.343/06:</strong> As penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes...</p></div></div>"
+    },
+    {
+      "numero_questao": 14,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Analista Tributário da Receita Federal",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "A respeito da prescrição nos crimes contra a ordem tributária, considerando a jurisprudência recente do Superior Tribunal de Justiça (Informativo n.º 779), assinale a alternativa correta.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A prescrição dos crimes contra a ordem tributária começa a fluir a partir da data em que o fato gerador do tributo deveria ter sido pago, independentemente de procedimento administrativo fiscal.",
+        "B": "A contagem do prazo prescricional inicia-se com a detecção da fraude ou sonegação pelas autoridades fiscais, mesmo que o crédito tributário ainda não esteja definitivamente constituído.",
+        "C": "O termo inicial da prescrição nos crimes materiais contra a ordem tributária é a data da constituição definitiva do crédito tributário na esfera administrativa.",
+        "D": "Para os crimes contra a ordem tributária, a prescrição se inicia com a denúncia do Ministério Público, marcando o início da ação penal.",
+        "E": "A prescrição não se aplica aos crimes contra a ordem tributária, em virtude de sua natureza de lesão ao erário público, sendo imprescritíveis.",
+        "resposta_correta": "C"
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>o termo inicial da prescrição em crimes tributários</strong>, com base no Informativo 779 do STJ. O ponto-chave é <strong>a vinculação do início da prescrição à constituição definitiva do crédito tributário</strong>.</p></div><div style='margin-bottom: 20px;'><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O STJ e o STF pacificaram o entendimento de que a simples ocorrência do fato gerador ou o vencimento do tributo não são suficientes para a consumação do crime material tributário. É necessária a constituição definitiva do crédito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>A detecção da fraude é uma fase preliminar. A consumação do crime e o início da prescrição dependem da constituição definitiva do crédito, que ocorre após o processo administrativo fiscal.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O Informativo 779 do STJ (REsp 2.052.748-SC) reitera que o crime material contra a ordem tributária se consuma com a constituição definitiva do crédito tributário, momento a partir do qual se inicia a contagem do prazo prescricional. Este é o entendimento consolidado na jurisprudência.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A denúncia é um marco processual penal, mas o início da prescrição está ligado à consumação do crime, que, nos delitos tributários materiais, precede a denúncia e depende da esfera administrativa.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Os crimes contra a ordem tributária são, em regra, prescritíveis, seguindo as normas do Código Penal. Não se enquadram nas exceções de imprescritibilidade (racismo e ação de grupos armados contra a ordem constitucional e o Estado Democrático).</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Questões sobre crimes tributários e prescrição são recorrentes em concursos fiscais. Sempre associe a consumação e o início da prescrição à 'constituição definitiva do crédito tributário'.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Insignificância nos Crimes Tributários",
+      "enunciado": "[TEXTO DE APOIO] Um contribuinte suprimiu tributos federais no valor total de R$ 18.500,00 (dezoito mil e quinhentos reais).\n\n[COMANDO] De acordo com a jurisprudência do STJ (Informativo 779), o patamar máximo de valor para aplicação do princípio da insignificância em crimes tributários federais e de descaminho é de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "R$ 1.000,00 (mil reais).",
+        "B": "R$ 10.000,00 (dez mil reais).",
+        "C": "R$ 20.000,00 (vinte mil reais).",
+        "D": "Um salário mínimo vigente à época do fato.",
+        "E": "R$ 40.000,00 (quarenta mil reais)."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O valor segue o parâmetro utilizado pela Fazenda Nacional para o ajuizamento de execuções fiscais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STJ e o STF consolidaram o valor de 20 mil reais como limite para a insignificância em crimes tributários federais.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Portaria MF 75/2012 e 130/2012:</strong> Estabeleceram que não serão ajuizadas execuções fiscais de débitos com a Fazenda Nacional de valor igual ou inferior a R$ 20.000,00.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "[TEXTO DE APOIO] Durante as negociações de um acordo de colaboração premiada, o colaborador indicou onde estavam escondidos documentos da organização criminosa, mas recusou-se a confessar sua participação direta nos crimes de lavagem de dinheiro, alegando que apenas cumpria ordens.\n\n[COMANDO] Conforme o Informativo 779 do STJ (AgRg no REsp 2.053.868-PR), a ausência de confissão de todos os fatos imputados ao colaborador:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Torna o acordo juridicamente inexistente.",
+        "B": "Impede a homologação judicial por ausência de boa-fé objetiva.",
+        "C": "Não é requisito de validade do acordo de colaboração premiada.",
+        "D": "Obriga o juiz a reduzir os benefícios pactuados pela metade.",
+        "E": "Impede que as declarações do colaborador sejam usadas contra terceiros."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A colaboração é um meio de obtenção de prova. O foco é a utilidade das informações para a investigação.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STJ decidiu que a confissão não é pressuposto de validade do acordo. Se o colaborador traz provas úteis, o acordo é válido mesmo sem confissão integral.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Natureza Jurídica:</strong> A colaboração premiada é um negócio jurídico processual personalíssimo.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] Um contribuinte foi denunciado por crime material contra a ordem tributária. Ele alega que a denúncia é inepta porque foi oferecida antes da representação fiscal para fins penais ser enviada pelo órgão fazendário, embora o crédito tributário já estivesse definitivamente constituído.\n\n[COMANDO] De acordo com o AREsp 2.277.689-SP (Informativo 779), a representação fiscal para fins penais:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É condição de procedibilidade indispensável para a ação penal.",
+        "B": "É dispensável para a persecução penal, bastando a constituição definitiva do crédito tributário.",
+        "C": "Deve obrigatoriamente acompanhar a denúncia, sob pena de rejeição liminar.",
+        "D": "Só é dispensável nos crimes de descaminho, sendo obrigatória na sonegação fiscal.",
+        "E": "Interrompe o prazo prescricional assim que é lavrada pela autoridade fiscal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A ação penal nos crimes tributários é pública incondicionada. O MP não depende de autorização do Fisco para agir.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O requisito é a constituição definitiva (Súmula Vinculante 24). A representação fiscal é apenas um meio de levar o fato ao conhecimento do MP, mas não é a única forma.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 129, I CF:</strong> Cabe ao Ministério Público promover, privativamente, a ação penal pública.</p></div></div>"
+    },
+    {
+      "numero_questao": 18,
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da SEFAZ",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "Um empresário é investigado pela prática de crime contra a ordem tributária, por supostamente ter omitido informações em suas declarações de imposto de renda, resultando em supressão de tributos. O processo administrativo fiscal ainda está em fase de recurso, não havendo decisão final sobre o débito. Com base no entendimento do STJ (Informativo n.º 779), assinale a alternativa correta sobre a situação penal do empresário.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A ação penal já pode ser iniciada, pois a investigação criminal independe da esfera administrativa, e a prescrição já está correndo desde a data da omissão.",
+        "B": "A prescrição não começou a correr, e a ação penal não pode ser deflagrada, pois o crime material contra a ordem tributária ainda não se consumou.",
+        "C": "A prescrição está suspensa até a decisão final na esfera administrativa, mas a ação penal pode ser iniciada de imediato.",
+        "D": "A prescrição já se iniciou com a omissão das informações, mas a ação penal depende da constituição definitiva do crédito tributário para ter justa causa.",
+        "E": "O empresário já pode ser condenado pelo crime, uma vez que a omissão de informações é prova suficiente da autoria e materialidade, independentemente do crédito.",
+        "resposta_correta": "B"
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a aplicação prática do entendimento do STJ (Informativo 779) em um caso concreto de crime tributário material</strong>. O ponto-chave é <strong>a dependência da constituição definitiva do crédito tributário para a consumação do crime e o início da prescrição</strong>.</p></div><div style='margin-bottom: 20px;'><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A ação penal para crimes materiais contra a ordem tributária não pode ser iniciada antes da constituição definitiva do crédito. A prescrição também não começa a correr antes desse marco.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 779 do STJ (REsp 2.052.748-SC) e a Súmula Vinculante 24 do STF, os crimes materiais contra a ordem tributária só se consumam com a constituição definitiva do crédito tributário. Enquanto o processo administrativo fiscal não for finalizado e o crédito não for definitivamente constituído, não há crime consumado, não há justa causa para a ação penal e, consequentemente, a prescrição não pode começar a fluir.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>Não há suspensão da prescrição nesse caso, mas sim um impedimento para seu início. A ação penal não pode ser iniciada antes da definitividade do crédito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A prescrição não se inicia com a omissão. O início da prescrição e a justa causa para a ação penal dependem da constituição definitiva do crédito tributário.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>A condenação só é possível após a consumação do crime e o devido processo legal, que inclui a constituição definitiva do crédito tributário como condição de procedibilidade.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>Em provas, se o crédito tributário não estiver definitivamente constituído para um crime material tributário, a resposta quase sempre envolverá a impossibilidade de início da ação penal e da contagem da prescrição.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Princípio da Insignificância e Reiteração Delitiva",
+      "enunciado": "[TEXTO DE APOIO] Um réu subtraiu um par de chinelos avaliado em R$ 30,00. Ele é reincidente específico em crimes contra o patrimônio.\n\n[COMANDO] De acordo com o entendimento do STJ no Informativo 779, a reincidência específica em crimes patrimoniais:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Impede a aplicação do princípio da insignificância, ressalvadas situações de excepcionalidade verificadas no caso concreto.",
+        "B": "Nunca impede a aplicação do princípio, pois o valor do bem é o único critério relevante.",
+        "C": "Obriga o juiz a absolver o réu por insuficiência de provas.",
+        "D": "Permite a aplicação da insignificância apenas se o réu for menor de 21 anos.",
+        "E": "Gera a extinção da punibilidade pelo perdão judicial."
+      },
+      "resposta_correta": "A",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A reincidência específica demonstra habitualidade delitiva, o que aumenta a reprovabilidade da conduta.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>A) ✅ CORRETA</p><p style='color: #155724;'>A regra é que a reincidência específica afasta a insignificância. Contudo, o STJ admite que em casos excepcionalíssimos (ex: furto famélico ou valor ínfimo) o princípio ainda possa ser aplicado.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Reprovabilidade:</strong> A insignificância exige reduzidíssimo grau de reprovabilidade. O reincidente específico desafia o sistema penal reiteradamente.</p></div></div>"
+    },
+    {
+      "numero_questao": 20,
+      "banca": "ESAF",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "Com base no Informativo de Jurisprudência n.º 779 do STJ e na Súmula Vinculante n.º 24 do STF, assinale a alternativa que corretamente diferencia o tratamento da prescrição entre crimes materiais e formais contra a ordem tributária.",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Tanto nos crimes materiais quanto nos formais contra a ordem tributária, a prescrição só começa a fluir após a constituição definitiva do crédito tributário.",
+        "B": "Nos crimes materiais, a prescrição inicia-se com a constituição definitiva do crédito; nos formais, a prescrição começa com a data da consumação da conduta delitiva, independentemente do crédito.",
+        "C": "Nos crimes formais, a prescrição é suspensa até a constituição definitiva do crédito; nos materiais, ela se inicia imediatamente após a prática da conduta.",
+        "D": "A Súmula Vinculante n.º 24 e o Informativo n.º 779 do STJ são aplicáveis exclusivamente aos crimes formais contra a ordem tributária, não tendo impacto nos crimes materiais.",
+        "E": "A prescrição não se aplica aos crimes contra a ordem tributária, sejam eles formais ou materiais, em razão da gravidade da lesão ao erário.",
+        "resposta_correta": "B"
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Questão sobre <strong>a distinção do termo inicial da prescrição entre crimes materiais e formais contra a ordem tributária</strong>, com base na jurisprudência superior. O ponto-chave é <strong>a aplicação restrita da constituição definitiva do crédito aos crimes materiais</strong>.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>Esta alternativa está errada porque o entendimento da Súmula Vinculante 24 do STF e do Informativo 779 do STJ se aplica somente aos crimes materiais contra a ordem tributária. Nos crimes formais, a prescrição começa a correr da consumação da conduta, independentemente da constituição do crédito.</p></div><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Esta alternativa descreve corretamente a distinção. Nos crimes materiais contra a ordem tributária (art. 1º da Lei n.º 8.137/90), a consumação e o início da prescrição dependem da constituição definitiva do crédito tributário, conforme a Súmula Vinculante 24 do STF e o Informativo 779 do STJ (REsp 2.052.748-SC). Já nos crimes formais (art. 2º da Lei n.º 8.137/90, por exemplo), a consumação se dá com a prática da conduta, e a prescrição começa a fluir a partir desse momento, sem depender da constituição do crédito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>C) ❌ INCORRETA</p><p style='color: #721c24;'>A alternativa inverte os conceitos. Nos crimes formais, a prescrição não é suspensa; nos materiais, ela não se inicia imediatamente após a conduta, mas sim após a constituição definitiva do crédito.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>D) ❌ INCORRETA</p><p style='color: #721c24;'>A Súmula Vinculante n.º 24 e o Informativo n.º 779 do STJ são aplicáveis aos crimes MATERIAIS, e não aos formais.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>E) ❌ INCORRETA</p><p style='color: #721c24;'>Os crimes contra a ordem tributária são, em regra, prescritíveis. A imprescritibilidade é exceção no Direito Penal brasileiro.</p></div></div><div style='border-top: 1px solid #dee2e6; padding-top: 15px;'><h4 style='color: #495057; font-size: 15px; font-weight: bold;'>💡 DICA</h4><p style='color: #6c757d; font-style: italic;'>É fundamental distinguir crimes materiais de formais na Lei n.º 8.137/90. Os materiais (art. 1º) dependem da supressão ou redução de tributo e, portanto, da constituição definitiva do crédito. Os formais (art. 2º) se consumam com a mera conduta, independentemente do resultado tributário.</p></div></div>",
+      "comentario_livro": ""
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] Um contribuinte está sendo processado administrativamente para a apuração de um débito de IPI. O processo administrativo ainda não terminou.\n\n[COMANDO] Conforme o REsp 2.053.801-PR (Informativo 779), o prazo prescricional para o crime de sonegação fiscal (Art. 1º da Lei 8.137/90):",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Corre normalmente desde a data do fato.",
+        "B": "Fica suspenso enquanto o processo administrativo tributário estiver em curso.",
+        "C": "É interrompido pela lavratura do auto de infração.",
+        "D": "Não existe no Direito Penal Tributário.",
+        "E": "Só começa a correr após o oferecimento da denúncia."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Se o MP não pode denunciar enquanto o processo administrativo corre, a prescrição também não pode correr contra o Estado.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A suspensão do prazo prescricional durante o processo administrativo visa evitar a impunidade, já que a consumação do crime depende do fim desse processo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 8.137/90, Art. 14:</strong> Reforça a lógica de que a pendência administrativa impede o curso da prescrição penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Falsidade Documental",
+      "enunciado": "[TEXTO DE APOIO] Um particular falsificou um atestado médico para apresentar em sua empresa privada, visando abonar uma falta.\n\n[COMANDO] De acordo com a sistemática do Código Penal e o entendimento do STJ no Informativo 779, se o atestado médico falsificado for de um médico particular e apresentado a uma empresa privada, a falsificação é considerada:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Falsificação de documento público.",
+        "B": "Falsificação de documento particular.",
+        "C": "Falsidade ideológica qualificada.",
+        "D": "Falsidade de atestado médico.",
+        "E": "Ato atípico na esfera penal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A natureza do documento (público ou particular) define a pena e o tipo penal subsidiário.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Atestado emitido por médico particular é documento particular. Se fosse médico funcionário público no exercício da função, seria documento público.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 298 CP:</strong> Falsificar, no todo ou em parte, documento particular ou alterar documento particular verdadeiro.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] No crime de lavagem de dinheiro, a denúncia descreveu que os valores ocultados eram provenientes de tráfico de drogas, mas não indicou quem seriam os fornecedores ou compradores da droga no crime antecedente.\n\n[COMANDO] Conforme o REsp 2.062.278-SC (Informativo 779), para a condenação por lavagem de dinheiro:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É indispensável a identificação de todos os autores do crime antecedente.",
+        "B": "É necessária a condenação prévia dos autores do crime antecedente.",
+        "C": "Basta a demonstração de indícios suficientes da existência da infração penal antecedente.",
+        "D": "O crime antecedente deve ser obrigatoriamente um crime hediondo.",
+        "E": "A denúncia deve ser rejeitada se não houver prova cabal da autoria do crime principal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A lei exige apenas a prova da existência do crime anterior, não sua punição efetiva.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>A autonomia do crime de lavagem permite que o processo siga mesmo que o autor do crime antecedente seja isento de pena ou desconhecido.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 2º, §1º Lei 9.613/98:</strong> A denúncia será instruída com indícios suficientes da existência da infração penal antecedente.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "[TEXTO DE APOIO] Um juiz, ao analisar um acordo de colaboração premiada, percebeu que o colaborador foi coagido fisicamente a assinar o documento.\n\n[COMANDO] Com base no Informativo 779 do STJ, o magistrado deve:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Homologar o acordo assim mesmo, em nome do interesse público.",
+        "B": "Recusar a homologação por ausência de voluntariedade.",
+        "C": "Homologar o acordo, mas reduzir os benefícios concedidos.",
+        "D": "Encaminhar o acordo para o Tribunal de Justiça para revisão.",
+        "E": "Obrigar o colaborador a assinar novamente na presença de duas testemunhas."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A voluntariedade é o pilar ético e jurídico da colaboração premiada.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O controle judicial na homologação serve justamente para verificar se o colaborador agiu livre de coação.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 4º, §7º Lei 12.850/13:</strong> O juiz verificará a regularidade, a legalidade e a voluntariedade do acordo.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Extinção da Punibilidade pelo Pagamento",
+      "enunciado": "[TEXTO DE APOIO] Um réu foi condenado por sonegação de contribuição previdenciária (Art. 337-A do CP). Ele efetuou o pagamento integral do débito após o início da execução da pena.\n\n[COMANDO] Segundo o Informativo 779 do STJ, o pagamento integral do débito no crime do art. 337-A do CP:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não produz qualquer efeito após o trânsito em julgado.",
+        "B": "Reduz a pena pela metade.",
+        "C": "Extingue a punibilidade, a qualquer tempo.",
+        "D": "Permite apenas a progressão de regime mais rápida.",
+        "E": "Substitui a pena privativa de liberdade por multa."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ equipara o tratamento do art. 337-A do CP aos crimes da Lei 8.137/90 quanto à extinção da punibilidade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Diferente de crimes patrimoniais comuns, nos crimes tributários e previdenciários o pagamento integral é causa de extinção da punibilidade sem limite temporal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 9º, §2º Lei 10.684/03:</strong> Extingue-se a punibilidade dos crimes referidos neste artigo quando a pessoa jurídica relacionada com o agente efetuar o pagamento integral dos débitos.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Provas",
+      "enunciado": "[TEXTO DE APOIO] No reconhecimento de um suspeito de roubo, a polícia utilizou apenas uma fotografia do suspeito mostrada à vítima pelo celular, sem seguir qualquer outro procedimento.\n\n[COMANDO] De acordo com o Informativo 779 do STJ, o reconhecimento fotográfico:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É prova plena e suficiente para a condenação.",
+        "B": "É nulo se não for ratificado por reconhecimento presencial seguindo o art. 226 do CPP.",
+        "C": "Só é válido se a foto for colorida e atualizada.",
+        "D": "É vedado pelo ordenamento jurídico brasileiro em qualquer hipótese.",
+        "E": "Substitui o depoimento da vítima em juízo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O reconhecimento fotográfico é aceito apenas como etapa preliminar, devendo seguir o rito legal para ter valor probatório.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ firmou que o reconhecimento fotográfico deve ser acompanhado do procedimento presencial (colocar pessoas semelhantes ao lado) para evitar falsas memórias.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 226 CPP:</strong> A pessoa que tiver de fazer o reconhecimento será convidada a descrever a pessoa que deva ser reconhecida.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Prescrição no Crime Continuado",
+      "enunciado": "[TEXTO DE APOIO] Um réu cometeu três furtos em continuidade delitiva. Cada furto isoladamente teria pena de 1 ano. Com a continuidade, a pena final foi de 1 ano e 6 meses.\n\n[COMANDO] Para fins de prescrição da pretensão executória (após o trânsito em julgado), o prazo deve ser calculado sobre:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A pena de 1 ano e 6 meses.",
+        "B": "A pena de 1 ano (cada crime isoladamente).",
+        "C": "A pena máxima do furto qualificado (8 anos).",
+        "D": "O triplo da pena base.",
+        "E": "A pena de 6 meses (apenas o acréscimo)."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A regra do art. 119 do CP aplica-se tanto à prescrição da pretensão punitiva quanto à executória.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Mesmo após a sentença final, o acréscimo da continuidade delitiva é desprezado para o cálculo do prazo prescricional.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 497 STF:</strong> É o pilar para resolver questões de prescrição em crime continuado.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Extinção da Punibilidade pelo Pagamento",
+      "enunciado": "[TEXTO DE APOIO] Um empresário pagou o valor principal do tributo sonegado, mas não pagou a multa moratória nem os juros.\n\n[COMANDO] De acordo com o Informativo 779 do STJ, para que ocorra a extinção da punibilidade pelo pagamento:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Basta o pagamento do valor principal.",
+        "B": "O pagamento deve ser integral, incluindo acessórios (juros e multa).",
+        "C": "O pagamento pode ser parcial, desde que superior a 50% do débito.",
+        "D": "A multa pode ser perdoada se o réu for primário.",
+        "E": "O pagamento deve ser feito exclusivamente em dinheiro vivo."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A extinção da punibilidade exige a satisfação total do crédito tributário.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que o pagamento 'integral' pressupõe a quitação de tudo o que é devido ao Fisco, inclusive os encargos legais.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>CTN, Art. 161:</strong> O crédito não pago no vencimento é acrescido de juros de mora, seja qual for o motivo determinante da falta.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Princípio da Insignificância e Reiteração Delitiva",
+      "enunciado": "[TEXTO DE APOIO] Um indivíduo foi preso furtando quatro barras de chocolate de um supermercado. Ele possui diversas anotações em sua folha de antecedentes por crimes idênticos, mas nenhuma condenação transitada em julgado ainda.\n\n[COMANDO] De acordo com o Informativo 779 do STJ, a habitualidade delitiva (múltiplos inquéritos ou ações penais em curso):",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É irrelevante, pois vigora o princípio da presunção de inocência.",
+        "B": "Pode ser utilizada para afastar o princípio da insignificância, pois indica que a conduta não é isolada.",
+        "C": "Obriga a aplicação da insignificância para evitar excesso de processos.",
+        "D": "Só tem valor se houver confissão do réu.",
+        "E": "Gera a nulidade da prisão em flagrante."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A insignificância não deve servir de incentivo à reiteração criminosa.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que a reiteração (mesmo sem trânsito em julgado) demonstra que o comportamento do agente é altamente reprovável, afastando um dos vetores da insignificância.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Vetores:</strong> A habitualidade ataca o vetor do 'reduzidíssimo grau de reprovabilidade do comportamento'.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Colaboração Premiada",
+      "enunciado": "[TEXTO DE APOIO] Um colaborador premiado mentiu deliberadamente sobre a participação de uma pessoa inocente no crime para proteger o verdadeiro culpado.\n\n[COMANDO] Conforme a Lei 12.850/13 e o entendimento do STJ no Informativo 779, a quebra do dever de dizer a verdade pelo colaborador:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não afeta o acordo se as outras informações forem úteis.",
+        "B": "Pode levar à rescisão do acordo e à perda dos benefícios, além de configurar crime específico.",
+        "C": "Apenas reduz o benefício em 1/3.",
+        "D": "É um direito do colaborador baseado na não autoincriminação.",
+        "E": "Obriga o Estado a indenizar o colaborador pela pressão sofrida."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A colaboração baseia-se na confiança e na lealdade processual.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O colaborador tem o dever de dizer a verdade. A mentira dolosa rescinde o pacto e o agente pode responder pelo crime do art. 19 da Lei 12.850/13.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 19 Lei 12.850/13:</strong> Imputar a alguém, no âmbito de colaboração premiada, infração penal de que o sabe inocente ou revelar informações falsas.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Extinção da Punibilidade e Parcelamento",
+      "enunciado": "[TEXTO DE APOIO] Um contribuinte parcelou seu débito tributário antes do oferecimento da denúncia e vem pagando as parcelas rigorosamente em dia.\n\n[COMANDO] De acordo com a Lei 10.684/03 e o Informativo 779 do STJ, o parcelamento do débito:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Extingue a punibilidade imediatamente.",
+        "B": "Suspende a pretensão punitiva e o prazo prescricional enquanto o acordo for cumprido.",
+        "C": "Não produz efeitos na esfera penal.",
+        "D": "Obriga o réu a prestar serviços à comunidade.",
+        "E": "Impede a fiscalização de outros tributos da mesma empresa."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O parcelamento é uma causa de suspensão da condição de punibilidade.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Enquanto o contribuinte paga, o processo penal fica 'congelado'. Se terminar de pagar tudo, extingue a punibilidade. Se parar de pagar, o processo retoma.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 9º Lei 10.684/03:</strong> É a base legal para a suspensão da pretensão punitiva pelo parcelamento.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Falsidade Documental",
+      "enunciado": "[TEXTO DE APOIO] Um médico de um hospital público municipal emitiu um atestado falso para um amigo, afirmando que este estava doente, quando na verdade o amigo estava viajando.\n\n[COMANDO] De acordo com o Código Penal e o Informativo 779 do STJ, a conduta do médico configura o crime de:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Falsidade ideológica (Art. 299).",
+        "B": "Falsidade de atestado médico (Art. 302).",
+        "C": "Corrupção passiva (Art. 317).",
+        "D": "Falsificação de documento público (Art. 297).",
+        "E": "Condescendência criminosa (Art. 320)."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Existe um tipo penal específico para o médico que falta com a verdade em atestados.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O Art. 302 pune o médico que, no exercício da profissão, dá atestado falso. Se o crime é cometido com o fim de lucro, aplica-se também multa.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 302 CP:</strong> Dar o médico, no exercício da sua profissão, atestado falso. Pena: detenção de um mês a um ano.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Lavagem de Dinheiro",
+      "enunciado": "[TEXTO DE APOIO] Um réu foi absolvido do crime de tráfico de drogas por ter sido reconhecida a causa de exclusão da ilicitude da legítima defesa (o réu portava a droga mas a situação fática da prisão envolveu legítima defesa em outro contexto).\n\n[COMANDO] Conforme o Informativo 779 do STJ, se o crime antecedente é considerado inexistente por exclusão de ilicitude:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A lavagem de dinheiro continua sendo punível pela sua autonomia.",
+        "B": "A lavagem de dinheiro deixa de ser punível, pois não há infração penal antecedente.",
+        "C": "O réu deve ser condenado a uma pena reduzida de lavagem.",
+        "D": "O processo de lavagem deve ser enviado ao juizado especial.",
+        "E": "A legítima defesa não se comunica ao crime de lavagem."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A autonomia da lavagem não é absoluta ao ponto de ignorar a inexistência jurídica do crime anterior.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Se o fato anterior não é crime (por exclusão de ilicitude ou tipicidade), não há 'produto de crime' para ser lavado. A autonomia refere-se ao processo, não à existência do crime.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Teoria da Acessoriedade Limitada:</strong> Para que haja lavagem, é necessário que o fato anterior seja típico e ilícito.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Provas",
+      "enunciado": "[TEXTO DE APOIO] Em um processo, a única prova contra o réu é o reconhecimento feito pela vítima que, em juízo, afirmou: 'tenho quase certeza que é ele, mas ele está um pouco diferente'.\n\n[COMANDO] Com base no Informativo 779 do STJ, o reconhecimento que gera dúvida razoável:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Deve ser interpretado em favor da sociedade (in dubio pro societate).",
+        "B": "É insuficiente para a condenação, devendo ser aplicado o princípio in dubio pro reo.",
+        "C": "Obriga o juiz a converter o julgamento em diligência para exame de DNA.",
+        "D": "Permite a condenação se o réu for reincidente.",
+        "E": "É suprido pela confissão informal feita aos policiais no momento da prisão."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A condenação criminal exige certeza absoluta da autoria.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Reconhecimentos hesitantes, especialmente quando são a única prova, não superam o padrão probatório necessário para derrubar a presunção de inocência.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 386, VII CPP:</strong> O juiz absolverá o réu quando não existir prova suficiente para a condenação.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal",
+      "subtema": "Concurso de Crimes",
+      "enunciado": "[TEXTO DE APOIO] No julgamento do REsp 2.016.920-RJ, o Superior Tribunal de Justiça analisou a situação de um agente que, mediante uma única ação desdobrada em atos libidinosos diversos contra a mesma vítima, praticou condutas que se amoldam tanto ao crime de estupro (art. 213 do CP) quanto ao de estupro de vulnerável (art. 217-A do CP). O tribunal verificou que o agente agiu com desígnios autônomos para cada um dos atos praticados.\n\n[COMANDO] Com base no entendimento fixado no Informativo 779 do STJ, assinale a alternativa que descreve corretamente a regra de concurso de crimes aplicável ao caso:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Aplica-se o concurso formal próprio, pois houve uma única ação, devendo a pena ser aumentada de um sexto até a metade.",
+        "B": "Configura-se crime continuado, pois os delitos são da mesma espécie e foram praticados em condições semelhantes de tempo e lugar.",
+        "C": "Aplica-se a regra do concurso formal impróprio (art. 70, segunda parte, do CP), resultando no cúmulo material das penas, devido à existência de desígnios autônomos.",
+        "D": "Deve ser aplicado o princípio da consunção, de modo que o crime de estupro de vulnerável absorva o crime de estupro comum.",
+        "E": "Trata-se de concurso material benéfico, aplicando-se a regra do concurso formal próprio por ser mais favorável ao réu."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão aborda o concurso de crimes em delitos sexuais. O STJ consolidou que, havendo desígnios autônomos (vontades independentes para cada resultado), aplica-se o concurso formal imperfeito ou impróprio.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o Informativo 779 (REsp 2.016.920-RJ), se o agente pratica atos distintos com desígnios autônomos em uma mesma ação, incide o art. 70, parte final, do CP, que impõe a soma das penas (cúmulo material).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>O concurso formal próprio exige unidade de desígnio, o que foi expressamente afastado pelo enunciado.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>B) ❌ INCORRETA</p><p style='color: #721c24;'>O crime continuado pressupõe uma ficção jurídica que não se coaduna com a unidade de ação com desígnios autônomos descrita.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Base Legal:</strong> Artigo 70, segunda parte, do Código Penal.</p><p style='margin-top: 10px;'><strong>Conceito-Chave:</strong> O concurso formal impróprio ocorre quando a ação é única, mas os crimes resultantes derivam de desígnios autônomos, ou seja, o agente queria especificamente cada um dos resultados.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal da Receita Federal",
+      "subtema": "Roubo Majorado",
+      "enunciado": "[TEXTO DE APOIO] No crime de roubo, a causa de aumento de pena relativa ao concurso de pessoas (art. 157, § 2º, II, do CP) gera frequentes debates quando um dos agentes é inimputável (menor de idade).\n\n[COMANDO] De acordo com o entendimento reafirmado pelo STJ no Informativo 779, a participação de um adolescente inimputável no crime de roubo praticado por um adulto:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não configura a majorante do concurso de pessoas, pois o menor não comete crime, mas ato infracional.",
+        "B": "Configura a majorante do concurso de pessoas, sendo irrelevante a inimputabilidade penal do comparsa menor de idade.",
+        "C": "Apenas configura a majorante se ficar provado que o menor tinha discernimento completo sobre a ilicitude do fato.",
+        "D": "Afasta a majorante do roubo, mas permite a condenação do adulto pelo crime autônomo de corrupção de menores em concurso material.",
+        "E": "Exige a absolvição do adulto quanto à majorante, em observância ao princípio da acessoriedade limitada da participação."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Fácil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A questão trata da natureza objetiva da majorante do concurso de pessoas. O STJ entende que o risco à vítima é maior pela presença de mais de um agressor, independentemente da capacidade penal de um deles.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ (REsp 2.036.721-RJ) entende que a majorante foca no maior perigo gerado pela pluralidade de agentes, sendo a imputabilidade um dado subjetivo que não afasta a causa de aumento.</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A natureza do ato praticado pelo menor (infracional) não impede o reconhecimento do concurso de pessoas para o adulto.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Jurisprudência:</strong> Informativo 779 STJ. A presença de menor de idade é suficiente para a majorante do concurso de pessoas no roubo.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Súmula Vinculante 24",
+      "enunciado": "[TEXTO DE APOIO] Considere um caso em que um contribuinte omitiu informações em sua declaração de imposto de renda para reduzir o tributo devido. O crédito tributário foi constituído definitivamente pela autoridade administrativa apenas após longo processo de fiscalização.\n\n[COMANDO] Com base no Informativo 779 do STJ e na Súmula Vinculante 24 do STF, o termo inicial da prescrição da pretensão punitiva para os crimes materiais contra a ordem tributária (art. 1º da Lei n. 8.137/90) é:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A data da apresentação da declaração falsa ou omissa.",
+        "B": "A data do encerramento do exercício financeiro em que ocorreu a omissão.",
+        "C": "A data da constituição definitiva do crédito tributário.",
+        "D": "A data em que a autoridade fazendária tomou conhecimento da fraude.",
+        "E": "A data do oferecimento da denúncia pelo Ministério Público."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Nos crimes materiais tributários, o resultado (supressão ou redução de tributo) só é juridicamente verificado com o lançamento definitivo.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>Conforme o REsp 2.023.738-SC (Informativo 779), a prescrição só corre após a consumação, que nos crimes materiais tributários depende da constituição definitiva do crédito.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula Vinculante 24 (STF):</strong> Não se tipifica crime material contra a ordem tributária antes do lançamento definitivo do tributo.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Lei de Drogas - Tráfico Privilegiado",
+      "enunciado": "[TEXTO DE APOIO] Um indivíduo foi preso em flagrante transportando pequena quantidade de entorpecentes. O réu possui uma condenação anterior transitada em julgado por crime de furto, sendo, portanto, reincidente.\n\n[COMANDO] Segundo o entendimento do STJ veiculado no Informativo 779 (RHC 175.753-MG), a condição de reincidente do agente:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Impede, de forma absoluta e automática, a aplicação da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006).",
+        "B": "Não é suficiente, por si só, para afastar a minorante do tráfico privilegiado, devendo o juiz analisar se a reincidência demonstra dedicação a atividades criminosas.",
+        "C": "Permite a aplicação da minorante, mas apenas se a reincidência for genérica e o crime anterior for culposo.",
+        "D": "Obriga o magistrado a aplicar a fração mínima de redução (um sexto) prevista na lei de drogas.",
+        "E": "Gera a presunção absoluta de que o agente integra organização criminosa, afastando o benefício."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ tem flexibilizado a vedação ao tráfico privilegiado para reincidentes, exigindo fundamentação concreta sobre a dedicação criminosa.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ decidiu que a reincidência isolada não pode ser usada como presunção de dedicação criminosa para afastar o benefício do art. 33, § 4º.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Conceito:</strong> Tráfico Privilegiado exige: primariedade, bons antecedentes, não dedicação a atividades criminosas e não integrar organização criminosa.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Juiz Substituto",
+      "subtema": "Princípio da Insignificância e Reiteração Delitiva",
+      "enunciado": "[TEXTO DE APOIO] Um réu foi denunciado pelo furto de um objeto avaliado em R$ 50,00. Consta nos autos que o agente possui diversas condenações anteriores por crimes de furto e roubo, caracterizando reincidência específica.\n\n[COMANDO] Conforme o entendimento do STJ no Informativo 779 (REsp 1.839.841-SC), a aplicação do princípio da insignificância nesse cenário:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "É obrigatória, pois o valor do bem é inferior a 10% do salário mínimo, critério objetivo prevalecente.",
+        "B": "É inviável, pois a reincidência específica em crimes contra o patrimônio denota maior reprovabilidade da conduta e contumácia delitiva.",
+        "C": "Depende da restituição do bem à vítima, o que apaga a tipicidade material da conduta.",
+        "D": "É possível, desde que o réu confesse o crime e demonstre arrependimento posterior.",
+        "E": "Deve ser analisada apenas sob a ótica do desvalor do resultado, ignorando-se o desvalor da ação."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A insignificância exige quatro vetores (MARI). A reincidência específica afeta a reprovabilidade do comportamento.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ reafirmou que a reincidência específica obsta a insignificância, pois o Estado não pode incentivar a reiteração criminosa.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Vetores do STF:</strong> Mínima ofensividade, ausência de periculosidade social, reduzidíssimo grau de reprovabilidade e inexpressividade da lesão jurídica.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Defensor Público",
+      "subtema": "Nulidades Processuais",
+      "enunciado": "[TEXTO DE APOIO] Em um processo criminal, o interrogatório do réu foi realizado por videoconferência. Contudo, a defesa não foi intimada previamente da data do ato e nenhum defensor estava presente com o réu no momento da oitiva.\n\n[COMANDO] De acordo com o Informativo 779 do STJ (HC 766.452-PE), tal vício configura:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Nulidade relativa, exigindo que a defesa prove o prejuízo sofrido para anular o ato.",
+        "B": "Mera irregularidade, que pode ser sanada se o réu confessar o crime durante o interrogatório.",
+        "C": "Nulidade absoluta, sendo o prejuízo presumido pela violação direta às garantias constitucionais da ampla defesa e do contraditório.",
+        "D": "Nulidade sanável, desde que o magistrado fundamente a condenação em outras provas além do interrogatório.",
+        "E": "Inexistência jurídica do ato, não produzindo qualquer efeito, mas sem necessidade de anulação formal."
+      },
+      "resposta_correta": "C",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A defesa técnica é indispensável no interrogatório. A ausência de intimação e de defensor em ato por videoconferência fere o núcleo do devido processo legal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>C) ✅ CORRETA</p><p style='color: #155724;'>O STJ decidiu que a falta de defensor no interrogatório virtual é nulidade absoluta, dispensando prova de prejuízo.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Princípio:</strong> Pas de nullité sans grief (não há nulidade sem prejuízo). Contudo, em nulidades absolutas, o prejuízo é ínsito à gravidade da violação.</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Auditor Fiscal de Tributos Estaduais",
+      "subtema": "Falsidade Ideológica vs Crime Tributário",
+      "enunciado": "[TEXTO DE APOIO] Um contribuinte omitiu dados relevantes em sua declaração de imposto de renda. O Ministério Público o denunciou por falsidade ideológica (art. 299 do CP).\n\n[COMANDO] Conforme o entendimento do STJ no Informativo 779 (REsp 2.025.590-PR), para a configuração do crime de falsidade ideológica por omissão em declaração fiscal:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Basta a mera omissão do dado, tratando-se de crime de perigo abstrato.",
+        "B": "É indispensável a demonstração do dolo específico de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.",
+        "C": "A conduta é atípica na esfera penal, configurando apenas infração administrativa tributária.",
+        "D": "O crime se consuma apenas se houver prejuízo financeiro efetivo aos cofres públicos.",
+        "E": "A falsidade ideológica é absorvida pelo crime de descaminho, independentemente da natureza da mercadoria."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O tipo penal do art. 299 exige um elemento subjetivo especial (fim específico).</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ firmou que a mera omissão não basta; exige-se o dolo específico descrito no próprio tipo penal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 299 CP:</strong> Omitir, em documento público ou particular, declaração que dele devia constar... com o fim de prejudicar direito, criar obrigação ou alterar a verdade.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Agente Fiscal",
+      "subtema": "Crimes contra a Ordem Tributária",
+      "enunciado": "[TEXTO DE APOIO] O art. 1º, inciso II, da Lei n. 8.137/90 descreve a conduta de fraudar a fiscalização tributária, inserindo elementos inexatos, ou omitindo operação de qualquer natureza, em documento ou livro exigido pela lei fiscal.\n\n[COMANDO] Segundo o Informativo 779 do STJ (REsp 2.052.023-RS), o crime previsto no referido dispositivo é de natureza:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Material, exigindo a efetiva supressão ou redução do tributo para sua consumação.",
+        "B": "Formal, consumando-se com a prática da conduta fraudulenta, independentemente da efetiva supressão ou redução do tributo.",
+        "C": "De perigo concreto, exigindo prova de que a fraude colocou em risco a arrecadação estatal.",
+        "D": "Culposa, admitindo-se a punição por negligência na escrituração de livros fiscais.",
+        "E": "Acessória, dependendo sempre da condenação prévia por crime de lavagem de dinheiro."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>Diferente de outros incisos do art. 1º, o inciso II foca na fraude à fiscalização.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entendeu que a fraude em livros fiscais é crime formal, punindo o ato de enganar o fisco em si.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Classificação:</strong> Crimes formais são aqueles em que o tipo penal descreve conduta e resultado, mas a consumação ocorre com a conduta.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Juiz de Direito",
+      "subtema": "Confissão Espontânea",
+      "enunciado": "[TEXTO DE APOIO] Durante o interrogatório judicial, o réu admitiu ter efetuado os disparos contra a vítima, mas alegou que o fez em legítima defesa, pois acreditava estar prestes a ser agredido.\n\n[COMANDO] Com base no entendimento do STJ no Informativo 779 (HC 802.730-PR), sobre a atenuante da confissão espontânea (art. 65, III, 'd', do CP), é correto afirmar:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "A confissão qualificada (admissão do fato com alegação de excludente) impede o reconhecimento da atenuante.",
+        "B": "A atenuante deve ser reconhecida mesmo que a confissão seja parcial ou qualificada, desde que utilizada para fundamentar a condenação.",
+        "C": "A confissão só gera atenuação da pena se for feita na fase policial, sendo irrelevante a fase judicial.",
+        "D": "O magistrado tem a discricionariedade de não aplicar a atenuante se considerar que o réu mentiu sobre a motivação do crime.",
+        "E": "A confissão qualificada só atenua a pena se o réu renunciar expressamente ao direito de recorrer."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A Súmula 545 do STJ já indicava esse caminho, e o Informativo 779 reforça a aplicação da atenuante mesmo em confissões com ressalvas.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>Se a fala do réu serviu para convencer o juiz da autoria, a atenuante é obrigatória, mesmo que ele alegue legítima defesa (confissão qualificada).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 545 STJ:</strong> Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Prisão Preventiva",
+      "enunciado": "[TEXTO DE APOIO] Um réu que respondia ao processo em liberdade mudou-se de residência sem comunicar o novo endereço ao juízo. O magistrado, ao tomar conhecimento, decretou imediatamente a prisão preventiva para assegurar a aplicação da lei penal.\n\n[COMANDO] À luz do Informativo 779 do STJ (REsp 2.039.671-SP), a decisão do magistrado está:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Correta, pois a mudança de endereço sem comunicação gera presunção absoluta de fuga.",
+        "B": "Incorreta, pois a simples alteração de endereço sem comunicação não justifica, por si só, a prisão preventiva, exigindo-se prova da intenção de frustrar a lei.",
+        "C": "Correta, pois viola o dever processual de atualização cadastral previsto no Código de Processo Penal.",
+        "D": "Incorreta, pois a prisão preventiva só pode ser decretada se o crime tiver pena máxima superior a 8 anos.",
+        "E": "Correta, desde que o réu tenha sido citado por edital anteriormente."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A prisão preventiva é a 'ultima ratio'. Falhas administrativas do réu não autorizam automaticamente o cárcere.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ entende que deve haver elementos concretos de que o réu pretende fugir, e não apenas o esquecimento de atualizar o endereço.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 312 CPP:</strong> A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Analista Jurídico",
+      "subtema": "Lei Maria da Penha",
+      "enunciado": "[TEXTO DE APOIO] Medidas protetivas de urgência foram aplicadas em favor de uma mulher vítima de violência doméstica. Após dois anos, o agressor peticionou pedindo a extinção das medidas por decurso de prazo, alegando que não houve nova agressão.\n\n[COMANDO] Conforme o Informativo 779 do STJ (RMS 70.470-SP), as medidas protetivas da Lei Maria da Penha:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Têm prazo de validade máximo de 90 dias, devendo ser renovadas expressamente.",
+        "B": "Devem vigorar enquanto persistir a situação de risco à integridade da vítima, não havendo prazo legal predeterminado para sua cessação.",
+        "C": "Extinguem-se automaticamente com o arquivamento do inquérito policial ou a absolvição no processo criminal.",
+        "D": "Só podem ser mantidas se houver a condenação definitiva do agressor.",
+        "E": "São limitadas ao prazo da prescrição da pretensão punitiva do crime principal."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>As medidas protetivas têm natureza inibitória e autônoma, visando a proteção da vida, e não apenas o resultado do processo penal.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ decidiu que o critério é a persistência do risco, e não um prazo fixo ou o destino da ação penal.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Lei 11.340/06:</strong> As medidas protetivas podem ser concedidas de imediato e devem ser revistas periodicamente, mas duram enquanto houver perigo.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Auditor de Controle Externo",
+      "subtema": "Execução Penal",
+      "enunciado": "[TEXTO DE APOIO] Um sentenciado que cumpria pena em regime semiaberto praticou um novo crime doloso no interior do estabelecimento prisional.\n\n[COMANDO] De acordo com o Informativo 779 do STJ (REsp 1.994.182-RJ), a prática de falta grave (novo crime doloso) durante a execução da pena:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Interrompe o prazo para a obtenção de livramento condicional.",
+        "B": "Interrompe o prazo para a progressão de regime, iniciando-se nova contagem a partir da data da infração.",
+        "C": "Não pode gerar qualquer efeito antes do trânsito em julgado da sentença do novo crime.",
+        "D": "Interrompe apenas o prazo para a saída temporária, mantendo-se os demais benefícios.",
+        "E": "Gera a perda integral de todos os dias remidos pelo trabalho anterior."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A falta grave tem efeitos severos na execução, mas o STJ e o STF limitam quais prazos são interrompidos.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A interrupção do prazo para progressão de regime é efeito consolidado da falta grave (Súmula 534 STJ).</p></div><div style='margin: 10px 0; padding: 12px; background: #f8d7da; border-radius: 6px;'><p style='font-weight: bold; color: #721c24;'>A) ❌ INCORRETA</p><p style='color: #721c24;'>A falta grave NÍO interrompe o prazo para livramento condicional (Súmula 441 STJ).</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Súmula 534 STJ:</strong> A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena.</p></div></div>"
+    },
+    {
+      "banca": "FGV",
+      "ano": 2024,
+      "cargo": "Delegado de Polícia",
+      "subtema": "Inviolabilidade de Domicílio",
+      "enunciado": "[TEXTO DE APOIO] Policiais entraram em uma residência sem mandado judicial, alegando que um dos moradores, um adolescente de 16 anos, autorizou a entrada.\n\n[COMANDO] Com base no Informativo 779 do STJ (HC 789.284-SP), sobre a validade do consentimento para entrada em domicílio:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "O consentimento de qualquer morador, inclusive menor de idade, é válido para autorizar a busca domiciliar.",
+        "B": "O consentimento deve ser livre, voluntário e prestado por pessoa capaz, devendo ser comprovado pelo Estado, preferencialmente por escrito e com testemunhas.",
+        "C": "A autorização do menor é válida se ele aparentar maturidade suficiente no momento da abordagem.",
+        "D": "O consentimento é irrelevante se os policiais tiverem 'denúncia anônima' prévia sobre tráfico no local.",
+        "E": "A entrada é sempre lícita se os policiais encontrarem drogas no interior da residência (crime permanente)."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Difícil",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ tem endurecido as regras para entrada em domicílio sem mandado para evitar abusos policiais.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O ônus de provar o consentimento é do Estado, e o consentimento de menor é considerado inválido por falta de plena capacidade civil/discernimento jurídico para abrir mão de garantia constitucional.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 5º, XI, CF:</strong> A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre...</p></div></div>"
+    },
+    {
+      "banca": "FCC",
+      "ano": 2024,
+      "cargo": "Analista Judiciário",
+      "subtema": "Furto",
+      "enunciado": "[TEXTO DE APOIO] Um indivíduo subtraiu mercadorias de uma loja de departamentos durante a madrugada, momento em que o estabelecimento estava fechado e sem funcionários.\n\n[COMANDO] De acordo com o Informativo 779 do STJ (REsp 2.047.340-SP), a causa de aumento de pena do repouso noturno (art. 155, § 1º, do CP):",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Não se aplica a estabelecimentos comerciais, incidindo apenas em residências habitadas.",
+        "B": "Aplica-se ao furto praticado em estabelecimento comercial, ainda que este esteja fechado no momento do crime.",
+        "C": "Exige que a vítima esteja efetivamente dormindo no local para configurar a majorante.",
+        "D": "É incompatível com a figura do furto qualificado pelo rompimento de obstáculo.",
+        "E": "Só incide se o crime for praticado em via pública durante a noite."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A majorante visa punir a maior vulnerabilidade do patrimônio durante a noite, quando a vigilância é reduzida.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ consolidou que o repouso noturno se aplica a estabelecimentos comerciais e residências, habitadas ou não, pois o foco é a menor vigilância.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 155, § 1º CP:</strong> A pena aumenta-se de um terço, se o crime é praticado durante o repouso noturno.</p></div></div>"
+    },
+    {
+      "banca": "VUNESP",
+      "ano": 2024,
+      "cargo": "Promotor de Justiça",
+      "subtema": "Crimes contra a Honra",
+      "enunciado": "[TEXTO DE APOIO] Um indivíduo caluniou um funcionário público em razão de suas funções. Antes da prolação da sentença de primeiro grau, o querelado apresentou petição retratando-se cabalmente das ofensas proferidas.\n\n[COMANDO] Segundo o Informativo 779 do STJ (REsp 1.977.124-SP), a retratação nos crimes contra a honra:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Exige a aceitação da vítima para produzir efeitos de extinção da punibilidade.",
+        "B": "É um ato unilateral que extingue a punibilidade se feita antes da sentença, independentemente da aceitação do ofendido.",
+        "C": "Não é admitida nos crimes de calúnia, apenas nos de difamação.",
+        "D": "Só é válida se feita por meio de publicação em jornal de grande circulação.",
+        "E": "Reduz a pena de metade, mas não extingue a punibilidade."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>A retratação é uma causa de extinção da punibilidade prevista no art. 143 do CP.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>O STJ reafirmou que a retratação é ato unilateral e não depende do perdão ou aceitação da vítima.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 143 CP:</strong> O querelado que, antes da sentença, se retrata cabalmente da calúnia ou da difamação, fica isento de pena.</p></div></div>"
+    },
+    {
+      "banca": "CESPE",
+      "ano": 2024,
+      "cargo": "Procurador do Estado",
+      "subtema": "Crimes Ambientais",
+      "enunciado": "[TEXTO DE APOIO] Uma empresa foi denunciada por crime ambiental. A denúncia, contudo, não apontou nenhuma pessoa física (diretor ou gerente) como coautora do delito, focando exclusivamente na responsabilidade da pessoa jurídica.\n\n[COMANDO] Com base no Informativo 779 do STJ (REsp 2.021.144-MG), a responsabilização penal da pessoa jurídica por crimes ambientais:",
+      "tipo": "multipla_escolha",
+      "alternativas": {
+        "A": "Depende obrigatoriamente da identificação e denúncia concomitante da pessoa física que agiu em seu nome (Teoria da Dupla Imputação).",
+        "B": "É possível de forma isolada, sendo desnecessária a identificação ou a condenação conjunta da pessoa física (Abandono da Teoria da Dupla Imputação).",
+        "C": "É vedada pela Constituição Federal, que admite apenas sanções administrativas e civis para empresas.",
+        "D": "Exige a prova de que a empresa foi criada com o propósito exclusivo de cometer crimes.",
+        "E": "Só ocorre se o crime for praticado em benefício exclusivo dos acionistas majoritários."
+      },
+      "resposta_correta": "B",
+      "dificuldade": "Média",
+      "comentario_llm": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif;'><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>🎯 ANÁLISE GERAL</h3><p style='color: #6c757d; line-height: 1.6;'>O STJ e o STF evoluíram para permitir a punição da empresa mesmo quando não se consegue identificar o autor material humano.</p></div><div style='margin-bottom: 20px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold;'>📋 ANÁLISE DAS ALTERNATIVAS</h3><div style='margin: 10px 0; padding: 12px; background: #d4edda; border-radius: 6px;'><p style='font-weight: bold; color: #155724;'>B) ✅ CORRETA</p><p style='color: #155724;'>A Teoria da Dupla Imputação foi superada. A pessoa jurídica tem responsabilidade penal autônoma em crimes ambientais.</p></div></div></div>",
+      "comentario_livro": "<div style='background: #f8f9fa; padding: 20px; border: 1px solid #dee2e6; border-radius: 8px; font-family: Georgia, serif; line-height: 1.8;'><div style='margin-bottom: 15px;'><h3 style='color: #495057; font-size: 16px; font-weight: bold; margin-bottom: 10px;'>📚 FUNDAMENTAÇÍO TEÓRICA</h3></div><div style='color: #212529;'><p><strong>Art. 225, § 3º CF:</strong> As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas...</p></div></div>"
+    }
+  ],
+  "data_correcao": "2026-01-12T07:21:31.337801",
+  "versao_correcao": "Corretor_V2.0",
+  "sessao_correcao": "20260111_222021"
+}
