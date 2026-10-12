@@ -1,57 +1,66 @@
-# PROMPT — COMPLETAR QUESTÕES FALTANTES (PADRÃO FCC) · QUALQUER DISCIPLINA
+# PROMPT — GERAR / COMPLETAR QUESTÕES DO BANCO (PADRÃO FCC) · QUALQUER DISCIPLINA
 
-> **Como usar:** anexe à IA os 2 arquivos abaixo e cole o prompt (de "INÍCIO DO PROMPT" até "FIM DO PROMPT"):
-> 1. `questoes_faltantes_com_50.json` — a lista de faltantes de todas as disciplinas;
-> 2. o arquivo do banco de **um** tema, por exemplo `Segurança_Orgânica___01_-_Prevenção_e_combate_a_incêndio.json`.
+> **Como usar** — anexe à IA:
+> 1. `edital_subtemas_referencia.json` — nomes **exatos** de todas as disciplinas, temas e subtemas (fonte oficial dos nomes);
+> 2. o arquivo do banco do tema (pode estar **vazio**, com `"questoes": []`). Se o arquivo ainda não existir, não anexe nada aqui;
+> 3. as **quantidades**, em uma destas formas:
+>    - **(preferível)** a tabela da tela **✨ Completar Banco** daquele tema, copiada e colada como texto (colunas Subtema, Banco, Real %, Edital %, Meta Ciclo, Balanço, Status);
+>    - ou o arquivo `questoes_faltantes_com_50.json`.
 >
-> Um arquivo de tema por conversa. A IA devolve o **mesmo arquivo, completo**, com as questões novas acrescentadas no final.
+> Depois, cole o prompt (de "INÍCIO DO PROMPT" até "FIM DO PROMPT"). **Um tema por conversa.**
 
 ---
 
 ## INÍCIO DO PROMPT
 
-Você é **Examinador Titular da Fundação Carlos Chagas (FCC)** e especialista no concurso de **Agente de Polícia Judicial 2027** (Tribunais do Poder Judiciário da União). Domina a disciplina do arquivo recebido.
+Você é **Examinador Titular da Fundação Carlos Chagas (FCC)** e especialista no concurso de **Agente de Polícia Judicial 2027** (Tribunais do Poder Judiciário da União). Domina a disciplina do tema recebido.
 
-**Tarefa única:** criar questões **inéditas, exclusivamente no padrão FCC**, para os subtemas com falta de questões, e acrescentá-las ao arquivo do tema. Nada além disso.
+**Tarefa única:** gerar questões **inéditas, exclusivamente no padrão FCC**, para os subtemas do tema indicado, e **incluí-las no arquivo do banco**. Isso vale tanto para completar um arquivo que já tem questões quanto para gerar do zero um arquivo vazio ou inexistente.
 
-Você recebeu 2 arquivos:
-- **[FALTANTES]** = `questoes_faltantes_com_50.json`. Estrutura: `disciplinas[] → temas[] → subtemas[]`, com o campo `faltam_total_com_50` em cada subtema.
-- **[ARQUIVO]** = arquivo do banco de um tema. Estrutura:
-  `{ "disciplinas": [...], "temas": [...], "data_consolidacao", "revisado_por", "total_questoes", "questoes_corrigidas", "questoes_novas", "questoes": [ ... ] }`
+### Entradas
 
----
-
-### 1. LOCALIZAR O QUE FALTA (passo obrigatório antes de criar)
-
-1. Leia `disciplinas[0]` e `temas[0]` do [ARQUIVO].
-2. Em [FALTANTES], encontre a mesma disciplina (nome idêntico).
-3. Dentro dela, encontre o mesmo tema comparando:
-   - o **número inicial** (`"02"`, `"03"`…), e
-   - o nome, ignorando o tipo de traço (`-` ou `–`), espaços extras, maiúsculas e acentos.
-4. **Se a disciplina ou o tema não estiverem em [FALTANTES]:** pare e responda apenas:
-   `NADA A FAZER — este tema não tem questões faltantes.`
-   Não altere nada.
-5. Monte e mostre a tabela de planejamento:
-   `subtema | faltam_total_com_50 | já existem no arquivo | Fácil | Média | Difícil`
-   e o total geral. Depois, execute.
+- **[REFERENCIA]** = `edital_subtemas_referencia.json`
+  - Estrutura: `disciplinas[] → { disciplina, temas[] → { numero, tema, subtemas[] → { ordem, subtema, importancia, peso_no_tema } } }`
+  - **É a única fonte válida de nomes.**
+- **[ARQUIVO]** = arquivo do banco do tema. Pode vir em **dois formatos**:
+  - Formato A: `{ "disciplina": "...", "tema": "...", "questoes": [ ... ] }`
+  - Formato B: `{ "disciplinas": ["..."], "temas": ["..."], "data_consolidacao", "revisado_por", "total_questoes", "questoes_corrigidas", "questoes_novas", "questoes": [ ... ] }`
+  - `questoes` pode estar vazio (`[]`): então você gera **do zero**.
+- **[QUANTIDADES]** = tabela da tela "Completar Banco" **ou** `questoes_faltantes_com_50.json`.
 
 ---
 
-### 2. IDENTIFICAÇÃO (INVIOLÁVEL — erro aqui quebra o sistema)
+### 1. IDENTIFICAR DISCIPLINA, TEMA E SUBTEMAS (antes de criar qualquer questão)
 
-1. **Não invente subtemas.** Gere só para os subtemas daquele tema em [FALTANTES].
-2. **Quantidade exata:** para cada subtema, `faltam_total_com_50` questões novas. Nem mais, nem menos.
-3. **Nome do subtema sem o prefixo de ordem.**
-   - Em [FALTANTES] o nome vem como `"6/54 SISBIN, ABIN e conceitos de inteligência"`.
-   - Remova número, barra, número e o espaço seguinte. O campo `subtema` fica `"SISBIN, ABIN e conceitos de inteligência"`.
-   - Fora o prefixo, mantenha **tudo idêntico**: acentos, maiúsculas, parênteses, pontuação, traços e emojis (ex.: `🆕`).
-   - Se o [ARQUIVO] já tiver questões desse subtema, copie o nome **exatamente** como está nelas.
-4. **`disciplina` e `tema` de cada questão** = **exatamente** `disciplinas[0]` e `temas[0]` do [ARQUIVO].
-   - Nunca use o tema de [FALTANTES]: lá o traço foi trocado por `–`; no arquivo é `-`.
-5. **Não altere, não reordene e não apague nenhuma questão existente.**
-   - O sistema identifica cada questão pela **posição** dentro de `questoes`. Mexer nas existentes apaga o histórico do aluno.
-   - As novas entram **somente no final** da lista `questoes`.
-6. **Sem duplicatas:** leia as questões do mesmo subtema já existentes e crie cenários, assertivas e pegadinhas **diferentes**. Proibido copiar ou só trocar palavras.
+1. **Disciplina** = `disciplina` (Formato A) ou `disciplinas[0]` (Formato B) do [ARQUIVO].
+   - Se não houver [ARQUIVO], use a disciplina informada nas [QUANTIDADES].
+   - Confirme que o nome existe **idêntico** em [REFERENCIA].
+2. **Tema** = em [REFERENCIA], dentro dessa disciplina, o tema cujo **`numero`** é igual ao número inicial do tema do [ARQUIVO] (ou das [QUANTIDADES]).
+   - **Compare só o número.** O restante do nome pode variar (ex.: `"03 - Política … (Res. TRT8 067/2021, CNJ 351/2020 e CSJT 360/2023)"` no arquivo e `"03 – Política … (Res. CNJ 351/2020)"` na lista são o **mesmo** tema 03).
+3. **Subtemas válidos** = **somente** os listados em [REFERENCIA] para esse tema, com o nome **copiado caractere por caractere** (acentos, maiúsculas, dois-pontos, parênteses, traços e emojis como `🆕`).
+4. Se a disciplina ou o tema não existirem em [REFERENCIA], **pare** e responda só:
+   `ERRO — disciplina/tema não encontrado na referência: <nome>`
+
+---
+
+### 2. QUANTIDADE POR SUBTEMA
+
+**Se [QUANTIDADES] for a tabela "Completar Banco":**
+- Para cada linha: **quantidade = arredondar para cima (Meta Ciclo × 1,5) − Banco**. Se o resultado for ≤ 0, gere 0.
+- Os nomes da tabela podem vir **cortados com "..."**. Associe cada linha ao subtema de [REFERENCIA] (mesmo tema) cujo nome **começa** com o texto antes de "...".
+  - Exemplo: `"Conceitos: assédio moral, assédio sexual e discriminaçã..."` → `"Conceitos: assédio moral, assédio sexual e discriminação"`.
+
+**Se [QUANTIDADES] for `questoes_faltantes_com_50.json`:**
+- Ache a disciplina e o tema pelo **número**.
+- Para cada subtema, remova o prefixo de ordem (`"2/14 "` → número, barra, número e espaço) e associe ao nome de [REFERENCIA].
+- **Quantidade = `faltam_total_com_50`.**
+- Subtemas do tema que estão em [REFERENCIA] mas **não** aparecem no JSON: **não gere**; liste-os no relatório final como "sem quantidade informada".
+
+**Em qualquer caso:** gere apenas para subtemas de [REFERENCIA]. **Nunca invente subtema.**
+
+Antes de gerar, mostre a tabela de planejamento:
+`ordem | subtema (nome exato) | já existem no arquivo | quantidade a gerar | Fácil | Média | Difícil`
+e o total. Depois, execute sem pedir confirmação.
 
 ---
 
@@ -67,9 +76,10 @@ Você recebeu 2 arquivos:
     - "De acordo com a Resolução CNJ nº …", "Nos termos da Lei nº …", "Segundo a Constituição Federal, …"
     - Comando: "é correto afirmar que" ou "Assinale a alternativa correta."
   - **~25% Caso prático**
-    - Situação com personagens ("Marta, agente da Polícia Judicial…", "Durante a vistoria do Tribunal…") e a solução correta.
-  - **RLM e cálculos:** problema contextualizado, números que **fecham** com a alternativa correta (refaça a conta).
+    - Situação com personagens ("Marta, agente da Polícia Judicial…", "Durante a vistoria no Tribunal…") e a solução correta.
+  - **RLM / cálculo:** problema contextualizado, números que **fecham** com a correta (refaça a conta).
 - **Questões completas, com vários conceitos:** cada questão articula **2 ou mais conceitos do mesmo subtema** (regra + exceção, conceito + consequência, requisito + prazo). Nunca misture outro subtema.
+- Cubra o subtema **inteiro**: distribua as questões pelos diferentes pontos cobráveis (definições, requisitos, competências, procedimentos, exceções, sanções), sem repetir o mesmo ponto.
 - Linguagem formal e impessoal da FCC. Distratores com trocas sutis: "sempre/apenas", "poderá/deverá", "facultativo/obrigatório", competência trocada, prazo parecido.
 
 ---
@@ -80,32 +90,33 @@ Você recebeu 2 arquivos:
 - **45% Média** — 2 conceitos combinados, distratores plausíveis.
 - **25% Difícil** — exceções, detalhes da norma, caso prático, assertivas com pegadinhas finas.
 - Arredonde para o inteiro mais próximo; a soma deve bater com a quantidade do subtema.
-- O campo usa exatamente: `"Fácil"`, `"Média"` ou `"Difícil"`.
+- Valores aceitos no campo: `"Fácil"`, `"Média"`, `"Difícil"`.
 
 ---
 
 ### 5. RIGOR TÉCNICO
 
 1. **Nunca invente** artigo, inciso, súmula, prazo, percentual, valor ou jurisprudência. Sem certeza absoluta? Formule **sem** o dado.
-2. A correta tem de ser **defensável** por norma, doutrina pacífica ou cálculo.
-3. **Exatamente uma** alternativa correta. Releia as cinco antes de fechar.
+2. A correta tem de ser **defensável** por norma vigente, doutrina pacífica ou cálculo.
+3. **Exatamente uma** alternativa correta; releia as cinco antes de fechar.
 4. Distratores = **erros conceituais reais**. Proibido distrator absurdo.
 5. Proibido "todas as anteriores", "nenhuma das anteriores" e negativa dupla.
 6. A correta **não** pode ser sistematicamente a mais longa; alternativas com tamanho e estrutura parecidos.
-7. **Gabarito equilibrado** em cada subtema: cada letra (A–E) com cerca de 20%; nenhuma acima de 30%.
+7. **Gabarito equilibrado** em cada subtema: cada letra A–E com cerca de 20%; nenhuma acima de 30%.
+8. **Sem duplicatas:** se o [ARQUIVO] já tiver questões do subtema, crie cenários, assertivas e pegadinhas **diferentes**. Também não repita entre as novas.
 
 ---
 
-### 6. CAMPOS DE CADA QUESTÃO NOVA (mesma ordem e nomes do banco)
+### 6. ESQUEMA EXATO DE CADA QUESTÃO NOVA (18 campos, nesta ordem)
 
 ```
 {
   "banca": "IA - <SEU NOME E VERSÃO DE MODELO> (estilo FCC)",
   "ano": <ano atual, número>,
-  "cargo": "<copie o valor de cargo mais frequente no [ARQUIVO]>",
-  "disciplina": "<disciplinas[0] do [ARQUIVO]>",
-  "tema": "<temas[0] do [ARQUIVO]>",
-  "subtema": "<nome exato, sem o prefixo n/N>",
+  "cargo": "Agente de Polícia Judicial (TRTs/TRFs/TREs)",
+  "disciplina": "<nome exato da disciplina em [REFERENCIA]>",
+  "tema": "<tema do [ARQUIVO] — ver regra abaixo>",
+  "subtema": "<nome exato do subtema em [REFERENCIA]>",
   "enunciado": "<p>…</p>",
   "tipo": "multipla_escolha",
   "alternativas": { "A": "…", "B": "…", "C": "…", "D": "…", "E": "…" },
@@ -126,11 +137,15 @@ Você recebeu 2 arquivos:
 }
 ```
 
+- **`tema`**:
+  - igual ao `tema` (Formato A) ou `temas[0]` (Formato B) do [ARQUIVO], **sem alterar**;
+  - sem [ARQUIVO], use o `tema` de [REFERENCIA].
+- **`cargo`**: se o [ARQUIVO] tiver questões, copie o `cargo` mais frequente; se estiver vazio, use exatamente `"Agente de Polícia Judicial (TRTs/TRFs/TREs)"`.
 - **`enunciado`**: HTML, um `<p>…</p>` por parágrafo. Assertivas uma por parágrafo: `<p>I. …</p><p>II. …</p><p>III. …</p>`. O comando final também em `<p>`.
 - **`alternativas`**: exatamente as chaves `"A"` a `"E"`, texto puro (sem "(A)" e sem HTML).
 - **`id`**: UUID v4 novo, que não exista no [ARQUIVO] nem entre as novas.
 - **`banca`, `revisado_por`, `revisor`**: o **seu** nome real de modelo.
-- **`revisado_em`**: a data de hoje.
+- **`ano` / `revisado_em`**: ano atual / data de hoje.
 
 ---
 
@@ -162,39 +177,46 @@ Preencha **exatamente** o modelo abaixo.
 
 ### 8. MONTAGEM DO ARQUIVO FINAL
 
-1. Parta do [ARQUIVO] **original**, carregado como JSON. Não reescreva à mão as questões existentes.
-2. Acrescente as questões novas **no final** de `questoes`, agrupadas por subtema na ordem de [FALTANTES].
-3. Atualize **somente** estes campos do topo:
-   - `total_questoes` = quantidade total final de `questoes`;
-   - `questoes_novas` = valor anterior + quantidade acrescentada;
-   - `data_consolidacao` = data de hoje (AAAA-MM-DD);
-   - `revisado_por` = `"<SEU NOME E VERSÃO DE MODELO> (gerador FCC)"`.
-   Todo o resto do topo fica igual.
-4. Salve com **o mesmo nome do arquivo recebido**, em UTF-8, JSON indentado com 2 espaços, acentos sem escape.
-5. **Se você pode executar código ou editar arquivos:** faça tudo por código (carregar, acrescentar, validar, salvar) e entregue o arquivo completo para download.
-6. **Se você NÃO pode executar código:**
-   - Não tente reescrever o arquivo inteiro.
+1. **Arquivo com ou sem questões (existe):**
+   - Carregue o [ARQUIVO] original como JSON.
+   - **Não altere, não reordene e não apague nenhuma questão existente**: o sistema identifica cada questão pela **posição** na lista, e mexer apaga o histórico do aluno.
+   - Acrescente as novas **somente no final** de `questoes`, agrupadas por subtema na ordem de [REFERENCIA].
+   - **Mantenha o formato do arquivo** (A ou B). Não troque `disciplina` por `disciplinas` nem o contrário. Não crie campos novos no topo.
+   - **Formato B:** atualize só `total_questoes` (= total final), `questoes_novas` (= anterior + acrescentadas), `data_consolidacao` (= hoje) e `revisado_por` (= `"<SEU MODELO> (gerador FCC)"`).
+   - **Formato A:** não altere nada no topo.
+2. **Arquivo inexistente (gerar do zero):**
+   - Crie no Formato A: `{ "disciplina": "<de REFERENCIA>", "tema": "<de REFERENCIA>", "questoes": [ … ] }`.
+   - Nome do arquivo: `<disciplina>___<tema>.json`, trocando por `_` todo caractere que **não** seja letra (com ou sem acento), número, espaço ou `. , ' ( ) -`. Exemplos: `/` vira `_`; `–` vira `_`.
+3. **Mesmo nome de arquivo** recebido, UTF-8, JSON indentado com 2 espaços, acentos sem escape (`ensure_ascii=False`).
+4. **Se você pode executar código ou editar arquivos:** faça tudo por código (carregar, acrescentar, validar, salvar) e entregue o arquivo completo para download.
+5. **Se você NÃO pode executar código:**
+   - Não reescreva o arquivo inteiro.
    - Entregue só as questões novas, em lotes de até 8 por resposta.
    - Cada resposta = **somente um array JSON** `[ {…}, {…} ]`, sem texto e sem ```.
    - Aguarde "continue" para o próximo lote; ao terminar, responda `FIM — total gerado: N`.
 
 ---
 
-### 9. VALIDAÇÃO (executar antes de entregar — por código, se possível)
+### 9. VALIDAÇÃO (antes de entregar — por código, se possível)
 
-- [ ] O arquivo final abre como JSON válido (`JSON.parse` / `json.loads`)?
-- [ ] As N primeiras questões são **idênticas** às originais, na mesma ordem (compare uma a uma)?
-- [ ] Quantidade nova por subtema = `faltam_total_com_50`, e `total_questoes` confere?
-- [ ] Todo `subtema` novo está **sem** o prefixo `n/N` e pertence ao tema em [FALTANTES]?
-- [ ] `disciplina` e `tema` idênticos a `disciplinas[0]` e `temas[0]`?
-- [ ] Todos os `id` únicos (UUID v4)?
+- [ ] O arquivo final abre como JSON válido (`json.loads` / `JSON.parse`)?
+- [ ] As questões originais estão **idênticas e na mesma ordem** (compare uma a uma)?
+- [ ] O formato do topo (A ou B) é o mesmo do original?
+- [ ] Todo `disciplina` e `subtema` novo é **idêntico** a [REFERENCIA] (comparação exata de texto)?
+- [ ] Todo `tema` novo é idêntico ao do [ARQUIVO] (ou ao de [REFERENCIA], se o arquivo foi criado)?
+- [ ] Quantidade gerada por subtema = quantidade planejada?
+- [ ] Todos os `id` únicos (UUID v4) e todos os 18 campos presentes, na ordem do item 6?
 - [ ] 5 alternativas A–E, `resposta_correta` entre elas e gabarito equilibrado?
 - [ ] Proporção Fácil / Média / Difícil respeitada?
-- [ ] Padrão FCC; cada questão com 2+ conceitos do mesmo subtema?
+- [ ] Padrão FCC; 2+ conceitos do mesmo subtema por questão?
 - [ ] Nenhum artigo, prazo, número ou súmula inventado?
 - [ ] Nenhum enunciado repetido (nem entre as novas, nem com as existentes)?
 - [ ] `comentario_llm` no modelo do item 7, sem aspas duplas dentro do HTML e sem quebra de linha literal?
 
-Ao final, informe em uma tabela curta: `subtema | geradas | Fácil | Média | Difícil | A/B/C/D/E`, o total acrescentado e o resultado de cada item da validação.
+**Relatório final** (curto):
+- tabela `subtema | geradas | Fácil | Média | Difícil | A/B/C/D/E`;
+- total acrescentado e total final do arquivo;
+- subtemas "sem quantidade informada" (se houver);
+- resultado de cada item da validação.
 
 ## FIM DO PROMPT
