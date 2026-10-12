@@ -1049,11 +1049,11 @@
       "enunciado": "<p>O crime de coação no curso do processo pode ter como sujeito passivo secundário</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "somente o réu.",
-        "B": "somente a testemunha de acusação.",
+        "A": "somente o réu da ação penal, por ser ele o principal interessado no resultado do processo.",
+        "B": "somente a testemunha de acusação, por ser ela a pessoa mais exposta a ameaças no curso do processo.",
         "C": "a autoridade, a parte ou qualquer pessoa que funciona ou é chamada a intervir no processo.",
-        "D": "apenas o advogado da parte contrária.",
-        "E": "somente o juiz de direito."
+        "D": "apenas o advogado da parte contrária, por exercer função essencial à administração da justiça.",
+        "E": "somente o juiz de direito, por ser a autoridade que conduz o processo judicial."
       },
       "resposta_correta": "C",
       "dificuldade": "Fácil",
@@ -1214,10 +1214,10 @@
       "enunciado": "<p>Um credor, sem recorrer ao Judiciário, invade a casa do devedor e toma um bem de valor equivalente à dívida. A conduta pode configurar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apropriação indébita, por tratar-se de crédito.",
-        "B": "fato atípico, por haver dívida legítima.",
-        "C": "roubo, pois a posse é do devedor.",
-        "D": "estelionato, por ausência de fraude.",
+        "A": "apropriação indébita, por tratar-se de crédito em que o credor tomou bem do devedor.",
+        "B": "fato atípico, por haver dívida legítima, que afasta qualquer responsabilidade penal do credor.",
+        "C": "roubo, pois a posse do bem é do devedor e a violência foi empregada para subtraí-lo.",
+        "D": "estelionato, pois o credor obteve a vantagem mediante artifício que induziu o devedor a erro.",
         "E": "exercício arbitrário das próprias razões, sem prejuízo da pena correspondente à violência empregada, se houver."
       },
       "resposta_correta": "E",
@@ -1247,11 +1247,11 @@
       "enunciado": "<p>A pena do crime de exercício arbitrário das próprias razões, prevista no art. 345 do Código Penal, é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "prisão perpétua.",
-        "B": "reclusão, de um a quatro anos, e multa.",
-        "C": "reclusão, de dois a quatro anos.",
+        "A": "prisão perpétua, a ser cumprida em regime fechado, além da pena correspondente à violência.",
+        "B": "reclusão, de um a quatro anos, e multa, além da pena correspondente à violência empregada.",
+        "C": "reclusão, de dois a quatro anos, sem multa, em razão da gravidade da conduta do agente.",
         "D": "detenção, de quinze dias a um mês, ou multa, além da pena correspondente à violência.",
-        "E": "detenção, de seis meses a dois anos."
+        "E": "detenção, de seis meses a dois anos, sem prejuízo da pena correspondente à violência."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -1313,10 +1313,10 @@
       "enunciado": "<p>Quanto aos crimes dos arts. 345 e 346 do Código Penal, é correto afirmar que ambos</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exigem fraude ou artifício para sua configuração.",
-        "B": "são crimes próprios de funcionário público.",
-        "C": "exigem resultado naturalístico de prejuízo econômico.",
-        "D": "são crimes contra o patrimônio, na modalidade de furto.",
+        "A": "exigem fraude ou artifício para sua configuração, induzindo em erro o juiz ou o perito.",
+        "B": "são crimes próprios de funcionário público, que só podem ser praticados por quem exerce cargo público.",
+        "C": "exigem resultado naturalístico de prejuízo econômico, sem o qual não se consumam.",
+        "D": "são crimes contra o patrimônio, na modalidade de furto, praticados contra o proprietário da coisa.",
         "E": "são considerados crimes praticados contra a Administração da Justiça, por usurparem a função jurisdicional do Estado."
       },
       "resposta_correta": "E",
@@ -1412,11 +1412,11 @@
       "enunciado": "<p>Maria, namorada de um foragido condenado por roubo, esconde-o em sua casa para evitar sua prisão. Quanto ao favorecimento pessoal, ela</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "fica isenta de pena, como companheira.",
-        "B": "responde pelo crime de favorecimento real.",
-        "C": "responde por receptação.",
+        "A": "fica isenta de pena, como companheira do foragido, por aplicação analógica da escusa absolutória familiar.",
+        "B": "responde pelo crime de favorecimento real, pois o abrigo ao foragido visa a tornar seguro o proveito do crime.",
+        "C": "responde por receptação, por ter acolhido pessoa que praticou crime patrimonial anterior à ocultação.",
         "D": "responde pelo crime do art. 348, pois a isenção de pena se restringe aos parentes e ao cônjuge expressamente indicados.",
-        "E": "não responde, por tratar-se de fato atípico."
+        "E": "não responde por crime algum, por tratar-se de fato atípico, já que o abrigo foi prestado por afeto."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -1511,11 +1511,11 @@
       "enunciado": "<p>O art. 349-A do Código Penal, incluído pela Lei nº 12.012/2009, pune a conduta de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "subtrair a coisa própria de poder de terceiro.",
-        "B": "fornecer arma a preso em estabelecimento prisional.",
-        "C": "introduzir drogas em unidade de internação.",
+        "A": "subtrair, suprimir ou danificar coisa própria que se encontre em poder de terceiro por determinação judicial.",
+        "B": "fornecer arma de fogo a preso em estabelecimento prisional, mediante pagamento ou promessa de vantagem.",
+        "C": "introduzir substâncias entorpecentes em unidade de internação de adolescentes, sem a devida autorização legal.",
         "D": "ingressar, promover, intermediar, auxiliar ou facilitar a entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional, sem autorização legal.",
-        "E": "permitir visita sem a revista prevista em lei."
+        "E": "permitir a entrada de visitantes sem a revista prevista em lei, em estabelecimento penal de qualquer natureza."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -1775,10 +1775,10 @@
       "enunciado": "<p>O crime de exploração de prestígio (art. 357 do Código Penal) consiste em solicitar ou receber dinheiro ou qualquer outra utilidade, a pretexto de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "remunerar o advogado por honorários contratados.",
-        "B": "obter pagamento de dívida legítima junto ao devedor.",
-        "C": "financiar a defesa técnica em processo penal.",
-        "D": "cobrir despesas de viagem de testemunha.",
+        "A": "remunerar o advogado por honorários contratados, ainda que a promessa seja de influência sobre o julgador.",
+        "B": "obter o pagamento de dívida legítima junto ao devedor, valendo-se de ameaça de ajuizar ação de cobrança.",
+        "C": "financiar a defesa técnica em processo penal, mediante pagamento antecipado de honorários advocatícios.",
+        "D": "cobrir despesas de viagem e de hospedagem de testemunha chamada a depor em outra comarca.",
         "E": "influir em juiz, jurado, órgão do Ministério Público, funcionário de justiça, perito, tradutor, intérprete ou testemunha."
       },
       "resposta_correta": "E",
@@ -1809,10 +1809,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "também se destina a qualquer das pessoas referidas no tipo, como juiz ou perito.",
-        "B": "foi obtido com violência.",
-        "C": "foi pago por terceiro.",
-        "D": "foi entregue em local público.",
-        "E": "foi prometido para data futura."
+        "B": "foi obtido mediante violência ou grave ameaça contra a pessoa que seria influenciada.",
+        "C": "foi pago por terceiro estranho aos fatos, sem relação com o processo nem com o agente.",
+        "D": "foi entregue em local público, na presença de testemunhas que possam atestar a entrega.",
+        "E": "foi prometido para data futura, ficando condicionado ao resultado do processo."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",

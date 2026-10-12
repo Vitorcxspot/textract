@@ -1035,10 +1035,10 @@
       "enunciado": "<p>Os embaixadores estrangeiros, no cerimonial público brasileiro, recebem</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a mesma precedência dos prefeitos municipais.",
-        "B": "precedência sobre o Presidente da República.",
-        "C": "tratamento igual ao de qualquer cidadão comum.",
-        "D": "precedência exclusivamente alfabética.",
+        "A": "a mesma precedência dos prefeitos municipais, independentemente de sua categoria diplomática.",
+        "B": "precedência sobre o Presidente da República, em razão da dignidade do país que representam.",
+        "C": "tratamento igual ao de qualquer cidadão comum, sem diferenciação por cargo ou por representação.",
+        "D": "precedência definida exclusivamente por ordem alfabética dos países que representam no Brasil.",
         "E": "tratamento diferenciado, conforme sua categoria diplomática e a ordem estabelecida nas normas de precedência."
       },
       "resposta_correta": "E",
@@ -1167,11 +1167,11 @@
       "enunciado": "<p>Em cerimônia com a presença do Presidente e do Vice-Presidente da República, ambos no mesmo palanque, o Vice-Presidente deve ocupar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o segundo lugar de precedência, à esquerda do Presidente, ou conforme o arranjo da mesa, sempre depois dele.",
-        "B": "o lugar central, cedendo a presidência ao PR.",
-        "C": "o primeiro lugar, à direita do Presidente.",
-        "D": "qualquer lugar distante do Presidente.",
-        "E": "o último lugar da mesa."
+        "A": "o segundo lugar de precedência, à direita do Presidente da República, conforme a alternância dos lugares.",
+        "B": "o lugar central, cedendo a presidência ao Presidente da República, que ocupa a ponta da mesa.",
+        "C": "o primeiro lugar, à direita do Presidente, que fica à esquerda por razões de cortesia.",
+        "D": "qualquer lugar distante do Presidente, a critério do mestre de cerimônias, sem ordem definida.",
+        "E": "o último lugar da mesa, por tratar-se de autoridade de menor precedência entre as presentes."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1233,11 +1233,11 @@
       "enunciado": "<p>Na linha de precedência, o Presidente da República precede o Presidente do Supremo Tribunal Federal porque</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o Presidente do STF é subordinado ao Presidente da República.",
-        "B": "o Presidente da República indica o Presidente do STF.",
-        "C": "a Constituição manda que o Judiciário seja o último dos Poderes.",
+        "A": "o Presidente do STF é subordinado hierarquicamente ao Presidente da República, que o nomeia e pode destituí-lo.",
+        "B": "o Presidente da República indica o Presidente do STF entre os Ministros do Tribunal, e a ele se vincula.",
+        "C": "a Constituição determina que o Poder Judiciário seja sempre o último dos Poderes em qualquer cerimônia.",
         "D": "a norma de cerimonial confere ao Chefe do Executivo federal o primeiro lugar, e não por hierarquia funcional entre Poderes, que são independentes.",
-        "E": "o Poder Executivo é hierarquicamente superior ao Judiciário."
+        "E": "o Poder Executivo é hierarquicamente superior ao Poder Judiciário, por força do princípio da separação."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1333,10 +1333,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "observa normas oficiais, como o Decreto nº 70.274/1972, enquanto o segundo segue convenções sociais e a vontade dos anfitriões.",
-        "B": "é regido pelo Código Civil, e o segundo pelo Código Penal.",
-        "C": "é facultativo, e o segundo, obrigatório.",
-        "D": "aplica-se apenas a casamentos, e o segundo a posses.",
-        "E": "só existe em eventos militares."
+        "B": "é regido pelo Código Civil, e o segundo pelo Código Penal, que define os crimes cometidos em cerimônias.",
+        "C": "é facultativo para a administração, e o segundo, obrigatório para os particulares que organizam eventos.",
+        "D": "aplica-se apenas a casamentos e batizados, e o segundo, a posses e a solenidades de órgãos públicos.",
+        "E": "só existe em eventos militares, e o segundo, em todos os eventos civis de natureza oficial."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1398,11 +1398,11 @@
       "enunciado": "<p>Em evento oficial em Brasília com o Presidente da República, o Presidente da Câmara dos Deputados e o Presidente do Supremo Tribunal Federal, é correto afirmar:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o Presidente do STF ocupa o segundo lugar, à direita do PR, por ser Chefe de Poder.",
+        "A": "o Presidente do STF ocupa o segundo lugar, à direita do PR, por ser o Chefe do Poder Judiciário e o magistrado mais antigo.",
         "B": "o Presidente da República preside a mesa e ocupa o lugar central; o segundo lugar, à sua direita, cabe ao Presidente da Câmara, e o Presidente do STF fica à sua esquerda, caso não haja Vice-Presidente nem Presidente do Congresso.",
-        "C": "os três ocupam o mesmo patamar, sem diferença de posições.",
-        "D": "o Presidente do STF ocupa o lugar central, por ser o magistrado de maior hierarquia.",
-        "E": "o Presidente da Câmara ocupa o lugar central, por ser o representante do povo."
+        "C": "os três ocupam o mesmo patamar protocolar, sem diferença de posições, por serem Chefes de Poderes independentes.",
+        "D": "o Presidente do STF ocupa o lugar central, por ser o magistrado de maior hierarquia entre os presentes à cerimônia.",
+        "E": "o Presidente da Câmara ocupa o lugar central, por ser o representante direto do povo entre as autoridades presentes."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -1596,11 +1596,11 @@
       "enunciado": "<p>Quanto à diferença entre cerimonial, protocolo e etiqueta, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o protocolo trata apenas de comida, e a etiqueta, de vestuário.",
-        "B": "a etiqueta é a norma jurídica mais rígida, e o cerimonial é facultativo.",
+        "A": "o protocolo trata apenas de alimentação em eventos, e a etiqueta, exclusivamente de vestuário dos convidados.",
+        "B": "a etiqueta é a norma jurídica mais rígida, de observância obrigatória, e o cerimonial é meramente facultativo.",
         "C": "o cerimonial reúne as formalidades a serem observadas nos atos solenes, o protocolo se vincula a normas e procedimentos formalmente estabelecidos e a etiqueta se refere ao comportamento social.",
-        "D": "o cerimonial trata exclusivamente de comportamentos individuais em casa.",
-        "E": "são termos idênticos, sem qualquer distinção."
+        "D": "o cerimonial trata exclusivamente de comportamentos individuais em ambiente doméstico, sem relação com atos oficiais.",
+        "E": "são termos idênticos, sem qualquer distinção entre eles, usados indistintamente na administração pública."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1695,11 +1695,11 @@
       "enunciado": "<p>A lista de precedência para um evento deve ser elaborada com base em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "preferências pessoais do organizador do evento.",
-        "B": "ordem de confirmação de presença, apenas.",
+        "A": "preferências pessoais do organizador do evento e das autoridades convidadas, com ajustes de última hora feitos pelo mestre de cerimônias.",
+        "B": "ordem de confirmação de presença, sendo posicionadas primeiro as autoridades que responderem mais cedo ao convite do evento.",
         "C": "normas formais (como o Decreto nº 70.274/1972), cargos efetivamente exercidos e, quando necessário, antiguidade, sempre com verificação prévia da participação das autoridades.",
-        "D": "indicações das assessorias de imprensa, apenas.",
-        "E": "nomes mais conhecidos pelo público, apenas."
+        "D": "indicações das assessorias de imprensa dos órgãos, que definem a ordem pelo grau de exposição pública de cada autoridade.",
+        "E": "notoriedade dos convidados junto ao público, de modo que os nomes mais conhecidos recebam os lugares de maior destaque."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -1761,11 +1761,11 @@
       "enunciado": "<p>Sobre a ordem de colocação de autoridades em um palanque, quando o número de autoridades é par, a técnica de cerimônia determina que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "as autoridades ficam em fila única, sem alternância.",
+        "A": "as autoridades devem ficar em fila única, sem alternância, preservando-se a ordem de precedência da esquerda para a direita.",
         "B": "o primeiro lugar de honra fica à direita do centro vazio da mesa, e o segundo, à esquerda desse centro, alternando-se a partir daí.",
-        "C": "as autoridades de maior precedência ficam nas pontas.",
-        "D": "o centro é ocupado por duas autoridades ao mesmo tempo.",
-        "E": "a mesa deve ser desfeita, para evitar a assimetria."
+        "C": "as autoridades de maior precedência devem ficar nas pontas da mesa, e as de menor, no centro.",
+        "D": "o centro deve ser ocupado por duas autoridades ao mesmo tempo, a de maior precedência à direita da outra.",
+        "E": "a mesa deve ser desfeita e refeita com número ímpar de autoridades, para evitar a assimetria."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -2883,11 +2883,11 @@
       "enunciado": "<p>O hasteamento solene da Bandeira Nacional, no Dia da Bandeira,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "é feito apenas por civis.",
-        "B": "é proibido em locais públicos.",
+        "A": "é realizado exclusivamente por civis, sem a participação das Forças Armadas nem de autoridades.",
+        "B": "é proibido em locais públicos, devendo ocorrer apenas no interior de repartições federais.",
         "C": "é realizado com cerimônia própria, e nele é costume incinerar bandeiras em mau estado.",
-        "D": "é restrito a um estado da federação.",
-        "E": "é sempre feito sem hino nacional."
+        "D": "é restrito a um único Estado da federação, que organiza a cerimônia em nome de todo o País.",
+        "E": "é sempre realizado sem execução do Hino Nacional, por vedação expressa da lei dos símbolos."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -2917,10 +2917,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "em atos oficiais, documentos, sedes de órgãos públicos e prédios das autoridades, como identificação do Estado brasileiro.",
-        "B": "em competições esportivas privadas.",
-        "C": "em embalagens de produtos comerciais.",
-        "D": "como adorno de vestuário.",
-        "E": "em campanhas publicitárias de empresas."
+        "B": "em competições esportivas promovidas por entidades privadas, como símbolo de identificação das equipes.",
+        "C": "em embalagens de produtos comerciais, como selo de qualidade conferido às empresas que as utilizam.",
+        "D": "como adorno de vestuário e de objetos de uso pessoal, em campanhas de natureza publicitária.",
+        "E": "em campanhas publicitárias de empresas privadas, como marca de identificação de produtos nacionais."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -2982,11 +2982,11 @@
       "enunciado": "<p>Quanto aos convites para cerimônias oficiais, o cerimonial recomenda que eles</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensem a confirmação de presença.",
+        "A": "dispensem a confirmação de presença, para evitar constrangimento às autoridades convidadas.",
         "B": "indiquem data, hora, local, traje e eventual confirmação de presença, e sejam enviados com antecedência razoável.",
-        "C": "sejam entregues apenas à imprensa.",
-        "D": "sejam enviados no dia do evento, de modo informal.",
-        "E": "omitam o local, por razões de segurança."
+        "C": "sejam entregues apenas à imprensa, que se encarrega de divulgá-los aos convidados do evento.",
+        "D": "sejam enviados no dia do evento, de modo informal, para permitir ajustes na lista de presença.",
+        "E": "omitam o local da cerimônia, por razões de segurança, informando-o somente no momento da chegada."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -3015,11 +3015,11 @@
       "enunciado": "<p>Num recinto fechado em que serão dispostas a Bandeira Nacional e a bandeira de outro país, ambas em mastros de mesma altura, a Bandeira Nacional deverá ficar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "em tamanho menor, por reciprocidade.",
-        "B": "em altura inferior à da outra bandeira.",
-        "C": "à esquerda da outra, em sinal de cortesia.",
+        "A": "em tamanho menor, por reciprocidade, devendo a bandeira estrangeira ocupar o lugar de maior destaque.",
+        "B": "em altura inferior à da outra bandeira, em sinal de cortesia ao país representado pela outra.",
+        "C": "à esquerda da outra bandeira, em sinal de cortesia, devendo ambas ter tamanhos diferentes.",
         "D": "à direita da outra, considerando a posição de quem preside, em condições idênticas de tamanho e altura.",
-        "E": "na parte mais distante do centro."
+        "E": "na parte mais distante do centro, por tratar-se de recinto em que está presente autoridade estrangeira."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -3048,11 +3048,11 @@
       "enunciado": "<p>A conduta de hastear a Bandeira Nacional de forma indevida, desrespeitando a legislação, pode ensejar</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas advertência verbal, sem qualquer outra sanção.",
-        "B": "nenhuma consequência, por tratar-se de mero costume.",
+        "A": "apenas advertência verbal, sem qualquer outra sanção, por tratar-se de infração de menor gravidade.",
+        "B": "nenhuma consequência, por tratar-se de mero costume sem previsão em norma de natureza sancionatória.",
         "C": "sanções, uma vez que o desrespeito aos símbolos nacionais é considerado infração de natureza penal e administrativa, nos termos da lei.",
-        "D": "apenas sanção civil.",
-        "E": "apenas sanção disciplinar militar."
+        "D": "apenas sanção civil, consistente na reparação de danos eventualmente causados à União.",
+        "E": "apenas sanção disciplinar militar, restrita aos integrantes das Forças Armadas que descumprirem a norma."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -3181,10 +3181,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a partir da perspectiva de quem preside ou da pessoa ou objeto de referência, e não do observador que está de frente.",
-        "B": "a partir do observador, que está diante da mesa.",
-        "C": "a partir do público, sempre.",
-        "D": "a partir do mestre de cerimônias, sempre.",
-        "E": "a partir da câmera de transmissão."
+        "B": "a partir do observador, que está diante da mesa e vê a autoridade que preside de frente.",
+        "C": "a partir do público presente, sempre, independentemente do posicionamento da autoridade.",
+        "D": "a partir do mestre de cerimônias, sempre, que conduz o roteiro do evento e indica os lugares.",
+        "E": "a partir da câmera de transmissão, que registra o evento e define a ordem de visualização."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -3246,11 +3246,11 @@
       "enunciado": "<p>Ao receber uma bandeira estrangeira em cerimônia no Brasil, o cerimonial público observa o princípio de que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "bandeiras estrangeiras são proibidas.",
-        "B": "apenas a Bandeira Nacional pode ser exibida.",
-        "C": "bandeiras estrangeiras são sempre dispostas aleatoriamente.",
+        "A": "bandeiras estrangeiras são proibidas em cerimônias oficiais, por se tratar de ato de soberania nacional.",
+        "B": "apenas a Bandeira Nacional pode ser exibida, ficando vedada a exibição de qualquer outra bandeira em recintos oficiais.",
+        "C": "bandeiras estrangeiras são dispostas aleatoriamente, sem critério, por não haver regra de ordenação protocolar.",
         "D": "as bandeiras de países estrangeiros recebem honras compatíveis e igualdade de tratamento entre si, ordenadas por critério objetivo, como a ordem alfabética.",
-        "E": "bandeiras estrangeiras ocupam o lugar de honra."
+        "E": "bandeiras estrangeiras ocupam o lugar de honra, em respeito à reciprocidade com os países representados."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -3280,10 +3280,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "pode cobrir o ataúde, sem tocar o chão, nos casos de honras previstas, devendo ser retirada antes do sepultamento.",
-        "B": "deve tocar o chão, em sinal de luto.",
-        "C": "deve ser enterrada junto com o corpo.",
-        "D": "deve ser usada como lençol de uso comum.",
-        "E": "não pode ser usada em nenhum funeral."
+        "B": "deve tocar o chão, em sinal de luto, e permanecer estendida durante todo o velório.",
+        "C": "deve ser enterrada junto com o corpo, nos casos de honras fúnebres de qualquer natureza.",
+        "D": "deve ser usada como lençol de uso comum, para cobrir o corpo até a chegada do cortejo.",
+        "E": "não pode ser usada em nenhum funeral, por vedação expressa da legislação dos símbolos nacionais."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -3312,11 +3312,11 @@
       "enunciado": "<p>A norma que disciplina o uso da Bandeira Nacional, do Hino, das Armas e do Selo, nacionais, é a Lei nº 5.700/1971, que dispõe, entre outras matérias, sobre</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a definição dos feriados nacionais, apenas.",
+        "A": "a definição dos feriados nacionais e das datas comemorativas, com a respectiva previsão de ponto facultativo.",
         "B": "a forma e a apresentação dos símbolos nacionais, seu uso e as regras de hasteamento, bem como as sanções por desrespeito.",
-        "C": "as regras do concurso público para a polícia judicial.",
-        "D": "as regras de trânsito e circulação de comitivas.",
-        "E": "o regime de remuneração dos servidores públicos."
+        "C": "as regras do concurso público para o ingresso na carreira de agente de polícia judicial.",
+        "D": "as regras de trânsito e circulação de comitivas oficiais em visitas de autoridades estrangeiras.",
+        "E": "o regime de remuneração dos servidores públicos civis da União, das autarquias e das fundações."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",

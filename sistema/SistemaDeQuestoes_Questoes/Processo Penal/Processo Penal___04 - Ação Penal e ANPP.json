@@ -1134,11 +1134,11 @@
       "enunciado": "<p>A celebração e o cumprimento do ANPP</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "gerarão maus antecedentes automaticamente.",
+        "A": "gerarão maus antecedentes automaticamente, para efeitos de dosimetria de eventual condenação futura.",
         "B": "não constarão de certidão de antecedentes criminais, ressalvada a finalidade de verificar benefício nos cinco anos anteriores.",
-        "C": "constarão apenas se houver confissão.",
-        "D": "constarão sempre da certidão de antecedentes criminais.",
-        "E": "gerarão reincidência para fins penais."
+        "C": "constarão apenas se houver confissão do investigado, e não do mero cumprimento do acordo.",
+        "D": "constarão sempre da certidão de antecedentes criminais, ainda que o acordo seja cumprido integralmente.",
+        "E": "gerarão reincidência para fins penais, equiparando-se a uma condenação definitiva por crime."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1333,10 +1333,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "devolverá os autos ao Ministério Público para que reformule a proposta, com a concordância do investigado e do defensor.",
-        "B": "alterará diretamente as condições, sem ouvir as partes.",
-        "C": "homologará o acordo e aplicará a pena.",
-        "D": "arquivará o inquérito.",
-        "E": "oferecerá denúncia de ofício."
+        "B": "alterará diretamente as condições do acordo, sem ouvir as partes nem devolver os autos ao Ministério Público.",
+        "C": "homologará o acordo e aplicará a pena, convertendo as condições em sanção judicial.",
+        "D": "arquivará o inquérito policial, por considerar insuficientes as condições propostas pelo MP.",
+        "E": "oferecerá denúncia de ofício, tendo em vista a rejeição das condições pelo magistrado."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -1464,11 +1464,11 @@
       "enunciado": "<p>Em relação à conduta criminal do investigado, o ANPP não se aplica quando ele for</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "primário, desde que haja inquérito em andamento.",
-        "B": "réu confesso em outro processo.",
-        "C": "estrangeiro sem residência fixa.",
+        "A": "primário e de bons antecedentes, desde que haja inquérito policial em andamento por outro fato.",
+        "B": "réu confesso em outro processo, ainda que o delito seja de menor gravidade e sem violência.",
+        "C": "estrangeiro sem residência fixa no País, por impossibilidade de cumprimento das condições.",
         "D": "reincidente ou houver elementos probatórios de conduta criminal habitual, reiterada ou profissional, exceto se insignificantes as infrações pretéritas.",
-        "E": "funcionário público estável."
+        "E": "funcionário público estável, em razão da necessidade de preservação da função pública exercida."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1597,10 +1597,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a proposta não atender aos requisitos legais ou quando não for realizada a adequação solicitada.",
-        "B": "discordar do mérito da acusação.",
-        "C": "a vítima manifestar desinteresse.",
-        "D": "o investigado for primário.",
-        "E": "o acordo for celebrado antes da denúncia."
+        "B": "discordar do mérito da acusação, hipótese em que o juiz deve recusar o acordo e absolver o investigado.",
+        "C": "a vítima manifestar desinteresse no acordo, hipótese em que a recusa de homologação é obrigatória.",
+        "D": "o investigado for primário e de bons antecedentes, requisitos que impedem a homologação do acordo.",
+        "E": "o acordo for celebrado antes do oferecimento da denúncia, pois a lei exige que ocorra após esse ato."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1662,11 +1662,11 @@
       "enunciado": "<p>Segundo o entendimento majoritário, o requisito de ausência de violência ou grave ameaça para o ANPP</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dispensa o requisito para crimes contra a vida.",
+        "A": "dispensa o requisito para crimes contra a vida, que são sempre passíveis de acordo de não persecução.",
         "B": "refere-se à violência inerente ao tipo doloso, de modo que crimes culposos com resultado violento podem comportar o acordo.",
-        "C": "exige que a vítima seja maior de idade.",
-        "D": "veda o acordo em todo crime culposo com resultado lesivo.",
-        "E": "aplica-se apenas a crimes hediondos."
+        "C": "exige que a vítima seja maior de idade, para que possa manifestar sua concordância com o acordo.",
+        "D": "veda o acordo em todo crime culposo com resultado lesivo, por haver violência contra a pessoa.",
+        "E": "aplica-se apenas a crimes hediondos, por serem os únicos em que a violência é elementar do tipo."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -1761,11 +1761,11 @@
       "enunciado": "<p>Quanto ao momento de cabimento do ANPP, o art. 28-A do CPP o prevê para a fase em que ainda</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "se discute a execução da pena no juízo competente.",
+        "A": "se discute a execução da pena no juízo competente, após o trânsito em julgado da sentença condenatória.",
         "B": "não houve oferecimento da denúncia, ao dispor que o MP poderá propor o acordo quando não for caso de arquivamento.",
-        "C": "se aguarda o julgamento de revisão criminal.",
-        "D": "há trânsito em julgado da condenação.",
-        "E": "houve sentença condenatória, em grau de recurso."
+        "C": "se aguarda o julgamento de revisão criminal, com o propósito de rever condenação definitiva.",
+        "D": "há trânsito em julgado da condenação, hipótese em que o acordo substitui a execução da pena.",
+        "E": "houve sentença condenatória, em grau de recurso, e o tribunal avalia a pena aplicada."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",

@@ -1333,10 +1333,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "autos apartados, apensados aos autos do inquérito ou do processo, preservado o sigilo das diligências, gravações e transcrições.",
-        "B": "os próprios autos do inquérito, sem sigilo.",
-        "C": "autos públicos, com livre acesso a terceiros.",
-        "D": "procedimento administrativo da operadora.",
-        "E": "autos físicos mantidos pelo investigado."
+        "B": "os próprios autos do inquérito policial, sem sigilo, para que as partes possam acompanhar as diligências.",
+        "C": "autos públicos, com livre acesso a terceiros, a fim de assegurar a transparência da investigação.",
+        "D": "procedimento administrativo conduzido pela operadora, que guarda as gravações e as transcrições.",
+        "E": "autos físicos mantidos pelo investigado, que os apresenta ao juiz quando solicitado pela autoridade."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -1497,10 +1497,10 @@
       "enunciado": "<p>O pedido de interceptação deverá conter</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o consentimento prévio do titular da linha.",
-        "B": "a anuência da operadora de telefonia.",
-        "C": "a prova cabal da autoria do crime investigado.",
-        "D": "apenas o nome do investigado e o número do telefone.",
+        "A": "o consentimento prévio do titular da linha, sem o qual a diligência não poderá ser requerida.",
+        "B": "a anuência da operadora de telefonia, que deve confirmar a viabilidade técnica da interceptação.",
+        "C": "a prova cabal da autoria do crime investigado, não bastando indícios razoáveis de participação.",
+        "D": "apenas o nome do investigado e o número do telefone, dispensada a demonstração de necessidade.",
         "E": "a demonstração de que a sua realização é necessária à apuração de infração penal, com a indicação dos meios a serem empregados."
       },
       "resposta_correta": "E",
@@ -1761,10 +1761,10 @@
       "enunciado": "<p>A captação ambiental de sinais eletromagnéticos, ópticos ou acústicos, nos termos do art. 8º-A da Lei nº 9.296/1996, poderá ser autorizada pelo juiz quando</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "bastar mera suspeita genérica sobre o investigado.",
-        "B": "a autoridade policial a requerer, sem mais exigências.",
-        "C": "a infração tiver pena máxima de um ano.",
-        "D": "houver qualquer infração punida com detenção.",
+        "A": "houver mera suspeita genérica sobre o investigado, bastando a manifestação do delegado de polícia.",
+        "B": "a autoridade policial o requerer, sem demonstração de indispensabilidade nem de outros meios disponíveis.",
+        "C": "a infração investigada tiver pena máxima igual ou inferior a um ano, desde que haja urgência.",
+        "D": "houver qualquer infração punida com detenção, ainda que a prova possa ser obtida por outros meios.",
         "E": "a prova não puder ser feita por outros meios igualmente eficazes e houver elementos probatórios razoáveis de autoria em infração com pena máxima superior a quatro anos."
       },
       "resposta_correta": "E",
@@ -1893,11 +1893,11 @@
       "enunciado": "<p>A captação ambiental, nos termos do art. 8º-A da Lei nº 9.296/1996, não poderá exceder o prazo de quinze dias, renovável por iguais períodos,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "em qualquer caso, a critério da polícia.",
-        "B": "apenas uma vez, por mais trinta dias.",
-        "C": "se o investigado consentir expressamente.",
+        "A": "em qualquer caso, a critério da polícia, que decidirá sobre a necessidade de prorrogar a medida.",
+        "B": "apenas uma vez, por mais trinta dias, vedada qualquer prorrogação adicional da medida.",
+        "C": "se o investigado consentir expressamente, o que torna dispensável a decisão judicial.",
         "D": "se comprovada a indispensabilidade do meio de prova e quando presente atividade criminal permanente, habitual ou continuada.",
-        "E": "sem necessidade de comprovar a indispensabilidade."
+        "E": "sem necessidade de comprovar a indispensabilidade do meio de prova, bastando requerimento da autoridade policial."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
@@ -2058,11 +2058,11 @@
       "enunciado": "<p>Admitida a interceptação em investigação sobre determinada infração, o juiz competente para deferi-la é</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o juiz federal, em qualquer caso.",
+        "A": "o juiz federal, em qualquer caso, por ter competência para as investigações de comunicações.",
         "B": "o competente para a ação principal, que se refere ao juízo que irá processar e julgar o fato investigado.",
-        "C": "o juiz da comarca do domicílio da operadora.",
-        "D": "qualquer juiz de plantão, em caráter definitivo.",
-        "E": "o juiz da execução penal."
+        "C": "o juiz da comarca do domicílio da operadora de telefonia, onde a medida será cumprida.",
+        "D": "qualquer juiz de plantão, em caráter definitivo, que ficará prevento para a ação penal.",
+        "E": "o juiz da execução penal, responsável pelo controle das comunicações dos investigados."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",

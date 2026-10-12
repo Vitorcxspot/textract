@@ -349,10 +349,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "visualizar a disponibilidade dos convidados e escolher um horário em que todos estejam livres.",
-        "B": "apagar eventos conflitantes automaticamente.",
-        "C": "excluir convidados com agenda cheia.",
-        "D": "enviar mensagem de texto aos convidados.",
-        "E": "alterar o fuso horário de todos."
+        "B": "apagar automaticamente os eventos conflitantes dos convidados, liberando os horários necessários.",
+        "C": "excluir da lista os convidados com agenda cheia, mantendo apenas os que têm horário livre.",
+        "D": "enviar mensagem de texto aos convidados, solicitando que informem os horários de preferência.",
+        "E": "alterar o fuso horário de todos os convidados, para que o evento ocorra no mesmo horário."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -414,11 +414,11 @@
       "enunciado": "<p>Sobre a repetição de eventos no Google Agenda, é correto afirmar que</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "alterar uma ocorrência sempre altera todas, sem opção.",
-        "B": "eventos recorrentes só podem ser criados por administradores.",
-        "C": "só é possível repetir diariamente, sem outras opções.",
+        "A": "alterar uma única ocorrência sempre altera todas as demais, sem possibilidade de editar apenas aquela data específica.",
+        "B": "eventos recorrentes só podem ser criados por administradores do domínio, e não por usuários comuns da agenda.",
+        "C": "só é possível repetir eventos diariamente, sem opções de recorrência semanal, mensal, anual ou personalizada.",
         "D": "é possível definir eventos recorrentes (diária, semanal, mensal, anual ou personalizada) e editar apenas uma ocorrência, as seguintes ou todas.",
-        "E": "a repetição exige compra de licença adicional."
+        "E": "a repetição de eventos exige a compra de licença adicional, indisponível nas edições básicas do Google Workspace."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",

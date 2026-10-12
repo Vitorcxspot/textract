@@ -471,11 +471,11 @@
       "enunciado": "<p>O art. 5º, § 2º, da Constituição Federal estabelece que os direitos e garantias expressos na Constituição</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "dependem de lei complementar para produzir efeitos.",
-        "B": "são os únicos que o ordenamento jurídico brasileiro admite.",
-        "C": "excluem qualquer direito previsto em tratado internacional.",
+        "A": "dependem de lei complementar para produzir efeitos, não sendo autoaplicáveis nas hipóteses em que o texto é omisso.",
+        "B": "são os únicos que o ordenamento jurídico brasileiro admite, vedada a existência de direitos fora do catálogo.",
+        "C": "excluem qualquer direito previsto em tratado internacional, ainda que ratificado pelo Brasil e promulgado.",
         "D": "não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.",
-        "E": "somente se aplicam a brasileiros natos."
+        "E": "somente se aplicam a brasileiros natos, ficando os estrangeiros residentes no País sem a mesma proteção."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -702,11 +702,11 @@
       "enunciado": "<p>O art. 5º, § 3º, da Constituição foi inserido pela Emenda Constitucional nº 45/2004, tendo por finalidade principal</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "extinguir a Justiça Militar.",
-        "B": "instituir o controle externo do Judiciário.",
-        "C": "subordinar os tratados à legislação ordinária.",
+        "A": "extinguir a Justiça Militar, transferindo seus processos para a Justiça comum e para a Justiça Federal.",
+        "B": "instituir o controle externo do Judiciário, por meio do Conselho Nacional de Justiça.",
+        "C": "subordinar os tratados de direitos humanos à legislação ordinária, equiparando-os às leis federais.",
         "D": "resolver a controvérsia sobre a hierarquia dos tratados de direitos humanos, prevendo um rito que lhes confere status constitucional.",
-        "E": "impedir a ratificação de tratados de direitos humanos."
+        "E": "impedir a ratificação de tratados de direitos humanos que contrariem normas constitucionais."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -735,10 +735,10 @@
       "enunciado": "<p>Para que um tratado seja incorporado ao ordenamento brasileiro, é correto afirmar que, no sistema brasileiro, ocorrem, em regra, as seguintes fases:</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "promulgação pelo Presidente do Supremo Tribunal Federal.",
-        "B": "aprovação por lei ordinária sancionada, sem decreto.",
-        "C": "assinatura por embaixador, sem ratificação.",
-        "D": "aprovação por resolução do Senado e edital do Judiciário.",
+        "A": "promulgação pelo Presidente do Supremo Tribunal Federal, após a aprovação por maioria absoluta.",
+        "B": "aprovação por lei ordinária sancionada, sem edição de decreto legislativo nem de decreto presidencial.",
+        "C": "assinatura por embaixador, sem ratificação nem participação do Congresso Nacional.",
+        "D": "aprovação por resolução do Senado e publicação de edital pelo Poder Judiciário.",
         "E": "celebração pelo Presidente da República, aprovação por decreto legislativo, ratificação e promulgação por decreto presidencial."
       },
       "resposta_correta": "E",
@@ -835,10 +835,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "reúne a Constituição formal e normas materialmente constitucionais, como os tratados aprovados pelo rito do § 3º.",
-        "B": "equipara costumes a normas constitucionais.",
-        "C": "reúne apenas as leis ordinárias e complementares.",
-        "D": "exclui tratados de qualquer espécie.",
-        "E": "exige a edição de lei para cada direito."
+        "B": "equipara costumes internacionais a normas constitucionais, independentemente de qualquer aprovação.",
+        "C": "reúne apenas as leis ordinárias e complementares, excluídos os tratados e as normas de emenda.",
+        "D": "exclui tratados de qualquer espécie do parâmetro de controle de constitucionalidade das leis.",
+        "E": "exige a edição de lei específica para cada direito, como condição de sua exigibilidade."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -1032,10 +1032,10 @@
       "enunciado": "<p>Em relação à Lei da Anistia (Lei nº 6.683/1979), a Corte Interamericana de Direitos Humanos, no caso Gomes Lund (Guerrilha do Araguaia),</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "declarou a competência exclusiva do Judiciário brasileiro.",
-        "B": "não analisou a lei.",
-        "C": "determinou a revogação da Constituição.",
-        "D": "reconheceu sua plena compatibilidade com a Convenção.",
+        "A": "declarou a competência exclusiva do Judiciário brasileiro para decidir sobre a validade da lei, sem controle internacional.",
+        "B": "não analisou a Lei da Anistia, limitando-se a examinar a conduta dos agentes do Estado.",
+        "C": "determinou a revogação da Constituição, em razão de sua incompatibilidade com a Convenção.",
+        "D": "reconheceu sua plena compatibilidade com a Convenção Americana, por ter caráter de lei interna.",
         "E": "considerou-a incompatível com a Convenção Americana, ao impedir a investigação e a punição de graves violações de direitos humanos."
       },
       "resposta_correta": "E",
@@ -1065,11 +1065,11 @@
       "enunciado": "<p>A Resolução CNJ nº 364/2021 instituiu, no âmbito do Conselho Nacional de Justiça,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o Comitê de Execução Penal.",
+        "A": "o Comitê de Execução Penal, encarregado de acompanhar o cumprimento das sanções criminais no País.",
         "B": "a Unidade de Monitoramento e Fiscalização das decisões e deliberações da Corte Interamericana de Direitos Humanos.",
-        "C": "a Ouvidoria da Justiça Federal.",
-        "D": "o Tribunal de Controle de Convencionalidade.",
-        "E": "a Corte Constitucional brasileira."
+        "C": "a Ouvidoria da Justiça Federal, responsável por receber manifestações dos jurisdicionados.",
+        "D": "o Tribunal de Controle de Convencionalidade, com competência para anular normas internas.",
+        "E": "a Corte Constitucional brasileira, com competência para julgar a convencionalidade das leis."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1164,11 +1164,11 @@
       "enunciado": "<p>A Recomendação CNJ nº 123/2022 recomenda aos órgãos do Poder Judiciário</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "que submetam todos os processos à Corte IDH.",
-        "B": "que apliquem apenas a lei interna.",
-        "C": "que deixem de lado o controle de constitucionalidade.",
+        "A": "que submetam todos os processos em curso à Corte Interamericana, antes da decisão de mérito pelo juiz nacional.",
+        "B": "que apliquem exclusivamente a lei interna, vedada a consideração de tratados e de decisões internacionais.",
+        "C": "que deixem de aplicar o controle de constitucionalidade, substituindo-o pelo exame de convencionalidade.",
         "D": "a observância dos tratados e convenções internacionais de direitos humanos e o uso da jurisprudência da Corte Interamericana, inclusive o controle de convencionalidade.",
-        "E": "que ignorem a jurisprudência internacional."
+        "E": "que ignorem a jurisprudência internacional, por não vincular o Poder Judiciário brasileiro em nenhuma hipótese."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",

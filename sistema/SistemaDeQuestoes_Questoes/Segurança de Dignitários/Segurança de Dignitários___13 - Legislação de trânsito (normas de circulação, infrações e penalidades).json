@@ -309,11 +309,11 @@
       "enunciado": "<p>Nas vias urbanas, quando não houver ciclovia, ciclofaixa ou acostamento, ou não for possível a utilização destes, a circulação de bicicletas deverá ocorrer</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "em sentido contrário ao dos veículos, com prioridade total.",
-        "B": "somente no acostamento, se houver.",
+        "A": "em sentido contrário ao dos veículos, com prioridade total sobre os veículos automotores em qualquer via.",
+        "B": "somente no acostamento das rodovias, quando houver, sendo proibida a circulação nas vias urbanas.",
         "C": "nos bordos da pista de rolamento, no mesmo sentido de circulação regulamentado para a via, com preferência sobre os veículos automotores.",
-        "D": "no centro da pista, com prioridade sobre os pedestres.",
-        "E": "na calçada, em velocidade moderada."
+        "D": "no centro da pista de rolamento, com prioridade sobre os pedestres e sobre os veículos automotores.",
+        "E": "na calçada, em velocidade moderada, com prioridade sobre os pedestres que ali circulam normalmente."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -376,10 +376,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "à metade da velocidade máxima estabelecida, respeitadas as condições operacionais de trânsito e da via.",
-        "B": "a dois terços da velocidade máxima.",
-        "C": "a um quarto da velocidade máxima.",
-        "D": "a 20 km/h em qualquer caso.",
-        "E": "a 40 km/h, em vias urbanas apenas."
+        "B": "a dois terços da velocidade máxima estabelecida para a via, em quaisquer condições operacionais.",
+        "C": "a um quarto da velocidade máxima estabelecida, ressalvadas as vias de trânsito rápido.",
+        "D": "a vinte quilômetros por hora, em qualquer via, independentemente da velocidade máxima fixada.",
+        "E": "a quarenta quilômetros por hora, nas vias urbanas, e à metade da máxima nas rurais."
       },
       "resposta_correta": "A",
       "dificuldade": "Difícil",
@@ -574,10 +574,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação.",
-        "B": "detenção, de um mês a um ano.",
-        "C": "reclusão, de dez a quinze anos.",
-        "D": "reclusão, de 5 a 8 anos, apenas.",
-        "E": "multa, apenas."
+        "B": "detenção, de um mês a um ano, e multa, sem suspensão ou proibição de se obter a habilitação.",
+        "C": "reclusão, de dez a quinze anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "D": "reclusão, de cinco a oito anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "E": "multa, apenas, sem pena privativa de liberdade nem suspensão ou proibição de dirigir."
       },
       "resposta_correta": "A",
       "dificuldade": "Fácil",
@@ -738,10 +738,10 @@
       "enunciado": "<p>A pena do crime de lesão corporal culposa na direção de veículo automotor (art. 303 do CTB) é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "reclusão, de cinco a oito anos.",
-        "B": "reclusão, de dois a cinco anos, sem suspensão.",
-        "C": "detenção, de dois a quatro anos.",
-        "D": "multa, apenas.",
+        "A": "reclusão, de cinco a oito anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "B": "reclusão, de dois a cinco anos, sem suspensão, em qualquer hipótese de lesão corporal culposa.",
+        "C": "detenção, de dois a quatro anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "D": "multa, apenas, sem pena privativa de liberdade nem suspensão ou proibição de dirigir.",
         "E": "detenção, de seis meses a dois anos, e suspensão ou proibição de se obter a permissão ou a habilitação."
       },
       "resposta_correta": "E",
@@ -804,11 +804,11 @@
       "enunciado": "<p>Se o agente que pratica homicídio culposo na direção de veículo automotor conduz sob a influência de álcool ou de outra substância psicoativa que determine dependência, a pena, nos termos do art. 302, § 3º, do CTB, é de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "reclusão, de um a três anos.",
-        "B": "detenção, de seis meses a dois anos.",
+        "A": "reclusão, de um a três anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "B": "detenção, de seis meses a dois anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
         "C": "reclusão, de cinco a oito anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
-        "D": "reclusão, de oito a doze anos.",
-        "E": "detenção, de dois a quatro anos."
+        "D": "reclusão, de oito a doze anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "E": "detenção, de dois a quatro anos, e suspensão ou proibição de se obter a permissão ou a habilitação."
       },
       "resposta_correta": "C",
       "dificuldade": "Difícil",
@@ -837,11 +837,11 @@
       "enunciado": "<p>Participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística não autorizada pela autoridade competente, desde que resulte dano potencial à incolumidade pública ou privada, sujeita o agente à pena de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "multa, apenas.",
+        "A": "multa, apenas, sem pena privativa de liberdade nem suspensão ou proibição de se obter a habilitação.",
         "B": "detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação.",
-        "C": "reclusão, de dois a seis anos.",
-        "D": "reclusão, de um a quatro anos, sem multa.",
-        "E": "detenção, de um a seis meses."
+        "C": "reclusão, de dois a seis anos, e suspensão ou proibição de se obter a permissão ou a habilitação.",
+        "D": "reclusão, de um a quatro anos, sem multa, mas com suspensão ou proibição de se obter a habilitação.",
+        "E": "detenção, de um a seis meses, ou multa, sem suspensão ou proibição de se obter a habilitação."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -1134,10 +1134,10 @@
       "enunciado": "<p>As penalidades de trânsito serão impostas ao condutor, ao proprietário do veículo, ao embarcador e ao transportador,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "a qualquer passageiro do veículo.",
-        "B": "sempre ao proprietário, em qualquer caso.",
-        "C": "somente ao condutor, em todas as hipóteses.",
-        "D": "somente ao Estado, em nome do condutor.",
+        "A": "a qualquer passageiro do veículo, ainda que não seja condutor nem proprietário, nos casos de infração.",
+        "B": "sempre ao proprietário do veículo, em qualquer caso, ainda que a infração seja de responsabilidade do condutor.",
+        "C": "somente ao condutor, em todas as hipóteses, vedada a responsabilização do proprietário do veículo.",
+        "D": "somente ao Estado, que responde pelas infrações em nome do condutor e do proprietário do veículo.",
         "E": "salvo os casos de descumprimento de obrigações e deveres impostos a pessoas físicas ou jurídicas expressamente mencionados no Código."
       },
       "resposta_correta": "E",
@@ -1497,11 +1497,11 @@
       "enunciado": "<p>Os condutores das categorias C, D e E submetem-se, nos termos do CTB, a exame</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "de direção veicular a cada ano.",
-        "B": "audiométrico a cada ano.",
-        "C": "psicotécnico a cada seis meses.",
+        "A": "de direção veicular em situação de risco, a cada ano, para a manutenção da categoria profissional.",
+        "B": "audiométrico anual, para verificar a capacidade auditiva do condutor profissional durante a jornada.",
+        "C": "psicotécnico semestral, com aprovação obrigatória para a manutenção da habilitação na categoria.",
         "D": "toxicológico, com janela de detecção mínima de 90 dias, para a obtenção e a renovação da habilitação.",
-        "E": "de aptidão física a cada mês."
+        "E": "de aptidão física realizado mensalmente, com custeio integral pelo órgão executivo de trânsito."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -1662,11 +1662,11 @@
       "enunciado": "<p>Constitui infração de trânsito</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas a falta de pagamento de multa.",
+        "A": "apenas a falta de pagamento de multa de trânsito, após o vencimento do prazo para recurso.",
         "B": "a inobservância de qualquer preceito do CTB, da legislação complementar ou das resoluções do CONTRAN.",
-        "C": "somente a prática de crime de trânsito.",
-        "D": "apenas o descumprimento de ordem judicial.",
-        "E": "somente o excesso de velocidade."
+        "C": "somente a prática de crime de trânsito, previsto no capítulo próprio do Código de Trânsito.",
+        "D": "apenas o descumprimento de ordem judicial relacionada à circulação de veículos em vias públicas.",
+        "E": "somente o excesso de velocidade, medido por instrumento ou equipamento hábil de fiscalização."
       },
       "resposta_correta": "B",
       "dificuldade": "Fácil",
@@ -1827,11 +1827,11 @@
       "enunciado": "<p>Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância (art. 165-A) sujeita o infrator às mesmas penalidades de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "advertência por escrito.",
+        "A": "advertência por escrito, sem pontuação e sem incidência de suspensão do direito de dirigir.",
         "B": "dirigir sob influência de álcool: multa (dez vezes) e suspensão do direito de dirigir por 12 meses.",
-        "C": "multa leve, sem suspensão.",
-        "D": "apreensão do veículo, apenas.",
-        "E": "multa de natureza média."
+        "C": "multa de natureza leve, com retenção do veículo e sem suspensão do direito de dirigir.",
+        "D": "apreensão do veículo por trinta dias, sem aplicação de multa nem suspensão da habilitação.",
+        "E": "multa de natureza média e suspensão do direito de dirigir pelo prazo de seis meses."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -1860,11 +1860,11 @@
       "enunciado": "<p>Dirigir veículo sem possuir CNH ou Permissão para Dirigir é infração</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "média, sem medida administrativa.",
-        "B": "grave, com suspensão por 12 meses.",
+        "A": "média, com multa e sem medida administrativa, por tratar-se de falta de documento.",
+        "B": "grave, com multa e suspensão do direito de dirigir pelo prazo de doze meses.",
         "C": "gravíssima, com multa (três vezes) e retenção do veículo até a apresentação de condutor habilitado.",
-        "D": "apenas criminal, sem multa.",
-        "E": "leve, com advertência por escrito."
+        "D": "apenas de natureza criminal, sem multa nem retenção do veículo, sujeita a detenção.",
+        "E": "leve, com advertência por escrito e sem retenção do veículo até a apresentação de condutor."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -1926,10 +1926,10 @@
       "enunciado": "<p>Transportar crianças em veículo automotor sem observância das normas de segurança especiais estabelecidas no CTB é infração</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "apenas educativa.",
-        "B": "leve, com advertência por escrito.",
-        "C": "média, com remoção do veículo.",
-        "D": "grave, sem medida administrativa.",
+        "A": "apenas educativa, sem multa nem pontuação, sendo sanada por orientação do agente de trânsito.",
+        "B": "leve, com advertência por escrito e sem medida administrativa, nos termos do Código de Trânsito.",
+        "C": "média, com multa e remoção do veículo, independentemente da regularização da irregularidade.",
+        "D": "grave, com multa e sem medida administrativa, por tratar-se de infração contra a segurança.",
         "E": "gravíssima, com multa e retenção do veículo até que a irregularidade seja sanada."
       },
       "resposta_correta": "E",
@@ -2190,10 +2190,10 @@
       "enunciado": "<p>O Anexo I do CTB define ônibus como veículo automotor de transporte coletivo com capacidade para</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "mais de cinquenta passageiros, apenas.",
-        "B": "até oito passageiros, excluído o condutor.",
-        "C": "até vinte passageiros, sem adaptações.",
-        "D": "até dez passageiros, em percursos urbanos.",
+        "A": "mais de cinquenta passageiros, não se enquadrando como ônibus os veículos de menor capacidade.",
+        "B": "até oito passageiros, excluído o condutor, ainda que adaptado para transporte coletivo.",
+        "C": "até vinte passageiros, sem consideração às adaptações feitas para maior comodidade dos usuários.",
+        "D": "até dez passageiros, quando destinado ao transporte coletivo em percursos urbanos.",
         "E": "mais de vinte passageiros, ainda que, em virtude de adaptações com vista à maior comodidade desses, transporte número menor."
       },
       "resposta_correta": "E",
@@ -2355,11 +2355,11 @@
       "enunciado": "<p>Ao regulamentar os procedimentos de fiscalização de alcoolemia, as resoluções do CONTRAN admitem a constatação da influência do álcool por</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "exame de sangue obrigatório, vedado qualquer outro meio.",
+        "A": "exame de sangue obrigatório, vedado qualquer outro meio de prova da influência do álcool.",
         "B": "teste com etilômetro, exame clínico, perícia ou, ainda, sinais de alteração da capacidade psicomotora verificados pelo agente.",
-        "C": "apenas relato do condutor sobre o consumo de bebidas.",
-        "D": "somente laudo emitido pelo Poder Judiciário.",
-        "E": "apenas a análise de saliva colhida no local."
+        "C": "apenas relato do próprio condutor sobre o consumo de bebidas alcoólicas antes da condução.",
+        "D": "somente laudo emitido pelo Poder Judiciário, mediante perícia determinada em ação penal.",
+        "E": "apenas a análise de saliva colhida no local, vedados o etilômetro e o exame clínico."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -2421,11 +2421,11 @@
       "enunciado": "<p>O CONTRAN estabelece, nos termos do CTB, as normas e regulamentos a serem adotados em todo o território nacional quando da implantação de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "normas de contratação de servidores dos Detrans.",
-        "B": "tarifas de transporte coletivo municipal.",
+        "A": "normas de contratação de servidores dos Departamentos Estaduais de Trânsito, em todo o território nacional.",
+        "B": "tarifas de transporte coletivo municipal, nos Municípios com mais de quinhentos mil habitantes.",
         "C": "sinalização, dispositivos e equipamentos de trânsito e das medidas de operação, fiscalização e policiamento ostensivo de trânsito.",
-        "D": "tributos estaduais incidentes sobre veículos automotores.",
-        "E": "regras de execução penal para condutores condenados."
+        "D": "tributos estaduais incidentes sobre veículos automotores, com alíquotas uniformes para todo o País.",
+        "E": "regras de execução penal aplicáveis a condutores condenados por crimes de trânsito, em âmbito nacional."
       },
       "resposta_correta": "C",
       "dificuldade": "Média",
@@ -2487,11 +2487,11 @@
       "enunciado": "<p>Constitui característica das resoluções do CONTRAN que elas</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "são facultativas para os órgãos integrantes do SNT.",
+        "A": "são facultativas para os órgãos integrantes do SNT, que podem adotá-las conforme sua conveniência.",
         "B": "possuem caráter regulamentar, e sua inobservância configura infração de trânsito quando houver previsão no CTB.",
-        "C": "prescindem de publicação para produzir efeitos.",
-        "D": "podem criar penalidades não previstas em lei.",
-        "E": "aplicam-se somente às vias federais."
+        "C": "prescindem de publicação para produzir efeitos, bastando a comunicação aos órgãos de trânsito.",
+        "D": "podem criar penalidades não previstas em lei, desde que aprovadas pelo plenário do CONTRAN.",
+        "E": "aplicam-se somente às vias federais, não alcançando as vias estaduais e municipais."
       },
       "resposta_correta": "B",
       "dificuldade": "Difícil",
@@ -2553,11 +2553,11 @@
       "enunciado": "<p>Segundo o CTB, os sinais de trânsito classificam-se em</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "fixos, móveis e eletrônicos, apenas.",
-        "B": "oficiais e privados, sem outras espécies.",
-        "C": "verticais e horizontais, apenas.",
+        "A": "fixos, móveis e eletrônicos, conforme a tecnologia empregada na implantação dos sinais.",
+        "B": "oficiais e privados, conforme a entidade responsável pela implantação dos sinais nas vias.",
+        "C": "verticais e horizontais, apenas, estando excluídos os luminosos e os sonoros.",
         "D": "verticais, horizontais, dispositivos de sinalização auxiliar, luminosos, sonoros e gestos do agente de trânsito e do condutor.",
-        "E": "luminosos e sonoros, apenas."
+        "E": "luminosos e sonoros, apenas, sendo vedada a utilização de sinais fixos nas vias."
       },
       "resposta_correta": "D",
       "dificuldade": "Fácil",
@@ -2652,11 +2652,11 @@
       "enunciado": "<p>Nos termos do CTB, nenhuma via pavimentada poderá ser entregue ao trânsito após construção ou reconstrução, ou reaberta após obras ou manutenção, enquanto</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "não for incluída no plano diretor do Município.",
+        "A": "não for incluída no plano diretor do Município, com a respectiva previsão orçamentária para manutenção.",
         "B": "não estiver devidamente sinalizada, vertical e horizontalmente, de forma a garantir condições adequadas de segurança na circulação.",
-        "C": "não tiver arrecadado multas suficientes.",
-        "D": "não houver ao menos uma ciclovia ao lado.",
-        "E": "não tiver sido inaugurada pelo prefeito, em solenidade."
+        "C": "não tiver arrecadado multas em montante suficiente para custear a sinalização e a manutenção da via.",
+        "D": "não houver ao menos uma ciclovia ao lado da pista, para circulação dos ciclistas em segurança total.",
+        "E": "não tiver sido inaugurada pelo prefeito, em solenidade pública, com a presença das autoridades locais."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -2718,11 +2718,11 @@
       "enunciado": "<p>É proibido afixar sobre a sinalização de trânsito e respectivos suportes, ou junto a ambos, qualquer tipo de</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "elemento refletivo de segurança.",
-        "B": "placa de identificação do órgão responsável.",
-        "C": "indicação de distâncias entre as cidades.",
+        "A": "elemento refletivo de segurança aprovado pelo CONTRAN, que amplie a visibilidade da sinalização.",
+        "B": "placa de identificação do órgão responsável pela via, que informe o telefone para contato.",
+        "C": "indicação de distâncias entre as cidades, que complemente a mensagem da sinalização.",
         "D": "publicidade, inscrições, legendas e símbolos que não se relacionem com a mensagem da sinalização.",
-        "E": "aviso oficial sobre obras na via."
+        "E": "aviso oficial sobre obras na via, que oriente os condutores sobre desvios e interdições."
       },
       "resposta_correta": "D",
       "dificuldade": "Média",
@@ -2950,10 +2950,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "a Polícia Rodoviária Federal, as Polícias Militares dos Estados e do Distrito Federal e as Juntas Administrativas de Recursos de Infrações.",
-        "B": "o Banco Central e a Receita Federal.",
-        "C": "o Superior Tribunal de Justiça e as Cortes Regionais.",
-        "D": "o Tribunal de Contas da União e a Defensoria Pública.",
-        "E": "o Ministério Público e a Advocacia-Geral da União."
+        "B": "o Banco Central, a Receita Federal e as demais autarquias de natureza fiscal, responsáveis pela arrecadação das multas.",
+        "C": "o Superior Tribunal de Justiça e as Cortes Regionais, a quem compete o julgamento dos recursos em matéria de trânsito.",
+        "D": "o Tribunal de Contas da União e a Defensoria Pública, que fiscalizam a aplicação dos recursos arrecadados.",
+        "E": "o Ministério Público e a Advocacia-Geral da União, a quem cabe a defesa dos interesses do trânsito no País."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -2982,11 +2982,11 @@
       "enunciado": "<p>O Sistema Nacional de Trânsito é o conjunto de órgãos e entidades</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "do Poder Judiciário, encarregados de julgar crimes de trânsito.",
+        "A": "do Poder Judiciário, encarregados exclusivamente de julgar os crimes de trânsito praticados nas vias.",
         "B": "da União, dos Estados, do Distrito Federal e dos Municípios, com finalidade de planejamento, administração, normatização, fiscalização e julgamento de infrações, entre outras atividades.",
-        "C": "apenas da União, com atuação exclusivamente normativa.",
-        "D": "apenas dos Municípios, responsáveis pela fiscalização urbana.",
-        "E": "privados que atuam na formação de condutores."
+        "C": "apenas da União, com atuação restrita à normatização e à edição de resoluções para as vias federais.",
+        "D": "apenas dos Municípios, responsáveis pela fiscalização, pelo julgamento de infrações e pela habilitação.",
+        "E": "privados que atuam na formação de condutores, na vistoria de veículos e na emissão de documentos."
       },
       "resposta_correta": "B",
       "dificuldade": "Média",
@@ -3148,10 +3148,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "for transferida a propriedade, o proprietário mudar de Município, for alterada qualquer característica do veículo ou houver mudança de categoria.",
-        "B": "o proprietário trocar apenas de endereço dentro do mesmo Município.",
-        "C": "o veículo for multado por infração leve.",
-        "D": "o condutor renovar a habilitação.",
-        "E": "o veículo passar por vistoria de rotina, sem alterações."
+        "B": "o proprietário trocar apenas de endereço dentro do mesmo Município, ou o condutor renovar sua habilitação, sem alteração do veículo.",
+        "C": "o veículo for multado por infração leve, média ou grave, ou tiver sua licença anual vencida há mais de um ano.",
+        "D": "o condutor renovar a habilitação ou o proprietário efetuar o pagamento do imposto anual incidente sobre o veículo.",
+        "E": "o veículo passar por vistoria de rotina, sem alterações, ou for submetido a reparo na oficina mecânica credenciada."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -3544,10 +3544,10 @@
       "tipo": "multipla_escolha",
       "alternativas": {
         "A": "sinalização, fiscalização e implantação de equipamentos de segurança, bem como sugerir alterações em normas e legislação.",
-        "B": "apenas informações sobre infrações de terceiros.",
-        "C": "a anulação automática de multas, sem prova.",
-        "D": "a cessão de veículos oficiais para uso particular.",
-        "E": "a nomeação de agentes de trânsito."
+        "B": "apenas informações sobre as infrações de trânsito cometidas por terceiros, com nome e endereço.",
+        "C": "a anulação automática de multas, sem necessidade de prova ou de procedimento administrativo.",
+        "D": "a cessão de veículos oficiais para uso particular, em eventos de interesse da comunidade.",
+        "E": "a nomeação de agentes de trânsito, entre os cidadãos indicados pela entidade solicitante."
       },
       "resposta_correta": "A",
       "dificuldade": "Média",
@@ -3708,11 +3708,11 @@
       "enunciado": "<p>Do auto de infração de trânsito deverá constar, entre outros elementos,</p>",
       "tipo": "multipla_escolha",
       "alternativas": {
-        "A": "o histórico financeiro do proprietário.",
-        "B": "a foto do condutor, em todos os casos.",
-        "C": "o contrato de seguro do veículo.",
+        "A": "o histórico financeiro do proprietário do veículo, para que se avalie a capacidade de pagamento da multa.",
+        "B": "a foto do condutor, em todos os casos, obtida pelo agente no momento da autuação.",
+        "C": "o contrato de seguro do veículo, vigente na data da infração, com as respectivas coberturas.",
         "D": "a tipificação da infração, o local, a data e a hora do cometimento, e os caracteres da placa do veículo.",
-        "E": "a confissão do infrator, obrigatoriamente."
+        "E": "a confissão do infrator, obrigatoriamente, sem a qual o auto de infração é considerado nulo."
       },
       "resposta_correta": "D",
       "dificuldade": "Difícil",
